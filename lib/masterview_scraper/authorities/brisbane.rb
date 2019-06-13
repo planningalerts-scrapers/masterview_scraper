@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require "masterview_scraper/table"
+
 require "scraperwiki"
 require "mechanize"
 
@@ -37,20 +39,9 @@ module MasterviewScraper
         end
       end
 
-      def self.extract_table(table)
-        headers = table.at("thead").search("th").map(&:inner_text)
-        table.at("tbody").search("tr").map do |tr|
-          row = tr.search("td").map { |td| td.inner_text.strip }
-          {
-            url: tr.at("a")["href"],
-            content: headers.zip(row).to_h
-          }
-        end
-      end
-
       def self.scrape_index_page(page)
         table = page.at("table#ctl00_cphContent_ctl01_ctl00_RadGrid1_ctl00")
-        data = extract_table(table)
+        data = MasterviewScraper::Table.extract_table(table)
         data.each do |row|
           record = {
             "info_url" => (page.uri + row[:url]).to_s,
