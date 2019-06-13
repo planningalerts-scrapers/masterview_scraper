@@ -7,24 +7,15 @@ module MasterviewScraper
   module Authorities
     # Scraper for Brisbane
     module Brisbane
+      def self.url
+        from = (Date.today - 14).strftime("%d/%m/%Y")
+        to = Date.today.strftime("%d/%m/%Y")
+        "https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/"\
+          "default.aspx?page=found&1=#{from}&2=#{to}&6=F"
+      end
+
       def self.scrape
-        period = case ENV["MORPH_PERIOD"]
-                 when "lastmonth"
-                   "lastmonth"
-                 when "thismonth"
-                   "thismonth"
-                 else
-                   (Date.today - 14).strftime("%d/%m/%Y") + "&2=" + Date.today.strftime("%d/%m/%Y")
-                 end
-
-        puts "Collecting data from " + period
-        # Scraping from Masterview 2.0
-
         agent = Mechanize.new
-
-        url = "https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/"\
-              "default.aspx?page=found&1=" + period + "&6=F"
-
         # Read in a page
         page = agent.get(url)
 
