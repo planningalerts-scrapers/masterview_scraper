@@ -33,8 +33,8 @@ module MasterviewScraper
         page = $agent.get(url)
 
         while page
-          scrape_page(page)
-          page = next_page(page)
+          scrape_index_page(page)
+          page = next_index_page(page)
         end
       end
 
@@ -53,7 +53,7 @@ module MasterviewScraper
         return lot, property_description
       end
 
-      def self.scrape_page(page)
+      def self.scrape_index_page(page)
         page.at("table#ctl00_cphContent_ctl01_ctl00_RadGrid1_ctl00 tbody").search("tr").each do |tr|
           tds = tr.search('td').map{|t| t.inner_text.gsub("\r\n", "").strip}
 
@@ -91,7 +91,7 @@ module MasterviewScraper
       end
 
       # Returns the next page unless there is none in which case nil
-      def self.next_page(page)
+      def self.next_index_page(page)
         nextButton = page.at('.rgPageNext')
         puts "No further pages" if nextButton.nil?
         unless nextButton.nil? || nextButton['onclick'] =~ /return false/
