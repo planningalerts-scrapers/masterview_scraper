@@ -17,12 +17,12 @@ module MasterviewScraper
         puts "Collecting data from " + period
         # Scraping from Masterview 2.0
 
-        $agent = Mechanize.new
+        agent = Mechanize.new
 
         url = "https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=found&1="+period+"&6=F"
 
         # Read in a page
-        page = $agent.get(url)
+        page = agent.get(url)
 
         # This is weird. There are two forms with the Agree / Disagree buttons. One of them
         # works the other one doesn't. Go figure.
@@ -30,16 +30,16 @@ module MasterviewScraper
         button = form.button_with(value: "I Agree")
         raise "Can't find agree button" if button.nil?
         page = form.submit(button)
-        page = $agent.get(url)
+        page = agent.get(url)
 
         while page
-          scrape_index_page(page)
+          scrape_index_page(page, agent)
           page = next_index_page(page)
         end
       end
 
-      def self.scrape_property_details(info_url)
-        property_page = $agent.get(info_url).links.find{|l| l.href =~ /modules\/propertymaster\/default\.aspx\?page=wrapper&key=/}.click
+      def self.scrape_property_details(info_url, agent)
+        property_page = agent.get(info_url).links.find{|l| l.href =~ /modules\/propertymaster\/default\.aspx\?page=wrapper&key=/}.click
         lot_details = property_page.at("div#lbldetail").text rescue nil
 
         unless lot_details.nil?
@@ -53,7 +53,7 @@ module MasterviewScraper
         return lot, property_description
       end
 
-      def self.scrape_index_page(page)
+      def self.scrape_index_page(page, agent)
         page.at("table#ctl00_cphContent_ctl01_ctl00_RadGrid1_ctl00 tbody").search("tr").each do |tr|
           tds = tr.search('td').map{|t| t.inner_text.gsub("\r\n", "").strip}
 
@@ -72,7 +72,7 @@ module MasterviewScraper
             "date_scraped" => Date.today.to_s
           }
 
-          lot, property_description = scrape_property_details(info_url)
+          lot, property_description = scrape_property_details(info_url, agent)
 
           record["lot"] = lot
           record["property_description"] = property_description
