@@ -17,23 +17,18 @@ module MasterviewScraper
 
         # Visit each DA page so we can get the details
         (page/'//*[@id="ctl03_lblData"]').search("a").each do |a|
-          begin
-            info_page = agent.get(agent.page.uri + URI.parse(a.attributes['href']))
-            details = (info_page/'//*[@id="lblDetails"]')
+          info_page = agent.get(agent.page.uri + URI.parse(a.attributes['href']))
+          details = (info_page/'//*[@id="lblDetails"]')
 
-            council_reference = (info_page/'//*[@id="ctl03_lblHead"]').inner_text.split(' ')[0]
-            record = {
-              'council_reference' => council_reference,
-              'address'           => (info_page/'//*[@id="lblLand"]').inner_text.strip.split("\n")[0].strip,
-              'description'       => details.at("td").inner_text.split("\r")[1].strip[13..-1],
-              'info_url'          => info_page.uri.to_s,
-              'date_scraped'      => Date.today.to_s,
-              'date_received'     => Date.strptime(details.at("td").inner_html.split("<br>")[1].strip[11..-1], "%d/%m/%Y").to_s
-            }
-          rescue Exception => e
-            puts "Error getting details for development application #{a.to_s} so skipping"
-            next
-          end
+          council_reference = (info_page/'//*[@id="ctl03_lblHead"]').inner_text.split(' ')[0]
+          record = {
+            'council_reference' => council_reference,
+            'address'           => (info_page/'//*[@id="lblLand"]').inner_text.strip.split("\n")[0].strip,
+            'description'       => details.at("td").inner_text.split("\r")[1].strip[13..-1],
+            'info_url'          => info_page.uri.to_s,
+            'date_scraped'      => Date.today.to_s,
+            'date_received'     => Date.strptime(details.at("td").inner_html.split("<br>")[1].strip[11..-1], "%d/%m/%Y").to_s
+          }
 
           #    puts record
           puts "Saving record " + record['council_reference']
