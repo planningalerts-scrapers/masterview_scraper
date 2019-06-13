@@ -38,7 +38,7 @@ RSpec.describe MasterviewScraper do
     end
 
     AUTHORITIES = %i[
-      bellingen brisbane fairfield
+      fairfield bellingen brisbane
     ].freeze
 
     AUTHORITIES.each do |authority|
