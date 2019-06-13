@@ -46,24 +46,30 @@ module MasterviewScraper
         end
       end
 
+      def self.extract_table(table)
+        headers = table.at("thead").search("th").map(&:inner_text)
+        table.at("tbody").search("tr").map do |tr|
+          row = tr.search("td").map { |td| td.inner_text.strip }
+          {
+            url: tr.at("a")["href"],
+            content: headers.zip(row).to_h
+          }
+        end
+      end
+
       def self.scrape_index_page(page)
-        page.at("table#ctl00_cphContent_ctl01_ctl00_RadGrid1_ctl00 tbody").search("tr").each do |tr|
-          tds = tr.search("td").map { |t| t.inner_text.gsub("\r\n", "").strip }
-
-          if tds[0] == "There were no records matching your search criteria. Please try again."
-            raise "Something strange here. It says no records found"
-          end
-
-          raise "Couldn't find date field" if tds[3].nil?
-
-          day, month, year = tds[3].split("/").map(&:to_i)
-          info_url = (page.uri + tr.search("td").at("a")["href"]).to_s
+        table = page.at("table#ctl00_cphContent_ctl01_ctl00_RadGrid1_ctl00")
+        data = extract_table(table)
+        data.each do |row|
+          day, month, year = row[:content]["Submitted"].split("/").map(&:to_i)
+          info_url = (page.uri + row[:url]).to_s
           record = {
             "info_url" => info_url,
-            "council_reference" => tds[1].split(" - ")[0].squeeze(" ").strip,
+            "council_reference" => row[:content]["Application"].split(" - ")[0].squeeze(" ").strip,
             "date_received" => Date.new(year, month, day).to_s,
-            "description" => tds[1].split(" - ")[1..-1].join(" - ").squeeze(" ").strip,
-            "address" => tds[2].squeeze(" ").strip,
+            "description" => row[:content]["Application"].split(" - ")[1..-1]
+                                                         .join(" - ").squeeze(" ").strip,
+            "address" => row[:content]["Address"].squeeze(" ").strip,
             "date_scraped" => Date.today.to_s
           }
 
