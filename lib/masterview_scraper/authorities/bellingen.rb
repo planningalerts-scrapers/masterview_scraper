@@ -23,9 +23,10 @@ module MasterviewScraper
       end
 
       def self.scrape_index_page(page, agent)
-        # Visit each DA page so we can get the details
-        (page / '//*[@id="ctl03_lblData"]').search("a").each do |a|
-          info_page = agent.get(agent.page.uri + URI.parse(a.attributes["href"]))
+        table = (page / '//*[@id="ctl03_lblData"]').at("table")
+        data = MasterviewScraper::Table.extract_table(table)
+        data.each do |row|
+          info_page = agent.get(row[:url])
           yield scrape_detail_page(info_page)
         end
       end
