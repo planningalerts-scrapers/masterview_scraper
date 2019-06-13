@@ -21,7 +21,8 @@ RSpec.describe MasterviewScraper do
                    []
                  end
       results = ScraperWiki.select("* from data order by council_reference")
-      # TODO: Close scraperwiki connection
+
+      ScraperWiki.close_sqlite
 
       if results != expected
         # Overwrite expected so that we can compare with version control
@@ -34,7 +35,7 @@ RSpec.describe MasterviewScraper do
       expect(results).to eq expected
     end
 
-    [:bellingen].each do |authority|
+    [:bellingen, :brisbane].each do |authority|
       it authority do
         test_scrape_and_save(authority)
       end
