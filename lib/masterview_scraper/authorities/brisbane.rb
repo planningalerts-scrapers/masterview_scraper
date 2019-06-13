@@ -7,7 +7,7 @@ module MasterviewScraper
   module Authorities
     # Scraper for Brisbane
     module Brisbane
-      def self.scrape_and_save
+      def self.scrape
         period = case ENV["MORPH_PERIOD"]
                  when "lastmonth"
                    "lastmonth"
@@ -38,8 +38,16 @@ module MasterviewScraper
         page = agent.get(url)
 
         while page
-          scrape_index_page(page)
+          scrape_index_page(page) do |record|
+            yield record
+          end
           page = next_index_page(page)
+        end
+      end
+
+      def self.scrape_and_save
+        scrape do |record|
+          save(record)
         end
       end
 
@@ -64,7 +72,7 @@ module MasterviewScraper
             "date_scraped" => Date.today.to_s
           }
 
-          save(record)
+          yield record
         end
       end
 
