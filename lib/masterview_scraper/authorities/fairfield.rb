@@ -49,33 +49,8 @@ module MasterviewScraper
       end
 
       def self.scrape_and_save
-        # Scraping from Masterview 2.0
-        case ENV["MORPH_PERIOD"]
-        when "lastmonth"
-          period = "&1=lastmonth"
-        when "thismonth"
-          period = "&1=thismonth"
-        else
-          if ENV["MORPH_PERIOD"].nil?
-            period = "&1=thisweek"
-            ENV["MORPH_PERIOD"] = "thisweek"
-          else
-            matches = ENV["MORPH_PERIOD"].scan(/^([0-9]{4})-(0[1-9]|1[0-2])$/)
-            if matches.empty?
-              period = "&1=thisweek"
-              ENV["MORPH_PERIOD"] = "thisweek"
-            else
-              period = "&1=" +
-                       Date.new(matches[0][0].to_i, matches[0][1].to_i, 1).strftime("%d/%m/%Y") +
-                       "&2=" +
-                       Date.new(matches[0][0].to_i, matches[0][1].to_i, -1).strftime("%d/%m/%Y")
-            end
-          end
-        end
-        puts "Getting data in `" + ENV["MORPH_PERIOD"] + "`, changable via MORPH_PERIOD environment"
-
         url = "https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/"\
-              "default.aspx?page=found" + period + "&4a=10&6=F"
+              "default.aspx?page=found&1=thisweek&4a=10&6=F"
 
         agent = Mechanize.new
 
