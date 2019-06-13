@@ -1,6 +1,13 @@
 AllCops:
   Exclude:
     - bin/*
+    # This is a temporary dumping ground for authority specific
+    # code that we're probably just initially copying across from
+    # other scrapers. So, we don't care about the formatting and style
+    # initially.
+    # TODO: Remove this once we've removed all the code from here
+    - lib/masterview_scraper/authorities/*
+
 
 # Bumping max line length to something a little more reasonable
 Metrics/LineLength:
