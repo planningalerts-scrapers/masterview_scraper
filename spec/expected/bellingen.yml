@@ -1,0 +1,19 @@
+---
+- council_reference: 2019/DA-00072
+  address: 137 Old Pacific HWY RALEIGH NSW 2454
+  description: Construction of a Dwelling
+  info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63732
+  date_scraped: '2019-05-14'
+  date_received: '2019-06-03'
+- council_reference: 2019/DA-00073
+  address: 11 Lourdes AVE URUNGA NSW 2455
+  description: Alterations and Additions to a Dwelling
+  info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63736
+  date_scraped: '2019-05-14'
+  date_received: '2019-06-04'
+- council_reference: 2019/DA-00074
+  address: Bowraville RD BELLINGEN NSW 2454
+  description: Construction of a Shed
+  info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63739
+  date_scraped: '2019-05-14'
+  date_received: '2019-06-07'
