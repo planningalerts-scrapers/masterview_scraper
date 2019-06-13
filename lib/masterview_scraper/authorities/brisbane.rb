@@ -61,12 +61,10 @@ module MasterviewScraper
         table = page.at("table#ctl00_cphContent_ctl01_ctl00_RadGrid1_ctl00")
         data = extract_table(table)
         data.each do |row|
-          day, month, year = row[:content]["Submitted"].split("/").map(&:to_i)
-          info_url = (page.uri + row[:url]).to_s
           record = {
-            "info_url" => info_url,
+            "info_url" => (page.uri + row[:url]).to_s,
             "council_reference" => row[:content]["Application"].split(" - ")[0].squeeze(" ").strip,
-            "date_received" => Date.new(year, month, day).to_s,
+            "date_received" => Date.strptime(row[:content]["Submitted"], "%d/%m/%Y").to_s,
             "description" => row[:content]["Application"].split(" - ")[1..-1]
                                                          .join(" - ").squeeze(" ").strip,
             "address" => row[:content]["Address"].squeeze(" ").strip,
