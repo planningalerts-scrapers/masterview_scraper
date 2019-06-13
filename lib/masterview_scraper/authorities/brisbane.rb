@@ -101,9 +101,10 @@ module MasterviewScraper
       end
 
       def self.scrape_all_index_pages(page)
-        scrape_page(page)
-        page = next_page(page)
-        scrape_all_index_pages(page) if page
+        while page
+          scrape_page(page)
+          page = next_page(page)
+        end
       end
     end
   end
