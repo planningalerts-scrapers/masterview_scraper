@@ -30,8 +30,9 @@ module MasterviewScraper
 
       def self.click_agree(page)
         # Click the Agree button on the form
-        form = page.forms_with(name: /frmMasterView|frmMasterPlan|frmApplicationMaster/).first
-        form.submit(form.button_with(name: /btnOk|Yes|Button1|Agree/))
+        form = page.forms.first
+        button = form.button_with(name: /btnOk|Yes|Button1|Agree/)
+        form.submit(button)
       end
 
       def self.scrape_and_save
