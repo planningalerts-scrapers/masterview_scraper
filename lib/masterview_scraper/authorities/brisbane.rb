@@ -42,7 +42,7 @@ module MasterviewScraper
 
       def self.scrape_and_save
         scrape do |record|
-          save(record)
+          MasterviewScraper.save(record)
         end
       end
 
@@ -69,15 +69,6 @@ module MasterviewScraper
 
           yield record
         end
-      end
-
-      def self.log(record)
-        puts "Saving record " + record["council_reference"] + " - " + record["address"]
-      end
-
-      def self.save(record)
-        log(record)
-        ScraperWiki.save_sqlite(["council_reference"], record)
       end
 
       # Returns the next page unless there is none in which case nil

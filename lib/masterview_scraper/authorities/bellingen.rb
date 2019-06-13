@@ -30,7 +30,7 @@ module MasterviewScraper
         end
       end
 
-      def self.scrape_and_save
+      def self.scrape
         agent = Mechanize.new
 
         # All applications in the last month
@@ -43,9 +43,13 @@ module MasterviewScraper
         page = agent.get(url)
 
         scrape_index_page(page, agent) do |record|
-          #    puts record
-          puts "Saving record " + record["council_reference"]
-          ScraperWiki.save_sqlite(["council_reference"], record)
+          yield record
+        end
+      end
+
+      def self.scrape_and_save
+        scrape do |record|
+          MasterviewScraper.save(record)
         end
       end
     end
