@@ -77,10 +77,17 @@ module MasterviewScraper
           record["lot"] = lot
           record["property_description"] = property_description
 
-          #p record
-          puts "Saving record " + record['council_reference'] + ' - ' + record['address']
-          ScraperWiki.save_sqlite(['council_reference'], record)
+          save(record)
         end
+      end
+
+      def self.log(record)
+        puts "Saving record " + record['council_reference'] + ' - ' + record['address']
+      end
+
+      def self.save(record)
+        log(record)
+        ScraperWiki.save_sqlite(['council_reference'], record)
       end
 
       # Returns the next page unless there is none in which case nil
