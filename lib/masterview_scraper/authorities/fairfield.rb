@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-require 'scraperwiki'
-require 'mechanize'
+require "scraperwiki"
+require "mechanize"
 
 module MasterviewScraper
   module Authorities
@@ -11,8 +11,8 @@ module MasterviewScraper
       def self.click(page, doc)
         js = doc["href"] || doc["onclick"]
         if js =~ /javascript:__doPostBack\('(.*)','(.*)'\)/
-          event_target = $1
-          event_argument = $2
+          event_target = Regexp.last_match(1)
+          event_argument = Regexp.last_match(2)
           form = page.form_with(id: "aspnetForm")
           form["__EVENTTARGET"] = event_target
           form["__EVENTARGUMENT"] = event_argument
@@ -20,54 +20,62 @@ module MasterviewScraper
         elsif js =~ /return false;__doPostBack\('(.*)','(.*)'\)/
           nil
         else
-          # TODO Just follow the link likes it's a normal link
+          # TODO: Just follow the link likes it's a normal link
           raise
         end
       end
 
       def self.scrape_page(page)
         page.search("tr.rgRow,tr.rgAltRow").each do |tr|
-          tds = tr.search('td').map{|t| t.inner_html.gsub("\r\n", "").strip}
-          day, month, year = tds[2].split("/").map{|s| s.to_i}
+          tds = tr.search("td").map { |t| t.inner_html.gsub("\r\n", "").strip }
+          day, month, year = tds[2].split("/").map(&:to_i)
           record = {
-            "info_url" => (page.uri + tr.search('td').at('a')["href"]).to_s,
+            "info_url" => (page.uri + tr.search("td").at("a")["href"]).to_s,
             "council_reference" => tds[1],
             "date_received" => Date.new(year, month, day).to_s,
             "description" => tds[3].gsub("&amp;", "&").split("<br>")[1].to_s.squeeze(" ").strip,
-            "address" => tds[3].gsub("&amp;", "&").split("<br>")[0].gsub("\r", " ").gsub("<strong>","").gsub("</strong>","").squeeze(" ").strip,
+            "address" => tds[3].gsub("&amp;", "&")
+                               .split("<br>")[0]
+                               .gsub("\r", " ")
+                               .gsub("<strong>", "")
+                               .gsub("</strong>", "")
+                               .squeeze(" ").strip,
             "date_scraped" => Date.today.to_s
           }
-          puts "Saving record " + record['council_reference'] + " - " + record['address']
-      #       puts record
-          ScraperWiki.save_sqlite(['council_reference'], record)
+
+          puts "Saving record " + record["council_reference"] + " - " + record["address"]
+          ScraperWiki.save_sqlite(["council_reference"], record)
         end
       end
 
       def self.scrape_and_save
         # Scraping from Masterview 2.0
-        case ENV['MORPH_PERIOD']
-          when 'lastmonth'
-          	period = "&1=lastmonth"
-          when 'thismonth'
-          	period = "&1=thismonth"
+        case ENV["MORPH_PERIOD"]
+        when "lastmonth"
+          period = "&1=lastmonth"
+        when "thismonth"
+          period = "&1=thismonth"
+        else
+          if ENV["MORPH_PERIOD"].nil?
+            period = "&1=thisweek"
+            ENV["MORPH_PERIOD"] = "thisweek"
           else
-            unless ENV['MORPH_PERIOD'] == nil
-              matches = ENV['MORPH_PERIOD'].scan(/^([0-9]{4})-(0[1-9]|1[0-2])$/)
-              unless matches.empty?
-                period = "&1=" + Date.new(matches[0][0].to_i, matches[0][1].to_i, 1).strftime("%d/%m/%Y")
-                period = period + "&2=" + Date.new(matches[0][0].to_i, matches[0][1].to_i, -1).strftime("%d/%m/%Y")
-              else
-                period = "&1=thisweek"
-                ENV['MORPH_PERIOD'] = 'thisweek'
-              end
-            else
+            matches = ENV["MORPH_PERIOD"].scan(/^([0-9]{4})-(0[1-9]|1[0-2])$/)
+            if matches.empty?
               period = "&1=thisweek"
-              ENV['MORPH_PERIOD'] = 'thisweek'
+              ENV["MORPH_PERIOD"] = "thisweek"
+            else
+              period = "&1=" +
+                       Date.new(matches[0][0].to_i, matches[0][1].to_i, 1).strftime("%d/%m/%Y") +
+                       "&2=" +
+                       Date.new(matches[0][0].to_i, matches[0][1].to_i, -1).strftime("%d/%m/%Y")
             end
+          end
         end
-        puts "Getting data in `" + ENV['MORPH_PERIOD'] + "`, changable via MORPH_PERIOD environment"
+        puts "Getting data in `" + ENV["MORPH_PERIOD"] + "`, changable via MORPH_PERIOD environment"
 
-        url = "https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=found" + period + "&4a=10&6=F"
+        url = "https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/"\
+              "default.aspx?page=found" + period + "&4a=10&6=F"
 
         agent = Mechanize.new
 
@@ -79,7 +87,8 @@ module MasterviewScraper
         form = page.forms[0]
         button = form.button_with(value: "Agree")
         raise "Can't find agree button" if button.nil?
-        page = form.submit(button)
+
+        form.submit(button)
 
         page = agent.get(url)
 
