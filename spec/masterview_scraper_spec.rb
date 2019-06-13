@@ -37,7 +37,11 @@ RSpec.describe MasterviewScraper do
       expect(results).to eq expected
     end
 
-    %i[bellingen brisbane].each do |authority|
+    AUTHORITIES = %i[
+      bellingen brisbane fairfield
+    ].freeze
+
+    AUTHORITIES.each do |authority|
       it authority do
         test_scrape_and_save(authority)
       end
