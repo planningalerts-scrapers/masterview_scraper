@@ -38,30 +38,12 @@ module MasterviewScraper
         page = agent.get(url)
 
         while page
-          scrape_index_page(page, agent)
+          scrape_index_page(page)
           page = next_index_page(page)
         end
       end
 
-      def self.scrape_property_details(info_url, agent)
-        link = agent.get(info_url).links.find do |l|
-          l.href =~ %r{modules\/propertymaster\/default\.aspx\?page=wrapper&key=}
-        end
-        property_page = link.click
-        lot_details = property_page.at("div#lbldetail").text
-
-        unless lot_details.nil?
-          lot_match = lot_details.match(%r{Lot\/DP:\s(\S+)\s})
-          description_match = lot_details.match(/Description:\s(.+)Ward/)
-
-          lot = lot_match ? lot_match[1] : nil
-          property_description = description_match ? description_match[1] : nil
-        end
-
-        [lot, property_description]
-      end
-
-      def self.scrape_index_page(page, agent)
+      def self.scrape_index_page(page)
         page.at("table#ctl00_cphContent_ctl01_ctl00_RadGrid1_ctl00 tbody").search("tr").each do |tr|
           tds = tr.search("td").map { |t| t.inner_text.gsub("\r\n", "").strip }
 
@@ -81,11 +63,6 @@ module MasterviewScraper
             "address" => tds[2].squeeze(" ").strip,
             "date_scraped" => Date.today.to_s
           }
-
-          lot, property_description = scrape_property_details(info_url, agent)
-
-          record["lot"] = lot
-          record["property_description"] = property_description
 
           save(record)
         end
