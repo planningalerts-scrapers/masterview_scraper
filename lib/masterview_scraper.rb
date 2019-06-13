@@ -1,10 +1,13 @@
+# frozen_string_literal: true
+
 require "masterview_scraper/version"
 require "masterview_scraper/authorities/bellingen"
 require "masterview_scraper/authorities/brisbane"
 
-require 'scraperwiki'
-require 'mechanize'
+require "scraperwiki"
+require "mechanize"
 
+# Scrape a masterview development application system
 module MasterviewScraper
   def self.scrape_and_save(authority)
     if authority == :bellingen

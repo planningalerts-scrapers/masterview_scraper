@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require "timecop"
 
 RSpec.describe MasterviewScraper do
@@ -35,7 +37,7 @@ RSpec.describe MasterviewScraper do
       expect(results).to eq expected
     end
 
-    [:bellingen, :brisbane].each do |authority|
+    %i[bellingen brisbane].each do |authority|
       it authority do
         test_scrape_and_save(authority)
       end
