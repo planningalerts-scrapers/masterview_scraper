@@ -23,6 +23,12 @@ module MasterviewScraper
         end
       end
 
+      def self.click_agree(page)
+        # Click the Agree button on the form
+        form = page.forms_with(:name => /frmMasterView|frmMasterPlan|frmApplicationMaster/).first
+        form.submit(form.button_with(:name => /btnOk|Yes|Button1|Agree/))
+      end
+
       def self.scrape_and_save
         agent = Mechanize.new
 
@@ -30,9 +36,7 @@ module MasterviewScraper
         url = 'http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=found&1=thismonth&4a=DA,CDC,TA,MD&6=F'
         page = agent.get(url)
 
-        # Click the Agree button on the form
-        form = page.forms_with(:name => /frmMasterView|frmMasterPlan|frmApplicationMaster/).first
-        form.submit(form.button_with(:name => /btnOk|Yes|Button1|Agree/))
+        click_agree(page)
 
         # Get the page again
         page = agent.get(url)
