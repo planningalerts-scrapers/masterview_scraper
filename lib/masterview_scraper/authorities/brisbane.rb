@@ -28,7 +28,7 @@ module MasterviewScraper
         # Read in a page
         page = agent.get(url)
 
-        click_agree(page)
+        Pages::TermsAndConditions.click_agree(page)
 
         page = agent.get(url)
 
@@ -38,16 +38,6 @@ module MasterviewScraper
           end
           page = next_index_page(page)
         end
-      end
-
-      def self.click_agree(page)
-        # This is weird. There are two forms with the Agree / Disagree buttons. One of them
-        # works the other one doesn't. Go figure.
-        form = page.forms.first
-        button = form.button_with(value: "I Agree")
-        raise "Can't find agree button" if button.nil?
-
-        form.submit(button)
       end
 
       def self.scrape_and_save

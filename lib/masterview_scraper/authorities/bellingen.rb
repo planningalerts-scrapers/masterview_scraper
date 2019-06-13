@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require "masterview_scraper/pages/terms_and_conditions"
+
 module MasterviewScraper
   module Authorities
     # Scraper for Bellingen
@@ -28,13 +30,6 @@ module MasterviewScraper
         end
       end
 
-      def self.click_agree(page)
-        # Click the Agree button on the form
-        form = page.forms.first
-        button = form.button_with(name: /btnOk|Yes|Button1|Agree/)
-        form.submit(button)
-      end
-
       def self.scrape_and_save
         agent = Mechanize.new
 
@@ -42,7 +37,7 @@ module MasterviewScraper
         url = "http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=found&1=thismonth&4a=DA,CDC,TA,MD&6=F"
         page = agent.get(url)
 
-        click_agree(page)
+        Pages::TermsAndConditions.click_agree(page)
 
         # Get the page again
         page = agent.get(url)
