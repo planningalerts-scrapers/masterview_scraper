@@ -1,4 +1,5 @@
 require "masterview_scraper/version"
+require "masterview_scraper/brisbane"
 
 require 'scraperwiki'
 require 'mechanize'
@@ -7,6 +8,8 @@ module MasterviewScraper
   def self.scrape_and_save(authority)
     if authority == :bellingen
       scrape_and_save_bellingen
+    elsif authority == :brisbane
+      Brisbane.scrape_and_save
     else
       raise "Unexpected authority: #{authority}"
     end
