@@ -63,10 +63,9 @@ module MasterviewScraper
         data.each do |row|
           record = {
             "info_url" => (page.uri + row[:url]).to_s,
-            "council_reference" => row[:content]["Application"].split(" - ")[0].squeeze(" ").strip,
+            "council_reference" => row[:content]["Application"].split("-")[0].strip,
             "date_received" => Date.strptime(row[:content]["Submitted"], "%d/%m/%Y").to_s,
-            "description" => row[:content]["Application"].split(" - ")[1..-1]
-                                                         .join(" - ").squeeze(" ").strip,
+            "description" => row[:content]["Application"].split("-", 2)[1].squeeze(" ").strip,
             "address" => row[:content]["Address"].squeeze(" ").strip,
             "date_scraped" => Date.today.to_s
           }

@@ -219,7 +219,7 @@
   address: 1834 CREEK RD CANNON HILL QLD 4170
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183589
-  council_reference: A005183589 -
+  council_reference: A005183589
   date_received: '2019-05-01'
   description: ''
   address: 20 WAVERLEY ST ANNERLEY QLD 4103
@@ -821,7 +821,7 @@
   address: 26 BADEN POWELL ST EVERTON PARK QLD 4053
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187681
-  council_reference: A005187681 -
+  council_reference: A005187681
   date_received: '2019-05-08'
   description: ''
   address: 274 RIDING RD BALMORAL QLD 4171
@@ -1391,7 +1391,7 @@
   address: 19 FLORENCE ST ANNERLEY QLD 4103
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005192046
-  council_reference: A005192046 -
+  council_reference: A005192046
   date_received: '2019-05-14'
   description: ''
   address: 74 DUNHILL CRES MORNINGSIDE QLD 4170
