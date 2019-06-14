@@ -54,6 +54,11 @@ module MasterviewScraper
           "default.aspx?page=found&1=#{from}&2=#{to}&4a=10&6=F"
       end
 
+      def self.next_page(page)
+        next_page_link = page.at(".rgPageNext")
+        click(page, next_page_link) if next_page_link
+      end
+
       def self.scrape_and_save
         agent = Mechanize.new
 
@@ -66,9 +71,7 @@ module MasterviewScraper
 
         while page
           scrape_page(page)
-
-          next_page_link = page.at(".rgPageNext")
-          page = (click(page, next_page_link) if next_page_link)
+          page = next_page(page)
         end
       end
     end
