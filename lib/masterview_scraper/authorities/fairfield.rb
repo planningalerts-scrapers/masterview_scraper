@@ -8,7 +8,7 @@ module MasterviewScraper
     # Scraper for Fairfield
     module Fairfield
       # Implement a click on a link that understands stupid asp.net doPostBack
-      def self.click(page, doc)
+      def self.click(doc, page)
         js = doc["href"] || doc["onclick"]
         if js =~ /javascript:__doPostBack\('(.*)','(.*)'\)/
           event_target = Regexp.last_match(1)
@@ -52,7 +52,9 @@ module MasterviewScraper
 
       def self.next_index_page(page)
         link = page.at(".rgPageNext")
-        click(page, link) if link
+        return if link.nil?
+
+        click(link, page)
       end
 
       def self.scrape
