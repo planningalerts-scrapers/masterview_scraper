@@ -47,10 +47,12 @@ module MasterviewScraper
         end
       end
 
-      def self.scrape_and_save
-        url = "https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/"\
-              "default.aspx?page=found&1=thisweek&4a=10&6=F"
+      def self.url
+        "https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/"\
+          "default.aspx?page=found&1=thisweek&4a=10&6=F"
+      end
 
+      def self.scrape_and_save
         agent = Mechanize.new
 
         # Read in a page
