@@ -26,20 +26,16 @@ module MasterviewScraper
       end
 
       def self.scrape_index_page(page)
-        page.search("tr.rgRow,tr.rgAltRow").each do |tr|
-          tds = tr.search("td").map { |t| t.inner_html.gsub("\r\n", "").strip }
-          day, month, year = tds[2].split("/").map(&:to_i)
+        table = page.at("table")
+        data = Table.extract_table(table)
+        data.each do |row|
           record = {
-            "info_url" => (page.uri + tr.search("td").at("a")["href"]).to_s,
-            "council_reference" => tds[1],
-            "date_received" => Date.new(year, month, day).to_s,
-            "description" => tds[3].gsub("&amp;", "&").split("<br>")[1].to_s.squeeze(" ").strip,
-            "address" => tds[3].gsub("&amp;", "&")
-                               .split("<br>")[0]
-                               .gsub("\r", " ")
-                               .gsub("<strong>", "")
-                               .gsub("</strong>", "")
-                               .squeeze(" ").strip,
+            "info_url" => (page.uri + row[:url]).to_s,
+            "council_reference" => row[:content]["Number"],
+            "date_received" => Date.strptime(row[:content]["Submitted"], "%d/%m/%Y").to_s,
+            # TODO: Do proper html entity conversion
+            "description" => row[:content]["Details"].split("<br>")[1].gsub("&amp;", "&"),
+            "address" => row[:content]["Details"].split("<br>")[0],
             "date_scraped" => Date.today.to_s
           }
 
