@@ -65,19 +65,15 @@ module MasterviewScraper
         page = agent.get(url)
 
         current_page_no = 1
-        next_page_link = true
 
-        while next_page_link
+        while page
           puts "Scraping page #{current_page_no}..."
           scrape_page(page)
 
           current_page_no += 1
-          next_page_link = page.at(".rgPageNext")
 
-          unless next_page_link.nil?
-            page = click(page, next_page_link)
-            next_page_link = nil if page.nil?
-          end
+          next_page_link = page.at(".rgPageNext")
+          page = (click(page, next_page_link) if next_page_link)
         end
       end
     end
