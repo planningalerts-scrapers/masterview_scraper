@@ -25,7 +25,7 @@ module MasterviewScraper
         end
       end
 
-      def self.scrape_page(page)
+      def self.scrape_index_page(page)
         page.search("tr.rgRow,tr.rgAltRow").each do |tr|
           tds = tr.search("td").map { |t| t.inner_html.gsub("\r\n", "").strip }
           day, month, year = tds[2].split("/").map(&:to_i)
@@ -43,7 +43,7 @@ module MasterviewScraper
             "date_scraped" => Date.today.to_s
           }
 
-          MasterviewScraper.save(record)
+          yield record
         end
       end
 
@@ -54,24 +54,31 @@ module MasterviewScraper
           "default.aspx?page=found&1=#{from}&2=#{to}&4a=10&6=F"
       end
 
-      def self.next_page(page)
-        next_page_link = page.at(".rgPageNext")
-        click(page, next_page_link) if next_page_link
+      def self.next_index_page(page)
+        link = page.at(".rgPageNext")
+        click(page, link) if link
       end
 
-      def self.scrape_and_save
+      def self.scrape
         agent = Mechanize.new
 
         # Read in a page
         page = agent.get(url)
-
         MasterviewScraper::Pages::TermsAndConditions.click_agree(page)
 
         page = agent.get(url)
 
         while page
-          scrape_page(page)
-          page = next_page(page)
+          scrape_index_page(page) do |record|
+            yield record
+          end
+          page = next_index_page(page)
+        end
+      end
+
+      def self.scrape_and_save
+        scrape do |record|
+          MasterviewScraper.save(record)
         end
       end
     end
