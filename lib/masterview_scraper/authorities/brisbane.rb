@@ -56,13 +56,8 @@ module MasterviewScraper
         end
       end
 
-      # Returns the next page unless there is none in which case nil
-      def self.next_index_page(page)
-        next_button = page.at(".rgPageNext")
-        puts "No further pages" if next_button.nil?
-
-        return if next_button.nil? || next_button["onclick"] =~ /return false/
-
+      def self.click(next_button, page)
+        return if next_button["onclick"] =~ /return false/
         form = page.forms.first
 
         # The joy of dealing with ASP.NET
@@ -83,6 +78,14 @@ module MasterviewScraper
           "%3A1e3fef00-f492-4ed8-96ce-6371bc241e1c%3A16e4e7cd%3Af7645509%3A24ee1bba"\
           "%3Ae330518b%3A1e771326%3Ac8618e41%3A4cacbc31%3A8e6f0d33%3Aed16cbdc%3A58366029%3Aaa288e2d"
         form.submit(form.button_with(name: next_button["name"]))
+      end
+
+      # Returns the next page unless there is none in which case nil
+      def self.next_index_page(page)
+        next_button = page.at(".rgPageNext")
+        return if next_button.nil?
+
+        click(next_button, page)
       end
     end
   end
