@@ -43,8 +43,7 @@ module MasterviewScraper
             "date_scraped" => Date.today.to_s
           }
 
-          puts "Saving record " + record["council_reference"] + " - " + record["address"]
-          ScraperWiki.save_sqlite(["council_reference"], record)
+          MasterviewScraper.save(record)
         end
       end
 
