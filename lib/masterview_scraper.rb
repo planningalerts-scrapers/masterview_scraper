@@ -30,4 +30,17 @@ module MasterviewScraper
     log(record)
     ScraperWiki.save_sqlite(["council_reference"], record)
   end
+
+  def self.url_date_range(base_url, from, to, extra_params)
+    params = {
+      "page" => "found",
+      "1" => from.strftime("%d/%m/%Y"),
+      "2" => to.strftime("%d/%m/%Y")
+    }.merge(extra_params)
+    base_url + "/default.aspx?" + params.map { |k, v| "#{k}=#{v}" }.join("&")
+  end
+
+  def self.url_last_14_days(base_url, extra_params)
+    url_date_range(base_url, Date.today - 14, Date.today, extra_params)
+  end
 end
