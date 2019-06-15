@@ -10,10 +10,10 @@ module MasterviewScraper
     # Scraper for Brisbane
     module Brisbane
       def self.url
-        from = (Date.today - 14).strftime("%d/%m/%Y")
-        to = Date.today.strftime("%d/%m/%Y")
-        "https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/"\
-          "default.aspx?page=found&1=#{from}&2=#{to}&6=F"
+        MasterviewScraper.url_last_14_days(
+          "https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster",
+          "6" => "F"
+        )
       end
 
       def self.scrape
