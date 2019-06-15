@@ -4,6 +4,7 @@ require "masterview_scraper/version"
 require "masterview_scraper/authorities/bellingen"
 require "masterview_scraper/authorities/brisbane"
 require "masterview_scraper/authorities/fairfield"
+require "masterview_scraper/authorities/fraser_coast"
 
 require "scraperwiki"
 require "mechanize"
@@ -17,6 +18,8 @@ module MasterviewScraper
       Authorities::Brisbane.scrape_and_save
     elsif authority == :fairfield
       Authorities::Fairfield.scrape_and_save
+    elsif authority == :fraser_coast
+      Authorities::FraserCoast.scrape_and_save
     else
       raise "Unexpected authority: #{authority}"
     end
