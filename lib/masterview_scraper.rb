@@ -47,6 +47,7 @@ module MasterviewScraper
     MasterviewScraper.url_with_params(base_url, params.merge(extra_params))
   end
 
+  # TODO: Escape params by using activesupport .to_query
   def self.url_with_params(base_url, params)
     base_url + "/default.aspx?" + params.map { |k, v| "#{k}=#{v}" }.join("&")
   end
