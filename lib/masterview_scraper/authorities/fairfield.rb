@@ -28,16 +28,25 @@ module MasterviewScraper
         end
       end
 
-      def self.url
-        base_url = "https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster"
+      def self.url_date_range(base_url, from, to, extra_params)
         params = {
           "page" => "found",
-          "1" => (Date.today - 14).strftime("%d/%m/%Y"),
-          "2" => Date.today.strftime("%d/%m/%Y"),
+          "1" => from.strftime("%d/%m/%Y"),
+          "2" => to.strftime("%d/%m/%Y")
+        }.merge(extra_params)
+        base_url + "/default.aspx?" + params.map{|k,v| "#{k}=#{v}"}.join("&")
+      end
+
+      def self.url_last_14_days(base_url, extra_params)
+        url_date_range(base_url, Date.today - 14, Date.today, extra_params)
+      end
+
+      def self.url
+        url_last_14_days(
+          "https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster",
           "4a" => 10,
           "6" => "F"
-        }
-        base_url + "/default.aspx?" + params.map{|k,v| "#{k}=#{v}"}.join("&")
+        )
       end
 
       def self.next_index_page(page)
