@@ -1030,7 +1030,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188608
   council_reference: A005188608
   date_received: '2019-05-10'
-  description: Dwelling House
+  description: Dwelling House, Dwelling House
   address: 80 KAMALA DR PULLENVALE QLD 4069
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188616
@@ -1194,7 +1194,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191105
   council_reference: A005191105
   date_received: '2019-05-13'
-  description: Extension, Dwelling House
+  description: Amenity and aesthetics, Design and siting, Extension, Dwelling House
   address: 90 CUNNINGHAM ST TARINGA QLD 4068
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191127
