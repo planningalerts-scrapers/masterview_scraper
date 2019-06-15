@@ -9,15 +9,14 @@ module MasterviewScraper
     module Fairfield
       # Implement a click on a link that understands stupid asp.net doPostBack
       def self.click(doc, page)
-        js = doc["href"] || doc["onclick"]
-        if js =~ /javascript:__doPostBack\('(.*)','(.*)'\)/
+        if doc["onclick"] =~ /javascript:__doPostBack\('(.*)','(.*)'\)/
           event_target = Regexp.last_match(1)
           event_argument = Regexp.last_match(2)
           form = page.form_with(id: "aspnetForm")
           form["__EVENTTARGET"] = event_target
           form["__EVENTARGUMENT"] = event_argument
           form.submit
-        elsif js =~ /return false;__doPostBack\('(.*)','(.*)'\)/
+        elsif doc["onclick"] =~ /return false;__doPostBack\('(.*)','(.*)'\)/
           nil
         else
           # TODO: Just follow the link likes it's a normal link
