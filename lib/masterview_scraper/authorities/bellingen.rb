@@ -32,8 +32,14 @@ module MasterviewScraper
       end
 
       def self.url
-        # All applications in the last month
-        "http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=found&1=thismonth&4a=DA,CDC,TA,MD&6=F"
+        MasterviewScraper.url_with_period(
+          "http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster",
+          # All applications in the last month
+          "thismonth",
+          "page" => "found",
+          "4a" => "DA,CDC,TA,MD",
+          "6" => "F"
+        )
       end
 
       def self.scrape

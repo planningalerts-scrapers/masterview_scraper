@@ -39,6 +39,11 @@ module MasterviewScraper
     url_with_params(base_url, params.merge(extra_params))
   end
 
+  def self.url_with_period(base_url, period, extra_params)
+    params = { "1" => period }
+    MasterviewScraper.url_with_params(base_url, params.merge(extra_params))
+  end
+
   def self.url_with_params(base_url, params)
     base_url + "/default.aspx?" + params.map { |k, v| "#{k}=#{v}" }.join("&")
   end
