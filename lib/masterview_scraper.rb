@@ -36,7 +36,11 @@ module MasterviewScraper
       "page" => "found",
       "1" => from.strftime("%d/%m/%Y"),
       "2" => to.strftime("%d/%m/%Y")
-    }.merge(extra_params)
+    }
+    url_with_params(base_url, params.merge(extra_params))
+  end
+
+  def self.url_with_params(base_url, params)
     base_url + "/default.aspx?" + params.map { |k, v| "#{k}=#{v}" }.join("&")
   end
 
