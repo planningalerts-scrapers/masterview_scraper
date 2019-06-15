@@ -31,6 +31,7 @@ module MasterviewScraper
       def self.url
         MasterviewScraper.url_last_14_days(
           "https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster",
+          "page" => "found",
           "4a" => 10,
           "6" => "F"
         )

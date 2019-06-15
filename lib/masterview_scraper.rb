@@ -33,7 +33,6 @@ module MasterviewScraper
 
   def self.url_date_range(base_url, from, to, extra_params)
     params = {
-      "page" => "found",
       "1" => from.strftime("%d/%m/%Y"),
       "2" => to.strftime("%d/%m/%Y")
     }
