@@ -29,10 +29,15 @@ module MasterviewScraper
       end
 
       def self.url
-        from = (Date.today - 14).strftime("%d/%m/%Y")
-        to = Date.today.strftime("%d/%m/%Y")
-        "https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/"\
-          "default.aspx?page=found&1=#{from}&2=#{to}&4a=10&6=F"
+        base_url = "https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster"
+        params = {
+          "page" => "found",
+          "1" => (Date.today - 14).strftime("%d/%m/%Y"),
+          "2" => Date.today.strftime("%d/%m/%Y"),
+          "4a" => 10,
+          "6" => "F"
+        }
+        base_url + "/default.aspx?" + params.map{|k,v| "#{k}=#{v}"}.join("&")
       end
 
       def self.next_index_page(page)
