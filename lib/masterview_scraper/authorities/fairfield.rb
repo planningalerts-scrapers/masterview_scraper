@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require "masterview_scraper/postback"
+
 require "scraperwiki"
 require "mechanize"
 
@@ -7,20 +9,6 @@ module MasterviewScraper
   module Authorities
     # Scraper for Fairfield
     module Fairfield
-      # Implement a click on a link that understands stupid asp.net doPostBack
-      def self.click(doc, page)
-        if doc["onclick"] =~ /javascript:__doPostBack\('(.*)','(.*)'\)/
-          form = page.form_with(id: "aspnetForm")
-          form["__EVENTTARGET"] = Regexp.last_match(1)
-          form["__EVENTARGUMENT"] = Regexp.last_match(2)
-          form.submit
-        elsif doc["onclick"] =~ /return false;__doPostBack\('(.*)','(.*)'\)/
-          nil
-        else
-          # TODO: Just follow the link likes it's a normal link
-          raise
-        end
-      end
 
       def self.scrape_index_page(page)
         table = page.at("table")
@@ -51,7 +39,7 @@ module MasterviewScraper
         link = page.at(".rgPageNext")
         return if link.nil?
 
-        click(link, page)
+        Postback.click(link, page)
       end
 
       def self.scrape
@@ -59,7 +47,7 @@ module MasterviewScraper
 
         # Read in a page
         page = agent.get(url)
-        MasterviewScraper::Pages::TermsAndConditions.click_agree(page)
+        Pages::TermsAndConditions.click_agree(page)
 
         page = agent.get(url)
 
