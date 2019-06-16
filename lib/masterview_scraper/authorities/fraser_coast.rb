@@ -40,9 +40,8 @@ module MasterviewScraper
       end
 
       def self.url
-        MasterviewScraper.url_with_period(
+        MasterviewScraper.url_last_14_days(
           "https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster",
-          "thisweek",
           "page" => "found",
           "4a" => "BPS%27,%27MC%27,%27OP%27,%27SB%27,%27MCU%27,%27ROL%27,%27OPWKS%27,%27QMCU%27,%27QRAL%27,%27QOPW%27,%27QDBW%27,%27QPOS%27,%27QSPS%27,%27QEXE%27,%27QCAR%27,%27ACA",
           "6" => "F"

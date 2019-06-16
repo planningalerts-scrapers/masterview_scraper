@@ -1,46 +1,196 @@
 ---
-- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=705104
-  council_reference: CAR19/0134
-  date_received: '2019-06-10'
-  description: Concurrence Agency Referral - Dwelling House
-  address: 23 ANNETTE STREET, DUNDOWRAN BEACH, QLD
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=697544
+  council_reference: CAR19/0092
+  date_received: '2019-04-30'
+  description: Pre-lodgement Concurrence Agency Referral - Domestic Outbuilding
+  address: 1 DUKE COURT, URRAWEEN, QLD
   date_scraped: '2019-05-14'
-- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=705106
-  council_reference: CAR19/0135
-  date_received: '2019-06-10'
-  description: Pre-lodgement Concurrence Agency Referral - Dwelling House - Domestic
-    Outbuilding
-  address: 61 BRYANT STREET, MARYBOROUGH, QLD
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=697751
+  council_reference: CAR19/0093
+  date_received: '2019-04-30'
+  description: Pre-lodgement Concurrence Agency Referral - Domestic Outbuilding
+  address: 16 STRAITS OUTLOOK, CRAIGNISH, QLD
   date_scraped: '2019-05-14'
-- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=705625
-  council_reference: CAR19/0136
-  date_received: '2019-06-12'
-  description: Pre-lodgement Concurrence Agency Referral - Dwelling House - Domestic
-    Outbuilding
-  address: 3 AVERY COURT, DUNDOWRAN BEACH, QLD
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=697752
+  council_reference: CAR19/0094
+  date_received: '2019-04-30'
+  description: Pre-lodgement Concurrence Agency Referral - Domestic Outbuilding
+  address: 14 WESTRINGIA DRIVE, POONA, QLD
   date_scraped: '2019-05-14'
-- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=705761
-  council_reference: DBW18/0015.01
-  date_received: '2019-06-11'
-  description: Development Permit for Building Work - Minor Change to Approval - Extension
-    to Currency Period
-  address: 543 MAIN STREET, NIKENBAH, QLD
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=698187
+  council_reference: CAR19/0097
+  date_received: '2019-05-02'
+  description: Pre-lodgement Concurrence Agency Referral - Dwelling House (Domestic
+    Outbuilding)
+  address: 33 KARRASCHS ROAD, CRAIGNISH, QLD
   date_scraped: '2019-05-14'
-- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=705485
-  council_reference: MCU19/0058
-  date_received: '2019-06-10'
-  description: Material Change Of Use - Code - Caretaker’s accommodation and Warehouse
-  address: 15 SOUTHERN CROSS CIRCUIT, URANGAN, QLD
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=698389
+  council_reference: CAR19/0098
+  date_received: '2019-05-02'
+  description: Pre-lodgement Concurrence Agency Referral - Dwelling House (Domestic
+    Outbuilding)
+  address: 21 OCEANBLUE BOULEVARD, PIALBA, QLD
   date_scraped: '2019-05-14'
-- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=705177
-  council_reference: RAL18/0043.01
-  date_received: '2019-06-10'
-  description: Minor change to application - change to conditions
-  address: 12 PALMWOOD DRIVE, DUNDOWRAN BEACH, QLD
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=698809
+  council_reference: CAR19/0099
+  date_received: '2019-05-03'
+  description: Pre-lodgement Concurrence Agency Referral - Gable Garaport
+  address: 47 BUNYA COURT, ELI WATERS, QLD
   date_scraped: '2019-05-14'
-- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=705089
-  council_reference: RAL19/0049
-  date_received: '2019-06-10'
-  description: Reconfiguring A Lot- One (1) Lot into Two (2) Lots
-  address: FIVE MILE ROAD EAST, TINANA SOUTH, QLD
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=698813
+  council_reference: CAR19/0100
+  date_received: '2019-05-08'
+  description: Pre-lodgement Concurrence Agency Referral - Dwelling House (Domestic
+    Outbuilding)
+  address: 123 LONG STREET, POINT VERNON, QLD
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=699542
+  council_reference: CAR19/0101
+  date_received: '2019-05-10'
+  description: Pre-lodgement Concurrence Agency Referral - Dwelling House (Domestic
+    Outbuilding)
+  address: 3 BULLEEN WAY, BURRUM HEADS, QLD
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=699994
+  council_reference: CAR19/0102
+  date_received: '2019-05-13'
+  description: Concurrence Agency Referral - Dwelling House (Domestic Outbuilding)
+  address: 7 JACARANDA DRIVE, TORQUAY, QLD
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=700038
+  council_reference: CAR19/0103
+  date_received: '2019-05-14'
+  description: Pre-lodgement Concurrence Agency Referral - Dwelling House (Domestic
+    Outbuilding)
+  address: 80 ARIADNE STREET, RIVER HEADS, QLD
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=698324
+  council_reference: DBW19/0008
+  date_received: '2019-05-02'
+  description: Development Permit for Building Work - Code - Building Works under
+    Planning Scheme - Dwelling House
+  address: 59 FRANGIPANNI AVENUE, KAWUNGAN, QLD
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=698962
+  council_reference: DBW19/0009
+  date_received: '2019-05-07'
+  description: Development Permit for Building Work - Code - Building Works under
+    Planning Scheme, Neighbourhood Character Precinct
+  address: 12 ARIADNE STREET, MARYBOROUGH, QLD
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=697833
+  council_reference: MCU19/0039
+  date_received: '2019-04-30'
+  description: Material Change Of Use - Generally in Accordance – Extension to Multiple
+    Dwelling (Balcony)
+  address: 1 / 489 ESPLANADE, HERVEY BAY, QLD
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=697927
+  council_reference: MCU19/0040
+  date_received: '2019-05-01'
+  description: Material Change of Use - Low Impact Industry
+  address: 3 TEDDINGTON ROAD, TINANA, QLD
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=698399
+  council_reference: MCU19/0041
+  date_received: '2019-05-03'
+  description: Extension Application - Request for Extension to Currency Period -
+    Material Change of Use - Commercial Activities A and Shopping District (Extension
+    To Station Square Shopping Centre) - Preliminary Approval For Building Works Assessable
+    Against The Planning Scheme – New Building Works and Relocation and Demolition
+    Of Heritage Buildings
+  address: LENNOX STREET, MARYBOROUGH, QLD
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=699325
+  council_reference: MCU19/0042
+  date_received: '2019-05-08'
+  description: Material Change Of Use - Impact - Telecommunications facility
+  address: 201 RIVER HEADS ROAD, RIVER HEADS, QLD
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=699585
+  council_reference: MCU19/0043
+  date_received: '2019-05-10'
+  description: Material Change Of Use - Office, Shop, Health care services and Food
+    and Drink Outlet; Reconfiguring a Lot - One (1) lot into two (2) lots
+  address: 196 BOAT HARBOUR DRIVE, PIALBA, QLD
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=699682
+  council_reference: MCU19/0044
+  date_received: '2019-05-07'
+  description: Material Change Of Use - Minor Change to Approval - Extension to Currency
+    Period for Approval No. 6/MI/BOYS109
+  address: 109 BOYS AVENUE, MARYBOROUGH, QLD
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=698334
+  council_reference: OPW19/0029
+  date_received: '2019-05-03'
+  description: Development Permit - Operational Works Dam not associated with a rural
+    use
+  address: 36 LORD STREET, SUNSHINE ACRES, QLD
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=698346
+  council_reference: OPW19/0030
+  date_received: '2019-05-02'
+  description: Operational Works - Civil Works
+  address: 133-141 BOORAL ROAD, URANGAN, QLD
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=698747
+  council_reference: OPW19/0031
+  date_received: '2019-05-03'
+  description: Operational Works - Civil Works
+  address: MAIN STREET, PIALBA, QLD
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=699115
+  council_reference: OPW19/0032
+  date_received: '2019-05-07'
+  description: Operational Works - Civil Works - OPWks Assoc with MCU/RAL
+  address: 133-141 BOORAL ROAD, URANGAN, QLD
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=698696
+  council_reference: POS19/0030
+  date_received: '2019-05-07'
+  description: Request for Approval of Plan of Subdivision - SP305912 - Plan of Lots
+    1 & 2 - Cancelling Lot 26 on RP35223
+  address: 29 SOUTHERDEN STREET, TORQUAY, QLD
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=699405
+  council_reference: POS19/0031
+  date_received: '2019-05-10'
+  description: Request for Approval of Plan of Subdivision - SP305906 - Plan of Lots
+    1 - 4 & 10 - Cancelling Lot 19 on RP135369
+  address: 15 BURRALONG DRIVE, WONDUNNA, QLD
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=700279
+  council_reference: POS19/0032
+  date_received: '2019-05-13'
+  description: Request for Approval of Plan of Subdivision - SP599834 - Plan of Lots
+    1-4 and Emt D in Lot 1, Emts A & E in Lot 2, Emts B & F in Lot 3 & Emts C & G
+    in Lot 4 - Cancelling Lot 3 on RP894501
+  address: 366-388 RIVER HEADS ROAD, BOORAL, QLD
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=698037
+  council_reference: RAL18/0055.01
+  date_received: '2019-05-01'
+  description: Minor change to application - request for condition 14 to be amended
+  address: 99 FRESHWATER STREET, TORQUAY, QLD
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=699987
+  council_reference: RAL19/0008.01
+  date_received: '2019-05-10'
+  description: Request for approval of amended plan generally in accordance with approved
+    plan - RAL19/0008 - Reconfiguring A Lot - One (1) into Two (2) Lots
+  address: 72 GARDEN DRIVE, URANGAN, QLD
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=699342
+  council_reference: RAL19/0044
+  date_received: '2019-05-08'
+  description: Reconfiguring A Lot - Reconfiguring a lot one (1) into two (2) lots
+    including access easements
+  address: 201 RIVER HEADS ROAD, RIVER HEADS, QLD
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=699596
+  council_reference: RAL19/0045
+  date_received: '2019-05-10'
+  description: Reconfiguring A Lot - One (1) Lot into Two (2) lots
+  address: 196 BOAT HARBOUR DRIVE, PIALBA, QLD
   date_scraped: '2019-05-14'
