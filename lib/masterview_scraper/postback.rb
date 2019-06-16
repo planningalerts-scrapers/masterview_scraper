@@ -5,10 +5,11 @@ module MasterviewScraper
   module Postback
     # Implement a click on a link that understands stupid asp.net doPostBack
     def self.click(doc, page)
-      return if doc["onclick"] =~ /return false;/
+      js = doc["onclick"] || doc["href"]
+      return if js =~ /return false;/
 
       # TODO: Just follow the link likes it's a normal link
-      raise unless doc["onclick"] =~ /javascript:__doPostBack\('(.*)','(.*)'\)/
+      raise unless js =~ /javascript:__doPostBack\('(.*)','(.*)'\)/
 
       form = page.form_with(id: "aspnetForm")
       form["__EVENTTARGET"] = Regexp.last_match(1)

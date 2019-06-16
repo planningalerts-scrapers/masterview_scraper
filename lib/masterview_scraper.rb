@@ -5,6 +5,7 @@ require "masterview_scraper/authorities/bellingen"
 require "masterview_scraper/authorities/brisbane"
 require "masterview_scraper/authorities/fairfield"
 require "masterview_scraper/authorities/fraser_coast"
+require "masterview_scraper/pages/terms_and_conditions"
 
 require "scraperwiki"
 require "mechanize"
