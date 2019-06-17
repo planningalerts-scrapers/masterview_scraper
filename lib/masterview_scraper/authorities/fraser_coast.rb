@@ -11,19 +11,6 @@ module MasterviewScraper
         )
       end
 
-      def self.current_index_page_no(page)
-        page.at(".rgCurrentPage").inner_text.to_i
-      end
-
-      def self.next_index_page(page)
-        current_page_no = current_index_page_no(page)
-        page_links = page.at(".rgNumPart")
-        next_page_link = if page_links
-          page_links.search("a").find{|a| a.inner_text == (current_page_no + 1).to_s}
-        end
-        (Postback.click(next_page_link, page) if next_page_link)
-      end
-
       def self.scrape
         agent = Mechanize.new
 
@@ -41,7 +28,7 @@ module MasterviewScraper
             record["address"] += ", QLD"
             yield record
           end
-          page = next_index_page(page)
+          page = Pages::Index.next(page)
         end
       end
 
