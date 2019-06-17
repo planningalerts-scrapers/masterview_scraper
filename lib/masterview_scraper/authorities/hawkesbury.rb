@@ -5,28 +5,22 @@ require 'mechanize'
 module MasterviewScraper
   module Authorities
     module Hawkesbury
-      def self.clean_whitespace(a)
-        a.gsub("\r", ' ').gsub("\n", ' ').squeeze(" ").strip
-      end
-
-      def self.scrape_table(doc)
+      def self.scrape_index_page(doc)
         table = doc.at("table")
-        data = MasterviewScraper::Table.extract_table(table)
-        data.each do |row|
+        MasterviewScraper::Table.extract_table(table).each do |row|
           # The details section actually consists of seperate parts
           details = row[:content]["Details"].split("<br>").map do |detail|
             Pages::Index.strip_html(detail).squeeze(" ").strip
           end
 
-          record = {
+          yield(
             'info_url' => (doc.uri + row[:url]).to_s,
             'council_reference' => row[:content]["Number"],
             'date_received' => Date.strptime(row[:content]["Submitted"], "%d/%m/%Y").to_s,
-            'address' => details[0] + ", NSW",
+            'address' => details[0],
             'description' => details[2],
             'date_scraped' => Date.today.to_s
-          }
-          MasterviewScraper.save(record)
+          )
         end
       end
 
@@ -47,7 +41,10 @@ module MasterviewScraper
         doc = agent.get(url)
 
         while doc
-          scrape_table(doc)
+          scrape_index_page(doc) do |record|
+            record["address"] += ", NSW"
+            MasterviewScraper.save(record)
+          end
           doc = Pages::Index.next(doc)
         end
       end
