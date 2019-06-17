@@ -13,6 +13,11 @@ module MasterviewScraper
 
         agent = Mechanize.new
         page = agent.get(url)
+        
+        if Pages::TermsAndConditions.on_page?(page)
+          Pages::TermsAndConditions.click_agree(page)
+          page = agent.get(url)
+        end
 
         while page
           Pages::Index.scrape(page) do |record|
