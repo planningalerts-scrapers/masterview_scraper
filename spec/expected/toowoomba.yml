@@ -1,0 +1,104 @@
+---
+- info_url: https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster/default.aspx?page=wrapper&key=820051
+  council_reference: MCUC/2015/5364/C
+  date_received: '2019-06-13'
+  address: 123 James Street EAST TOOWOOMBA QLD 4350
+  description: Request to Extend Period Combined MCUC and PSW Multiple Dwelling 9x2
+    Bedroom Units
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster/default.aspx?page=wrapper&key=818855
+  council_reference: MCUC/2019/2169
+  date_received: '2019-06-10'
+  address: 218 Hume Street SOUTH TOOWOOMBA QLD 4350
+  description: Residential Care Facility
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster/default.aspx?page=wrapper&key=818915
+  council_reference: MCUC/2019/2173
+  date_received: '2019-06-10'
+  address: 29 Perth Street RANGEVILLE QLD 4350
+  description: Short Term Accommodation
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster/default.aspx?page=wrapper&key=819077
+  council_reference: OW/2019/2180
+  date_received: '2019-06-11'
+  address: 284 Bridge Street NEWTOWN QLD 4350
+  description: Stormwater and Driveway Crossover
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster/default.aspx?page=wrapper&key=819529
+  council_reference: OW/2019/2209
+  date_received: '2019-06-12'
+  address: 2 Kirk Street TOOWOOMBA CITY QLD 4350
+  description: Driveway Crossover and Stormwater Infrastructure
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster/default.aspx?page=wrapper&key=820200
+  council_reference: OW/2019/2246
+  date_received: '2019-06-13'
+  address: 54 Mort Street NORTH TOOWOOMBA QLD 4350
+  description: Driveway Crossover
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster/default.aspx?page=wrapper&key=820090
+  council_reference: PSW/2015/4825/B
+  date_received: '2019-06-13'
+  address: 123 James Street EAST TOOWOOMBA QLD 4350
+  description: Request to Extend Period Demolition of a Neighbourhood Character Place
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster/default.aspx?page=wrapper&key=818612
+  council_reference: SEAL/2019/2155
+  date_received: '2019-06-10'
+  address: 131 Brennan Road HAMPTON QLD 4352
+  description: Reconfigure 1 into 4 Lots
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster/default.aspx?page=wrapper&key=818652
+  council_reference: SEAL/2019/2157
+  date_received: '2019-06-10'
+  address: 16 Cawdor Drive HIGHFIELDS QLD 4352
+  description: Reconfigure 1 into 2 Lots
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster/default.aspx?page=wrapper&key=818682
+  council_reference: SEAL/2019/2160
+  date_received: '2019-06-10'
+  address: 158-160 Stenner Street MIDDLE RIDGE QLD 4350
+  description: Reconfigure 1 into 4 Lots
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster/default.aspx?page=wrapper&key=818755
+  council_reference: SEAL/2019/2162
+  date_received: '2019-06-10'
+  address: 10 Melanie Street COTSWOLD HILLS QLD 4350
+  description: CMS Building Format
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster/default.aspx?page=wrapper&key=818765
+  council_reference: SEAL/2019/2164
+  date_received: '2019-06-10'
+  address: 28 Ena Street COTSWOLD HILLS QLD 4350
+  description: CMS Building Format
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster/default.aspx?page=wrapper&key=818775
+  council_reference: SEAL/2019/2165
+  date_received: '2019-06-10'
+  address: 12 Ena Street COTSWOLD HILLS QLD 4350
+  description: CMS Building Format
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster/default.aspx?page=wrapper&key=818785
+  council_reference: SEAL/2019/2166
+  date_received: '2019-06-10'
+  address: 3 Latsky Drive COTSWOLD HILLS QLD 4350
+  description: CMS Building Format
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster/default.aspx?page=wrapper&key=819417
+  council_reference: SEAL/2019/2199
+  date_received: '2019-06-12'
+  address: 93-99 Hampton Street HARRISTOWN QLD 4350
+  description: Road Dedication
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster/default.aspx?page=wrapper&key=819737
+  council_reference: SEAL/2019/2223
+  date_received: '2019-06-12'
+  address: 33 Albert Street NEWTOWN QLD 4350
+  description: CMS Building Format
+  date_scraped: '2019-05-14'
+- info_url: https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster/default.aspx?page=wrapper&key=819847
+  council_reference: SEAL/2019/2228
+  date_received: '2019-06-12'
+  address: Off Mt Irving Road PURRAWUNDA QLD 4356
+  description: Reconfigure 8 into 6 Lots
+  date_scraped: '2019-05-14'
