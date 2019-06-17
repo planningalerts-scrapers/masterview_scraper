@@ -46,7 +46,7 @@ module MasterviewScraper
         (Postback.click(next_page_link, page) if next_page_link)
       end
 
-      def self.scrape_and_save
+      def self.scrape
         agent = Mechanize.new
 
         # Read in a page
@@ -59,9 +59,15 @@ module MasterviewScraper
 
         while page
           scrape_index_page(page) do |record|
-            MasterviewScraper.save(record)
+            yield record
           end
           page = next_index_page(page)
+        end
+      end
+
+      def self.scrape_and_save
+        scrape do |record|
+          MasterviewScraper.save(record)
         end
       end
     end
