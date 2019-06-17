@@ -59,7 +59,8 @@ module MasterviewScraper
 
         # Jump through bollocks agree screen
         doc = agent.get(url)
-        doc = doc.forms.first.submit(doc.forms.first.button_with(:value => "Agree"))
+        Pages::TermsAndConditions.click_agree(doc)
+
         doc = agent.get(url)
 
         scrape_and_follow_next_link(doc)
