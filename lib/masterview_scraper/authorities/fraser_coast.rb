@@ -39,6 +39,8 @@ module MasterviewScraper
 
         while page
           Pages::Index.scrape(page) do |record|
+            # Add the state on to the end of the address
+            record["address"] += ", QLD"
             yield record
           end
           page = next_index_page(page)

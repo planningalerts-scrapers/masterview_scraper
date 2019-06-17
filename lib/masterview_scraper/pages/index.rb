@@ -12,7 +12,7 @@ module MasterviewScraper
             "council_reference" => row[:content]["Number"],
             "date_received" => Date.strptime(row[:content]["Submitted"], "%d/%m/%Y").to_s,
             "description" => strip_html(row[:content]["Details"].split("<br>")[1]).squeeze(" "),
-            "address" => strip_html(row[:content]["Details"].split("<br>")[0]).strip + ", QLD",
+            "address" => strip_html(row[:content]["Details"].split("<br>")[0]).strip,
             "date_scraped" => Date.today.to_s
           )
         end
