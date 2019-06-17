@@ -24,17 +24,16 @@ module MasterviewScraper
 
       def self.scrape_and_save
         url = "http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx"
+        query_period = "?page=found&5=T&6=F&1=" + (Date.today - 14).strftime("%d/%m/%Y") + "&2=" + Date.today.strftime("%d/%m/%Y")
 
         agent = Mechanize.new
 
         # Read in a page
-        page = agent.get(url)
+        page = agent.get(url + query_period)
 
         form = page.forms.first
         button = form.button_with(value: "I Agree")
         form.submit(button)
-
-        query_period = "?page=found&5=T&6=F&1=" + (Date.today - 14).strftime("%d/%m/%Y") + "&2=" + Date.today.strftime("%d/%m/%Y")
 
         page = agent.get(url + query_period)
         current_page_no = 1
