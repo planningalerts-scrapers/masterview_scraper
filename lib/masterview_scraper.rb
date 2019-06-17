@@ -10,6 +10,7 @@ require "masterview_scraper/authorities/marion"
 require "masterview_scraper/authorities/moreton_bay"
 require "masterview_scraper/authorities/shoalhaven"
 require "masterview_scraper/authorities/toowoomba"
+require "masterview_scraper/authorities/wyong"
 require "masterview_scraper/pages/index"
 require "masterview_scraper/pages/terms_and_conditions"
 
@@ -66,6 +67,8 @@ module MasterviewScraper
       Authorities::Shoalhaven.scrape_and_save
     elsif authority == :toowoomba
       Authorities::Toowoomba.scrape_and_save
+    elsif authority == :wyong
+      Authorities::Wyong.scrape_and_save
     else
       raise "Unexpected authority: #{authority}"
     end
