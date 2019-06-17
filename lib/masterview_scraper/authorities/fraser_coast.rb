@@ -10,19 +10,22 @@ module MasterviewScraper
         Nokogiri::HTML(html).inner_text
       end
 
-      def self.scrape_page(page)
+      def self.scrape_index_page(page)
         table = page.at("table.rgMasterTable")
-        # TODO: Make extract_table return html nodes
-        data = Table.extract_table(table)
-        data.each do |row|
-          record = {
+        Table.extract_table(table).each do |row|
+          yield ({
             "info_url" => (page.uri + row[:url]).to_s,
             "council_reference" => row[:content]["Number"],
             "date_received" => Date.strptime(row[:content]["Submitted"], "%d/%m/%Y").to_s,
             "description" => strip_html(row[:content]["Details"].split("<br>")[1]).squeeze(" "),
             "address" => strip_html(row[:content]["Details"].split("<br>")[0]).strip + ", QLD",
             "date_scraped" => Date.today.to_s
-          }
+          })
+        end
+      end
+
+      def self.scrape_and_save_index_page(page)
+        scrape_index_page(page) do |record|
           MasterviewScraper.save(record)
         end
       end
@@ -61,7 +64,7 @@ module MasterviewScraper
         page = agent.get(url)
 
         while page
-          scrape_page(page)
+          scrape_and_save_index_page(page)
           page = next_index_page(page)
         end
       end
