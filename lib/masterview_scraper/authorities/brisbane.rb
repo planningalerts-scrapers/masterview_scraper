@@ -11,7 +11,8 @@ module MasterviewScraper
     module Brisbane
       def self.url
         MasterviewScraper.url_last_14_days(
-          "https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster"
+          "https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster",
+          "6" => "F"
         )
       end
 

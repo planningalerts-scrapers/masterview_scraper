@@ -37,7 +37,8 @@ module MasterviewScraper
           "http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster",
           # All applications in the last month
           "thismonth",
-          "4a" => "DA,CDC,TA,MD"
+          "4a" => "DA,CDC,TA,MD",
+          "6" => "F"
         )
       end
 

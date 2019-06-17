@@ -20,7 +20,7 @@ module MasterviewScraper
     elsif authority == :fairfield
       scrape_and_save_last_14_days(
         url: "https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster",
-        params: { "4a" => 10 }
+        params: { "4a" => 10, "6" => "F" }
       )
     elsif authority == :fraser_coast
       scrape_and_save_last_14_days(
@@ -29,21 +29,22 @@ module MasterviewScraper
           # TODO: Do the encoding automatically
           "4a" => "BPS%27,%27MC%27,%27OP%27,%27SB%27,%27MCU%27,%27ROL%27,%27OPWKS%27,"\
                 "%27QMCU%27,%27QRAL%27,%27QOPW%27,%27QDBW%27,%27QPOS%27,%27QSPS%27,"\
-                "%27QEXE%27,%27QCAR%27,%27ACA"
+                "%27QEXE%27,%27QCAR%27,%27ACA",
+          "6" => "F"
         },
         state: "QLD"
       )
     elsif authority == :hawkesbury
       scrape_and_save_last_14_days(
         url: "http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster",
-        params: { "4a" => "DA" },
+        params: { "4a" => "DA", "6" => "F" },
         state: "NSW"
       )
     elsif authority == :ipswich
       scrape_and_save_last_14_days(
         url: "http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster",
         # TODO: Don't know what this parameter "5" does
-        params: { "5" => "T" }
+        params: { "5" => "T", "6" => "F" }
       )
     elsif authority == :lake_macquarie
       Authorities::LakeMacquarie.scrape_and_save
@@ -110,7 +111,7 @@ module MasterviewScraper
   def self.url_with_default_params(base_url, params)
     url_with_params(
       base_url,
-      { "page" => "found", "6" => "F" }.merge(params)
+      { "page" => "found" }.merge(params)
     )
   end
 
