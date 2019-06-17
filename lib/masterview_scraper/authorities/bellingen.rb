@@ -24,7 +24,12 @@ module MasterviewScraper
 
       # TODO: Handle multiple pages of results
       def self.scrape_index_page(page, agent)
-        table = (page / '//*[@id="ctl03_lblData"]').at("table")
+        container = page / '//*[@id="ctl03_lblData"]'
+        if container.inner_text =~ /Data is not available!/
+          raise "It says data is not available for some reason"
+        end
+        table = container.at("table")
+
         data = MasterviewScraper::Table.extract_table(table)
         data.each do |row|
           info_page = agent.get(row[:url])
