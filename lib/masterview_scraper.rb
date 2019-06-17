@@ -48,7 +48,11 @@ module MasterviewScraper
   end
 
   def self.url_with_period(base_url, period, extra_params)
-    params = { "1" => period }
+    params = {
+      "1" => period,
+      "page" => "found",
+      "6" => "F"
+    }
     MasterviewScraper.url_with_params(base_url, params.merge(extra_params))
   end
 
