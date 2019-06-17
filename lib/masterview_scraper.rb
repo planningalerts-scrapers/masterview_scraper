@@ -4,7 +4,6 @@ require "masterview_scraper/version"
 require "masterview_scraper/authorities/bellingen"
 require "masterview_scraper/authorities/brisbane"
 require "masterview_scraper/authorities/lake_macquarie"
-require "masterview_scraper/authorities/marion"
 require "masterview_scraper/authorities/moreton_bay"
 require "masterview_scraper/authorities/shoalhaven"
 require "masterview_scraper/authorities/toowoomba"
@@ -54,12 +53,12 @@ module MasterviewScraper
     elsif authority == :lake_macquarie
       Authorities::LakeMacquarie.scrape_and_save
     elsif authority == :logan
-      MasterviewScraper.scrape_and_save_last_14_days(
+      scrape_and_save_last_14_days(
         url: "http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster",
         params: { "6" => "F" }
       )
     elsif authority == :mackay
-      MasterviewScraper.scrape_and_save_last_30_days(
+      scrape_and_save_last_30_days(
         url: "https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster",
         params: {
           "4a" => "443,444,445,446,487,555,556,557,558,559,560,564",
@@ -67,7 +66,14 @@ module MasterviewScraper
         }
       )
     elsif authority == :marion
-      Authorities::Marion.scrape_and_save
+      scrape_and_save_url(
+        url_with_period(
+          "http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster",
+          "thisweek",
+          "4a" => "7",
+          "6" => "F"
+        )
+      )
     elsif authority == :moreton_bay
       Authorities::MoretonBay.scrape_and_save
     elsif authority == :shoalhaven
