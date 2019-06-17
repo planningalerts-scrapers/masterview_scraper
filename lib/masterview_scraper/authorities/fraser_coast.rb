@@ -17,9 +17,7 @@ module MasterviewScraper
             "date_scraped" => Date.today.to_s
           }
 
-      #     puts record
-          puts "Saving record " + record['council_reference'] + " - " + record['address']
-          ScraperWiki.save_sqlite(['council_reference'], record)
+          MasterviewScraper.save(record)
         end
       end
 
@@ -55,14 +53,10 @@ module MasterviewScraper
 
         # It doesn't even redirect to the correct place. Ugh
         page = agent.get(url)
-        current_page_no = 1
 
         while page
-          puts "Scraping page #{current_page_no}..."
           scrape_page(page)
-
           page = next_index_page(page)
-          current_page_no += 1
         end
       end
     end
