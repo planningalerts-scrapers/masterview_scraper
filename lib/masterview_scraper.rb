@@ -3,7 +3,6 @@
 require "masterview_scraper/version"
 require "masterview_scraper/authorities/bellingen"
 require "masterview_scraper/authorities/brisbane"
-require "masterview_scraper/authorities/ipswich"
 require "masterview_scraper/authorities/lake_macquarie"
 require "masterview_scraper/pages/index"
 require "masterview_scraper/pages/terms_and_conditions"
@@ -41,7 +40,11 @@ module MasterviewScraper
         state: "NSW"
       )
     elsif authority == :ipswich
-      Authorities::Ipswich.scrape_and_save
+      scrape_and_save_last_14_days(
+        url: "http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster",
+        # TODO: Don't know what this parameter "5" does
+        params: { "5" => "T" }
+      )
     elsif authority == :lake_macquarie
       Authorities::LakeMacquarie.scrape_and_save
     else
