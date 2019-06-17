@@ -1,18 +1,15 @@
 require 'scraperwiki'
 require 'mechanize'
 
-# Extending Mechanize Form to support doPostBack
-# http://scraperblog.blogspot.com.au/2012/10/asp-forms-with-dopostback-using-ruby.html
-class Mechanize::Form
-  def postback target, argument
-    self['__EVENTTARGET'], self['__EVENTARGUMENT'] = target, argument
-    submit
-  end
-end
-
 module MasterviewScraper
   module Authorities
     module Mackay
+      def self.postback(form, target, argument)
+        form['__EVENTTARGET'] = target
+        form['__EVENTARGUMENT'] = argument
+        form.submit
+      end
+
       def self.process_page(page)
         page.search('tr.rgRow,tr.rgAltRow').each do |tr|
           record = {
@@ -47,7 +44,7 @@ module MasterviewScraper
           page.search('div.rgNumPart a').each do |a|
             puts "scraping page " + i.to_s
             target, argument = a[:href].scan(/'([^']*)'/).flatten
-            page = page.form.postback target, argument
+            page = postback(page.form, target, argument)
 
             process_page(page)
             i += 1
