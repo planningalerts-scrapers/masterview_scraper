@@ -10,7 +10,9 @@ module MasterviewScraper
         table = page.at("table.rgMasterTable")
         Table.extract_table(table).each do |row|
           # The details section actually consists of seperate parts
-          details = row[:content]["Details"].split("<br>").map do |detail|
+          details = row[:content]["Details"] ||
+                    row[:content]["Property/Application Details"]
+          details = details.split("<br>").map do |detail|
             strip_html(detail).squeeze(" ").strip
           end
           raise "Unexpected number of things in details" if details.length < 2 || details.length > 3
@@ -20,7 +22,7 @@ module MasterviewScraper
             "council_reference" => row[:content]["Number"],
             "date_received" => Date.strptime(row[:content]["Submitted"], "%d/%m/%Y").to_s,
             "description" => (details.length == 3 ? details[2] : details[1]),
-            "address" => details[0],
+            "address" => details[0].gsub("\r", " "),
             # TODO: date_scraped should NOT be added here
             "date_scraped" => Date.today.to_s
           )
