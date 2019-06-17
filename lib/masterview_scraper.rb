@@ -4,7 +4,6 @@ require "masterview_scraper/version"
 require "masterview_scraper/authorities/bellingen"
 require "masterview_scraper/authorities/brisbane"
 require "masterview_scraper/authorities/fraser_coast"
-require "masterview_scraper/authorities/hawkesbury"
 require "masterview_scraper/pages/index"
 require "masterview_scraper/pages/terms_and_conditions"
 
@@ -26,7 +25,13 @@ module MasterviewScraper
     elsif authority == :fraser_coast
       Authorities::FraserCoast.scrape_and_save
     elsif authority == :hawkesbury
-      Authorities::Hawkesbury.scrape_and_save
+      scrape_and_save_url(
+        url_last_14_days(
+          "http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster",
+          "4a" => "DA"
+        ),
+        "NSW"
+      )
     else
       raise "Unexpected authority: #{authority}"
     end
