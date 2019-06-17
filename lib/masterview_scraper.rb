@@ -6,6 +6,7 @@ require "masterview_scraper/authorities/brisbane"
 require "masterview_scraper/authorities/lake_macquarie"
 require "masterview_scraper/authorities/logan"
 require "masterview_scraper/authorities/mackay"
+require "masterview_scraper/authorities/marion"
 require "masterview_scraper/pages/index"
 require "masterview_scraper/pages/terms_and_conditions"
 
@@ -54,6 +55,8 @@ module MasterviewScraper
       Authorities::Logan.scrape_and_save
     elsif authority == :mackay
       Authorities::Mackay.scrape_and_save
+    elsif authority == :marion
+      Authorities::Marion.scrape_and_save
     else
       raise "Unexpected authority: #{authority}"
     end
