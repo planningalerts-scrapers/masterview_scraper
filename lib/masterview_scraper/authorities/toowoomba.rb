@@ -3,19 +3,6 @@ require 'openssl'
 require 'mechanize'
 require 'uri'
 
-def with_warnings(flag)
-  old_verbose, $VERBOSE = $VERBOSE, flag
-  yield
-ensure
-  $VERBOSE = old_verbose
-end
-
-#disable encryption validation, we're fetching public data anyway
-with_warnings(nil) {
-  OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
-  I_KNOW_THAT_OPENSSL_VERIFY_PEER_EQUALS_VERIFY_NONE_IS_WRONG = nil
-}
-
 module MasterviewScraper
   module Authorities
     module Toowoomba
@@ -92,6 +79,8 @@ module MasterviewScraper
       def self.scrape_and_save
 
         agent = Mechanize.new
+        #disable encryption validation, we're fetching public data anyway
+        agent.verify_mode = OpenSSL::SSL::VERIFY_NONE
 
         # All applications submitted in the last month
         baseurl = 'https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster/'
