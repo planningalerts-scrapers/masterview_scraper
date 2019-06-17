@@ -30,9 +30,10 @@ module MasterviewScraper
       end
 
       def self.scrape_and_follow_next_link(doc)
-        scrape_table(doc)
-        doc = Pages::Index.next(doc)
-        scrape_and_follow_next_link(doc) if doc
+        while doc
+          scrape_table(doc)
+          doc = Pages::Index.next(doc)
+        end
       end
 
       def self.url
