@@ -19,11 +19,9 @@ module MasterviewScraper
     elsif authority == :brisbane
       Authorities::Brisbane.scrape_and_save
     elsif authority == :fairfield
-      scrape_and_save_url(
-        url_last_14_days(
-          "https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster",
-          "4a" => 10
-        )
+      scrape_and_save_last_14_days(
+        "https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster",
+        "4a" => 10
       )
     elsif authority == :fraser_coast
       Authorities::FraserCoast.scrape_and_save
@@ -32,6 +30,10 @@ module MasterviewScraper
     else
       raise "Unexpected authority: #{authority}"
     end
+  end
+
+  def self.scrape_and_save_last_14_days(base_url, params)
+    scrape_and_save_url(url_last_14_days(base_url, params))
   end
 
   def self.scrape_and_save_url(url)
