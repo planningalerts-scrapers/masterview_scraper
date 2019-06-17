@@ -18,6 +18,15 @@ module MasterviewScraper
         end
       end
 
+      # Returns the next page unless there is none in which case nil
+      # TODO: Handle things when next isn't a button with a postback
+      def self.next(page)
+        link = page.at(".rgPageNext")
+        return if link.nil?
+
+        Postback.click(link, page)
+      end
+
       # Strips any html tags and decodes any html entities
       # e.g. "<strong>Tea &amp; Cake<strong>" => "Tea & Cake"
       def self.strip_html(html)

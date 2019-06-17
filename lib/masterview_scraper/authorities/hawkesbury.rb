@@ -29,16 +29,9 @@ module MasterviewScraper
         end
       end
 
-      def self.next_page(doc)
-        nextButton = doc.at('.rgPageNext')
-        return if nextButton.nil?
-
-        Postback.click(nextButton, doc)
-      end
-
       def self.scrape_and_follow_next_link(doc)
         scrape_table(doc)
-        doc = next_page(doc)
+        doc = Pages::Index.next(doc)
         scrape_and_follow_next_link(doc) if doc
       end
 

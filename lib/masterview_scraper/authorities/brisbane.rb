@@ -28,7 +28,7 @@ module MasterviewScraper
           scrape_index_page(page) do |record|
             yield record
           end
-          page = next_index_page(page)
+          page = Pages::Index.next(page)
         end
       end
 
@@ -53,14 +53,6 @@ module MasterviewScraper
 
           yield record
         end
-      end
-
-      # Returns the next page unless there is none in which case nil
-      def self.next_index_page(page)
-        next_button = page.at(".rgPageNext")
-        return if next_button.nil?
-
-        Postback.click(next_button, page)
       end
     end
   end

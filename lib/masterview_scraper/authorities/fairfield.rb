@@ -16,13 +16,6 @@ module MasterviewScraper
         )
       end
 
-      def self.next_index_page(page)
-        link = page.at(".rgPageNext")
-        return if link.nil?
-
-        Postback.click(link, page)
-      end
-
       def self.scrape
         agent = Mechanize.new
 
@@ -36,7 +29,7 @@ module MasterviewScraper
           Pages::Index.scrape(page) do |record|
             yield record
           end
-          page = next_index_page(page)
+          page = Pages::Index.next(page)
         end
       end
 
