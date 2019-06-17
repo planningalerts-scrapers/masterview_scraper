@@ -23,19 +23,22 @@ module MasterviewScraper
       end
 
       def self.scrape_and_save
-        url = "http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx"
-        query_period = "?page=found&5=T&6=F&1=" + (Date.today - 14).strftime("%d/%m/%Y") + "&2=" + Date.today.strftime("%d/%m/%Y")
+        url = MasterviewScraper.url_last_14_days(
+          "http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster",
+          # TODO: Don't know what this parameter "5" does
+          { "5" => "T" }
+        )
 
         agent = Mechanize.new
 
         # Read in a page
-        page = agent.get(url + query_period)
+        page = agent.get(url)
 
         form = page.forms.first
         button = form.button_with(value: "I Agree")
         form.submit(button)
 
-        page = agent.get(url + query_period)
+        page = agent.get(url)
         current_page_no = 1
         next_page_link = true
 
