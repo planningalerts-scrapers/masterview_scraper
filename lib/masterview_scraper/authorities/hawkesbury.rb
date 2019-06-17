@@ -25,8 +25,7 @@ module MasterviewScraper
             'date_scraped' => Date.today.to_s
           }
 
-          #pp record
-          ScraperWiki.save_sqlite(['council_reference'], record)
+          MasterviewScraper.save(record)
         end
       end
 
@@ -61,7 +60,13 @@ module MasterviewScraper
       end
 
       def self.url
-        'http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=found&1=thismonth&4a=DA&6=F'
+        MasterviewScraper.url_with_period(
+          "http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster",
+          "thismonth",
+          "page" => "found",
+          "4a" => "DA",
+          "6" => "F"
+        )
       end
 
       def self.scrape_and_save
