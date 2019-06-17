@@ -3,7 +3,6 @@
 require "masterview_scraper/version"
 require "masterview_scraper/authorities/bellingen"
 require "masterview_scraper/authorities/brisbane"
-require "masterview_scraper/authorities/fraser_coast"
 require "masterview_scraper/pages/index"
 require "masterview_scraper/pages/terms_and_conditions"
 
@@ -23,7 +22,16 @@ module MasterviewScraper
         params: { "4a" => 10 }
       )
     elsif authority == :fraser_coast
-      Authorities::FraserCoast.scrape_and_save
+      scrape_and_save_last_14_days(
+        url: "https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster",
+        params: {
+          # TODO: Do the encoding automatically
+          "4a" => "BPS%27,%27MC%27,%27OP%27,%27SB%27,%27MCU%27,%27ROL%27,%27OPWKS%27,"\
+                "%27QMCU%27,%27QRAL%27,%27QOPW%27,%27QDBW%27,%27QPOS%27,%27QSPS%27,"\
+                "%27QEXE%27,%27QCAR%27,%27ACA"
+        },
+        state: "QLD"
+      )
     elsif authority == :hawkesbury
       scrape_and_save_last_14_days(
         url: "http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster",
