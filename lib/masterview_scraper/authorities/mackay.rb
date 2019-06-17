@@ -31,8 +31,12 @@ module MasterviewScraper
       end
 
       def self.scrape_and_save
-        base_url = "https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster/"
-        url = base_url + "default.aspx?page=found&4a=443,444,445,446,487,555,556,557,558,559,560,564&6=F&1=thisweek"
+        url = MasterviewScraper.url_with_period(
+          "https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster",
+          "thisweek",
+          "4a" => "443,444,445,446,487,555,556,557,558,559,560,564",
+          "6" => "F"
+        )
 
         agent = Mechanize.new
         page = agent.get(url)
