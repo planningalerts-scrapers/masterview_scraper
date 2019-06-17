@@ -36,11 +36,12 @@ module MasterviewScraper
     scrape_and_save_url(url_last_14_days(base_url, params))
   end
 
-  def self.scrape_and_save_url(url)
-    scrape(url) { |record| save(record) }
+  def self.scrape_and_save_url(url, state = nil)
+    scrape(url, state) { |record| save(record) }
   end
 
-  def self.scrape(url)
+  # Set state if the address does not already include the state (e.g. NSW, WA, etc..)
+  def self.scrape(url, state = nil)
     agent = Mechanize.new
 
     # Read in a page
@@ -51,6 +52,7 @@ module MasterviewScraper
 
     while page
       Pages::Index.scrape(page) do |record|
+        record["address"] += ", " + state if state
         yield record
       end
       page = Pages::Index.next(page)
