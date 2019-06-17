@@ -41,9 +41,8 @@ module MasterviewScraper
       end
 
       def self.scrape_and_save
-        url = MasterviewScraper.url_with_period(
+        url = MasterviewScraper.url_last_14_days(
           "http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster",
-          "thisweek",
           "6" => "F"
         )
 
