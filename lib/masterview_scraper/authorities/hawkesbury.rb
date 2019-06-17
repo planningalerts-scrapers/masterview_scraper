@@ -60,9 +60,8 @@ module MasterviewScraper
       end
 
       def self.url
-        MasterviewScraper.url_with_period(
+        MasterviewScraper.url_last_14_days(
           "http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster",
-          "thismonth",
           "page" => "found",
           "4a" => "DA",
           "6" => "F"

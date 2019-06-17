@@ -1,75 +1,155 @@
 ---
-- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=266356
-  council_reference: DA0216/19
-  date_received: '2019-06-03'
-  address: 97 Belmont Grove, NORTH RICHMOND, NSW
-  description: Lot 39 DP 1211770Structure Ancillary to Dwelling - Retaining Wall
+- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=264854
+  council_reference: DA0169/19
+  date_received: '2019-04-30'
+  address: 22 Thorley Street, SOUTH WINDSOR, NSW
+  description: Lot 5 DP 21482Landscape Material Supplies - Change of Use to Landscape
+    Material Supplies, Construction of Storage Bays and Signage
   date_scraped: '2019-05-14'
-- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=266396
-  council_reference: DA0217/19
-  date_received: '2019-06-03'
-  address: 9 Grazier Way, NORTH RICHMOND, NSW
-  description: Lot 697 DP 1233055Dwelling House
+- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=264860
+  council_reference: DA0170/19
+  date_received: '2019-04-30'
+  address: 98 Windsor Street, RICHMOND, NSW
+  description: Lot 4 DP 1099688Dual Occupancy (Detached) - Demolition of Existing
+    Structures and Construction of Detached Dual Occupancy
   date_scraped: '2019-05-14'
-- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=266410
-  council_reference: DA0218/19
-  date_received: '2019-06-03'
-  address: 5 Cleary Drive, PITT TOWN, NSW
-  description: Lot 603 DP 1229910Dwelling House 2 Stages, Swimming Pool & Outbuilding
+- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=264871
+  council_reference: DA0171/19
+  date_received: '2019-04-30'
+  address: 905 Comleroy Road, KURRAJONG, NSW
+  description: Lot 2 DP 1033993Dwelling House - Alterations and Additions
   date_scraped: '2019-05-14'
-- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=266420
-  council_reference: DA0219/19
-  date_received: '2019-06-03'
-  address: 22 Glengarry Place, PITT TOWN, NSW
-  description: Lot 1 DP 1221328Outbuilding
+- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=264922
+  council_reference: DA0172/19
+  date_received: '2019-05-01'
+  address: 236 Settlers Road, LOWER MACDONALD, NSW
+  description: Lot 51 DP 39014Structure Ancillary to Dwelling - Garage and Driveway
   date_scraped: '2019-05-14'
-- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=266483
-  council_reference: DA0220/19
-  date_received: '2019-06-05'
-  address: 9 Stubbs Street, PITT TOWN, NSW
-  description: Lot 129 DP 1233378Secondary Dwelling & Outbuilding
+- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=264941
+  council_reference: DA0173/19
+  date_received: '2019-05-02'
+  address: 12 Dalton Street, NORTH RICHMOND, NSW
+  description: Lot 729 DP 1233055Dwelling House and Secondary Dwelling
   date_scraped: '2019-05-14'
-- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=266551
-  council_reference: DA0221/19
-  date_received: '2019-06-06'
-  address: 2 Stubbs Street, PITT TOWN, NSW
-  description: Lot 123 DP 1233378Single Storey Dwelling & Detached Secondary Dwelling
+- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=264951
+  council_reference: DA0174/19
+  date_received: '2019-05-02'
+  address: 633 Comleroy Road, KURRAJONG, NSW
+  description: Lot 4 DP 240411Dual Occupancy (Attached) - Alterations and Additions
   date_scraped: '2019-05-14'
-- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=266611
-  council_reference: DA0222/19
-  date_received: '2019-06-07'
-  address: 2 Oban Close, WINDSOR DOWNS, NSW
-  description: Lot 514 DP 825974Secondary Dwelling
+- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=264963
+  council_reference: DA0175/19
+  date_received: '2019-05-02'
+  address: 29 Winnifred Road, MCGRATHS HILL, NSW
+  description: Lot 52 DP 800054Structure Ancillary to Dwelling - Outbuilding
   date_scraped: '2019-05-14'
-- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=266614
-  council_reference: DA0223/19
-  date_received: '2019-06-07'
-  address: 117 Yobarnie Avenue, NORTH RICHMOND, NSW
-  description: Lot 650 DP 1233376Single Storey Dwelling
+- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=265001
+  council_reference: DA0176/19
+  date_received: '2019-05-03'
+  address: 35 Millers Road, CATTAI, NSW
+  description: Lot 3 DP 541544Dwelling House - Demolition of Existing Dwelling and
+    Construction of Dwelling House
   date_scraped: '2019-05-14'
-- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=266703
-  council_reference: DA0224/19
-  date_received: '2019-06-11'
-  address: 302 Pitt Town Road, PITT TOWN, NSW
-  description: Lot 3 DP 214348Mushroom Farm
+- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=265026
+  council_reference: DA0177/19
+  date_received: '2019-05-03'
+  address: 27 Grazier Way, NORTH RICHMOND, NSW
+  description: Lot 706 DP 1233055Dwelling House
   date_scraped: '2019-05-14'
-- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=266711
-  council_reference: DA0225/19
-  date_received: '2019-06-11'
-  address: 138 Yobarnie Avenue, NORTH RICHMOND, NSW
-  description: Lot 622 DP 1233376Single Storey Dwelling
+- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=265040
+  council_reference: DA0178/19
+  date_received: '2019-05-09'
+  address: 116 Lennox Street, RICHMOND, NSW
+  description: Lot 3 DP 1041209Secondary Dwelling
   date_scraped: '2019-05-14'
-- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=266807
-  council_reference: DA0226/19
-  date_received: '2019-06-12'
-  address: 186 Roberts Creek Road, BLAXLANDS RIDGE, NSW
-  description: Lot 101 DP 882685Structure Ancillary to Dwelling House - Carport, Deck
-    and Awning
+- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=265041
+  council_reference: DA0179/19
+  date_received: '2019-05-09'
+  address: 116 Lennox Street, RICHMOND, NSW
+  description: Lot 3 DP 1041209Section 68 - Relocatable Home
   date_scraped: '2019-05-14'
-- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=266827
-  council_reference: DA0227/19
-  date_received: '2019-06-12'
-  address: 1054 West Portland Road, LOWER PORTLAND, NSW
-  description: Lot 196 DP 751656Structure Ancillary to Dwelling - Outbuilding and
-    Tree Removal
+- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=265085
+  council_reference: DA0180/19
+  date_received: '2019-05-06'
+  address: 53 Andrew Thompson Drive, MCGRATHS HILL, NSW
+  description: Lot 706 DP 260105Structure Ancillary to Dwelling - Garage and Carport
+  date_scraped: '2019-05-14'
+- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=265113
+  council_reference: DA0181/19
+  date_received: '2019-05-06'
+  address: 445 Comleroy Road, KURRAJONG, NSW
+  description: Lot 3 DP 733109Structure Ancillary to Dwelling - Demolition of Existing
+    Carport and Construction of Carport
+  date_scraped: '2019-05-14'
+- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=265193
+  council_reference: DA0182/19
+  date_received: '2019-05-07'
+  address: 1632 Settlers Road, ST ALBANS, NSW
+  description: Lot 2 DP 248864Dwelling House - Alterations and Additions to Existing
+    Dwelling, Detached Garage with Mezzanine, Studio and Removal of 22 Trees
+  date_scraped: '2019-05-14'
+- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=265249
+  council_reference: DA0183/19
+  date_received: '2019-05-08'
+  address: 355 Stannix Park Road, EBENEZER, NSW
+  description: Lot 292 DP 751665Designated Development - Rural Industry - Expansion
+    of Composting Facility and Construction of Handstand Areas
+  date_scraped: '2019-05-14'
+- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=265262
+  council_reference: DA0184/19
+  date_received: '2019-05-08'
+  address: 20 Peter Place, BLIGH PARK, NSW
+  description: Lot 1521 DP 805976Structure Ancillary to Dwelling - Demolition of Existing
+    Structure and Construction of a Carport
+  date_scraped: '2019-05-14'
+- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=265266
+  council_reference: DA0185/19
+  date_received: '2019-05-08'
+  address: 390 Greggs Road, KURRAJONG, NSW
+  description: Lot 1 DP 733348Structure Ancillary Dwelling - Outbuilding
+  date_scraped: '2019-05-14'
+- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=265269
+  council_reference: DA0186/19
+  date_received: '2019-05-08'
+  address: 38 Longleat Road, KURMOND, NSW
+  description: Lot 26 DP 7565Structure Ancillary to Dwelling - Outbuilding
+  date_scraped: '2019-05-14'
+- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=265302
+  council_reference: DA0187/19
+  date_received: '2019-05-09'
+  address: 536 Chaseling Road South, LEETS VALE, NSW
+  description: LIC 308986 , Lot 10 DP 705542Dwelling House - Alterations, Additions
+    and Swimming Pool
+  date_scraped: '2019-05-14'
+- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=265327
+  council_reference: DA0188/19
+  date_received: '2019-05-09'
+  address: 27 Wattle Crescent, GLOSSODIA, NSW
+  description: Lot 329 DP 214750Secondary Dwelling and Tree Removal
+  date_scraped: '2019-05-14'
+- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=265353
+  council_reference: DA0189/19
+  date_received: '2019-05-10'
+  address: 8 Pendergast Street, PITT TOWN, NSW
+  description: Lot 109 DP 1240318Dwelling House
+  date_scraped: '2019-05-14'
+- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=265394
+  council_reference: DA0190/19
+  date_received: '2019-05-03'
+  address: 35 Ham Street, SOUTH WINDSOR, NSW
+  description: Lot 4 DP 23924Dwelling House - Demolition of Part of Existing Structures,
+    Alterations and Additions to Existing Dwelling, Construction of Garage and Swimming
+    Pool
+  date_scraped: '2019-05-14'
+- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=265474
+  council_reference: DA0191/19
+  date_received: '2019-05-14'
+  address: 39 The Cedars Avenue, PITT TOWN, NSW
+  description: Lot 5015 DP 1193046Structure Ancillary to Dwelling - Swimming Pool
+  date_scraped: '2019-05-14'
+- info_url: http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=265497
+  council_reference: DA0192/19
+  date_received: '2019-05-14'
+  address: 241 Hawkesbury Valley Way, CLARENDON, NSW
+  description: Lot 6 DP 18312Dwelling House - Alterations and Additions
   date_scraped: '2019-05-14'
