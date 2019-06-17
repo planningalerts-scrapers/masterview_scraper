@@ -1,0 +1,398 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://doc.shoalhaven.nsw.gov.au/RSS/SCCRSS.aspx?ID=OpenApps
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Thu, 13 Jun 2019 02:00:16 GMT
+      Server:
+      - Apache
+      Cache-Control:
+      - private
+      Content-Type:
+      - application/rss+xml; charset=utf-8
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Set-Cookie:
+      - ASP.NET_SessionId=yywqud4nih1ecvmngmupzr1u; path=/; HttpOnly
+      Vary:
+      - Accept-Encoding
+      Transfer-Encoding:
+      - chunked
+    body:
+      encoding: ASCII-8BIT
+      string: '<rss version="2.0" xmlns=""><channel><title>Shoalhaven Applications
+        Open for Submission</title><link>http://www.shoalhaven.nsw.gov.au</link><description>Da''s
+        open for submission</description><language>en-au</language><ttl>60</ttl><lastBuildDate>Thu,
+        13 Jun 2019 02:00:15 GMT</lastBuildDate><copyright>Copyright Shoalhaven City
+        Council. All rights reserved.</copyright><item><title>DA19/1554 - Construction
+        of a Two Storey Dwelling</title><description><![CDATA[<table style=width:
+        500px;><tr><td style=width:150px;><b>Date received:</b></td><td> 05 June 2019</td></tr><tr><td
+        style=width:150px;><b>Application type:</b></td><td> Development Application</td></tr><tr><td
+        style=width:150px;><b>Address:</b></td><td> 8 Kooyonga Cl, MOLLYMOOK BEACH</td></tr><tr><td
+        style=width:150px;><b>&nbsp;</b></td><td> Lot 306  DP 1234415</td></tr><tr><td
+        style=width:150px;><b>Submissions close:</b></td><td> 27 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125457&amp;propkey=120580</link><guid
+        isPermaLink="false">125457</guid><pubDate>Wed, 05 Jun 2019 01:23:40 GMT</pubDate></item><item><title>DA19/1550
+        - Dual Occupancy With Torrens Title Subdivision</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        04 June 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        28 Bexhill Av, SUSSEX INLET</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 328  DP 1224103</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        27 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125425&amp;propkey=1000073</link><guid
+        isPermaLink="false">125425</guid><pubDate>Tue, 04 Jun 2019 01:22:34 GMT</pubDate></item><item><title>DA19/1548
+        - Stardust Circus - 1st January 2020 to 12th January 2020</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        04 June 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        66 Church St, ULLADULLA</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 20  DP 1132846</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        03 July 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125414&amp;propkey=99574</link><guid
+        isPermaLink="false">125414</guid><pubDate>Mon, 03 Jun 2019 23:42:31 GMT</pubDate></item><item><title>DA19/1547
+        - Urban Dwelling Additions - New Level 1 Deck</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        03 June 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        22 Moolianga Rd, BERRARA</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 51  DP 26099</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        27 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125392&amp;propkey=23374</link><guid
+        isPermaLink="false">125392</guid><pubDate>Mon, 03 Jun 2019 03:20:01 GMT</pubDate></item><item><title>DA19/1537
+        - Addition of a Front &amp; Rear Balcony &amp; Building Line Variation</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        31 May 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        9 Wooroonga Cr, KIOLOA</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 33  DP 261112</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        19 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125334&amp;propkey=27163</link><guid
+        isPermaLink="false">125334</guid><pubDate>Fri, 31 May 2019 03:05:34 GMT</pubDate></item><item><title>DA19/1536
+        - Outbuildings - Proposed Detached Metal Shed</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        31 May 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        39 Killarney Rd, EROWAL BAY</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 3  DP 205196</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        21 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125332&amp;propkey=14306</link><guid
+        isPermaLink="false">125332</guid><pubDate>Fri, 31 May 2019 02:42:34 GMT</pubDate></item><item><title>DA19/1531
+        - Alterations &amp; Additions to Existing Residence &amp; Detached Shed</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        30 May 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        52 Voyager Cr, BAWLEY POINT</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 38  DP 259461</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        20 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125300&amp;propkey=26775</link><guid
+        isPermaLink="false">125300</guid><pubDate>Thu, 30 May 2019 05:41:21 GMT</pubDate></item><item><title>DA19/1530
+        - Convert detached garage to a detached habitable room</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        30 May 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        139 Shoalhaven St, NOWRA</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 2  DP 528459</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        26 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125298&amp;propkey=37852</link><guid
+        isPermaLink="false">125298</guid><pubDate>Thu, 30 May 2019 05:12:57 GMT</pubDate></item><item><title>DA19/1528
+        - Urban Dwelling Additions - Addition to Existing Dwelling</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        30 May 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        4 McDonald Av, NOWRA</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 32  DP 25115</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        26 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125291&amp;propkey=37331</link><guid
+        isPermaLink="false">125291</guid><pubDate>Thu, 30 May 2019 02:41:28 GMT</pubDate></item><item><title>DA19/1526
+        - Urban Dwelling Additions - Sunroom Extenstion</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        30 May 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        21 The Battlement, MANYANA</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 479  DP 547239</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        18 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125286&amp;propkey=24517</link><guid
+        isPermaLink="false">125286</guid><pubDate>Thu, 30 May 2019 02:00:45 GMT</pubDate></item><item><title>DA19/1523
+        - New Dwelling</title><description><![CDATA[<table style=width: 500px;><tr><td
+        style=width:150px;><b>Date received:</b></td><td> 30 May 2019</td></tr><tr><td
+        style=width:150px;><b>Application type:</b></td><td> Development Application</td></tr><tr><td
+        style=width:150px;><b>Address:</b></td><td> 29 Whimbrel Dr, SUSSEX INLET</td></tr><tr><td
+        style=width:150px;><b>&nbsp;</b></td><td> Lot 230  DP 702942</td></tr><tr><td
+        style=width:150px;><b>Submissions close:</b></td><td> 22 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125273&amp;propkey=53190</link><guid
+        isPermaLink="false">125273</guid><pubDate>Wed, 29 May 2019 23:57:50 GMT</pubDate></item><item><title>DA19/1521
+        - New Urban Dwelling - Proposed building envelope for dwelling and shed and
+        associated vegetation clearing</title><description><![CDATA[<table style=width:
+        500px;><tr><td style=width:150px;><b>Date received:</b></td><td> 29 May 2019</td></tr><tr><td
+        style=width:150px;><b>Application type:</b></td><td> Development Application</td></tr><tr><td
+        style=width:150px;><b>Address:</b></td><td> Wandra Rd, SUSSEX INLET</td></tr><tr><td
+        style=width:150px;><b>&nbsp;</b></td><td> Lot 28  DP 9897</td></tr><tr><td
+        style=width:150px;><b>Submissions close:</b></td><td> 20 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125254&amp;propkey=45432</link><guid
+        isPermaLink="false">125254</guid><pubDate>Wed, 29 May 2019 01:22:56 GMT</pubDate></item><item><title>DA19/1518
+        - Outbuildings - Detached Colourbond Shed</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        29 May 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        17 Hickory Cr, BANGALEE</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 207  DP 1224712</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        19 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125246&amp;propkey=119652</link><guid
+        isPermaLink="false">125246</guid><pubDate>Wed, 29 May 2019 00:14:21 GMT</pubDate></item><item><title>DA19/1517
+        - Garages &amp; Carports - To build detached garage forward of the front building
+        line</title><description><![CDATA[<table style=width: 500px;><tr><td style=width:150px;><b>Date
+        received:</b></td><td> 29 May 2019</td></tr><tr><td style=width:150px;><b>Application
+        type:</b></td><td> Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        64 Red Gum Dr, ULLADULLA</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 510  DP 1235307</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        18 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125242&amp;propkey=120884</link><guid
+        isPermaLink="false">125242</guid><pubDate>Tue, 28 May 2019 23:21:50 GMT</pubDate></item><item><title>DA19/1516
+        - Dwelling addition</title><description><![CDATA[<table style=width: 500px;><tr><td
+        style=width:150px;><b>Date received:</b></td><td> 28 May 2019</td></tr><tr><td
+        style=width:150px;><b>Application type:</b></td><td> Development Application</td></tr><tr><td
+        style=width:150px;><b>Address:</b></td><td> 22 West St, GREENWELL POINT</td></tr><tr><td
+        style=width:150px;><b>&nbsp;</b></td><td> Lot 40  DP 24386  Sec G</td></tr><tr><td
+        style=width:150px;><b>Submissions close:</b></td><td> 24 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125232&amp;propkey=948</link><guid
+        isPermaLink="false">125232</guid><pubDate>Tue, 28 May 2019 05:14:25 GMT</pubDate></item><item><title>RD19/1000
+        - Outbuildings</title><description><![CDATA[<table style=width: 500px;><tr><td
+        style=width:150px;><b>Date received:</b></td><td> 28 May 2019</td></tr><tr><td
+        style=width:150px;><b>Application type:</b></td><td> Review of Decision S82A</td></tr><tr><td
+        style=width:150px;><b>Address:</b></td><td> 10 Boxsells Lane, MEROO MEADOW</td></tr><tr><td
+        style=width:150px;><b>&nbsp;</b></td><td> Lot 1  DP 589387</td></tr><tr><td
+        style=width:150px;><b>Submissions close:</b></td><td> 19 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125231&amp;propkey=43918</link><guid
+        isPermaLink="false">125231</guid><pubDate>Tue, 28 May 2019 04:49:42 GMT</pubDate></item><item><title>DA19/1515
+        - Urban Dwelling Additions - Proposed alterations and additions to existing
+        residential dwelling. Bedroom and ensuite added and family room extended.
+        Brick veneer with a tiled roof to match existing dwelling</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        28 May 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        3 Thadalee Pl, ULLADULLA</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 20  DP 44306</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        19 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125229&amp;propkey=35879</link><guid
+        isPermaLink="false">125229</guid><pubDate>Tue, 28 May 2019 04:16:32 GMT</pubDate></item><item><title>DA19/1513
+        - Detached Shed on Existing Slab</title><description><![CDATA[<table style=width:
+        500px;><tr><td style=width:150px;><b>Date received:</b></td><td> 28 May 2019</td></tr><tr><td
+        style=width:150px;><b>Application type:</b></td><td> Development Application</td></tr><tr><td
+        style=width:150px;><b>Address:</b></td><td> 44 Calymea St, NOWRA HILL</td></tr><tr><td
+        style=width:150px;><b>&nbsp;</b></td><td> Lot 35  DP 29970</td></tr><tr><td
+        style=width:150px;><b>Submissions close:</b></td><td> 24 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125220&amp;propkey=43614</link><guid
+        isPermaLink="false">125220</guid><pubDate>Tue, 28 May 2019 01:52:37 GMT</pubDate></item><item><title>DA19/1512
+        - Single Storey Dwelling &amp; Detached Secondary Dwelling</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        28 May 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        2 Clipper Rd, NOWRA</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 101  DP 703670</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        28 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125213&amp;propkey=53596</link><guid
+        isPermaLink="false">125213</guid><pubDate>Tue, 28 May 2019 01:44:35 GMT</pubDate></item><item><title>DA19/1511
+        - Demolition Of Existing Structures, Construction Of Dual Occupancy With Torrens
+        Title Subdivision</title><description><![CDATA[<table style=width: 500px;><tr><td
+        style=width:150px;><b>Date received:</b></td><td> 28 May 2019</td></tr><tr><td
+        style=width:150px;><b>Application type:</b></td><td> Development Application</td></tr><tr><td
+        style=width:150px;><b>Address:</b></td><td> 435 Elizabeth Dr, VINCENTIA</td></tr><tr><td
+        style=width:150px;><b>&nbsp;</b></td><td> Lot 1342  DP 216860</td></tr><tr><td
+        style=width:150px;><b>Submissions close:</b></td><td> 24 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125215&amp;propkey=13209</link><guid
+        isPermaLink="false">125215</guid><pubDate>Tue, 28 May 2019 01:42:15 GMT</pubDate></item><item><title>DA19/1510
+        - Urban Dwelling Additions - Addition To Existing Deck &amp; Concrete Encasement
+        Of Sewer</title><description><![CDATA[<table style=width: 500px;><tr><td style=width:150px;><b>Date
+        received:</b></td><td> 28 May 2019</td></tr><tr><td style=width:150px;><b>Application
+        type:</b></td><td> Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        10 Omega Pl, VINCENTIA</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 6  DP 270413</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        18 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125209&amp;propkey=95322</link><guid
+        isPermaLink="false">125209</guid><pubDate>Tue, 28 May 2019 01:25:03 GMT</pubDate></item><item><title>DA19/1509
+        - New Single Storey and Secondary Dwelling</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        28 May 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        55 Queen Mary St, CALLALA BEACH</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 17  DP 27358  Sec C</td></tr><tr><td style=width:150px;><b>Submissions
+        close:</b></td><td> 20 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125207&amp;propkey=28330</link><guid
+        isPermaLink="false">125207</guid><pubDate>Tue, 28 May 2019 01:19:56 GMT</pubDate></item><item><title>DA19/1508
+        - New Urban Single Storey Dwelling</title><description><![CDATA[<table style=width:
+        500px;><tr><td style=width:150px;><b>Date received:</b></td><td> 28 May 2019</td></tr><tr><td
+        style=width:150px;><b>Application type:</b></td><td> Development Application</td></tr><tr><td
+        style=width:150px;><b>Address:</b></td><td> 44 Hollingsworth Cr, CALLALA BAY</td></tr><tr><td
+        style=width:150px;><b>&nbsp;</b></td><td> Lot 92  DP 777916</td></tr><tr><td
+        style=width:150px;><b>Submissions close:</b></td><td> 15 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125203&amp;propkey=72749</link><guid
+        isPermaLink="false">125203</guid><pubDate>Tue, 28 May 2019 01:10:24 GMT</pubDate></item><item><title>DA19/1506
+        - New Secondary Dwelling - Granny Flat</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        28 May 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        18 Emmett St, CALLALA BAY</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 4  DP 832244</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        19 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125194&amp;propkey=83386</link><guid
+        isPermaLink="false">125194</guid><pubDate>Tue, 28 May 2019 00:38:12 GMT</pubDate></item><item><title>DA19/1504
+        - Urban Dwelling Additions - Proposed shed, carport, extension of deck and
+        the addition of a new bedroom by installing separation walls in the living
+        room</title><description><![CDATA[<table style=width: 500px;><tr><td style=width:150px;><b>Date
+        received:</b></td><td> 27 May 2019</td></tr><tr><td style=width:150px;><b>Application
+        type:</b></td><td> Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        23 Thistleton Dr, BURRILL LAKE</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 103  DP 21307</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        19 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125183&amp;propkey=21704</link><guid
+        isPermaLink="false">125183</guid><pubDate>Mon, 27 May 2019 06:00:18 GMT</pubDate></item><item><title>SF10743
+        - 158 lot residential subdivision including public road opening plus creation
+        of 2 x public reserves &amp; 1 sewer pumping station lot</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        27 May 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Subdivision Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        Old Southern Rd, SOUTH NOWRA</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 188  DP 755952</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        12 July 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125171&amp;propkey=42461</link><guid
+        isPermaLink="false">125171</guid><pubDate>Mon, 27 May 2019 04:37:16 GMT</pubDate></item><item><title>DA19/1502
+        - Urban Dwelling Additions - Attached Garage, Bedroom &amp; Deck Addition</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        27 May 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        379 Elizabeth Dr, VINCENTIA</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 1370  DP 216860</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        14 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125154&amp;propkey=20059</link><guid
+        isPermaLink="false">125154</guid><pubDate>Mon, 27 May 2019 00:43:08 GMT</pubDate></item><item><title>DA19/1491
+        - Detached Shed with Awning</title><description><![CDATA[<table style=width:
+        500px;><tr><td style=width:150px;><b>Date received:</b></td><td> 23 May 2019</td></tr><tr><td
+        style=width:150px;><b>Application type:</b></td><td> Development Application</td></tr><tr><td
+        style=width:150px;><b>Address:</b></td><td> 14 Hermes Cr, WORRIGEE</td></tr><tr><td
+        style=width:150px;><b>&nbsp;</b></td><td> Lot 91  DP 879816</td></tr><tr><td
+        style=width:150px;><b>Submissions close:</b></td><td> 18 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125083&amp;propkey=88862</link><guid
+        isPermaLink="false">125083</guid><pubDate>Thu, 23 May 2019 00:53:05 GMT</pubDate></item><item><title>DA19/1489
+        - Miscellaneous - Stardust Circus</title><description><![CDATA[<table style=width:
+        500px;><tr><td style=width:150px;><b>Date received:</b></td><td> 23 May 2019</td></tr><tr><td
+        style=width:150px;><b>Application type:</b></td><td> Development Application</td></tr><tr><td
+        style=width:150px;><b>Address:</b></td><td> 18 East St, NOWRA</td></tr><tr><td
+        style=width:150px;><b>&nbsp;</b></td><td> Lot 2  DP 130806</td></tr><tr><td
+        style=width:150px;><b>Submissions close:</b></td><td> 19 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125075&amp;propkey=86336</link><guid
+        isPermaLink="false">125075</guid><pubDate>Thu, 23 May 2019 00:18:59 GMT</pubDate></item><item><title>DA19/1488
+        - Urban Dwelling Additions - Extensions &amp; Additions to Existing House</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        22 May 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        20 Manning Av, NARRAWALLEE</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 443  DP 226125</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        19 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125063&amp;propkey=17289</link><guid
+        isPermaLink="false">125063</guid><pubDate>Wed, 22 May 2019 06:16:14 GMT</pubDate></item><item><title>DA19/1487
+        - Maintenance and Revegetation of Gully</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        22 May 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        11 Nugents Creek Rd, KANGAROO VALLEY</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 4  DP 1195609</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        15 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125059&amp;propkey=117893</link><guid
+        isPermaLink="false">125059</guid><pubDate>Wed, 22 May 2019 05:02:46 GMT</pubDate></item><item><title>DS19/1219
+        - Residential - 2 lot subdivision</title><description><![CDATA[<table style=width:
+        500px;><tr><td style=width:150px;><b>Date received:</b></td><td> 22 May 2019</td></tr><tr><td
+        style=width:150px;><b>Application type:</b></td><td> Section 96 Amendment</td></tr><tr><td
+        style=width:150px;><b>Address:</b></td><td> 111 Woollamia Rd, FALLS CREEK</td></tr><tr><td
+        style=width:150px;><b>&nbsp;</b></td><td> Lot 159A  DP 15266</td></tr><tr><td
+        style=width:150px;><b>Submissions close:</b></td><td> 18 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125052&amp;propkey=42852</link><guid
+        isPermaLink="false">125052</guid><pubDate>Wed, 22 May 2019 04:31:59 GMT</pubDate></item><item><title>DA19/1478
+        - New Commercial - Alterations &amp; Additions to existing dairy bales to
+        enable their use for short term tourist accomodation</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        21 May 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        119 Bong Bong Rd, BROUGHTON VALE</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 103  DP 786955</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        14 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125003&amp;propkey=73438</link><guid
+        isPermaLink="false">125003</guid><pubDate>Tue, 21 May 2019 05:30:44 GMT</pubDate></item><item><title>DA19/1476
+        - Single Storey Dwelling</title><description><![CDATA[<table style=width:
+        500px;><tr><td style=width:150px;><b>Date received:</b></td><td> 21 May 2019</td></tr><tr><td
+        style=width:150px;><b>Application type:</b></td><td> Development Application</td></tr><tr><td
+        style=width:150px;><b>Address:</b></td><td> 65 Parker Cr, BERRY</td></tr><tr><td
+        style=width:150px;><b>&nbsp;</b></td><td> Lot 704  DP 1247531</td></tr><tr><td
+        style=width:150px;><b>Submissions close:</b></td><td> 13 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=124997&amp;propkey=121783</link><guid
+        isPermaLink="false">124997</guid><pubDate>Tue, 21 May 2019 05:09:28 GMT</pubDate></item><item><title>SF10741
+        - Residential - Subdivision - Create Two Lot Subdivision</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        20 May 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Subdivision Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        636 Murramarang Rd, KIOLOA</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 9  DP 245582</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        14 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=124956&amp;propkey=27108</link><guid
+        isPermaLink="false">124956</guid><pubDate>Mon, 20 May 2019 01:10:06 GMT</pubDate></item><item><title>DA19/1460
+        - New Commercial - Construction of 100 Space Staff Car Park</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        15 May 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        8 Moona Creek Rd, VINCENTIA</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 1  DP 1182358</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        19 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=124864&amp;propkey=117365</link><guid
+        isPermaLink="false">124864</guid><pubDate>Wed, 15 May 2019 01:14:34 GMT</pubDate></item><item><title>DA19/1454
+        - Commercial Additions - Additions and Alterations - Adding a motel room</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        13 May 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        1 Crescent St, ULLADULLA</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 20  DP 733623</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        20 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=124810&amp;propkey=62364</link><guid
+        isPermaLink="false">124810</guid><pubDate>Mon, 13 May 2019 05:29:22 GMT</pubDate></item><item><title>DS19/1188
+        - Dwelling alterations, new deck, new garage - Front building line variation.
+        - Section 4.55 - Install sliding door in an existing window opening and infill
+        an existing bricked alcove with a small deck</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        06 May 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Section 96 Amendment</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        18 Tallwood Av, NARRAWALLEE</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 356  DP 221892</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        15 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=124610&amp;propkey=18981</link><guid
+        isPermaLink="false">124610</guid><pubDate>Mon, 06 May 2019 04:21:24 GMT</pubDate></item><item><title>DA19/1423
+        - Urban Dwelling Additions - Proposed Alterations &amp; Additions to existing
+        dwelling</title><description><![CDATA[<table style=width: 500px;><tr><td style=width:150px;><b>Date
+        received:</b></td><td> 02 May 2019</td></tr><tr><td style=width:150px;><b>Application
+        type:</b></td><td> Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        8 King St, BERRY</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 24  DP 375126</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        21 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=124543&amp;propkey=5181</link><guid
+        isPermaLink="false">124543</guid><pubDate>Thu, 02 May 2019 02:38:42 GMT</pubDate></item><item><title>DA19/1398
+        - Internal Alts and Adds - 3 Internal rooms, New Shop Front, Reception Area
+        for Recreation Facility</title><description><![CDATA[<table style=width: 500px;><tr><td
+        style=width:150px;><b>Date received:</b></td><td> 26 April 2019</td></tr><tr><td
+        style=width:150px;><b>Application type:</b></td><td> Development Application</td></tr><tr><td
+        style=width:150px;><b>Address:</b></td><td> 35 Cumberland Av, SOUTH NOWRA</td></tr><tr><td
+        style=width:150px;><b>&nbsp;</b></td><td> Lot 8  SP 81565</td></tr><tr><td
+        style=width:150px;><b>Submissions close:</b></td><td> 17 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=124416&amp;propkey=99563</link><guid
+        isPermaLink="false">124416</guid><pubDate>Fri, 26 Apr 2019 05:16:41 GMT</pubDate></item><item><title>DA19/1370
+        - Commercial Additions - Change of use</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        16 April 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        206 Princes Hwy, SOUTH NOWRA</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 18  DP 596154</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        15 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=124210&amp;propkey=41758</link><guid
+        isPermaLink="false">124210</guid><pubDate>Tue, 16 Apr 2019 02:29:41 GMT</pubDate></item><item><title>DA19/1349
+        - Garages &amp; Carports - Proposed Metal Shed with Demolition of Existing
+        Shed</title><description><![CDATA[<table style=width: 500px;><tr><td style=width:150px;><b>Date
+        received:</b></td><td> 10 April 2019</td></tr><tr><td style=width:150px;><b>Application
+        type:</b></td><td> Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        52 Lackersteen St, CALLALA BAY</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 6  DP 9063  Sec 7A</td></tr><tr><td style=width:150px;><b>Submissions
+        close:</b></td><td> 28 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=124051&amp;propkey=47886</link><guid
+        isPermaLink="false">124051</guid><pubDate>Wed, 10 Apr 2019 04:24:15 GMT</pubDate></item><item><title>DA19/1290
+        - Urban Dwelling Additions - Build a timber frame deck addition, increasing
+        size of existing deck - Building Line Variation</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        26 March 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        99 South Pacific Cr, ULLADULLA</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 6  DP 29760</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        13 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=123679&amp;propkey=16825</link><guid
+        isPermaLink="false">123679</guid><pubDate>Tue, 26 Mar 2019 03:37:51 GMT</pubDate></item><item><title>DA18/2339
+        - Inground Swimming Pool</title><description><![CDATA[<table style=width:
+        500px;><tr><td style=width:150px;><b>Date received:</b></td><td> 10 December
+        2018</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        60 Queen St, BERRY</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 1  DP 1109325</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        26 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=121347&amp;propkey=97519</link><guid
+        isPermaLink="false">121347</guid><pubDate>Mon, 10 Dec 2018 00:15:36 GMT</pubDate></item></channel></rss>'
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+recorded_with: VCR 5.0.0

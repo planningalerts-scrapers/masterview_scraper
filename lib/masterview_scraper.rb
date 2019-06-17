@@ -8,6 +8,7 @@ require "masterview_scraper/authorities/logan"
 require "masterview_scraper/authorities/mackay"
 require "masterview_scraper/authorities/marion"
 require "masterview_scraper/authorities/moreton_bay"
+require "masterview_scraper/authorities/shoalhaven"
 require "masterview_scraper/pages/index"
 require "masterview_scraper/pages/terms_and_conditions"
 
@@ -60,6 +61,8 @@ module MasterviewScraper
       Authorities::Marion.scrape_and_save
     elsif authority == :moreton_bay
       Authorities::MoretonBay.scrape_and_save
+    elsif authority == :shoalhaven
+      Authorities::Shoalhaven.scrape_and_save
     else
       raise "Unexpected authority: #{authority}"
     end
