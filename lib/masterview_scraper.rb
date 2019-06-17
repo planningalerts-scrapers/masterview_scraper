@@ -90,6 +90,9 @@ module MasterviewScraper
     page = agent.get(url)
     Pages::TermsAndConditions.click_agree(page)
 
+    # Some (but not all) sites do not redirect back to the original
+    # requested url after the terms and conditions page. So,
+    # let's just request it again
     page = agent.get(url)
 
     while page
