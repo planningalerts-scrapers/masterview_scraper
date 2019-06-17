@@ -32,7 +32,12 @@ module MasterviewScraper
         )
       end
 
-      def self.next_index_page(page, current_page_no)
+      def self.current_index_page_no(page)
+        page.at(".rgCurrentPage").inner_text.to_i
+      end
+
+      def self.next_index_page(page)
+        current_page_no = current_index_page_no(page)
         page_links = page.at(".rgNumPart")
         next_page_link = if page_links
           page_links.search("a").find{|a| a.inner_text == (current_page_no + 1).to_s}
@@ -56,7 +61,7 @@ module MasterviewScraper
           puts "Scraping page #{current_page_no}..."
           scrape_page(page)
 
-          page = next_index_page(page, current_page_no)
+          page = next_index_page(page)
           current_page_no += 1
         end
       end
