@@ -7,6 +7,9 @@ module MasterviewScraper
       headers = header_elements(table).map { |th| th.inner_text.strip }
       body_rows(table).map do |tr|
         row = tr.search("td").map { |td| td.inner_html.strip }
+        # Just skip a row with a different number of columns
+        next if row.length != headers.length
+
         link = tr.at("a")
         raise "Couldn't find link" if link.nil?
 
@@ -14,7 +17,7 @@ module MasterviewScraper
           url: link["href"],
           content: headers.zip(row).to_h
         }
-      end
+      end.compact
     end
 
     def self.header_elements(table)
