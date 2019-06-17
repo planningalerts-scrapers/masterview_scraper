@@ -50,15 +50,17 @@ module MasterviewScraper
         end
       end
 
-      def self.scrape_and_save
-        starting_url = 'http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=found&1=thismonth&4a=DA&6=F'
+      def self.url
+        'http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=found&1=thismonth&4a=DA&6=F'
+      end
 
+      def self.scrape_and_save
         agent = Mechanize.new
 
         # Jump through bollocks agree screen
-        doc = agent.get(starting_url)
+        doc = agent.get(url)
         doc = doc.forms.first.submit(doc.forms.first.button_with(:value => "Agree"))
-        doc = agent.get(starting_url)
+        doc = agent.get(url)
 
         scrape_and_follow_next_link(doc)
       end
