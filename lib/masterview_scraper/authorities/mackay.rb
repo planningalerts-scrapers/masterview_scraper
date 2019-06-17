@@ -5,16 +5,7 @@ module MasterviewScraper
   module Authorities
     module Mackay
       def self.process_page(page)
-        page.search('tr.rgRow,tr.rgAltRow').each do |tr|
-          record = {
-            "info_url" => (page.uri + tr.search('td').at('a')["href"]).to_s,
-            "council_reference" => tr.search('td')[1].inner_text.gsub("\r\n", "").strip,
-            "date_received" => Date.parse(tr.search('td')[2].inner_text.gsub("\r\n", "").strip).to_s,
-            "description" => tr.search('td')[3].inner_html.gsub("\r", " ").strip.split("<br>")[1],
-            "address" => tr.search('td')[3].inner_html.gsub("\r", " ").strip.split("<br>")[0],
-            "date_scraped" => Date.today.to_s
-          }
-
+        Pages::Index.scrape(page) do |record|
           MasterviewScraper.save(record)
         end
       end
