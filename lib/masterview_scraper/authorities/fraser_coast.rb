@@ -24,12 +24,6 @@ module MasterviewScraper
         end
       end
 
-      def self.scrape_and_save_index_page(page)
-        scrape_index_page(page) do |record|
-          MasterviewScraper.save(record)
-        end
-      end
-
       def self.url
         MasterviewScraper.url_last_14_days(
           "https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster",
@@ -64,7 +58,9 @@ module MasterviewScraper
         page = agent.get(url)
 
         while page
-          scrape_and_save_index_page(page)
+          scrape_index_page(page) do |record|
+            MasterviewScraper.save(record)
+          end
           page = next_index_page(page)
         end
       end
