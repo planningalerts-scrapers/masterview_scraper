@@ -5,7 +5,7 @@ module MasterviewScraper
   module Postback
     # Implement a click on a link that understands stupid asp.net doPostBack
     def self.click(doc, page)
-      js = doc["onclick"] || doc["href"]
+      js = doc["href"] || doc["onclick"]
       raise "Couldn't find one of the expected attributes" if js.nil?
 
       return if js =~ /return false;/
