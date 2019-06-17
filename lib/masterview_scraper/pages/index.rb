@@ -13,12 +13,13 @@ module MasterviewScraper
           details = row[:content]["Details"].split("<br>").map do |detail|
             strip_html(detail).squeeze(" ").strip
           end
+          raise "Unexpected number of things in details" if details.length < 2 || details.length > 3
 
           yield(
             "info_url" => (page.uri + row[:url]).to_s,
             "council_reference" => row[:content]["Number"],
             "date_received" => Date.strptime(row[:content]["Submitted"], "%d/%m/%Y").to_s,
-            "description" => details[1],
+            "description" => (details.length == 3 ? details[2] : details[1]),
             "address" => details[0],
             "date_scraped" => Date.today.to_s
           )
