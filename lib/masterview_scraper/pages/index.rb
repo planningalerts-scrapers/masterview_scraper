@@ -32,7 +32,22 @@ module MasterviewScraper
         link = page.at(".rgPageNext")
         return if link.nil?
 
-        Postback.click(link, page)
+        # So far come across two different setups. One where the next
+        # button is a postback link and one where the next button is a
+        # form submit button.
+        if link["href"] || link["onclick"]
+          Postback.click(link, page)
+        else
+          current_page_no = current_index_page_no(page)
+          page_links = page.at(".rgNumPart")
+          next_page_link = page_links&.search("a")
+                                     &.find { |a| a.inner_text == (current_page_no + 1).to_s }
+          (Postback.click(next_page_link, page) if next_page_link)
+        end
+      end
+
+      def self.current_index_page_no(page)
+        page.at(".rgCurrentPage").inner_text.to_i
       end
 
       # Strips any html tags and decodes any html entities
