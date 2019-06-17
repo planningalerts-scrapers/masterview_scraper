@@ -22,6 +22,21 @@ module MasterviewScraper
         end
       end
 
+      def self.next_page(page, current_page_no)
+        page_links = page.at(".rgNumPart")
+        if page_links
+          next_page_link = page_links.search("a").find{|a| a.inner_text == (current_page_no + 1).to_s}
+        else
+          next_page_link = nil
+        end
+        if next_page_link
+          page = Postback.click(next_page_link, page)
+        else
+          page = nil
+        end
+        page
+      end
+
       def self.scrape_and_save
         url = MasterviewScraper.url_last_14_days(
           "http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster",
@@ -37,22 +52,13 @@ module MasterviewScraper
 
         page = agent.get(url)
         current_page_no = 1
-        next_page_link = true
 
-        while next_page_link
+        while page
           puts "Scraping page #{current_page_no}..."
           scrape_page(page)
 
-          page_links = page.at(".rgNumPart")
-          if page_links
-            next_page_link = page_links.search("a").find{|a| a.inner_text == (current_page_no + 1).to_s}
-          else
-            next_page_link = nil
-          end
-          if next_page_link
-            current_page_no += 1
-            page = Postback.click(next_page_link, page)
-          end
+          page = next_page(page, current_page_no)
+          current_page_no += 1
         end
       end
     end
