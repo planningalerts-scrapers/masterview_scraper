@@ -4,12 +4,6 @@ require 'mechanize'
 module MasterviewScraper
   module Authorities
     module Mackay
-      def self.postback(form, target, argument)
-        form['__EVENTTARGET'] = target
-        form['__EVENTARGUMENT'] = argument
-        form.submit
-      end
-
       def self.process_page(page)
         page.search('tr.rgRow,tr.rgAltRow').each do |tr|
           record = {
@@ -21,9 +15,7 @@ module MasterviewScraper
             "date_received" => Date.parse(tr.search('td')[2].inner_text.gsub("\r\n", "").strip).to_s,
           }
 
-          puts "Saving record " + record['council_reference'] + " - " + record['address']
-      #       puts record
-          ScraperWiki.save_sqlite(['council_reference'], record)
+          MasterviewScraper.save(record)
         end
       end
 
@@ -37,18 +29,9 @@ module MasterviewScraper
         agent = Mechanize.new
         page = agent.get(url)
 
-        if page.search('div.rgNumPart a').empty?
+        while page
           process_page(page)
-        else
-          i = 1
-          page.search('div.rgNumPart a').each do |a|
-            puts "scraping page " + i.to_s
-            target, argument = a[:href].scan(/'([^']*)'/).flatten
-            page = postback(page.form, target, argument)
-
-            process_page(page)
-            i += 1
-          end
+          page = Pages::Index.next(page)
         end
       end
     end
