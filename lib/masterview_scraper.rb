@@ -4,7 +4,6 @@ require "masterview_scraper/version"
 require "masterview_scraper/authorities/bellingen"
 require "masterview_scraper/authorities/brisbane"
 require "masterview_scraper/authorities/lake_macquarie"
-require "masterview_scraper/authorities/logan"
 require "masterview_scraper/authorities/mackay"
 require "masterview_scraper/authorities/marion"
 require "masterview_scraper/authorities/moreton_bay"
@@ -56,7 +55,10 @@ module MasterviewScraper
     elsif authority == :lake_macquarie
       Authorities::LakeMacquarie.scrape_and_save
     elsif authority == :logan
-      Authorities::Logan.scrape_and_save
+      MasterviewScraper.scrape_and_save_last_14_days(
+        url: "http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster",
+        params: { "6" => "F" }
+      )
     elsif authority == :mackay
       Authorities::Mackay.scrape_and_save
     elsif authority == :marion
