@@ -42,7 +42,9 @@ module MasterviewScraper
   def self.url_date_range(base_url, from, to, extra_params)
     params = {
       "1" => from.strftime("%d/%m/%Y"),
-      "2" => to.strftime("%d/%m/%Y")
+      "2" => to.strftime("%d/%m/%Y"),
+      "page" => "found",
+      "6" => "F"
     }
     url_with_params(base_url, params.merge(extra_params))
   end
@@ -62,11 +64,6 @@ module MasterviewScraper
   end
 
   def self.url_last_14_days(base_url, extra_params = {})
-    params = {
-      "page" => "found",
-      "6" => "F"
-    }
-
-    url_date_range(base_url, Date.today - 14, Date.today, params.merge(extra_params))
+    url_date_range(base_url, Date.today - 14, Date.today, extra_params)
   end
 end
