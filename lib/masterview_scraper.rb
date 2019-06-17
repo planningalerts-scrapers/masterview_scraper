@@ -57,7 +57,12 @@ module MasterviewScraper
     base_url + "/default.aspx?" + params.map { |k, v| "#{k}=#{v}" }.join("&")
   end
 
-  def self.url_last_14_days(base_url, extra_params)
-    url_date_range(base_url, Date.today - 14, Date.today, extra_params)
+  def self.url_last_14_days(base_url, extra_params = {})
+    params = {
+      "page" => "found",
+      "6" => "F"
+    }
+
+    url_date_range(base_url, Date.today - 14, Date.today, params.merge(extra_params))
   end
 end
