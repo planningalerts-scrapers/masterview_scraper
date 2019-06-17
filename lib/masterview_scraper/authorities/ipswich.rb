@@ -5,36 +5,26 @@ module MasterviewScraper
   module Authorities
     module Ipswich
       def self.scrape_page(page)
-        page.at("table.rgMasterTable").search("tr.rgRow,tr.rgAltRow").each do |tr|
-          tds = tr.search('td').map{|t| t.inner_html.gsub("\r\n", "").strip}
-          day, month, year = tds[2].split("/").map{|s| s.to_i}
+        table = page.at("table.rgMasterTable")
+        Table.extract_table(table).each do |row|
+          # The details section actually consists of seperate parts
+          details = row[:content]["Details"] ||
+                    row[:content]["Property/Application Details"]
+          details = details.split("<br>").map do |detail|
+            Pages::Index.strip_html(detail).squeeze(" ").strip
+          end
+          raise "Unexpected number of things in details" if details.length < 2 || details.length > 3
+
           record = {
-            "info_url" => (page.uri + tr.search('td').at('a')["href"]).to_s,
-            "council_reference" => tds[1],
-            "date_received" => Date.new(year, month, day).to_s,
-            "description" => tds[3].gsub("&amp;", "&").split("<br>")[1].squeeze(" ").strip,
-            "address" => tds[3].gsub("&amp;", "&").split("<br>")[0].gsub("\r", " ").squeeze(" ").strip,
+            "info_url" => (page.uri + row[:url]).to_s,
+            "council_reference" => row[:content]["Number"],
+            "date_received" => Date.strptime(row[:content]["Submitted"], "%d/%m/%Y").to_s,
+            "description" => details[1],
+            "address" => details[0].gsub("\r", " "),
             "date_scraped" => Date.today.to_s
           }
-          #p record
-          puts "Saving record " + record['council_reference'] + ", " + record['address']
-          ScraperWiki.save_sqlite(['council_reference'], record)
+          MasterviewScraper.save(record)
         end
-      end
-
-      def self.next_page(page, current_page_no)
-        page_links = page.at(".rgNumPart")
-        if page_links
-          next_page_link = page_links.search("a").find{|a| a.inner_text == (current_page_no + 1).to_s}
-        else
-          next_page_link = nil
-        end
-        if next_page_link
-          page = Postback.click(next_page_link, page)
-        else
-          page = nil
-        end
-        page
       end
 
       def self.scrape_and_save
@@ -51,14 +41,10 @@ module MasterviewScraper
         Pages::TermsAndConditions.click_agree(page)
 
         page = agent.get(url)
-        current_page_no = 1
 
         while page
-          puts "Scraping page #{current_page_no}..."
           scrape_page(page)
-
-          page = next_page(page, current_page_no)
-          current_page_no += 1
+          page = Pages::Index.next(page)
         end
       end
     end
