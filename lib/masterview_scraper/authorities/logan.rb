@@ -41,7 +41,11 @@ module MasterviewScraper
       end
 
       def self.scrape_and_save
-        url = "http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=found&1=thisweek&6=F"
+        url = MasterviewScraper.url_with_period(
+          "http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster",
+          "thisweek",
+          "6" => "F"
+        )
 
         agent = Mechanize.new
 
