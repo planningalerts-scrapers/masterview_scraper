@@ -21,6 +21,7 @@ module MasterviewScraper
             "date_received" => Date.strptime(row[:content]["Submitted"], "%d/%m/%Y").to_s,
             "description" => (details.length == 3 ? details[2] : details[1]),
             "address" => details[0],
+            # TODO: date_scraped should NOT be added here
             "date_scraped" => Date.today.to_s
           )
         end
