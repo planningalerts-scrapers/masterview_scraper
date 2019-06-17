@@ -4,7 +4,6 @@ require "masterview_scraper/version"
 require "masterview_scraper/authorities/bellingen"
 require "masterview_scraper/authorities/brisbane"
 require "masterview_scraper/authorities/lake_macquarie"
-require "masterview_scraper/authorities/mackay"
 require "masterview_scraper/authorities/marion"
 require "masterview_scraper/authorities/moreton_bay"
 require "masterview_scraper/authorities/shoalhaven"
@@ -60,7 +59,13 @@ module MasterviewScraper
         params: { "6" => "F" }
       )
     elsif authority == :mackay
-      Authorities::Mackay.scrape_and_save
+      MasterviewScraper.scrape_and_save_last_30_days(
+        url: "https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster",
+        params: {
+          "4a" => "443,444,445,446,487,555,556,557,558,559,560,564",
+          "6" => "F"
+        }
+      )
     elsif authority == :marion
       Authorities::Marion.scrape_and_save
     elsif authority == :moreton_bay
@@ -80,6 +85,10 @@ module MasterviewScraper
     scrape_and_save_url(url_last_14_days(url, params), state)
   end
 
+  def self.scrape_and_save_last_30_days(url:, params:, state: nil)
+    scrape_and_save_url(url_last_30_days(url, params), state)
+  end
+
   def self.scrape_and_save_url(url, state = nil)
     scrape(url, state) { |record| save(record) }
   end
@@ -90,12 +99,15 @@ module MasterviewScraper
 
     # Read in a page
     page = agent.get(url)
-    Pages::TermsAndConditions.click_agree(page)
 
-    # Some (but not all) sites do not redirect back to the original
-    # requested url after the terms and conditions page. So,
-    # let's just request it again
-    page = agent.get(url)
+    if Pages::TermsAndConditions.on_page?(page)
+      Pages::TermsAndConditions.click_agree(page)
+
+      # Some (but not all) sites do not redirect back to the original
+      # requested url after the terms and conditions page. So,
+      # let's just request it again
+      page = agent.get(url)
+    end
 
     while page
       Pages::Index.scrape(page) do |record|
