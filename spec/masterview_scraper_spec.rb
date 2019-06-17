@@ -38,7 +38,7 @@ RSpec.describe MasterviewScraper do
     end
 
     AUTHORITIES = %i[
-      lake_macquarie ipswich hawkesbury fraser_coast fairfield bellingen brisbane
+      logan lake_macquarie ipswich hawkesbury fraser_coast fairfield bellingen brisbane
     ].freeze
 
     AUTHORITIES.each do |authority|
