@@ -13,12 +13,17 @@ module MasterviewScraper
         table = doc.at("table")
         data = MasterviewScraper::Table.extract_table(table)
         data.each do |row|
+          # The details section actually consists of seperate parts
+          details = row[:content]["Details"].split("<br>").map do |detail|
+            Pages::Index.strip_html(detail).squeeze(" ").strip
+          end
+
           record = {
             'info_url' => (doc.uri + row[:url]).to_s,
             'council_reference' => row[:content]["Number"],
             'date_received' => Date.strptime(row[:content]["Submitted"], "%d/%m/%Y").to_s,
-            'address' => Pages::Index.strip_html(row[:content]["Details"].split("<br>")[0]) + ", NSW",
-            'description' => Pages::Index.strip_html(row[:content]["Details"].split("<br>")[2]),
+            'address' => details[0] + ", NSW",
+            'description' => details[2],
             'date_scraped' => Date.today.to_s
           }
           MasterviewScraper.save(record)
