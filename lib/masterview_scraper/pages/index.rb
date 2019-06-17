@@ -9,12 +9,17 @@ module MasterviewScraper
       def self.scrape(page)
         table = page.at("table.rgMasterTable")
         Table.extract_table(table).each do |row|
+          # The details section actually consists of seperate parts
+          details = row[:content]["Details"].split("<br>").map do |detail|
+            strip_html(detail).squeeze(" ").strip
+          end
+
           yield(
             "info_url" => (page.uri + row[:url]).to_s,
             "council_reference" => row[:content]["Number"],
             "date_received" => Date.strptime(row[:content]["Submitted"], "%d/%m/%Y").to_s,
-            "description" => strip_html(row[:content]["Details"].split("<br>")[1]).squeeze(" "),
-            "address" => strip_html(row[:content]["Details"].split("<br>")[0]).strip,
+            "description" => details[1],
+            "address" => details[0],
             "date_scraped" => Date.today.to_s
           )
         end
