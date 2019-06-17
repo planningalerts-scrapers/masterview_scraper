@@ -29,13 +29,6 @@ module MasterviewScraper
         end
       end
 
-      def self.scrape_and_follow_next_link(doc)
-        while doc
-          scrape_table(doc)
-          doc = Pages::Index.next(doc)
-        end
-      end
-
       def self.url
         MasterviewScraper.url_last_14_days(
           "http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster",
@@ -52,7 +45,10 @@ module MasterviewScraper
 
         doc = agent.get(url)
 
-        scrape_and_follow_next_link(doc)
+        while doc
+          scrape_table(doc)
+          doc = Pages::Index.next(doc)
+        end
       end
     end
   end
