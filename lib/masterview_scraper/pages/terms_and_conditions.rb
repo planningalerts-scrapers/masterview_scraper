@@ -6,10 +6,19 @@ module MasterviewScraper
     module TermsAndConditions
       def self.click_agree(page)
         # Click the Agree button on the form
-        button = page.form.button_with(value: /Agree/)
+        form = if page.forms.count == 1
+                 page.forms[0]
+               else
+                 page.form_with(id: "aspnetForm") ||
+                   page.form_with(id: "frmApplicationMaster") ||
+                   page.form_with(id: "frmMasterView")
+               end
+        raise "Couldn't find form" if form.nil?
+
+        button = form.button_with(value: /Agree/)
         raise "Can't find agree button" if button.nil?
 
-        page.form.submit(button)
+        form.submit(button)
       end
     end
   end
