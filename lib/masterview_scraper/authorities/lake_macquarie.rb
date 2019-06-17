@@ -5,19 +5,17 @@ module MasterviewScraper
   module Authorities
     module LakeMacquarie
       def self.scrape_and_save
-        url = "http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=found&1=thisweek&4a=437&5=T"
+        url = MasterviewScraper.url_with_period(
+          "http://apptracking.lakemac.com.au/modules/ApplicationMaster",
+          "thisweek",
+          "4a" => "437",
+          "5" => "T"
+        )
 
         agent = Mechanize.new
 
-        # Read in a page
         page = agent.get(url)
-
-        # This is weird. There are two forms with the Agree / Disagree buttons. One of them
-        # works the other one doesn't. Go figure.
-        form = page.forms[0]
-        button = form.button_with(value: /Agree/)
-        raise "Can't find agree button" if button.nil?
-        page = form.submit(button)
+        Pages::TermsAndConditions.click_agree(page)
 
         page = agent.get(url)
 
@@ -36,10 +34,7 @@ module MasterviewScraper
                 "date_received" => Date.new(year, month, day).to_s
               }
 
-
-              puts "Saving record " + record['council_reference'] + " - " + record['address']
-        #         puts record
-              ScraperWiki.save_sqlite(['council_reference'], record)
+              MasterviewScraper.save(record)
             end
           end
         end
