@@ -10,21 +10,17 @@ module MasterviewScraper
       end
 
       def self.scrape_table(doc)
-        doc.search('table tbody tr').each do |tr|
-          # Columns in table
-          # Show  Number  Submitted  Details
-          tds = tr.search('td')
-          h = tds.map{|td| td.inner_html}
-
+        table = doc.at("table")
+        data = MasterviewScraper::Table.extract_table(table)
+        data.each do |row|
           record = {
-            'info_url' => (doc.uri + tds[0].at('a')['href']).to_s,
-            'council_reference' => clean_whitespace(h[1]),
-            'date_received' => Date.strptime(clean_whitespace(h[2]), '%d/%m/%Y').to_s,
-            'address' => (clean_whitespace(tds.search(:strong).inner_text) + ", NSW"),
-            'description' => CGI::unescapeHTML(clean_whitespace(h[3].split('<br>')[1..-1].join)),
+            'info_url' => (doc.uri + row[:url]).to_s,
+            'council_reference' => row[:content]["Number"],
+            'date_received' => Date.strptime(row[:content]["Submitted"], "%d/%m/%Y").to_s,
+            'address' => Pages::Index.strip_html(row[:content]["Details"].split("<br>")[0]) + ", NSW",
+            'description' => Pages::Index.strip_html(row[:content]["Details"].split("<br>")[2]),
             'date_scraped' => Date.today.to_s
           }
-
           MasterviewScraper.save(record)
         end
       end
