@@ -4,12 +4,6 @@ require 'mechanize'
 module MasterviewScraper
   module Authorities
     module Mackay
-      def self.process_page(page)
-        Pages::Index.scrape(page) do |record|
-          MasterviewScraper.save(record)
-        end
-      end
-
       def self.scrape_and_save
         url = MasterviewScraper.url_last_30_days(
           "https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster",
@@ -21,7 +15,9 @@ module MasterviewScraper
         page = agent.get(url)
 
         while page
-          process_page(page)
+          Pages::Index.scrape(page) do |record|
+            MasterviewScraper.save(record)
+          end
           page = Pages::Index.next(page)
         end
       end
