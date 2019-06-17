@@ -22,6 +22,7 @@ module MasterviewScraper
         }
       end
 
+      # TODO: Handle multiple pages of results
       def self.scrape_index_page(page, agent)
         table = (page / '//*[@id="ctl03_lblData"]').at("table")
         data = MasterviewScraper::Table.extract_table(table)
