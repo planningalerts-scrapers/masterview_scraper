@@ -4,26 +4,6 @@ require 'mechanize'
 module MasterviewScraper
   module Authorities
     module FraserCoast
-      # Strips any html tags and decodes any html entities
-      # e.g. "<strong>Tea &amp; Cake<strong>" => "Tea & Cake"
-      def self.strip_html(html)
-        Nokogiri::HTML(html).inner_text
-      end
-
-      def self.scrape_index_page(page)
-        table = page.at("table.rgMasterTable")
-        Table.extract_table(table).each do |row|
-          yield ({
-            "info_url" => (page.uri + row[:url]).to_s,
-            "council_reference" => row[:content]["Number"],
-            "date_received" => Date.strptime(row[:content]["Submitted"], "%d/%m/%Y").to_s,
-            "description" => strip_html(row[:content]["Details"].split("<br>")[1]).squeeze(" "),
-            "address" => strip_html(row[:content]["Details"].split("<br>")[0]).strip + ", QLD",
-            "date_scraped" => Date.today.to_s
-          })
-        end
-      end
-
       def self.url
         MasterviewScraper.url_last_14_days(
           "https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster",
@@ -58,7 +38,7 @@ module MasterviewScraper
         page = agent.get(url)
 
         while page
-          scrape_index_page(page) do |record|
+          Pages::Index.scrape(page) do |record|
             yield record
           end
           page = next_index_page(page)
