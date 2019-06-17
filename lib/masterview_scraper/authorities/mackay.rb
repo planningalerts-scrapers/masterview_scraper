@@ -13,13 +13,13 @@ end
 module MasterviewScraper
   module Authorities
     module Mackay
-      def self.process_page(page, base_url)
+      def self.process_page(page)
         page.search('tr.rgRow,tr.rgAltRow').each do |tr|
           record = {
             "council_reference" => tr.search('td')[1].inner_text.gsub("\r\n", "").strip,
             "address" => tr.search('td')[3].inner_html.gsub("\r", " ").strip.split("<br>")[0],
             "description" => tr.search('td')[3].inner_html.gsub("\r", " ").strip.split("<br>")[1],
-            "info_url" => base_url + tr.search('td').at('a')["href"].to_s,
+            "info_url" => (page.uri + tr.search('td').at('a')["href"]).to_s,
             "date_scraped" => Date.today.to_s,
             "date_received" => Date.parse(tr.search('td')[2].inner_text.gsub("\r\n", "").strip).to_s,
           }
@@ -38,7 +38,7 @@ module MasterviewScraper
         page = agent.get(url)
 
         if page.search('div.rgNumPart a').empty?
-          process_page(page, base_url)
+          process_page(page)
         else
           i = 1
           page.search('div.rgNumPart a').each do |a|
@@ -46,7 +46,7 @@ module MasterviewScraper
             target, argument = a[:href].scan(/'([^']*)'/).flatten
             page = page.form.postback target, argument
 
-            process_page(page, base_url)
+            process_page(page)
             i += 1
           end
         end
