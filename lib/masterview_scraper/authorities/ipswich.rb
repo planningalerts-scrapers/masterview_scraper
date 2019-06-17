@@ -33,10 +33,7 @@ module MasterviewScraper
 
         # Read in a page
         page = agent.get(url)
-
-        form = page.forms.first
-        button = form.button_with(value: "I Agree")
-        form.submit(button)
+        Pages::TermsAndConditions.click_agree(page)
 
         page = agent.get(url)
         current_page_no = 1
