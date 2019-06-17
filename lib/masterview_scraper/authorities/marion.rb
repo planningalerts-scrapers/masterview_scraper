@@ -46,13 +46,8 @@ module MasterviewScraper
           form['ctl00_RadScriptManager1_HiddenField']=
             '%3B%3BSystem.Web.Extensions%2C%20Version%3D3.5.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D31bf3856ad364e35%3Aen-US%3A0d787d5c-3903-4814-ad72-296cea810318%3Aea597d4b%3Ab25378d2%3BTelerik.Web.UI%2C%20Version%3D2009.1.527.35%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D121fae78165ba3d4%3Aen-US%3A1e3fef00-f492-4ed8-96ce-6371bc241e1c%3A16e4e7cd%3Af7645509%3A24ee1bba%3Ae330518b%3A1e771326%3Ac8618e41%3A4cacbc31%3A8e6f0d33%3Aed16cbdc%3A58366029%3Aaa288e2d'
 
-          begin
-            doc = form.submit(form.button_with(:name => nextButton['name']))
-            scrape_and_follow_next_link(doc)
-          rescue Timeout::Error => e
-            puts "The old shoebox that Marion uses to serve DAs has exploded. Again. (i.e. timed out)"
-            puts "Failed on page #{doc.at('.rgCurrentPage').inner_text}"
-          end
+          doc = form.submit(form.button_with(:name => nextButton['name']))
+          scrape_and_follow_next_link(doc)
         end
       end
 
@@ -64,12 +59,7 @@ module MasterviewScraper
         # Jump through bollocks agree screen
         doc = agent.get(starting_url)
         doc = doc.forms.first.submit(doc.forms.first.button_with(:value => "I Agree"))
-        begin
-          doc = agent.get(starting_url)
-        rescue Timeout::Error => e
-          sleep 5
-          doc = agent.get(starting_url)
-        end
+        doc = agent.get(starting_url)
 
         scrape_and_follow_next_link(doc)
       end
