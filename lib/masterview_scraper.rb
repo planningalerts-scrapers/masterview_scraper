@@ -3,7 +3,6 @@
 require "masterview_scraper/version"
 require "masterview_scraper/authorities/bellingen"
 require "masterview_scraper/authorities/brisbane"
-require "masterview_scraper/authorities/fairfield"
 require "masterview_scraper/authorities/fraser_coast"
 require "masterview_scraper/authorities/hawkesbury"
 require "masterview_scraper/pages/index"
@@ -20,13 +19,35 @@ module MasterviewScraper
     elsif authority == :brisbane
       Authorities::Brisbane.scrape_and_save
     elsif authority == :fairfield
-      Authorities::Fairfield.scrape_and_save
+      scrape(
+        url_last_14_days(
+          "https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster",
+          "4a" => 10
+        )
+      ) { |record| save(record) }
     elsif authority == :fraser_coast
       Authorities::FraserCoast.scrape_and_save
     elsif authority == :hawkesbury
       Authorities::Hawkesbury.scrape_and_save
     else
       raise "Unexpected authority: #{authority}"
+    end
+  end
+
+  def self.scrape(url)
+    agent = Mechanize.new
+
+    # Read in a page
+    page = agent.get(url)
+    Pages::TermsAndConditions.click_agree(page)
+
+    page = agent.get(url)
+
+    while page
+      Pages::Index.scrape(page) do |record|
+        yield record
+      end
+      page = Pages::Index.next(page)
     end
   end
 

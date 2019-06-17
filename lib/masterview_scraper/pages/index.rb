@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require "masterview_scraper/postback"
+
 module MasterviewScraper
   module Pages
     # A page with a table of results of a search
