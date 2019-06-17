@@ -1,7 +1,111 @@
 ---
-- council_reference: ROLC-69/2019
-  address: 4 Kenzey Street NORTH MACKAY  QLD  4740
-  description: Reconfiguration of a Lot - 1 Low Density Residential Lot into 2 Lots
-  info_url: https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster/default.aspx?page=wrapper&key=570969
+- council_reference: CAI-116/2017/A
+  address: 61 Whitsunday Drive BLOOMSBURY  QLD  4799
+  description: "'Minor' Change Application - Combined Application - Reconfiguring
+    a Lot 1 Rural Lot into  67 Airfield park lots, 1 Airfield lot and 1 Balance lot)
+    &amp; Airservice - Whitsunday Park Estate"
+  info_url: https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster/default.aspx?page=wrapper&key=566616
   date_scraped: '2019-05-14'
-  date_received: '2019-06-11'
+  date_received: '2019-05-13'
+- council_reference: MCUC-10/2015/A
+  address: 3024 Bruce Highway KUTTABUL  QLD  4741
+  description: Extension of Relevant Period (6 Years) - Local Community Facility (Hall)
+  info_url: https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster/default.aspx?page=wrapper&key=564812
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
+- council_reference: MCUC-137/2018/A
+  address: L 44 Mackay-Bucasia Road RURAL VIEW  QLD  4740
+  description: Change Application (Minor) - Service Station (Ancillary Food and Drink
+    Outlet) and Car Wash
+  info_url: https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster/default.aspx?page=wrapper&key=554014
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: MCUC-41/2019
+  address: 4 Stony Creek Road ETON  QLD  4741
+  description: Dwelling House (Outbuilding) - Extractive Resources and High Impact
+    Acivities Overlay
+  info_url: https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster/default.aspx?page=wrapper&key=563794
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+- council_reference: MCUC-43/2019
+  address: 39 Peel Street MACKAY  QLD  4740
+  description: Multiple Dwelling (4 x 4-bedroom units)
+  info_url: https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster/default.aspx?page=wrapper&key=564013
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+- council_reference: MCUC-46/2019
+  address: 79 Lynette Drive NINDAROO  QLD  4740
+  description: Dwelling House
+  info_url: https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster/default.aspx?page=wrapper&key=564200
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-24'
+- council_reference: MCUC-47/2019
+  address: 6 Westlake Drive THE LEAP  QLD  4740
+  description: Extension to existing Residential Dwelling
+  info_url: https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster/default.aspx?page=wrapper&key=564304
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-24'
+- council_reference: MCUC-48/2019
+  address: 11 Camilleris Road DEVEREUX CREEK  QLD  4753
+  description: Dwelling House (Second Outbuilding)
+  info_url: https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster/default.aspx?page=wrapper&key=564317
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
+- council_reference: MCUC-49/2019
+  address: 12-16 Progress Drive PAGET  QLD  4740
+  description: Material Change of use to formalise use of part of subject lot for
+    General Industry (hardstand).
+  info_url: https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster/default.aspx?page=wrapper&key=564328
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
+- council_reference: MCUC-50/2019
+  address: 52 Jardine Drive ERAKALA  QLD  4740
+  description: Dwelling House - Boundary Relaxation &amp; Oversized Outbuilding
+  info_url: https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster/default.aspx?page=wrapper&key=565395
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+- council_reference: MCUC-52/2015/B
+  address: 2-4 Success Street PAGET  QLD  4740
+  description: Change Application - General Industry - Warehouse/Workshop
+  info_url: https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster/default.aspx?page=wrapper&key=565969
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: MCUC-61/2018/A
+  address: 512-518 Milton Street PAGET  QLD  4740
+  description: Change Application (Minor) - Amended Plans -  Warehouse (Cold Room
+    Facility)
+  info_url: https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster/default.aspx?page=wrapper&key=564046
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+- council_reference: MCUCD-73/2004/A
+  address: 12-16 Progress Drive PAGET  QLD  4740
+  description: "'Other' Change Application - Material Change of Use - Code Assessment
+    - Industrial Shed"
+  info_url: https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster/default.aspx?page=wrapper&key=564675
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
+- council_reference: ROLC-52/2019
+  address: 540 Kinchant Dam Road KINCHANT DAM  QLD  4741
+  description: Reconfiguration of a Lot – 1 Split Zone  Lot into 2 Lots
+  info_url: https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster/default.aspx?page=wrapper&key=565618
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-03'
+- council_reference: ROLC-53/2010/A
+  address: 187 Ian Reddacliff Drive THE LEAP  QLD  4740
+  description: Change Application (Minor) 1 Rural Residential Lot into 2 Rural Residential
+    Lots
+  info_url: https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster/default.aspx?page=wrapper&key=566394
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: ROLC-53/2019
+  address: 1-3 Branscombe Road WALKERSTON  QLD  4751
+  description: Boundary Realignment 2 Rural Lots into 2 Lots and Access Easement
+  info_url: https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster/default.aspx?page=wrapper&key=566244
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: ROLC-54/2019
+  address: L 1 J Shews Road MARIAN  QLD  4753
+  description: Access Easement
+  info_url: https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster/default.aspx?page=wrapper&key=566831
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'

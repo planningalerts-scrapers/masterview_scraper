@@ -144,4 +144,8 @@ module MasterviewScraper
   def self.url_last_14_days(base_url, params = {})
     url_date_range(base_url, Date.today - 14, Date.today, params)
   end
+
+  def self.url_last_30_days(base_url, params = {})
+    url_date_range(base_url, Date.today - 30, Date.today, params)
+  end
 end

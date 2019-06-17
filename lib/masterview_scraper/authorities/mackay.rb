@@ -31,9 +31,8 @@ module MasterviewScraper
       end
 
       def self.scrape_and_save
-        url = MasterviewScraper.url_with_period(
+        url = MasterviewScraper.url_last_30_days(
           "https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster",
-          "thisweek",
           "4a" => "443,444,445,446,487,555,556,557,558,559,560,564",
           "6" => "F"
         )
