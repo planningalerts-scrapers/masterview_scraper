@@ -4,19 +4,25 @@ require 'mechanize'
 module MasterviewScraper
   module Authorities
     module FraserCoast
+      # Strips any html tags and decodes any html entities
+      # e.g. "<strong>Tea &amp; Cake<strong>" => "Tea & Cake"
+      def self.strip_html(html)
+        Nokogiri::HTML(html).inner_text
+      end
+
       def self.scrape_page(page)
-        page.at("table.rgMasterTable").search("tr.rgRow,tr.rgAltRow").each do |tr|
-          tds = tr.search('td').map{|t| t.inner_html.gsub("\r\n", "").strip}
-          day, month, year = tds[2].split("/").map{|s| s.to_i}
+        table = page.at("table.rgMasterTable")
+        # TODO: Make extract_table return html nodes
+        data = Table.extract_table(table)
+        data.each do |row|
           record = {
-            "info_url" => (page.uri + tr.search('td').at('a')["href"]).to_s,
-            "council_reference" => tds[1],
-            "date_received" => Date.new(year, month, day).to_s,
-            "description" => tds[3].gsub("&amp;", "&").split("<br>")[1].squeeze(" ").strip,
-            "address" => tds[3].gsub("&amp;", "&").split("<br>")[0].gsub("\r", " ").gsub("<strong>","").gsub("</strong>","").squeeze(" ").strip + ", QLD",
+            "info_url" => (page.uri + row[:url]).to_s,
+            "council_reference" => row[:content]["Number"],
+            "date_received" => Date.strptime(row[:content]["Submitted"], "%d/%m/%Y").to_s,
+            "description" => strip_html(row[:content]["Details"].split("<br>")[1]).squeeze(" "),
+            "address" => strip_html(row[:content]["Details"].split("<br>")[0]).strip + ", QLD",
             "date_scraped" => Date.today.to_s
           }
-
           MasterviewScraper.save(record)
         end
       end
