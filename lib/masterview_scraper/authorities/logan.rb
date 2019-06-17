@@ -34,17 +34,11 @@ module MasterviewScraper
         page = agent.get(url)
         page = Pages::TermsAndConditions.click_agree(page)
 
-        current_page_no = 1
-        next_page_link = true
-
-        while next_page_link
-          puts "Scraping page #{current_page_no}..."
+        while page
           scrape_page(page)
 
-          current_page_no += 1
           next_page_link = page.at(".rgPageNext")
           page = Postback.click(next_page_link, page)
-          next_page_link = nil if page.nil?
         end
       end
     end
