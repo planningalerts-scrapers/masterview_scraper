@@ -31,18 +31,8 @@ module MasterviewScraper
       end
 
       def self.scrape_and_save
-        case ENV['MORPH_PERIOD']
-          when 'lastmonth'
-            period = 'lastmonth'
-          when 'thismonth'
-            period = 'thismonth'
-          else
-            period = 'thisweek'
-        end
-        puts "Getting data in `" + period + "`, changable via MORPH_PERIOD variable"
-
         base_url = "https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster/"
-        url = base_url + "default.aspx?page=found&4a=443,444,445,446,487,555,556,557,558,559,560,564&6=F&1=" + period
+        url = base_url + "default.aspx?page=found&4a=443,444,445,446,487,555,556,557,558,559,560,564&6=F&1=thisweek"
 
         agent = Mechanize.new
         page = agent.get(url)
