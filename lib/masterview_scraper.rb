@@ -3,6 +3,7 @@
 require "masterview_scraper/version"
 require "masterview_scraper/authorities/bellingen"
 require "masterview_scraper/authorities/brisbane"
+require "masterview_scraper/authorities/ipswich"
 require "masterview_scraper/pages/index"
 require "masterview_scraper/pages/terms_and_conditions"
 
@@ -38,6 +39,8 @@ module MasterviewScraper
         params: { "4a" => "DA" },
         state: "NSW"
       )
+    elsif authority == :ipswich
+      Authorities::Ipswich.scrape_and_save
     else
       raise "Unexpected authority: #{authority}"
     end
