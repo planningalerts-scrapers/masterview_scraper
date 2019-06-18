@@ -9,8 +9,8 @@
 - info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1272655
   council_reference: DA-244/2016/A
   date_received: '2019-06-11'
-  description: Dwelling Alterations &amp; Additions - Modifications for Alterations
-    &amp; Additions to Single Dwelling
+  description: Dwelling Alterations & Additions - Modifications for Alterations &
+    Additions to Single Dwelling
   address: 20 Ross Street BELMONT NSW 2280
   date_scraped: '2019-05-14'
 - info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1271866
@@ -40,7 +40,7 @@
 - info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1272896
   council_reference: DA-835/2019
   date_received: '2019-06-12'
-  description: Swimming Pool &amp; Associated Safety Barriers and Demolition of Existing
+  description: Swimming Pool & Associated Safety Barriers and Demolition of Existing
     Pool
   address: 15 Margaret Street HOLMESVILLE NSW 2286
   date_scraped: '2019-05-14'
@@ -77,13 +77,13 @@
 - info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1273731
   council_reference: DA-841/2019
   date_received: '2019-06-12'
-  description: Aterations &amp; Additions and Demolition of Carport and BBQ Area
+  description: Aterations & Additions and Demolition of Carport and BBQ Area
   address: 1A Kalinda Street BLACKSMITHS NSW 2281
   date_scraped: '2019-05-14'
 - info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1274012
   council_reference: DA-842/2019
   date_received: '2019-06-12'
-  description: Proposed Dual Occupancy &amp; Torrens Title
+  description: Proposed Dual Occupancy & Torrens Title
   address: 33 Preston Place CAMERON PARK NSW 2285
   date_scraped: '2019-05-14'
 - info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1274119
@@ -95,7 +95,7 @@
 - info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1274224
   council_reference: DA-844/2019
   date_received: '2019-06-13'
-  description: Demolition of existing Garage &amp; New Garage
+  description: Demolition of existing Garage & New Garage
   address: 27 Brighton Avenue TORONTO NSW 2283
   date_scraped: '2019-05-14'
 - info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1274293

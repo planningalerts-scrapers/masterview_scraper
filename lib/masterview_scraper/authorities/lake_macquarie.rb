@@ -27,8 +27,6 @@ module MasterviewScraper
 
       def self.scrape_index_page(page)
         Pages::Index.scrape(page) do |record|
-          record["address"] = record["address"].gsub("&", "&amp;")
-          record["description"] = record["description"].gsub("&", "&amp;")
           yield record
         end
       end
