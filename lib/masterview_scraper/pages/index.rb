@@ -7,7 +7,8 @@ module MasterviewScraper
     # A page with a table of results of a search
     module Index
       def self.scrape(page)
-        table = page.at("table.rgMasterTable")
+        table = page.at("table.rgMasterTable") ||
+                page.at("table table")
         Table.extract_table(table).each do |row|
           # The details section actually consists of seperate parts
           details = row[:content]["Details"] ||
@@ -23,7 +24,8 @@ module MasterviewScraper
 
           yield(
             "info_url" => (page.uri + row[:url]).to_s,
-            "council_reference" => row[:content]["Number"],
+            "council_reference" => (row[:content]["Number"] ||
+                                   row[:content]["Application"]).squeeze(" "),
             "date_received" => Date.strptime(row[:content]["Submitted"], "%d/%m/%Y").to_s,
             "description" => (details.length == 3 ? details[2] : details[1]),
             "address" => details[0].gsub("\r", " ").gsub("\n", " ").squeeze(" "),
