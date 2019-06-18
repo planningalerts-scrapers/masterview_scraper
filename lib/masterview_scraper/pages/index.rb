@@ -18,6 +18,8 @@ module MasterviewScraper
                     row[:content]["Property/Application Details"] ||
                     row[:content]["Address/Details"] ||
                     row[:content]["Description"]
+          raise "Can't find details field in #{row[:content].keys}" if details.nil?
+
           details = details.split("<br>").map do |detail|
             strip_html(detail).squeeze(" ").strip
           end
@@ -33,15 +35,23 @@ module MasterviewScraper
               detail
             end
           end
-          raise "Unexpected number of things in details" if details.length < 2 || details.length > 3
+          if details.length < 2 || details.length > 3
+            raise "Unexpected number of things in details: #{details}"
+          end
 
           date_received = row[:content]["Submitted"] ||
                           row[:content]["Date Lodged"]
+          raise "Can't find date_received field in #{row[:content].keys}" if date_received.nil?
+
+          council_reference = row[:content]["Number"] ||
+                              row[:content]["Application"]
+          if council_reference.nil?
+            raise "Can't find council_reference field in #{row[:content].keys}"
+          end
 
           yield(
             "info_url" => (page.uri + row[:url]).to_s,
-            "council_reference" => (row[:content]["Number"] ||
-                                   row[:content]["Application"]).squeeze(" "),
+            "council_reference" => council_reference.squeeze(" "),
             "date_received" => Date.strptime(date_received, "%d/%m/%Y").to_s,
             "description" => (details.length == 3 ? details[2] : details[1]),
             "address" => details[0].gsub("\r", " ").gsub("\n", " ").squeeze(" "),
