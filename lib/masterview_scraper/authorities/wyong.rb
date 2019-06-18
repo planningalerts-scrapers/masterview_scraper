@@ -51,19 +51,7 @@ module MasterviewScraper
       end
 
       def self.scrape_and_save
-        # Scraping from Masterview 2.0
-
-        case ENV['MORPH_PERIOD']
-          when 'lastmonth'
-            period = 'lastmonth'
-          when 'thismonth'
-            period = 'thismonth'
-          else
-            period = 'thisweek'
-        end
-        puts "Getting data in `" + period + "`, changable via MORPH_PERIOD variable"
-
-        url = "http://wsconline.wyong.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=found&1=" + period + "&4a=437&5=T"
+        url = "http://wsconline.wyong.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=found&1=thisweek&4a=437&5=T"
 
         agent = Mechanize.new
 
