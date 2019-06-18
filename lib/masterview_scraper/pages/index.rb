@@ -38,6 +38,8 @@ module MasterviewScraper
       # Returns the next page unless there is none in which case nil
       # TODO: Handle things when next isn't a button with a postback
       def self.next(page)
+        # Some of the systems don't have paging. All the results come
+        # on a single page. In this case it shouldn't find a next link
         link = page.at(".rgPageNext")
         return if link.nil?
 

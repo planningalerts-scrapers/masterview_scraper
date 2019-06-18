@@ -5,7 +5,6 @@ require "masterview_scraper/authorities/bellingen"
 require "masterview_scraper/authorities/brisbane"
 require "masterview_scraper/authorities/lake_macquarie"
 require "masterview_scraper/authorities/shoalhaven"
-require "masterview_scraper/authorities/wyong"
 require "masterview_scraper/pages/index"
 require "masterview_scraper/pages/terms_and_conditions"
 
@@ -91,7 +90,13 @@ module MasterviewScraper
         }
       )
     elsif authority == :wyong
-      Authorities::Wyong.scrape_and_save
+      MasterviewScraper.scrape_and_save_last_30_days(
+        url: "http://wsconline.wyong.nsw.gov.au/applicationtracking/modules/applicationmaster",
+        params: {
+          "4a" => "437",
+          "5" => "T"
+        }
+      )
     else
       raise "Unexpected authority: #{authority}"
     end
