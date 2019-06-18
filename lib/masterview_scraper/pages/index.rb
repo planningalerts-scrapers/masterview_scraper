@@ -7,26 +7,42 @@ module MasterviewScraper
     # A page with a table of results of a search
     module Index
       def self.scrape(page)
+        # TODO: Split this method into two entirely seperate code paths
+        # for the two quite different versions of this system which you
+        # can tell by the form of the table below
         table = page.at("table.rgMasterTable") ||
                 page.at("table table")
         Table.extract_table(table).each do |row|
           # The details section actually consists of seperate parts
           details = row[:content]["Details"] ||
                     row[:content]["Property/Application Details"] ||
-                    row[:content]["Address/Details"]
+                    row[:content]["Address/Details"] ||
+                    row[:content]["Description"]
           details = details.split("<br>").map do |detail|
             strip_html(detail).squeeze(" ").strip
           end
           details = details.delete_if do |detail|
-            detail =~ /^Applicant : /
+            detail =~ /^Applicant : / ||
+              detail =~ /^Applicant:/ ||
+              detail =~ /^Status:/
+          end
+          details = details.map do |detail|
+            if detail =~ /^Description: (.*)/
+              Regexp.last_match(1)
+            else
+              detail
+            end
           end
           raise "Unexpected number of things in details" if details.length < 2 || details.length > 3
+
+          date_received = row[:content]["Submitted"] ||
+                          row[:content]["Date Lodged"]
 
           yield(
             "info_url" => (page.uri + row[:url]).to_s,
             "council_reference" => (row[:content]["Number"] ||
                                    row[:content]["Application"]).squeeze(" "),
-            "date_received" => Date.strptime(row[:content]["Submitted"], "%d/%m/%Y").to_s,
+            "date_received" => Date.strptime(date_received, "%d/%m/%Y").to_s,
             "description" => (details.length == 3 ? details[2] : details[1]),
             "address" => details[0].gsub("\r", " ").gsub("\n", " ").squeeze(" "),
             # TODO: date_scraped should NOT be added here
