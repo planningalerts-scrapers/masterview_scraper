@@ -7,9 +7,6 @@ module MasterviewScraper
     # A page with a table of results of a search
     module Index
       def self.scrape(page)
-        # TODO: Split this method into two entirely seperate code paths
-        # for the two quite different versions of this system which you
-        # can tell by the form of the table below
         table = page.at("table.rgMasterTable") ||
                 page.at("table table")
         Table.extract_table(table).each do |row|
