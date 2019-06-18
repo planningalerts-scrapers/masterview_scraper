@@ -3,7 +3,6 @@
 require "masterview_scraper/version"
 require "masterview_scraper/authorities/bellingen"
 require "masterview_scraper/authorities/brisbane"
-require "masterview_scraper/authorities/lake_macquarie"
 require "masterview_scraper/authorities/shoalhaven"
 require "masterview_scraper/pages/index"
 require "masterview_scraper/pages/terms_and_conditions"
@@ -48,7 +47,14 @@ module MasterviewScraper
         params: { "5" => "T", "6" => "F" }
       )
     elsif authority == :lake_macquarie
-      Authorities::LakeMacquarie.scrape_and_save
+      scrape_and_save_url(
+        url_with_period(
+          "http://apptracking.lakemac.com.au/modules/ApplicationMaster",
+          "thisweek",
+          "4a" => "437",
+          "5" => "T"
+        )
+      )
     elsif authority == :logan
       scrape_and_save_last_14_days(
         url: "http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster",
@@ -72,8 +78,8 @@ module MasterviewScraper
         )
       )
     elsif authority == :moreton_bay
-      MasterviewScraper.scrape_and_save_url(
-        MasterviewScraper.url_with_period(
+      scrape_and_save_url(
+        url_with_period(
           "http://pdonline.moretonbay.qld.gov.au/Modules/applicationmaster",
           "thismonth",
           "6" => "F"
@@ -82,7 +88,7 @@ module MasterviewScraper
     elsif authority == :shoalhaven
       Authorities::Shoalhaven.scrape_and_save
     elsif authority == :toowoomba
-      MasterviewScraper.scrape_and_save_last_30_days(
+      scrape_and_save_last_30_days(
         url: "https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster",
         params: {
           "4a" => "\'488\',\'487\',\'486\',\'495\',\'521\',\'540\',\'496\',\'562\'",
@@ -90,7 +96,7 @@ module MasterviewScraper
         }
       )
     elsif authority == :wyong
-      MasterviewScraper.scrape_and_save_last_30_days(
+      scrape_and_save_last_30_days(
         url: "http://wsconline.wyong.nsw.gov.au/applicationtracking/modules/applicationmaster",
         params: {
           "4a" => "437",
