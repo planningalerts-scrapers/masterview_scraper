@@ -14,8 +14,6 @@ module MasterviewScraper
         )
 
         agent = Mechanize.new
-        # disable encryption validation, we're fetching public data anyway
-        agent.verify_mode = OpenSSL::SSL::VERIFY_NONE
 
         page = agent.get(url)
         Pages::TermsAndConditions.click_agree(page)
