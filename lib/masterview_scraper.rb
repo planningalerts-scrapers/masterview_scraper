@@ -5,7 +5,6 @@ require "masterview_scraper/authorities/bellingen"
 require "masterview_scraper/authorities/brisbane"
 require "masterview_scraper/authorities/lake_macquarie"
 require "masterview_scraper/authorities/shoalhaven"
-require "masterview_scraper/authorities/toowoomba"
 require "masterview_scraper/authorities/wyong"
 require "masterview_scraper/pages/index"
 require "masterview_scraper/pages/terms_and_conditions"
@@ -84,7 +83,13 @@ module MasterviewScraper
     elsif authority == :shoalhaven
       Authorities::Shoalhaven.scrape_and_save
     elsif authority == :toowoomba
-      Authorities::Toowoomba.scrape_and_save
+      MasterviewScraper.scrape_and_save_last_30_days(
+        url: "https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster",
+        params: {
+          "4a" => "\'488\',\'487\',\'486\',\'495\',\'521\',\'540\',\'496\',\'562\'",
+          "6" => "F"
+        }
+      )
     elsif authority == :wyong
       Authorities::Wyong.scrape_and_save
     else
