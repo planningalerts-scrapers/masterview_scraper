@@ -4,7 +4,6 @@ require "masterview_scraper/version"
 require "masterview_scraper/authorities/bellingen"
 require "masterview_scraper/authorities/brisbane"
 require "masterview_scraper/authorities/lake_macquarie"
-require "masterview_scraper/authorities/moreton_bay"
 require "masterview_scraper/authorities/shoalhaven"
 require "masterview_scraper/authorities/toowoomba"
 require "masterview_scraper/authorities/wyong"
@@ -75,7 +74,13 @@ module MasterviewScraper
         )
       )
     elsif authority == :moreton_bay
-      Authorities::MoretonBay.scrape_and_save
+      MasterviewScraper.scrape_and_save_url(
+        MasterviewScraper.url_with_period(
+          "http://pdonline.moretonbay.qld.gov.au/Modules/applicationmaster",
+          "thismonth",
+          "6" => "F"
+        )
+      )
     elsif authority == :shoalhaven
       Authorities::Shoalhaven.scrape_and_save
     elsif authority == :toowoomba

@@ -11,7 +11,8 @@ module MasterviewScraper
         Table.extract_table(table).each do |row|
           # The details section actually consists of seperate parts
           details = row[:content]["Details"] ||
-                    row[:content]["Property/Application Details"]
+                    row[:content]["Property/Application Details"] ||
+                    row[:content]["Address/Details"]
           details = details.split("<br>").map do |detail|
             strip_html(detail).squeeze(" ").strip
           end
