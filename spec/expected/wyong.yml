@@ -1,87 +1,642 @@
 ---
-- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=605547
-  council_reference: DA - 1234 / 2018A
-  date_received: '2019-06-13'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601670
+  council_reference: DA - 136 / 2018A
+  date_received: '2019-04-18'
   description: Additions
-  address: 4 Greenbank Road GLENNING VALLEY NSW 2261
+  address: 32 Kingsford Smith Dr BERKELEY VALE NSW 2261
   date_scraped: '2019-05-14'
-- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=605316
-  council_reference: DA - 1303 / 2018A
-  date_received: '2019-06-12'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602374
+  council_reference: DA - 140 / 2019A
+  date_received: '2019-05-03'
+  description: Spa - (amended application)
+  address: 22 Ginganup Road SUMMERLAND POINT NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602496
+  council_reference: DA - 1452 / 2016A
+  date_received: '2019-05-06'
+  description: Recreation Facility (indoor) - Unit 9 (Amended Application)
+  address: 18-20 Arizona Road CHARMHAVEN NSW 2263
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602563
+  council_reference: DA - 1463 / 2018A
+  date_received: '2019-05-07'
+  description: Demolition of Existing Play Place, Signage & External Features, Construction
+    of a Play Place, External alterations & Business Identification Signage (Amended
+    application)
+  address: McDonalds Tuggerah 8 Anzac Road TUGGERAH NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602311
+  council_reference: DA - 1496 / 2018A
+  date_received: '2019-05-02'
+  description: Alterations, additions, demolition & garage
+  address: 81 Budgewoi Road NORAVILLE NSW 2263
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602885
+  council_reference: DA - 1505 / 2017C
+  date_received: '2019-05-10'
+  description: Demoliton of existing dwelling & construction of new dwelling
+  address: 48B Werrina Parade BLUE BAY NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602664
+  council_reference: DA - 171 / 2015D
+  date_received: '2019-05-08'
+  description: Hardware & Building Supplies Development (Bunnings) (Amended Application)
+  address: 80-90 Pacific Highway CHARMHAVEN NSW 2263
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602414
+  council_reference: DA - 176 / 2019A
+  date_received: '2019-05-06'
+  description: Alterations, additions & pool (Amended application)
+  address: 29 Moss Avenue TOUKLEY NSW 2263
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602176
+  council_reference: DA - 351 / 2013B
+  date_received: '2019-04-30'
+  description: 16 lot residential subdivision (Amended Application)
+  address: 204-214 Pacific Highway WATANOBBI NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601893
+  council_reference: DA - 363 / 2018A
+  date_received: '2019-04-24'
+  description: 106 Lot Residential Subdivision (3 Stages), Ancillary Works & Residual
+    Lots (Amended application)
+  address: 200-210 Hakone Road WOONGARRAH NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601253
+  council_reference: DA - 366 / 2019
+  date_received: '2019-04-15'
   description: Alterations & additions
-  address: 97 Coonanga Avenue HALEKULANI NSW 2262
+  address: 39 Warratta Road KILLARNEY VALE NSW 2261
   date_scraped: '2019-05-14'
-- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=605124
-  council_reference: DA - 539 / 2019
-  date_received: '2019-06-10'
-  description: Deck, awning & shed
-  address: 2 Hopetown Road KANWAL NSW 2259
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601278
+  council_reference: DA - 367 / 2019
+  date_received: '2019-04-15'
+  description: Alterations & Additions
+  address: 4 Grevillea Cres BERKELEY VALE NSW 2261
   date_scraped: '2019-05-14'
-- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=605135
-  council_reference: DA - 540 / 2019
-  date_received: '2019-06-11'
-  description: Shed
-  address: Kilmory 110 Hansens Road TUMBI UMBI NSW 2261
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601279
+  council_reference: DA - 368 / 2019
+  date_received: '2019-04-15'
+  description: Boundary adjustment & 2 lot subdivision
+  address: 348 Pacific Highway KANGY ANGY NSW 2258
   date_scraped: '2019-05-14'
-- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=605138
-  council_reference: DA - 541 / 2019
-  date_received: '2019-06-11'
-  description: Alterations & additions
-  address: 68 McLachlan Avenue LONG JETTY NSW 2261
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601290
+  council_reference: DA - 369 / 2019
+  date_received: '2019-04-15'
+  description: Shed & demolition of existing garage, carport & shed
+  address: 21 Montrose Street MANNERING PARK NSW 2259
   date_scraped: '2019-05-14'
-- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=605168
-  council_reference: DA - 542 / 2019
-  date_received: '2019-06-11'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601294
+  council_reference: DA - 370 / 2019
+  date_received: '2019-04-15'
   description: Dwelling
-  address: 14 Elly May Road HAMLYN TERRACE NSW 2259
+  address: 3 Teragalin Dr CHAIN VALLEY BAY NSW 2259
   date_scraped: '2019-05-14'
-- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=605209
-  council_reference: DA - 543 / 2019
-  date_received: '2019-06-11'
-  description: Secondary dwelling
-  address: 41 Buff Point Avenue BUFF POINT NSW 2262
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601303
+  council_reference: DA - 371 / 2019
+  date_received: '2019-04-15'
+  description: Detached secondary dwelling
+  address: 26 Heador Street TOUKLEY NSW 2263
   date_scraped: '2019-05-14'
-- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=605246
-  council_reference: DA - 544 / 2019
-  date_received: '2019-06-11'
-  description: Dwelling including demolition of existing dwelling
-  address: 5 Victoria Street NORAH HEAD NSW 2263
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601328
+  council_reference: DA - 372 / 2019
+  date_received: '2019-04-16'
+  description: Deck
+  address: 27 Lakeview Street TOUKLEY NSW 2263
   date_scraped: '2019-05-14'
-- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=605302
-  council_reference: DA - 545 / 2019
-  date_received: '2019-06-12'
-  description: Temporary use of Swadling Park for Scripture Union Family Mission &
-    erection & dismantling of temporary tents daily 2/1 - 9/1 2019-2023 - 5 year approval
-  address: Swadling Park 160 Bay Road TOOWOON BAY NSW 2261
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601412
+  council_reference: DA - 373 / 2019
+  date_received: '2019-04-16'
+  description: Demolition of existing dwelling
+  address: 7 Brush Road OURIMBAH NSW 2258
   date_scraped: '2019-05-14'
-- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=605408
-  council_reference: DA - 546 / 2019
-  date_received: '2019-06-12'
-  description: Carport
-  address: 7 Audie Parade BERKELEY VALE NSW 2261
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601414
+  council_reference: DA - 374 / 2019
+  date_received: '2019-04-16'
+  description: Alterations & Additions
+  address: 285 The Entrance Road THE ENTRANCE NSW 2261
   date_scraped: '2019-05-14'
-- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=605412
-  council_reference: DA - 547 / 2019
-  date_received: '2019-06-12'
-  description: Installation of Manufactured Homes
-  address: 83 Oakland Avenue THE ENTRANCE NSW 2261
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601575
+  council_reference: DA - 375 / 2019
+  date_received: '2019-04-17'
+  description: Inground pool
+  address: 200 Yarramalong Road WYONG CREEK NSW 2259
   date_scraped: '2019-05-14'
-- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=605435
-  council_reference: DA - 548 / 2019
-  date_received: '2019-06-12'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601583
+  council_reference: DA - 376 / 2019
+  date_received: '2019-04-17'
+  description: Alteration, additions, deck, awning, pergola & carport
+  address: 14 Kenmare Avenue BERKELEY VALE NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601595
+  council_reference: DA - 377 / 2019
+  date_received: '2019-04-17'
+  description: Detached secondary dwelling
+  address: 1 Cook Road KILLARNEY VALE NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601671
+  council_reference: DA - 378 / 2019
+  date_received: '2019-04-18'
   description: Alterations & additions
-  address: 27 Pandora Parade NORAVILLE NSW 2263
+  address: 13 Grevillea Cres BERKELEY VALE NSW 2261
   date_scraped: '2019-05-14'
-- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=605446
-  council_reference: DA - 550 / 2019
-  date_received: '2019-06-13'
-  description: Fence
-  address: 2-4 Clare-Mace Cres BERKELEY VALE NSW 2261
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601669
+  council_reference: DA - 379 / 2019
+  date_received: '2019-04-18'
+  description: Office Building
+  address: 4 Dulmison Avenue WYONG NSW 2259
   date_scraped: '2019-05-14'
-- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=605423
-  council_reference: DA - 561 / 2017A
-  date_received: '2019-06-12'
-  description: Subdivision Comprising 6 Residential Lots & 1 Residue Lot, Associated
-    Roads & Earthworks (Amended application)
-  address: 15-35 Warnervale Road WARNERVALE NSW 2259
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601678
+  council_reference: DA - 380 / 2019
+  date_received: '2019-04-18'
+  description: Dwelling
+  address: 4 Falco Street WADALBA NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601689
+  council_reference: DA - 381 / 2019
+  date_received: '2019-04-18'
+  description: Dodgem Car Structure as part of The Entrance Carnival
+  address: Memorial Park 46 Marine Parade THE ENTRANCE NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601693
+  council_reference: DA - 382 / 2019
+  date_received: '2019-04-18'
+  description: Dwelling
+  address: 27 Fairmont Boulevard HAMLYN TERRACE NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601713
+  council_reference: DA - 383 / 2019
+  date_received: '2019-04-18'
+  description: Dwelling
+  address: 168 Scenic Dr BUDGEWOI NSW 2262
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601714
+  council_reference: DA - 384 / 2019
+  date_received: '2019-04-18'
+  description: Demolish existing outbuildings and construction of new stables
+  address: 620 Bruce Cres WALLARAH NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601718
+  council_reference: DA - 385 / 2019
+  date_received: '2019-04-18'
+  description: Replacement Signage
+  address: 287-289 Main Road TOUKLEY NSW 2263
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601721
+  council_reference: DA - 386 / 2019
+  date_received: '2019-04-18'
+  description: Subdivision - Amendment of lot layout for stage 3 from 6 to 5 lots
+  address: 204-214 Pacific Highway WATANOBBI NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601722
+  council_reference: DA - 387 / 2019
+  date_received: '2019-04-18'
+  description: Replacement Signage
+  address: 211 Wallarah Road KANWAL NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601744
+  council_reference: DA - 388 / 2019
+  date_received: '2019-04-18'
+  description: Dual Occupancy & 2 Lot Subdivision
+  address: 48 Goobarabah Avenue GOROKAN NSW 2263
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601745
+  council_reference: DA - 389 / 2019
+  date_received: '2019-04-18'
+  description: Deck
+  address: 26 Craigie Avenue KANWAL NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601754
+  council_reference: DA - 390 / 2019
+  date_received: '2019-04-18'
+  description: Alter existing on site sewer system
+  address: 22 Palm Valley Road TUMBI UMBI NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601757
+  council_reference: DA - 391 / 2019
+  date_received: '2019-04-18'
+  description: Change of Use to an Eco Tourist Facility
+  address: 236 Footts Road PALMDALE NSW 2258
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601773
+  council_reference: DA - 392 / 2019
+  date_received: '2019-04-18'
+  description: Detached secondary dwelling
+  address: 9 Hillcrest Avenue BATEAU BAY NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601814
+  council_reference: DA - 393 / 2019
+  date_received: '2019-04-23'
+  description: Carport
+  address: 72 Fairwater Dr GWANDALAN NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601840
+  council_reference: DA - 394 / 2019
+  date_received: '2019-04-23'
+  description: Proposed Portal Frame Shed Additions to Existing Dwelling
+  address: 266 Pacific Highway KANGY ANGY NSW 2258
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601841
+  council_reference: DA - 395 / 2019
+  date_received: '2019-04-23'
+  description: Depot shed and ancillary office (Amended application)
+  address: 6 Apprentice Dr BERKELEY VALE NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601853
+  council_reference: DA - 397 / 2019
+  date_received: '2019-04-23'
+  description: Studio
+  address: 3 Wall Road GOROKAN NSW 2263
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601876
+  council_reference: DA - 398 / 2019
+  date_received: '2019-04-24'
+  description: Signage for Display Homes
+  address: 30-34 Virginia Road HAMLYN TERRACE NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601878
+  council_reference: DA - 399 / 2019
+  date_received: '2019-04-24'
+  description: Markets
+  address: 11 Bryant Dr TUGGERAH NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601880
+  council_reference: DA - 400 / 2019
+  date_received: '2019-04-24'
+  description: Dual Occupancy & Strata Subdivision
+  address: 42 Greenacre Avenue LAKE MUNMORAH NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601925
+  council_reference: DA - 401 / 2019
+  date_received: '2019-04-24'
+  description: Alterations & Additions for the purposes of a Bar
+  address: Heritage Village 2 Evans Road CANTON BEACH NSW 2263
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601931
+  council_reference: DA - 402 / 2019
+  date_received: '2019-04-24'
+  description: Awning
+  address: 39 Burbank Dr TUGGERAH NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601947
+  council_reference: DA - 403 / 2019
+  date_received: '2019-04-25'
+  description: Demolition
+  address: 1 Nirvana Street LONG JETTY NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601954
+  council_reference: DA - 404 / 2019
+  date_received: '2019-04-26'
+  description: Dwelling
+  address: 11 Kimberley Street GOROKAN NSW 2263
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601966
+  council_reference: DA - 405 / 2019
+  date_received: '2019-04-26'
+  description: Dwelling
+  address: 6A Roslyn Place NORAVILLE NSW 2263
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601979
+  council_reference: DA - 406 / 2019
+  date_received: '2019-04-26'
+  description: Dwelling, inground pool & demolition of existing dwelling
+  address: 4 Bias Avenue BATEAU BAY NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601989
+  council_reference: DA - 407 / 2019
+  date_received: '2019-04-26'
+  description: Alterations & Additions
+  address: 22 Kelsey Road NORAVILLE NSW 2263
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602011
+  council_reference: DA - 408 / 2019
+  date_received: '2019-04-29'
+  description: Dwelling & attached secondary dwelling
+  address: 6 Moss Avenue TOUKLEY NSW 2263
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602013
+  council_reference: DA - 409 / 2019
+  date_received: '2019-04-29'
+  description: Dual Occupancy
+  address: 55 Casey Dr WATANOBBI NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602015
+  council_reference: DA - 410 / 2019
+  date_received: '2019-04-29'
+  description: Change in Use from Shed to Function Centre & Accommodation
+  address: 1376 Yarramalong Road WYONG CREEK NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602029
+  council_reference: DA - 411 / 2019
+  date_received: '2019-04-29'
+  description: Dwelling
+  address: 47 Mardi Road MARDI NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602030
+  council_reference: DA - 412 / 2019
+  date_received: '2019-04-29'
+  description: Dwelling
+  address: 160 Mataram Road WOONGARRAH NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602031
+  council_reference: DA - 413 / 2019
+  date_received: '2019-04-29'
+  description: Inground pool
+  address: 17 Carol Close LAKE MUNMORAH NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602067
+  council_reference: DA - 414 / 2019
+  date_received: '2019-04-29'
+  description: Alterations, additions & swimming pool
+  address: 54 Liddell Street SHELLY BEACH NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602069
+  council_reference: DA - 415 / 2019
+  date_received: '2019-04-29'
+  description: Detached Dual Occupancy & Torrens Title Subdivision
+  address: 93 Rotherham Street BATEAU BAY NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602106
+  council_reference: DA - 416 / 2019
+  date_received: '2019-04-29'
+  description: Alterations & Additions to Hotel
+  address: Royal Hotel 40-44 Pacific Highway WYONG NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602114
+  council_reference: DA - 417 / 2019
+  date_received: '2019-04-29'
+  description: Dwelling on proposed Lot 3 originally lodged on 5 Anderson Rd
+  address: 5 Melalea Court BERKELEY VALE NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602153
+  council_reference: DA - 419 / 2019
+  date_received: '2019-04-30'
+  description: Shed
+  address: 7 Parkridge Drive JILLIBY NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602168
+  council_reference: DA - 420 / 2019
+  date_received: '2019-04-30'
+  description: 2 Shop Tenancies & Shop-Top Housing under the provisions of SEPP Affordable
+    Rental Housing 2009 & Associated Works
+  address: 139 Main Road TOUKLEY NSW 2263
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602241
+  council_reference: DA - 421 / 2019
+  date_received: '2019-05-01'
+  description: Awning
+  address: Warnervale Oval 54-90 Warnervale Road WARNERVALE NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602260
+  council_reference: DA - 422 / 2019
+  date_received: '2019-05-02'
+  description: Alterations, additions & deck
+  address: 124 Ocean Parade BLUE BAY NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602296
+  council_reference: DA - 423 / 2019
+  date_received: '2019-05-02'
+  description: Shed
+  address: 11 Hunter Street CHARMHAVEN NSW 2263
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602301
+  council_reference: DA - 424 / 2019
+  date_received: '2019-05-02'
+  description: Attached Dual Occupancy & 2 Lot Torrens Title Subdivision
+  address: 7 Mitchell Terrace WARNERVALE NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602302
+  council_reference: DA - 425 / 2019
+  date_received: '2019-05-02'
+  description: Shed
+  address: 103 Railway Road WARNERVALE NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602313
+  council_reference: DA - 426 / 2019
+  date_received: '2019-05-02'
+  description: Dual occupancy development comprising the existing dwelling including
+    alterations and construction of a new dwelling, two lot torrens title subdivision,
+    swimming pool and demolition of the existing outbuilding
+  address: 126 Stella Street TOOWOON BAY NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602317
+  council_reference: DA - 427 / 2019
+  date_received: '2019-05-03'
+  description: Dual Occupancy Conversion of existing Dwellings and 2 lot Subdivision
+  address: 63 Pearce Road KANWAL NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602329
+  council_reference: DA - 428 / 2019
+  date_received: '2019-05-03'
+  description: Shed
+  address: 10 Birriga Road NORAVILLE NSW 2263
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602336
+  council_reference: DA - 429 / 2019
+  date_received: '2019-05-03'
+  description: Dwelling
+  address: 9 Windsorgreen Dr WYONG NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602341
+  council_reference: DA - 430 / 2019
+  date_received: '2019-05-03'
+  description: Addition to Existing Neighbourhood Centre
+  address: San Remo Neighbourhood Centre 28 Brava Avenue SAN REMO NSW 2262
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602371
+  council_reference: DA - 431 / 2019
+  date_received: '2019-05-03'
+  description: Inground pool
+  address: 17 Popran Way BLUE HAVEN NSW 2262
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602377
+  council_reference: DA - 432 / 2019
+  date_received: '2019-05-03'
+  description: Construction of amenities block ancillary to recreation facility (outdoor)
+  address: Shelly Beach Golf Club 86 Bonnieview Street SHELLY BEACH NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602391
+  council_reference: DA - 433 / 2019
+  date_received: '2019-05-03'
+  description: Manufactured home (detached secondary dwelling)
+  address: 159 Main Road TOUKLEY NSW 2263
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602453
+  council_reference: DA - 434 / 2019
+  date_received: '2019-05-06'
+  description: Dwelling
+  address: 5 Marine Parade ROCKY POINT NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602524
+  council_reference: DA - 435 / 2019
+  date_received: '2019-05-07'
+  description: Alterations & Additions
+  address: 12 Montana Place BATEAU BAY NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602612
+  council_reference: DA - 436 / 2019
+  date_received: '2019-05-07'
+  description: Dwelling & attached secondary dwelling, shed & inground pool
+  address: 53 Manoa Road BUDGEWOI NSW 2262
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602680
+  council_reference: DA - 437 / 2019
+  date_received: '2019-05-08'
+  description: Detached secondary dwelling
+  address: 14 Eighth Avenue TOUKLEY NSW 2263
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602725
+  council_reference: DA - 438 / 2019
+  date_received: '2019-05-08'
+  description: Repair of Building Facade (Neighbourhood Shop)
+  address: 446 Main Road NORAVILLE NSW 2263
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602787
+  council_reference: DA - 440 / 2019
+  date_received: '2019-05-09'
+  description: Alterations & additions
+  address: 2 Merino Road NORAVILLE NSW 2263
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602788
+  council_reference: DA - 441 / 2019
+  date_received: '2019-05-09'
+  description: Inground pool
+  address: 128 Woodbury Park Dr MARDI NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602786
+  council_reference: DA - 442 / 2019
+  date_received: '2019-05-09'
+  description: Inground pool
+  address: 27 Barry Street BATEAU BAY NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602833
+  council_reference: DA - 444 / 2019
+  date_received: '2019-05-10'
+  description: Demolition of existing dwelling & garage
+  address: 11 Margaret Street WYONG NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602847
+  council_reference: DA - 445 / 2019
+  date_received: '2019-05-10'
+  description: Cabana & office
+  address: 200 Yarramalong Road WYONG CREEK NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602869
+  council_reference: DA - 446 / 2019
+  date_received: '2019-05-10'
+  description: Deck
+  address: 21 Yimbala Street KILLARNEY VALE NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602889
+  council_reference: DA - 447 / 2019
+  date_received: '2019-05-10'
+  description: Dwelling
+  address: 2 Braithwaite Road TACOMA NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602892
+  council_reference: DA - 448 / 2019
+  date_received: '2019-05-10'
+  description: Obstacle Course (Ancillary to Community Facility & Transitional Group
+    Home)
+  address: The Glen Rehabilitation Centre 50 Church Road TUGGERAH NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602895
+  council_reference: DA - 449 / 2019
+  date_received: '2019-05-10'
+  description: Carport & awnings
+  address: 73 Berkeley Road GLENNING VALLEY NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602904
+  council_reference: DA - 450 / 2019
+  date_received: '2019-05-10'
+  description: Alterations & Additions to Existing Club
+  address: Leagues Club The Entrance 3 Bay Village Road BATEAU BAY NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602939
+  council_reference: DA - 451 / 2019
+  date_received: '2019-05-13'
+  description: Front fence
+  address: 5 Wyreema Road WARNERVALE NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602947
+  council_reference: DA - 452 / 2019
+  date_received: '2019-05-13'
+  description: Secondary dwelling
+  address: 16 Murrawal Road WYONGAH NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602552
+  council_reference: DA - 453 / 2018B
+  date_received: '2019-05-07'
+  description: Additions
+  address: 36 Werrina Parade BLUE BAY NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=603098
+  council_reference: DA - 453 / 2019
+  date_received: '2019-05-14'
+  description: Dwelling, inground pool, bbq area including demolition of existing
+    structures
+  address: 16 Tuggerah Parade THE ENTRANCE NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=603117
+  council_reference: DA - 454 / 2019
+  date_received: '2019-05-14'
+  description: Shed
+  address: 54 Platypus Road BERKELEY VALE NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602865
+  council_reference: DA - 499 / 2016A
+  date_received: '2019-05-10'
+  description: Use of property as a Function Centre (Clause 2.8 of Wyong Local Environmental
+    Plan 2013 - Temporary use of land) (Amended Application)
+  address: 49 Preston Road KANGY ANGY NSW 2258
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602379
+  council_reference: DA - 598 / 2014A
+  date_received: '2019-05-03'
+  description: Alterations, additions, carport, decks & fence (Amended Application)
+  address: 22 Point Street BATEAU BAY NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=603076
+  council_reference: DA - 778 / 2017A
+  date_received: '2019-05-14'
+  description: Dual Occupancy & 2 Lot Subdivision (Amended Application)
+  address: 62 Adelaide Street TUMBI UMBI NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601848
+  council_reference: DA - 781 / 2015D
+  date_received: '2019-04-23'
+  description: Depot Shed & Ancillary Office (Amended Application)
+  address: 6 Apprentice Dr BERKELEY VALE NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602280
+  council_reference: DA - 910 / 2018A
+  date_received: '2019-05-02'
+  description: Funeral Home (Existing Use Rights) (Amended Application)
+  address: 428-430 The Entrance Road LONG JETTY NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=603068
+  council_reference: DA - 931 / 2018A
+  date_received: '2019-05-14'
+  description: Alterations & Additions to an Existing Seniors Housing Development
+    (Amended Application)
+  address: Opal Aged Care Apartments 1 Daniel Close KILLARNEY VALE NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602663
+  council_reference: DA - 937 / 2017A
+  date_received: '2019-05-08'
+  description: Twelve Room Boarding House (SEPP Affordable Rental Housing) & Demolition
+    of Existing Structures (Amended application)
+  address: 6 South Street KILLARNEY VALE NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602238
+  council_reference: DA - 95 / 2003C
+  date_received: '2019-05-01'
+  description: 7 Storey Residential Flat Building Comprising 57 Units (Amended Application)
+  address: 43-49 Ocean Parade THE ENTRANCE NSW 2261
+  date_scraped: '2019-05-14'
+- info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601400
+  council_reference: DA - 98 / 2016B
+  date_received: '2019-04-16'
+  description: 8 Lot Subdivision (Amended Application)
+  address: 65 Bundeena Road GLENNING VALLEY NSW 2261
   date_scraped: '2019-05-14'

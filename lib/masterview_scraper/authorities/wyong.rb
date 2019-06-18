@@ -5,9 +5,8 @@ module MasterviewScraper
   module Authorities
     module Wyong
       def self.scrape_and_save
-        url = MasterviewScraper.url_with_period(
+        url = MasterviewScraper.url_last_30_days(
           "http://wsconline.wyong.nsw.gov.au/applicationtracking/modules/applicationmaster",
-          "thisweek",
           "4a" => "437",
           "5" => "T"
         )
@@ -20,7 +19,7 @@ module MasterviewScraper
         # Doesn't redirect
         page = agent.get(url)
 
-        # TODO: Handle paging. Currently ignores it
+        # This system doesn't have paging. All the results come on a single page
         Pages::Index.scrape(page) do |record|
           MasterviewScraper.save(record)
         end
