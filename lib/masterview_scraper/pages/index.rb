@@ -13,13 +13,15 @@ module MasterviewScraper
         table = page.at("table.rgMasterTable") ||
                 page.at("table table")
         Table.extract_table(table).each do |row|
-          # The details section actually consists of seperate parts
-          details = row[:content]["Details"] ||
-                    row[:content]["Property/Application Details"] ||
-                    row[:content]["Address/Details"] ||
-                    row[:content]["Description"]
-          raise "Can't find details field in #{row[:content].keys}" if details.nil?
+          # Find fields that are called different things in different places
+          details = find_field(
+            row,
+            ["Details", "Property/Application Details", "Address/Details", "Description"]
+          )
+          date_received = find_field(row, ["Submitted", "Date Lodged"])
+          council_reference = find_field(row, %w[Number Application])
 
+          # Split out the seperate sections of the details field
           details = details.split("<br>").map do |detail|
             strip_html(detail).squeeze(" ").strip
           end
@@ -39,16 +41,6 @@ module MasterviewScraper
             raise "Unexpected number of things in details: #{details}"
           end
 
-          date_received = row[:content]["Submitted"] ||
-                          row[:content]["Date Lodged"]
-          raise "Can't find date_received field in #{row[:content].keys}" if date_received.nil?
-
-          council_reference = row[:content]["Number"] ||
-                              row[:content]["Application"]
-          if council_reference.nil?
-            raise "Can't find council_reference field in #{row[:content].keys}"
-          end
-
           yield(
             "info_url" => (page.uri + row[:url]).to_s,
             "council_reference" => council_reference.squeeze(" "),
@@ -59,6 +51,13 @@ module MasterviewScraper
             "date_scraped" => Date.today.to_s
           )
         end
+      end
+
+      def self.find_field(row, names)
+        value = row[:content].find { |k, _v| names.include?(k) }[1]
+        raise "Can't find field with possible names #{names} in #{row[:content].keys}" if value.nil?
+
+        value
       end
 
       # Returns the next page unless there is none in which case nil
