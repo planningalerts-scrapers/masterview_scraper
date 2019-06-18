@@ -1,106 +1,106 @@
 ---
-- council_reference: DA-1488/2016/C
-  address: 8 Ebsworth Street REDHEAD NSW 2290
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1272625
+  council_reference: DA-1488/2016/C
+  date_received: '2019-06-11'
   description: Dwelling Alterations and Additions - Modification Increase to Second
     Storey Deck
-  info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1272625
+  address: 8 Ebsworth Street REDHEAD NSW 2290
   date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1272655
+  council_reference: DA-244/2016/A
   date_received: '2019-06-11'
-- council_reference: DA-244/2016/A
-  address: 20 Ross Street BELMONT NSW 2280
   description: Dwelling Alterations &amp; Additions - Modifications for Alterations
     &amp; Additions to Single Dwelling
-  info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1272655
+  address: 20 Ross Street BELMONT NSW 2280
   date_scraped: '2019-05-14'
-  date_received: '2019-06-11'
-- council_reference: DA-831/2019
-  address: 63 Maddie Street BONNELLS BAY NSW 2264
-  description: Shed
-  info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1271866
-  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1271866
+  council_reference: DA-831/2019
   date_received: '2019-06-10'
-- council_reference: DA-832/2019
-  address: 18 Haslemere Crescent BUTTABA NSW 2283
+  description: Shed
+  address: 63 Maddie Street BONNELLS BAY NSW 2264
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1272001
+  council_reference: DA-832/2019
+  date_received: '2019-06-11'
   description: Dwelling Additions - Deck and Veranda
-  info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1272001
+  address: 18 Haslemere Crescent BUTTABA NSW 2283
   date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1272205
+  council_reference: DA-833/2019
   date_received: '2019-06-11'
-- council_reference: DA-833/2019
-  address: 52 Charlton Street BARNSLEY NSW 2278
   description: Staged dual occupancy, demolition and residential subdivision
-  info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1272205
+  address: 52 Charlton Street BARNSLEY NSW 2278
   date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1272383
+  council_reference: DA-834/2019
   date_received: '2019-06-11'
-- council_reference: DA-834/2019
-  address: 15 Surfside Drive CATHERINE HILL BAY NSW 2281
   description: Swimming Pool and Associated Safety Barriers
-  info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1272383
+  address: 15 Surfside Drive CATHERINE HILL BAY NSW 2281
   date_scraped: '2019-05-14'
-  date_received: '2019-06-11'
-- council_reference: DA-835/2019
-  address: 15 Margaret Street HOLMESVILLE NSW 2286
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1272896
+  council_reference: DA-835/2019
+  date_received: '2019-06-12'
   description: Swimming Pool &amp; Associated Safety Barriers and Demolition of Existing
     Pool
-  info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1272896
+  address: 15 Margaret Street HOLMESVILLE NSW 2286
   date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1273275
+  council_reference: DA-836/2019
   date_received: '2019-06-12'
-- council_reference: DA-836/2019
-  address: 2 Leroy Close HILLSBOROUGH NSW 2290
   description: Garage
-  info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1273275
+  address: 2 Leroy Close HILLSBOROUGH NSW 2290
   date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1273328
+  council_reference: DA-837/2019
   date_received: '2019-06-12'
-- council_reference: DA-837/2019
-  address: 2 Two Ponds Lane MURRAYS BEACH NSW 2281
   description: Dwelling
-  info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1273328
+  address: 2 Two Ponds Lane MURRAYS BEACH NSW 2281
   date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1273331
+  council_reference: DA-838/2019
   date_received: '2019-06-12'
-- council_reference: DA-838/2019
-  address: 49 Harrison Street CARDIFF NSW 2285
   description: Aldi Carparking (Reconfigeration)
-  info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1273331
+  address: 49 Harrison Street CARDIFF NSW 2285
   date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1273509
+  council_reference: DA-839/2019
   date_received: '2019-06-12'
-- council_reference: DA-839/2019
-  address: 20 Pacific Highway BENNETTS GREEN NSW 2290
   description: Hardware and Building Supplies
-  info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1273509
+  address: 20 Pacific Highway BENNETTS GREEN NSW 2290
   date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1273599
+  council_reference: DA-840/2019
   date_received: '2019-06-12'
-- council_reference: DA-840/2019
-  address: McDonalds Quarry 106 Reservoir Road GLENDALE NSW 2285
   description: Telecommunications Facility
-  info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1273599
+  address: McDonalds Quarry 106 Reservoir Road GLENDALE NSW 2285
   date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1273731
+  council_reference: DA-841/2019
   date_received: '2019-06-12'
-- council_reference: DA-841/2019
-  address: 1A Kalinda Street BLACKSMITHS NSW 2281
   description: Aterations &amp; Additions and Demolition of Carport and BBQ Area
-  info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1273731
+  address: 1A Kalinda Street BLACKSMITHS NSW 2281
   date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1274012
+  council_reference: DA-842/2019
   date_received: '2019-06-12'
-- council_reference: DA-842/2019
-  address: 33 Preston Place CAMERON PARK NSW 2285
   description: Proposed Dual Occupancy &amp; Torrens Title
-  info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1274012
+  address: 33 Preston Place CAMERON PARK NSW 2285
   date_scraped: '2019-05-14'
-  date_received: '2019-06-12'
-- council_reference: DA-843/2019
-  address: 1/218 The Esplanade SPEERS POINT NSW 2284
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1274119
+  council_reference: DA-843/2019
+  date_received: '2019-06-13'
   description: Swimming Pool with Associated Barriers
-  info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1274119
+  address: 1/218 The Esplanade SPEERS POINT NSW 2284
   date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1274224
+  council_reference: DA-844/2019
   date_received: '2019-06-13'
-- council_reference: DA-844/2019
-  address: 27 Brighton Avenue TORONTO NSW 2283
   description: Demolition of existing Garage &amp; New Garage
-  info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1274224
+  address: 27 Brighton Avenue TORONTO NSW 2283
   date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1274293
+  council_reference: DA-845/2019
   date_received: '2019-06-13'
-- council_reference: DA-845/2019
-  address: 123 Brighton Avenue TORONTO NSW 2283
   description: Water Recreation Structure (Jetty and Slipway)
-  info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1274293
+  address: 123 Brighton Avenue TORONTO NSW 2283
   date_scraped: '2019-05-14'
-  date_received: '2019-06-13'

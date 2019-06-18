@@ -29,12 +29,12 @@ module MasterviewScraper
         table = page.at("#_ctl5_lblData").at("table")
         Table.extract_table(table).each do |row|
           yield(
-            "council_reference" => row[:content]["Application"],
-            "address" => row[:content]["Description"].split("<br>")[0],
-            "description" => row[:content]["Description"].split("<br>")[1].strip.split("Description: ")[1],
             "info_url" => (page.uri + row[:url]).to_s,
-            "date_scraped" => Date.today.to_s,
-            "date_received" => Date.strptime(row[:content]["Date Lodged"], "%d/%m/%Y").to_s
+            "council_reference" => row[:content]["Application"],
+            "date_received" => Date.strptime(row[:content]["Date Lodged"], "%d/%m/%Y").to_s,
+            "description" => row[:content]["Description"].split("<br>")[1].strip.split("Description: ")[1],
+            "address" => row[:content]["Description"].split("<br>")[0],
+            "date_scraped" => Date.today.to_s
           )
         end
       end
