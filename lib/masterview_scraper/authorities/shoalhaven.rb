@@ -7,6 +7,17 @@ module MasterviewScraper
   module Authorities
     module Shoalhaven
       def self.scrape_and_save
+        # TODO: We're aiming to replace the currently running code with
+        # the commented out code below
+        # MasterviewScraper.scrape_and_save_period(
+        #   url: "http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster",
+        #   period: :thismonth,
+        #   params: {
+        #     "4a" => "25,13,72,60,58,56",
+        #     "6" => "F"
+        #   }
+        # )
+
         url = "http://doc.shoalhaven.nsw.gov.au/RSS/SCCRSS.aspx?ID=OpenApps"
         doc = Nokogiri::XML(open(url))
 
