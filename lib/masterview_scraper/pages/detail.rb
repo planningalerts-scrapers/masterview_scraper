@@ -5,12 +5,14 @@ module MasterviewScraper
     # A page with (hopefully) all the details for an application
     module Detail
       def self.scrape(page)
-        details = page.at("#lblDetails")
         council_reference = page.at("#ctl03_lblHead")
         address = page.at("#lblLand")
-        date_received = details.at("td").inner_html.split("<br>")[1].strip[11..-1]
-        # TODO: Do proper html entity decoding
-        description = details.at("td").inner_html.split("<br>")[0].strip[13..-1].gsub("&amp;", "&")
+        details = page.at("#lblDetails").at("td").inner_html.split("<br>").map do |detail|
+          Pages::Index.strip_html(detail).strip
+        end
+
+        description = details[0][13..-1]
+        date_received = details[1][11..-1]
 
         {
           council_reference: council_reference.inner_text.split(" ")[0],
