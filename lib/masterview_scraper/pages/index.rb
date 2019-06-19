@@ -30,6 +30,8 @@ module MasterviewScraper
       def self.scrape(page)
         table = page.at("table.rgMasterTable") ||
                 page.at("table table")
+        raise "Couldn't find table" if table.nil?
+
         Table.extract_table(table).each do |row|
           normalised = row[:content].map { |k, v| [normalise_name(k, v), v] }.to_h
 
