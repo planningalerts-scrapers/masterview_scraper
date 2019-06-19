@@ -5,9 +5,11 @@ module MasterviewScraper
     # A page with (hopefully) all the details for an application
     module Detail
       def self.scrape(page)
-        council_reference = page.at("#ctl03_lblHead")
-        address = page.at("#lblLand")
-        details = page.at("#lblDetails").at("td").inner_html.split("<br>").map do |detail|
+        council_reference = page.at("#ctl03_lblHead") ||
+                            page.at("#ctl00_cphContent_ctl00_lblApplicationHeader")
+        address = page.at("#lblLand") ||
+                  page.at("#lblProp")
+        details = page.at("#lblDetails").inner_html.split("<br>").map do |detail|
           Pages::Index.strip_html(detail).strip
         end
 
