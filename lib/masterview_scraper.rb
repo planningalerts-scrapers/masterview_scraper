@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 require "masterview_scraper/version"
-require "masterview_scraper/authorities/shoalhaven"
 require "masterview_scraper/pages/detail"
 require "masterview_scraper/pages/index"
 require "masterview_scraper/pages/terms_and_conditions"
@@ -106,17 +105,22 @@ module MasterviewScraper
         "4a" => "437",
         "5" => "T"
       }
+    },
+    shoalhaven: {
+      url: "http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster",
+      period: :thismonth,
+      params: {
+        "4a" => "25,13,72,60,58,56",
+        "6" => "F"
+      },
+      state: "NSW"
     }
   }.freeze
 
   def self.scrape_and_save(authority)
-    if AUTHORITIES[authority]
-      scrape_and_save_period(AUTHORITIES[authority])
-    elsif authority == :shoalhaven
-      Authorities::Shoalhaven.scrape_and_save
-    else
-      raise "Unexpected authority: #{authority}"
-    end
+    raise "Unexpected authority: #{authority}" unless AUTHORITIES.key?(authority)
+
+    scrape_and_save_period(AUTHORITIES[authority])
   end
 
   def self.scrape_and_save_period(url:, period:, params:, state: nil)
