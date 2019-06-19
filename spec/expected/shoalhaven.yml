@@ -296,6 +296,13 @@
   address: 38 Catherine St, MYOLA, NSW
   on_notice_to: '2019-07-04'
   date_scraped: '2019-05-14'
+- info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125533&propkey=121933
+  council_reference: DA19/1564
+  date_received: '2019-06-07'
+  description: New Single Storey Dwelling with Attached Secondary Dwelling
+  address: 16 The Barbette, MANYANA, NSW
+  on_notice_to: '2019-07-05'
+  date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125552&propkey=21151
   council_reference: DA19/1567
   date_received: '2019-06-11'
@@ -303,6 +310,13 @@
     & Carport
   address: 12 Commonwealth Av, BURRILL LAKE, NSW
   on_notice_to: '2019-07-02'
+  date_scraped: '2019-05-14'
+- info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125581&propkey=72244
+  council_reference: DA19/1569
+  date_received: '2019-06-11'
+  description: Concrete Swimming Pool
+  address: 29 West Cambewarra Rd, NORTH NOWRA, NSW
+  on_notice_to: '2019-07-04'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125589&propkey=49743
   council_reference: DA19/1571
@@ -320,12 +334,26 @@
   address: 28 Durnford Pl, ST GEORGES BASIN, NSW
   on_notice_to: '2019-07-03'
   date_scraped: '2019-05-14'
+- info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125605&propkey=43291
+  council_reference: DA19/1574
+  date_received: '2019-06-12'
+  description: Shed
+  address: 24 Hart Rd, FALLS CREEK, NSW
+  on_notice_to: '2019-07-04'
+  date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125622&propkey=20615
   council_reference: DA19/1579
   date_received: '2019-06-12'
   description: Dwelling Additions and Deck to Front with Variation to Front Building
     Line Setback
   address: 45 Seaside Pde, DOLPHIN POINT, NSW
+  on_notice_to: '2019-07-04'
+  date_scraped: '2019-05-14'
+- info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125630&propkey=86642
+  council_reference: DA19/1580
+  date_received: '2019-06-13'
+  description: Three Bay American Barn - Side Building Line Variation
+  address: 591D Croobyar Rd, CROOBYAR, NSW
   on_notice_to: '2019-07-04'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124698&propkey=29970
@@ -351,13 +379,6 @@
     Additions - Extension to Top Floor & Re-Roof Dwelling
   address: 158 Mitchell Pde, MOLLYMOOK BEACH, NSW
   on_notice_to: '2019-06-29'
-  date_scraped: '2019-05-14'
-- info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125659&propkey=121850
-  council_reference: DS19/1252
-  date_received: '2019-06-13'
-  description: Single Storey Dwelling. Section 4.55 - Back retaining wall
-  address: 28 Como Av, BURRILL LAKE, NSW
-  on_notice_to: '2019-07-04'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125754&propkey=9536
   council_reference: DS19/1264

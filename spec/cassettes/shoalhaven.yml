@@ -19,7 +19,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Wed, 19 Jun 2019 03:09:52 GMT
+      - Wed, 19 Jun 2019 05:14:49 GMT
       Server:
       - Apache
       Cache-Control:
@@ -31,7 +31,7 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Set-Cookie:
-      - ASP.NET_SessionId=zadoaybqrk4rlay0t2tjyajb; path=/; HttpOnly
+      - ASP.NET_SessionId=za4x5gygzu4yr4i3sx2o20at; path=/; HttpOnly
       Vary:
       - Accept-Encoding
       Transfer-Encoding:
@@ -41,7 +41,7 @@ http_interactions:
       string: '<rss version="2.0" xmlns=""><channel><title>Shoalhaven Applications
         Open for Submission</title><link>http://www.shoalhaven.nsw.gov.au</link><description>Da''s
         open for submission</description><language>en-au</language><ttl>60</ttl><lastBuildDate>Wed,
-        19 Jun 2019 03:09:50 GMT</lastBuildDate><copyright>Copyright Shoalhaven City
+        19 Jun 2019 05:14:48 GMT</lastBuildDate><copyright>Copyright Shoalhaven City
         Council. All rights reserved.</copyright><item><title>DS19/1264 - Two storey
         dwelling - S4.55(1A) Amend condition 3 - Stormwater</title><description><![CDATA[<table
         style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
@@ -50,15 +50,15 @@ http_interactions:
         72 Sanctuary Point Rd, SANCTUARY POINT</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
         Lot 373 DP 16557</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
         19 June 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125754&amp;propkey=9536</link><guid
-        isPermaLink="false">125754</guid><pubDate>Mon, 17 Jun 2019 23:55:47 GMT</pubDate></item><item><title>DS19/1252
-        - Single Storey Dwelling. Section 4.55 - Back retaining wall</title><description><![CDATA[<table
+        isPermaLink="false">125754</guid><pubDate>Mon, 17 Jun 2019 23:55:47 GMT</pubDate></item><item><title>DA19/1580
+        - Three Bay American Barn - Side Building Line Variation</title><description><![CDATA[<table
         style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
         13 June 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
-        Section 96 Amendment</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
-        28 Como Av, BURRILL LAKE</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
-        Lot 517 DP 1241269</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
-        04 July 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125659&amp;propkey=121850</link><guid
-        isPermaLink="false">125659</guid><pubDate>Thu, 13 Jun 2019 06:22:24 GMT</pubDate></item><item><title>DA19/1579
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        591D Croobyar Rd, CROOBYAR</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 3 DP 855500</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        04 July 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125630&amp;propkey=86642</link><guid
+        isPermaLink="false">125630</guid><pubDate>Thu, 13 Jun 2019 00:07:13 GMT</pubDate></item><item><title>DA19/1579
         - Dwelling Additions and Deck to Front with Variation to Front Building Line
         Setback</title><description><![CDATA[<table style=width: 500px;><tr><td style=width:150px;><b>Date
         received:</b></td><td> 12 June 2019</td></tr><tr><td style=width:150px;><b>Application
@@ -66,7 +66,14 @@ http_interactions:
         45 Seaside Pde, DOLPHIN POINT</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
         Lot 10 Sec 2 DP 201272</td></tr><tr><td style=width:150px;><b>Submissions
         close:</b></td><td> 04 July 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125622&amp;propkey=20615</link><guid
-        isPermaLink="false">125622</guid><pubDate>Wed, 12 Jun 2019 06:22:21 GMT</pubDate></item><item><title>DA19/1573
+        isPermaLink="false">125622</guid><pubDate>Wed, 12 Jun 2019 06:22:21 GMT</pubDate></item><item><title>DA19/1574
+        - Shed</title><description><![CDATA[<table style=width: 500px;><tr><td style=width:150px;><b>Date
+        received:</b></td><td> 12 June 2019</td></tr><tr><td style=width:150px;><b>Application
+        type:</b></td><td> Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        24 Hart Rd, FALLS CREEK</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 15 DP 15461</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        04 July 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125605&amp;propkey=43291</link><guid
+        isPermaLink="false">125605</guid><pubDate>Wed, 12 Jun 2019 01:21:15 GMT</pubDate></item><item><title>DA19/1573
         - Urban Dwelling Additions - Demolish  Existing Pergola &amp; Construct New
         Pergola</title><description><![CDATA[<table style=width: 500px;><tr><td style=width:150px;><b>Date
         received:</b></td><td> 12 June 2019</td></tr><tr><td style=width:150px;><b>Application
@@ -83,7 +90,14 @@ http_interactions:
         2255 Moss Vale Rd, BARRENGARRY</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
         Lot 103 DP 623325</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
         26 July 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125589&amp;propkey=49743</link><guid
-        isPermaLink="false">125589</guid><pubDate>Tue, 11 Jun 2019 06:21:46 GMT</pubDate></item><item><title>DA19/1567
+        isPermaLink="false">125589</guid><pubDate>Tue, 11 Jun 2019 06:21:46 GMT</pubDate></item><item><title>DA19/1569
+        - Concrete Swimming Pool</title><description><![CDATA[<table style=width:
+        500px;><tr><td style=width:150px;><b>Date received:</b></td><td> 11 June 2019</td></tr><tr><td
+        style=width:150px;><b>Application type:</b></td><td> Development Application</td></tr><tr><td
+        style=width:150px;><b>Address:</b></td><td> 29 West Cambewarra Rd, NORTH NOWRA</td></tr><tr><td
+        style=width:150px;><b>&nbsp;</b></td><td> Lot 19 DP 773615</td></tr><tr><td
+        style=width:150px;><b>Submissions close:</b></td><td> 04 July 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125581&amp;propkey=72244</link><guid
+        isPermaLink="false">125581</guid><pubDate>Tue, 11 Jun 2019 04:38:46 GMT</pubDate></item><item><title>DA19/1567
         - Urban Dwelling Additions - Kitchen, Living, Bedroom, Ensuite, Porch &amp;
         Carport</title><description><![CDATA[<table style=width: 500px;><tr><td style=width:150px;><b>Date
         received:</b></td><td> 11 June 2019</td></tr><tr><td style=width:150px;><b>Application
@@ -91,7 +105,15 @@ http_interactions:
         12 Commonwealth Av, BURRILL LAKE</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
         Lot 256 DP 15648</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
         02 July 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125552&amp;propkey=21151</link><guid
-        isPermaLink="false">125552</guid><pubDate>Mon, 10 Jun 2019 23:22:48 GMT</pubDate></item><item><title>DA19/1563
+        isPermaLink="false">125552</guid><pubDate>Mon, 10 Jun 2019 23:22:48 GMT</pubDate></item><item><title>DA19/1564
+        - New Single Storey Dwelling with Attached Secondary Dwelling</title><description><![CDATA[<table
+        style=width: 500px;><tr><td style=width:150px;><b>Date received:</b></td><td>
+        07 June 2019</td></tr><tr><td style=width:150px;><b>Application type:</b></td><td>
+        Development Application</td></tr><tr><td style=width:150px;><b>Address:</b></td><td>
+        16 The Barbette, MANYANA</td></tr><tr><td style=width:150px;><b>&nbsp;</b></td><td>
+        Lot 139 DP 1248050</td></tr><tr><td style=width:150px;><b>Submissions close:</b></td><td>
+        05 July 2019</td></tr></table>]]></description><link>http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&amp;key=125533&amp;propkey=121933</link><guid
+        isPermaLink="false">125533</guid><pubDate>Fri, 07 Jun 2019 01:22:45 GMT</pubDate></item><item><title>DA19/1563
         - Detached Shed</title><description><![CDATA[<table style=width: 500px;><tr><td
         style=width:150px;><b>Date received:</b></td><td> 07 June 2019</td></tr><tr><td
         style=width:150px;><b>Application type:</b></td><td> Development Application</td></tr><tr><td
