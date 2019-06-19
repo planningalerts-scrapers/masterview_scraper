@@ -1,24 +1,22 @@
 # frozen_string_literal: true
 
 require "masterview_scraper/pages/terms_and_conditions"
+require "masterview_scraper/pages/detail"
 
 module MasterviewScraper
   module Authorities
     # Scraper for Bellingen
     module Bellingen
-      def self.scrape_detail_page(info_page)
-        details = (info_page / '//*[@id="lblDetails"]')
+      def self.scrape_detail_page(page)
+        record = Pages::Detail.scrape(page)
 
-        council_reference = (info_page / '//*[@id="ctl03_lblHead"]').inner_text.split(" ")[0]
         {
-          "council_reference" => council_reference,
-          "address" => (info_page / '//*[@id="lblLand"]').inner_text.strip.split("\n")[0].strip,
-          "description" => details.at("td").inner_text.split("\r")[1].strip[13..-1],
-          "info_url" => info_page.uri.to_s,
+          "council_reference" => record[:council_reference],
+          "address" => record[:address],
+          "description" => record[:description],
+          "info_url" => record[:info_url],
           "date_scraped" => Date.today.to_s,
-          "date_received" => Date.strptime(
-            details.at("td").inner_html.split("<br>")[1].strip[11..-1], "%d/%m/%Y"
-          ).to_s
+          "date_received" => record[:date_received]
         }
       end
 
