@@ -40,34 +40,42 @@ module MasterviewScraper
 
           record["date_received"] = Date.strptime(normalised[:date_received], "%d/%m/%Y").to_s
 
-          # Split out the seperate sections of the details field
-          details = normalised[:details].split("<br>").map do |detail|
-            strip_html(detail).squeeze(" ").strip
-          end
-          details = details.delete_if do |detail|
-            detail =~ /^Applicant : / ||
-              detail =~ /^Applicant:/ ||
-              detail =~ /^Status:/
-          end
-          details = details.map do |detail|
-            if detail =~ /^Description: (.*)/
-              Regexp.last_match(1)
-            else
-              detail
-            end
-          end
-          if details.length < 2 || details.length > 3
-            raise "Unexpected number of things in details: #{details}"
-          end
-
-          record["description"] = (details.length == 3 ? details[2] : details[1])
-          record["address"] = details[0].gsub("\r", " ").gsub("\n", " ").squeeze(" ")
+          details = scrape_details_field(normalised[:details])
+          record["description"] = details[:description]
+          record["address"] = details[:address]
 
           # TODO: date_scraped should NOT be added here
           record["date_scraped"] = Date.today.to_s
 
           yield record
         end
+      end
+
+      def self.scrape_details_field(field)
+        # Split out the seperate sections of the details field
+        details = field.split("<br>").map do |detail|
+          strip_html(detail).squeeze(" ").strip
+        end
+        details = details.delete_if do |detail|
+          detail =~ /^Applicant : / ||
+            detail =~ /^Applicant:/ ||
+            detail =~ /^Status:/
+        end
+        details = details.map do |detail|
+          if detail =~ /^Description: (.*)/
+            Regexp.last_match(1)
+          else
+            detail
+          end
+        end
+        if details.length < 2 || details.length > 3
+          raise "Unexpected number of things in details: #{details}"
+        end
+
+        {
+          description: (details.length == 3 ? details[2] : details[1]),
+          address: details[0].gsub("\r", " ").gsub("\n", " ").squeeze(" ")
+        }
       end
 
       def self.find_field(row, names)
