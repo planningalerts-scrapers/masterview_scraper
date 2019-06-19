@@ -128,11 +128,9 @@ module MasterviewScraper
   end
 
   def self.scrape_and_save_period(url:, period:, params:, state: nil)
-    scrape_and_save_url(url_with_period(url, period, params), state)
-  end
-
-  def self.scrape_and_save_url(url, state = nil)
-    scrape(url, state) { |record| save(record) }
+    scrape(url_with_period(url, period, params), state) do |record|
+      save(record)
+    end
   end
 
   # Set state if the address does not already include the state (e.g. NSW, WA, etc..)
