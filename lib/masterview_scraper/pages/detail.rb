@@ -11,8 +11,8 @@ module MasterviewScraper
           Pages::Index.strip_html(detail).strip
         end
 
-        description = details[0][13..-1]
-        date_received = details[1][11..-1]
+        description = details[0].match(/^Description: (.*)/)[1]
+        date_received = details[1].match(/^Submitted: (.*)/)[1]
 
         {
           council_reference: council_reference.inner_text.split(" ")[0],
