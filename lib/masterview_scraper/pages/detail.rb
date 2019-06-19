@@ -5,12 +5,12 @@ module MasterviewScraper
     # A page with (hopefully) all the details for an application
     module Detail
       def self.scrape(page)
-        details = (page / '//*[@id="lblDetails"]')
+        details = page.at("#lblDetails")
 
-        council_reference = (page / '//*[@id="ctl03_lblHead"]').inner_text.split(" ")[0]
+        council_reference = page.at("#ctl03_lblHead").inner_text.split(" ")[0]
         {
           council_reference: council_reference,
-          address: (page / '//*[@id="lblLand"]').inner_text.strip.split("\n")[0].strip,
+          address: page.at("#lblLand").inner_text.strip.split("\n")[0].strip,
           description: details.at("td").inner_text.split("\r")[1].strip[13..-1],
           info_url: page.uri.to_s,
           date_received: Date.strptime(
