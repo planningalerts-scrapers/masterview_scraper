@@ -13,7 +13,7 @@ module MasterviewScraper
           Pages::Index.strip_html(detail).strip
         end
 
-        description = details[0].match(/^Description: (.*)/)[1]
+        description = details[0].match(/^Description: (.*)/)[1].squeeze(" ")
         date_received = details[1].match(/^Submitted: (.*)/)[1]
 
         {
