@@ -20,6 +20,8 @@ module MasterviewScraper
           :details
         when "Determination", "Decision"
           :decision
+        when "Address"
+          :address
         else
           raise "Unknown name #{name} with value #{value}"
         end
@@ -32,14 +34,24 @@ module MasterviewScraper
           normalised = row[:content].map { |k, v| [normalise_name(k, v), v] }.to_h
 
           href = Nokogiri::HTML.fragment(normalised[:link]).at("a")["href"]
-          details = scrape_details_field(normalised[:details])
+          if normalised[:details]
+            details = scrape_details_field(normalised[:details])
+            normalised[:description] = details[:description]
+            normalised[:address] = details[:address]
+          # For the odd one that doesn't have a details page we have some
+          # special handling
+          else
+            v = normalised[:council_reference].split("-", 2)
+            normalised[:council_reference] = v[0].strip
+            normalised[:description] = v[1].strip
+          end
 
           yield(
             "info_url" => (page.uri + href).to_s,
             "council_reference" => normalised[:council_reference].squeeze(" "),
             "date_received" => Date.strptime(normalised[:date_received], "%d/%m/%Y").to_s,
-            "description" => details[:description],
-            "address" => details[:address],
+            "description" => normalised[:description],
+            "address" => normalised[:address],
             # TODO: date_scraped should NOT be added here
             "date_scraped" => Date.today.to_s
           )

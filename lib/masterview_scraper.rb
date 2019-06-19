@@ -2,10 +2,10 @@
 
 require "masterview_scraper/version"
 require "masterview_scraper/authorities/bellingen"
-require "masterview_scraper/authorities/brisbane"
 require "masterview_scraper/authorities/shoalhaven"
 require "masterview_scraper/pages/index"
 require "masterview_scraper/pages/terms_and_conditions"
+require "masterview_scraper/table"
 
 require "scraperwiki"
 require "mechanize"
@@ -16,7 +16,10 @@ module MasterviewScraper
     if authority == :bellingen
       Authorities::Bellingen.scrape_and_save
     elsif authority == :brisbane
-      Authorities::Brisbane.scrape_and_save
+      MasterviewScraper.scrape_and_save_last_14_days(
+        url: "https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster",
+        params: { "6" => "F" }
+      )
     elsif authority == :fairfield
       scrape_and_save_last_14_days(
         url: "https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster",
