@@ -8,7 +8,7 @@ module MasterviewScraper
     module Index
       # Handles all the variants of the column names and handles them all to
       # transform them to a standard name that we use here
-      def self.normalise_name(name)
+      def self.normalise_name(name, value)
         case name
         when "Link", "Show", ""
           :link
@@ -29,7 +29,7 @@ module MasterviewScraper
         table = page.at("table.rgMasterTable") ||
                 page.at("table table")
         Table.extract_table(table).each do |row|
-          normalised = row[:content].transform_keys { |k| normalise_name(k) }
+          normalised = row[:content].map { |k, v| [normalise_name(k, v), v] }.to_h
 
           href = Nokogiri::HTML.fragment(normalised[:link]).at("a")["href"]
           details = scrape_details_field(normalised[:details])
