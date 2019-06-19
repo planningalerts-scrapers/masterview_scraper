@@ -6,16 +6,8 @@ module MasterviewScraper
   module Pages
     # A page with a table of results of a search
     module Index
-      # Takes a hash and normalises the keys so that we can refer to them by standard names
-      def self.normalise_names(hash)
-        normalised = {}
-        # Step through the columns and handle each one individually
-        hash.each do |name, value|
-          normalised[normalise_name(name)] = value
-        end
-        normalised
-      end
-
+      # Handles all the variants of the column names and handles them all to
+      # transform them to a standard name that we use here
       def self.normalise_name(name)
         case name
         when "Link", "Show", ""
@@ -38,9 +30,8 @@ module MasterviewScraper
                 page.at("table table")
         Table.extract_table(table).each do |row|
           record = {}
-          hash = row[:content]
 
-          normalised = normalise_names(hash)
+          normalised = row[:content].transform_keys { |k| normalise_name(k) }
 
           href = Nokogiri::HTML.fragment(normalised[:link]).at("a")["href"]
           record["info_url"] = (page.uri + href).to_s
