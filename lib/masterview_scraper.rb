@@ -141,8 +141,16 @@ module MasterviewScraper
 
     while page
       Pages::Index.scrape(page) do |record|
-        record["address"] += ", " + state if state
-        yield record
+        record[:address] += ", " + state if state
+
+        yield(
+          "info_url" => record[:info_url],
+          "council_reference" => record[:council_reference],
+          "date_received" => record[:date_received],
+          "description" => record[:description],
+          "address" => record[:address],
+          "date_scraped" => Date.today.to_s
+        )
       end
       page = Pages::Index.next(page)
     end

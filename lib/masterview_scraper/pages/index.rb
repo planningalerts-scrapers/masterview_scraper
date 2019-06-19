@@ -47,13 +47,11 @@ module MasterviewScraper
           end
 
           yield(
-            "info_url" => (page.uri + href).to_s,
-            "council_reference" => normalised[:council_reference].squeeze(" "),
-            "date_received" => Date.strptime(normalised[:date_received], "%d/%m/%Y").to_s,
-            "description" => normalised[:description],
-            "address" => normalised[:address],
-            # TODO: date_scraped should NOT be added here
-            "date_scraped" => Date.today.to_s
+            info_url: (page.uri + href).to_s,
+            council_reference: normalised[:council_reference].squeeze(" "),
+            date_received: Date.strptime(normalised[:date_received], "%d/%m/%Y").to_s,
+            description: normalised[:description],
+            address: normalised[:address]
           )
         end
       end
