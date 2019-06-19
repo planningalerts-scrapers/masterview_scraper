@@ -22,22 +22,6 @@ module MasterviewScraper
         }
       end
 
-      # TODO: Handle multiple pages of results
-      def self.scrape_index_page(page)
-        container = page / '//*[@id="ctl03_lblData"]'
-        if container.inner_text =~ /Data is not available!/
-          raise "It says data is not available for some reason"
-        end
-        table = container.at("table")
-
-        data = MasterviewScraper::Table.extract_table(table)
-        data.each do |row|
-          yield(
-            info_url: (page.uri + row[:url]).to_s
-          )
-        end
-      end
-
       def self.scrape_and_save
         url = MasterviewScraper.url_with_period(
           "http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster",
@@ -56,7 +40,7 @@ module MasterviewScraper
         # Get the page again
         page = agent.get(url)
 
-        scrape_index_page(page) do |record|
+        Pages::Index.scrape(page) do |record|
           info_page = agent.get(record[:info_url])
           record = scrape_detail_page(info_page)
           MasterviewScraper.save(record)

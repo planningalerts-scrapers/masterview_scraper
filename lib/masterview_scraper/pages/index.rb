@@ -12,7 +12,7 @@ module MasterviewScraper
         case name
         when "Link", "Show", ""
           :link
-        when "Application", "Number"
+        when "Application", "Number", "App No"
           :council_reference
         when "Submitted", "Date Lodged"
           :date_received
@@ -29,7 +29,8 @@ module MasterviewScraper
 
       def self.scrape(page)
         table = page.at("table.rgMasterTable") ||
-                page.at("table table")
+                page.at("table table") ||
+                page.at("#ctl03_lblData table")
         raise "Couldn't find table" if table.nil?
 
         Table.extract_table(table).each do |row|
@@ -39,7 +40,7 @@ module MasterviewScraper
           if normalised[:details]
             details = scrape_details_field(normalised[:details])
             normalised[:description] = details[:description]
-            normalised[:address] = details[:address]
+            normalised[:address] = details[:address] if details[:address]
           # For the odd one that doesn't have a details field we have some
           # special handling
           else
@@ -48,13 +49,14 @@ module MasterviewScraper
             normalised[:description] = v[1].strip
           end
 
-          yield(
+          record = {
             info_url: (page.uri + href).to_s,
             council_reference: normalised[:council_reference].squeeze(" "),
             date_received: Date.strptime(normalised[:date_received], "%d/%m/%Y").to_s,
-            description: normalised[:description],
-            address: normalised[:address]
-          )
+            description: normalised[:description]
+          }
+          record[:address] = normalised[:address] if normalised[:address]
+          yield record
         end
       end
 
@@ -75,14 +77,20 @@ module MasterviewScraper
             detail
           end
         end
-        if details.length < 2 || details.length > 3
+        if details.empty? || details.length > 3
           raise "Unexpected number of things in details: #{details}"
         end
 
-        {
-          description: (details.length == 3 ? details[2] : details[1]),
-          address: details[0].gsub("\r", " ").gsub("\n", " ").squeeze(" ")
-        }
+        if details.length == 1
+          {
+            description: details[0]
+          }
+        else
+          {
+            description: (details.length == 3 ? details[2] : details[1]),
+            address: details[0].gsub("\r", " ").gsub("\n", " ").squeeze(" ")
+          }
+        end
       end
 
       def self.find_field(row, names)
