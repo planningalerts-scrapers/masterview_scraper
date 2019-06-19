@@ -35,16 +35,16 @@ module MasterviewScraper
 
              info_page = agent.get(record[:info_url])
              record = Pages::Detail.scrape(info_page)
-             record = {
-               "council_reference" => record[:council_reference],
-               "address" => record[:address],
-               "description" => record[:description],
-               "info_url" => record[:info_url],
-               "date_scraped" => Date.today.to_s,
-               "date_received" => record[:date_received]
-             }
           end
 
+          record = {
+            "council_reference" => record[:council_reference],
+            "address" => record[:address],
+            "description" => record[:description],
+            "info_url" => record[:info_url],
+            "date_scraped" => Date.today.to_s,
+            "date_received" => record[:date_received]
+          }
           MasterviewScraper.save(record)
         end
       end
