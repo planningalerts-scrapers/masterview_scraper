@@ -43,7 +43,7 @@ module MasterviewScraper
             normalised[:address] = details[:address] if details[:address]
           # For the odd one that doesn't have a details field we have some
           # special handling
-          else
+          elsif normalised[:council_reference].include?("-")
             v = normalised[:council_reference].split("-", 2)
             normalised[:council_reference] = v[0].strip
             normalised[:description] = v[1].strip
