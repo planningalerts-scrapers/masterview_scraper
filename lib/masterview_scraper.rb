@@ -14,28 +14,30 @@ require "mechanize"
 module MasterviewScraper
   def self.scrape_and_save(authority)
     if authority == :bellingen
-      MasterviewScraper.scrape_and_save_url(
-        MasterviewScraper.url_with_period(
-          "http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster",
-          # All applications in the last month
-          :thismonth,
+      scrape_and_save_period(
+        url: "http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster",
+        period: :thismonth,
+        params: {
           "4a" => "DA,CDC,TA,MD",
           "6" => "F"
-        )
+        }
       )
     elsif authority == :brisbane
-      MasterviewScraper.scrape_and_save_last_14_days(
+      scrape_and_save_period(
         url: "https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster",
+        period: :last14days,
         params: { "6" => "F" }
       )
     elsif authority == :fairfield
-      scrape_and_save_last_14_days(
+      scrape_and_save_period(
         url: "https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster",
+        period: :last14days,
         params: { "4a" => 10, "6" => "F" }
       )
     elsif authority == :fraser_coast
-      scrape_and_save_last_14_days(
+      scrape_and_save_period(
         url: "https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster",
+        period: :last14days,
         params: {
           # TODO: Do the encoding automatically
           "4a" => "BPS%27,%27MC%27,%27OP%27,%27SB%27,%27MCU%27,%27ROL%27,%27OPWKS%27,"\
@@ -46,69 +48,75 @@ module MasterviewScraper
         state: "QLD"
       )
     elsif authority == :hawkesbury
-      scrape_and_save_last_14_days(
+      scrape_and_save_period(
         url: "http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster",
+        period: :last14days,
         params: { "4a" => "DA", "6" => "F" },
         state: "NSW"
       )
     elsif authority == :ipswich
-      scrape_and_save_last_14_days(
+      scrape_and_save_period(
         url: "http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster",
+        period: :last14days,
         # TODO: Don't know what this parameter "5" does
         params: { "5" => "T", "6" => "F" }
       )
     elsif authority == :lake_macquarie
-      scrape_and_save_url(
-        url_with_period(
-          "http://apptracking.lakemac.com.au/modules/ApplicationMaster",
-          :thisweek,
+      scrape_and_save_period(
+        url: "http://apptracking.lakemac.com.au/modules/ApplicationMaster",
+        period: :thisweek,
+        params: {
           "4a" => "437",
           "5" => "T"
-        )
+        }
       )
     elsif authority == :logan
-      scrape_and_save_last_14_days(
+      scrape_and_save_period(
         url: "http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster",
+        period: :last14days,
         params: { "6" => "F" }
       )
     elsif authority == :mackay
-      scrape_and_save_last_30_days(
+      scrape_and_save_period(
         url: "https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster",
+        period: :last30days,
         params: {
           "4a" => "443,444,445,446,487,555,556,557,558,559,560,564",
           "6" => "F"
         }
       )
     elsif authority == :marion
-      scrape_and_save_url(
-        url_with_period(
-          "http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster",
-          :thisweek,
+      scrape_and_save_period(
+        url: "http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster",
+        period: :thisweek,
+        params: {
           "4a" => "7",
           "6" => "F"
-        )
+        }
       )
     elsif authority == :moreton_bay
-      scrape_and_save_url(
-        url_with_period(
-          "http://pdonline.moretonbay.qld.gov.au/Modules/applicationmaster",
-          :thismonth,
+      scrape_and_save_period(
+        url: "http://pdonline.moretonbay.qld.gov.au/Modules/applicationmaster",
+        period: :thismonth,
+        params: {
           "6" => "F"
-        )
+        }
       )
     elsif authority == :shoalhaven
       Authorities::Shoalhaven.scrape_and_save
     elsif authority == :toowoomba
-      scrape_and_save_last_30_days(
+      scrape_and_save_period(
         url: "https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster",
+        period: :last30days,
         params: {
           "4a" => "\'488\',\'487\',\'486\',\'495\',\'521\',\'540\',\'496\',\'562\'",
           "6" => "F"
         }
       )
     elsif authority == :wyong
-      scrape_and_save_last_30_days(
+      scrape_and_save_period(
         url: "http://wsconline.wyong.nsw.gov.au/applicationtracking/modules/applicationmaster",
+        period: :last30days,
         params: {
           "4a" => "437",
           "5" => "T"
@@ -119,12 +127,8 @@ module MasterviewScraper
     end
   end
 
-  def self.scrape_and_save_last_14_days(url:, params:, state: nil)
-    scrape_and_save_url(url_with_period(url, :last14days, params), state)
-  end
-
-  def self.scrape_and_save_last_30_days(url:, params:, state: nil)
-    scrape_and_save_url(url_with_period(url, :last30days, params), state)
+  def self.scrape_and_save_period(url:, period:, params:, state: nil)
+    scrape_and_save_url(url_with_period(url, period, params), state)
   end
 
   def self.scrape_and_save_url(url, state = nil)
