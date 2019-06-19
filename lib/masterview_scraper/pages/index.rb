@@ -6,51 +6,69 @@ module MasterviewScraper
   module Pages
     # A page with a table of results of a search
     module Index
+      # Takes a hash and normalises the keys so that we can refer to them by standard names
+      def self.normalise_names(hash)
+        normalised = {}
+        # Step through the columns and handle each one individually
+        hash.each do |name, value|
+          if ["Link", "Show", ""].include?(name)
+            normalised[:link] = value
+          elsif %w[Application Number].include?(name)
+            normalised[:council_reference] = value
+          elsif ["Submitted", "Date Lodged"].include?(name)
+            normalised[:date_received] = value
+          elsif ["Details", "Address/Details",
+                 "Description", "Property/Application Details"].include?(name)
+            normalised[:details] = value
+          elsif %w[Determination Decision].include?(name)
+            # Whether the application was approved or rejected.
+            # For the time being we're not doing anything with this value below
+            normalised[:decision] = value
+          else
+            raise "Unknown name #{name} with value #{value}"
+          end
+        end
+        normalised
+      end
+
       def self.scrape(page)
         table = page.at("table.rgMasterTable") ||
                 page.at("table table")
         Table.extract_table(table).each do |row|
           record = {}
-          # Step through the columns and handle each one individually
-          row[:content].each do |name, value|
-            if ["Link", "Show", ""].include?(name)
-              href = Nokogiri::HTML.fragment(value).at("a")["href"]
-              record["info_url"] = (page.uri + href).to_s
-            elsif %w[Application Number].include?(name)
-              record["council_reference"] = value.squeeze(" ")
-            elsif ["Submitted", "Date Lodged"].include?(name)
-              record["date_received"] = Date.strptime(value, "%d/%m/%Y").to_s
-            elsif ["Details", "Address/Details",
-                   "Description", "Property/Application Details"].include?(name)
-              # Split out the seperate sections of the details field
-              details = value.split("<br>").map do |detail|
-                strip_html(detail).squeeze(" ").strip
-              end
-              details = details.delete_if do |detail|
-                detail =~ /^Applicant : / ||
-                  detail =~ /^Applicant:/ ||
-                  detail =~ /^Status:/
-              end
-              details = details.map do |detail|
-                if detail =~ /^Description: (.*)/
-                  Regexp.last_match(1)
-                else
-                  detail
-                end
-              end
-              if details.length < 2 || details.length > 3
-                raise "Unexpected number of things in details: #{details}"
-              end
+          hash = row[:content]
 
-              record["description"] = (details.length == 3 ? details[2] : details[1])
-              record["address"] = details[0].gsub("\r", " ").gsub("\n", " ").squeeze(" ")
-            elsif %w[Determination Decision].include?(name)
-              # Whether the application was approved or rejected.
-              # Ignore this for the time being and do nothing
+          normalised = normalise_names(hash)
+
+          href = Nokogiri::HTML.fragment(normalised[:link]).at("a")["href"]
+          record["info_url"] = (page.uri + href).to_s
+
+          record["council_reference"] = normalised[:council_reference].squeeze(" ")
+
+          record["date_received"] = Date.strptime(normalised[:date_received], "%d/%m/%Y").to_s
+
+          # Split out the seperate sections of the details field
+          details = normalised[:details].split("<br>").map do |detail|
+            strip_html(detail).squeeze(" ").strip
+          end
+          details = details.delete_if do |detail|
+            detail =~ /^Applicant : / ||
+              detail =~ /^Applicant:/ ||
+              detail =~ /^Status:/
+          end
+          details = details.map do |detail|
+            if detail =~ /^Description: (.*)/
+              Regexp.last_match(1)
             else
-              raise "Unknown name #{name} with value #{value}"
+              detail
             end
           end
+          if details.length < 2 || details.length > 3
+            raise "Unexpected number of things in details: #{details}"
+          end
+
+          record["description"] = (details.length == 3 ? details[2] : details[1])
+          record["address"] = details[0].gsub("\r", " ").gsub("\n", " ").squeeze(" ")
 
           # TODO: date_scraped should NOT be added here
           record["date_scraped"] = Date.today.to_s

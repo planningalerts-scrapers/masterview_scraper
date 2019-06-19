@@ -3,6 +3,7 @@
 module MasterviewScraper
   # Utility for getting stuff out of html tables
   module Table
+    # TODO: Pages::Index doesn't require the :url so let's try to get rid of it
     def self.extract_table(table)
       headers = header_elements(table).map { |th| th.inner_text.strip }
       body_rows(table).map do |tr|
