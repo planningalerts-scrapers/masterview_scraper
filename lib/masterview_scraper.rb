@@ -18,7 +18,7 @@ module MasterviewScraper
         MasterviewScraper.url_with_period(
           "http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster",
           # All applications in the last month
-          "thismonth",
+          :thismonth,
           "4a" => "DA,CDC,TA,MD",
           "6" => "F"
         )
@@ -61,7 +61,7 @@ module MasterviewScraper
       scrape_and_save_url(
         url_with_period(
           "http://apptracking.lakemac.com.au/modules/ApplicationMaster",
-          "thisweek",
+          :thisweek,
           "4a" => "437",
           "5" => "T"
         )
@@ -83,7 +83,7 @@ module MasterviewScraper
       scrape_and_save_url(
         url_with_period(
           "http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster",
-          "thisweek",
+          :thisweek,
           "4a" => "7",
           "6" => "F"
         )
@@ -92,7 +92,7 @@ module MasterviewScraper
       scrape_and_save_url(
         url_with_period(
           "http://pdonline.moretonbay.qld.gov.au/Modules/applicationmaster",
-          "thismonth",
+          :thismonth,
           "6" => "F"
         )
       )
@@ -120,11 +120,11 @@ module MasterviewScraper
   end
 
   def self.scrape_and_save_last_14_days(url:, params:, state: nil)
-    scrape_and_save_url(url_last_14_days(url, params), state)
+    scrape_and_save_url(url_with_period(url, :last14days, params), state)
   end
 
   def self.scrape_and_save_last_30_days(url:, params:, state: nil)
-    scrape_and_save_url(url_last_30_days(url, params), state)
+    scrape_and_save_url(url_with_period(url, :last30days, params), state)
   end
 
   def self.scrape_and_save_url(url, state = nil)
@@ -193,10 +193,23 @@ module MasterviewScraper
   end
 
   def self.url_with_period(base_url, period, params)
-    MasterviewScraper.url_with_default_params(
-      base_url,
-      { "1" => period }.merge(params)
-    )
+    if period == :thismonth
+      MasterviewScraper.url_with_default_params(
+        base_url,
+        { "1" => "thismonth" }.merge(params)
+      )
+    elsif period == :thisweek
+      MasterviewScraper.url_with_default_params(
+        base_url,
+        { "1" => "thisweek" }.merge(params)
+      )
+    elsif period == :last14days
+      url_last_n_days(base_url, 14, params)
+    elsif period == :last30days
+      url_last_n_days(base_url, 30, params)
+    else
+      raise "Unexpected period #{period}"
+    end
   end
 
   # TODO: Escape params by using activesupport .to_query
@@ -213,13 +226,5 @@ module MasterviewScraper
 
   def self.url_last_n_days(base_url, days, params = {})
     url_date_range(base_url, Date.today - days, Date.today, params)
-  end
-
-  def self.url_last_14_days(base_url, params = {})
-    url_last_n_days(base_url, 14, params)
-  end
-
-  def self.url_last_30_days(base_url, params = {})
-    url_last_n_days(base_url, 30, params)
   end
 end
