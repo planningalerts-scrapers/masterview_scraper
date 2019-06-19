@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 require "masterview_scraper/version"
-require "masterview_scraper/authorities/bellingen"
 require "masterview_scraper/authorities/shoalhaven"
+require "masterview_scraper/pages/detail"
 require "masterview_scraper/pages/index"
 require "masterview_scraper/pages/terms_and_conditions"
 require "masterview_scraper/table"
@@ -14,7 +14,15 @@ require "mechanize"
 module MasterviewScraper
   def self.scrape_and_save(authority)
     if authority == :bellingen
-      Authorities::Bellingen.scrape_and_save
+      MasterviewScraper.scrape_and_save_url(
+        MasterviewScraper.url_with_period(
+          "http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster",
+          # All applications in the last month
+          "thismonth",
+          "4a" => "DA,CDC,TA,MD",
+          "6" => "F"
+        )
+      )
     elsif authority == :brisbane
       MasterviewScraper.scrape_and_save_last_14_days(
         url: "https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster",
@@ -141,6 +149,18 @@ module MasterviewScraper
 
     while page
       Pages::Index.scrape(page) do |record|
+        # If index page doesn't have enough information then we need
+        # to scrape the detail page
+        if record[:info_url].nil? ||
+           record[:council_reference].nil? ||
+           record[:date_received].nil? ||
+           record[:description].nil? ||
+           record[:address].nil?
+
+          info_page = agent.get(record[:info_url])
+          record = Pages::Detail.scrape(info_page)
+        end
+
         record[:address] += ", " + state if state
 
         yield(
