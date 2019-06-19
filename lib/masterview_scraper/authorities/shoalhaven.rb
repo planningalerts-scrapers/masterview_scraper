@@ -33,7 +33,6 @@ module MasterviewScraper
           page_info['date_received'] = Date.strptime(table_values['Date received:'], '%d %B %Y').to_s
           page_info['description'] = item.at_xpath('//title').inner_text.split[2..-1].join(' ')
           page_info['address'] = table_values['Address:'] + ', NSW'
-          page_info['on_notice_to'] = Date.strptime(table_values['Submissions close:'], '%d %B %Y').to_s
           page_info['date_scraped'] = Date.today.to_s
 
           page_info

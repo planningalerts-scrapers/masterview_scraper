@@ -4,7 +4,6 @@
   date_received: '2019-04-08'
   description: Carport
   address: 3 Hermes Cr, WORRIGEE, NSW
-  on_notice_to: '2019-06-28'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124051&propkey=47886
   council_reference: DA19/1349
@@ -12,7 +11,6 @@
   description: Garages & Carports - Proposed Metal Shed with Demolition of Existing
     Shed
   address: 52 Lackersteen St, CALLALA BAY, NSW
-  on_notice_to: '2019-06-28'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124543&propkey=5181
   council_reference: DA19/1423
@@ -20,42 +18,36 @@
   description: Urban Dwelling Additions - Proposed Alterations & Additions to existing
     dwelling
   address: 8 King St, BERRY, NSW
-  on_notice_to: '2019-06-21'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124810&propkey=62364
   council_reference: DA19/1454
   date_received: '2019-05-13'
   description: Commercial Additions - Additions and Alterations - Adding a motel room
   address: 1 Crescent St, ULLADULLA, NSW
-  on_notice_to: '2019-06-20'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124864&propkey=117365
   council_reference: DA19/1460
   date_received: '2019-05-15'
   description: New Commercial - Construction of 100 Space Staff Car Park
   address: 8 Moona Creek Rd, VINCENTIA, NSW
-  on_notice_to: '2019-06-19'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125006&propkey=1000067
   council_reference: DA19/1479
   date_received: '2019-05-21'
   description: Dual Occupancy - Proposed dual occupancy with strata subdivision
   address: 16 Bexhill Av, SUSSEX INLET, NSW
-  on_notice_to: '2019-07-04'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125063&propkey=17289
   council_reference: DA19/1488
   date_received: '2019-05-22'
   description: Urban Dwelling Additions - Extensions & Additions to Existing House
   address: 20 Manning Av, NARRAWALLEE, NSW
-  on_notice_to: '2019-06-19'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125075&propkey=86336
   council_reference: DA19/1489
   date_received: '2019-05-23'
   description: Miscellaneous - Stardust Circus
   address: 18 East St, NOWRA, NSW
-  on_notice_to: '2019-06-19'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125183&propkey=21704
   council_reference: DA19/1504
@@ -64,21 +56,18 @@
     and the addition of a new bedroom by installing separation walls in the living
     room
   address: 23 Thistleton Dr, BURRILL LAKE, NSW
-  on_notice_to: '2019-06-19'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125194&propkey=83386
   council_reference: DA19/1506
   date_received: '2019-05-28'
   description: New Secondary Dwelling - Granny Flat
   address: 18 Emmett St, CALLALA BAY, NSW
-  on_notice_to: '2019-06-19'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125207&propkey=28330
   council_reference: DA19/1509
   date_received: '2019-05-28'
   description: New Single Storey and Secondary Dwelling
   address: 55 Queen Mary St, CALLALA BEACH, NSW
-  on_notice_to: '2019-06-20'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125215&propkey=13209
   council_reference: DA19/1511
@@ -86,21 +75,18 @@
   description: Demolition Of Existing Structures, Construction Of Dual Occupancy With
     Torrens Title Subdivision
   address: 435 Elizabeth Dr, VINCENTIA, NSW
-  on_notice_to: '2019-06-24'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125213&propkey=53596
   council_reference: DA19/1512
   date_received: '2019-05-28'
   description: Single Storey Dwelling & Detached Secondary Dwelling
   address: 2 Clipper Rd, NOWRA, NSW
-  on_notice_to: '2019-06-28'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125220&propkey=43614
   council_reference: DA19/1513
   date_received: '2019-05-28'
   description: Detached Shed on Existing Slab
   address: 44 Calymea St, NOWRA HILL, NSW
-  on_notice_to: '2019-06-24'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125229&propkey=35879
   council_reference: DA19/1515
@@ -109,28 +95,24 @@
     residential dwelling. Bedroom and ensuite added and family room extended. Brick
     veneer with a tiled roof to match existing dwelling
   address: 3 Thadalee Pl, ULLADULLA, NSW
-  on_notice_to: '2019-06-19'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125232&propkey=948
   council_reference: DA19/1516
   date_received: '2019-05-28'
   description: Dwelling addition
   address: 22 West St, GREENWELL POINT, NSW
-  on_notice_to: '2019-06-24'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125246&propkey=119652
   council_reference: DA19/1518
   date_received: '2019-05-29'
   description: Outbuildings - Detached Colourbond Shed
   address: 17 Hickory Cr, BANGALEE, NSW
-  on_notice_to: '2019-06-19'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125245&propkey=93805
   council_reference: DA19/1519
   date_received: '2019-05-29'
   description: Miscellaneous - Construction of Dam
   address: 8 Homestead Lane, BERRY, NSW
-  on_notice_to: '2019-07-03'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125254&propkey=45432
   council_reference: DA19/1521
@@ -138,84 +120,72 @@
   description: New Urban Dwelling - Proposed building envelope for dwelling and shed
     and associated vegetation clearing
   address: Wandra Rd, SUSSEX INLET, NSW
-  on_notice_to: '2019-06-20'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125273&propkey=53190
   council_reference: DA19/1523
   date_received: '2019-05-30'
   description: New Dwelling
   address: 29 Whimbrel Dr, SUSSEX INLET, NSW
-  on_notice_to: '2019-06-22'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125291&propkey=37331
   council_reference: DA19/1528
   date_received: '2019-05-30'
   description: Urban Dwelling Additions - Addition to Existing Dwelling
   address: 4 McDonald Av, NOWRA, NSW
-  on_notice_to: '2019-06-26'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125298&propkey=37852
   council_reference: DA19/1530
   date_received: '2019-05-30'
   description: Convert detached garage to a detached habitable room
   address: 139 Shoalhaven St, NOWRA, NSW
-  on_notice_to: '2019-06-26'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125300&propkey=26775
   council_reference: DA19/1531
   date_received: '2019-05-30'
   description: Alterations & Additions to Existing Residence & Detached Shed
   address: 52 Voyager Cr, BAWLEY POINT, NSW
-  on_notice_to: '2019-06-20'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125312&propkey=38158
   council_reference: DA19/1532
   date_received: '2019-05-31'
   description: Outbuildings - Machinery Shed
   address: 515 Hawken Rd, TOMERONG, NSW
-  on_notice_to: '2019-06-28'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125330&propkey=6215
   council_reference: DA19/1535
   date_received: '2019-05-31'
   description: Alterations and Additions
   address: 44 Watersedge Av, BASIN VIEW, NSW
-  on_notice_to: '2019-07-01'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125332&propkey=14306
   council_reference: DA19/1536
   date_received: '2019-05-31'
   description: Outbuildings - Proposed Detached Metal Shed
   address: 39 Killarney Rd, EROWAL BAY, NSW
-  on_notice_to: '2019-06-21'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125334&propkey=27163
   council_reference: DA19/1537
   date_received: '2019-05-31'
   description: Addition of a Front & Rear Balcony & Building Line Variation
   address: 9 Wooroonga Cr, KIOLOA, NSW
-  on_notice_to: '2019-06-19'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125347&propkey=96612
   council_reference: DA19/1540
   date_received: '2019-05-31'
   description: Swimming Pool - Inground Fibreglass
   address: 134A Mackays Rd, UPPER KANGAROO RIVER, NSW
-  on_notice_to: '2019-06-29'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125374&propkey=117115
   council_reference: DA19/1542
   date_received: '2019-06-03'
   description: Dwelling Additions
   address: 779 Woollamia Rd, WOOLLAMIA, NSW
-  on_notice_to: '2019-06-28'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125380&propkey=90939
   council_reference: DA19/1543
   date_received: '2019-06-03'
   description: Miscellaneous - The Husky Running Festival
   address: Hawke St, HUSKISSON, NSW
-  on_notice_to: '2019-07-01'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125383&propkey=55627
   council_reference: DA19/1544
@@ -223,63 +193,54 @@
   description: In Ground Swimming Pool. Demolition of the existing rear pergola &
     the construction of a new rear pergola
   address: 21 Ferry Lane, NOWRA, NSW
-  on_notice_to: '2019-07-03'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125384&propkey=37921
   council_reference: DA19/1545
   date_received: '2019-06-03'
   description: Dwelling Additions & Alterations
   address: 34 Wondalga Cr, NOWRA, NSW
-  on_notice_to: '2019-07-02'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125392&propkey=23374
   council_reference: DA19/1547
   date_received: '2019-06-03'
   description: Urban Dwelling Additions - New Level 1 Deck
   address: 22 Moolianga Rd, BERRARA, NSW
-  on_notice_to: '2019-06-27'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125414&propkey=99574
   council_reference: DA19/1548
   date_received: '2019-06-04'
   description: Stardust Circus - 1st January 2020 to 12th January 2020
   address: 66 Church St, ULLADULLA, NSW
-  on_notice_to: '2019-07-03'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125425&propkey=1000073
   council_reference: DA19/1550
   date_received: '2019-06-04'
   description: Dual Occupancy With Torrens Title Subdivision
   address: 28 Bexhill Av, SUSSEX INLET, NSW
-  on_notice_to: '2019-06-27'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125435&propkey=4798
   council_reference: DA19/1551
   date_received: '2019-06-04'
   description: Foreshore retaining walls, boundary fencing & landscaping
   address: 121 The Marina, CULBURRA BEACH, NSW
-  on_notice_to: '2019-07-03'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125457&propkey=120580
   council_reference: DA19/1554
   date_received: '2019-06-05'
   description: Construction of a Two Storey Dwelling
   address: 8 Kooyonga Cl, MOLLYMOOK BEACH, NSW
-  on_notice_to: '2019-06-27'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125465&propkey=9514
   council_reference: DA19/1555
   date_received: '2019-06-05'
   description: Single Storey Dwelling
   address: 24 Sanctuary Point Rd, SANCTUARY POINT, NSW
-  on_notice_to: '2019-07-03'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125477&propkey=119360
   council_reference: DA19/1557
   date_received: '2019-06-06'
   description: In Ground Swimming Pool
   address: 16 Bow St, VINCENTIA, NSW
-  on_notice_to: '2019-07-04'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125505&propkey=55234
   council_reference: DA19/1559
@@ -287,21 +248,18 @@
   description: Rural Dwelling Additions - Alterations & Additions To Existing Dwelling,
     Swimming Pool & Cabana, Tennis Court, Farmshed Extension, Driveway Adjustment
   address: 10 Borrowdale Cl, BERRY, NSW
-  on_notice_to: '2019-07-03'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125535&propkey=29014
   council_reference: DA19/1563
   date_received: '2019-06-07'
   description: Detached Shed
   address: 38 Catherine St, MYOLA, NSW
-  on_notice_to: '2019-07-04'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125533&propkey=121933
   council_reference: DA19/1564
   date_received: '2019-06-07'
   description: New Single Storey Dwelling with Attached Secondary Dwelling
   address: 16 The Barbette, MANYANA, NSW
-  on_notice_to: '2019-07-05'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125552&propkey=21151
   council_reference: DA19/1567
@@ -309,14 +267,12 @@
   description: Urban Dwelling Additions - Kitchen, Living, Bedroom, Ensuite, Porch
     & Carport
   address: 12 Commonwealth Av, BURRILL LAKE, NSW
-  on_notice_to: '2019-07-02'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125581&propkey=72244
   council_reference: DA19/1569
   date_received: '2019-06-11'
   description: Concrete Swimming Pool
   address: 29 West Cambewarra Rd, NORTH NOWRA, NSW
-  on_notice_to: '2019-07-04'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125589&propkey=49743
   council_reference: DA19/1571
@@ -324,7 +280,6 @@
   description: Change Of Use From Shed To Detached Habitable Room & Change Of Use
     From Shed To Tourist & Visitor Accommodation
   address: 2255 Moss Vale Rd, BARRENGARRY, NSW
-  on_notice_to: '2019-07-26'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125591&propkey=77816
   council_reference: DA19/1573
@@ -332,14 +287,12 @@
   description: Urban Dwelling Additions - Demolish Existing Pergola & Construct New
     Pergola
   address: 28 Durnford Pl, ST GEORGES BASIN, NSW
-  on_notice_to: '2019-07-03'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125605&propkey=43291
   council_reference: DA19/1574
   date_received: '2019-06-12'
   description: Shed
   address: 24 Hart Rd, FALLS CREEK, NSW
-  on_notice_to: '2019-07-04'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125622&propkey=20615
   council_reference: DA19/1579
@@ -347,14 +300,12 @@
   description: Dwelling Additions and Deck to Front with Variation to Front Building
     Line Setback
   address: 45 Seaside Pde, DOLPHIN POINT, NSW
-  on_notice_to: '2019-07-04'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125630&propkey=86642
   council_reference: DA19/1580
   date_received: '2019-06-13'
   description: Three Bay American Barn - Side Building Line Variation
   address: 591D Croobyar Rd, CROOBYAR, NSW
-  on_notice_to: '2019-07-04'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124698&propkey=29970
   council_reference: DS19/1195
@@ -362,7 +313,6 @@
   description: Multi-Unit Development ? Twelve (12) Dwellings plus Demolition of Existing
     Dwelling & Outbuilding
   address: 7 Beach St, HUSKISSON, NSW
-  on_notice_to: '2019-07-01'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124931&propkey=116500
   council_reference: DS19/1210
@@ -370,7 +320,6 @@
   description: Miscellaneous - Coastal Patrol Markets- Section 4.55 Modification -
     Continuation of existing 13 markets per year
   address: Wason St, ULLADULLA, NSW
-  on_notice_to: '2019-07-10'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125518&propkey=18814
   council_reference: DS19/1242
@@ -378,21 +327,18 @@
   description: Application to Modify Development Consent to Change Roof Pitch - Dwelling
     Additions - Extension to Top Floor & Re-Roof Dwelling
   address: 158 Mitchell Pde, MOLLYMOOK BEACH, NSW
-  on_notice_to: '2019-06-29'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125754&propkey=9536
   council_reference: DS19/1264
   date_received: '2019-06-18'
   description: Two storey dwelling - S4.55(1A) Amend condition 3 - Stormwater
   address: 72 Sanctuary Point Rd, SANCTUARY POINT, NSW
-  on_notice_to: '2019-06-19'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125231&propkey=43918
   council_reference: RD19/1000
   date_received: '2019-05-28'
   description: Outbuildings
   address: 10 Boxsells Lane, MEROO MEADOW, NSW
-  on_notice_to: '2019-06-19'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=103443&propkey=93046
   council_reference: SF10570
@@ -400,7 +346,6 @@
   description: 144 Large Residential Lots. Plus 1 Residue & 1 Conservation Lot. Demolition
     of existing house and structures.
   address: 369 Worrigee Rd, WORRIGEE, NSW
-  on_notice_to: '2019-06-28'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125171&propkey=42461
   council_reference: SF10743
@@ -408,12 +353,10 @@
   description: 158 lot residential subdivision including public road opening plus
     creation of 2 x public reserves & 1 sewer pumping station lot
   address: Old Southern Rd, SOUTH NOWRA, NSW
-  on_notice_to: '2019-07-12'
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=125534&propkey=14182
   council_reference: SF10746
   date_received: '2019-06-07'
   description: Residential - Two Lot Subdivision
   address: 14 Kallaroo Rd, EROWAL BAY, NSW
-  on_notice_to: '2019-06-29'
   date_scraped: '2019-05-14'
