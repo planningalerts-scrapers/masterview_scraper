@@ -1,19 +1,145 @@
 ---
-- council_reference: 2019/DA-00072
-  address: 137 Old Pacific HWY RALEIGH NSW 2454
-  description: Construction of a Dwelling
-  info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63732
+- info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63538
+  council_reference: 2019/CDC-00006
+  date_received: '2019-04-23'
+  description: Conversion of Existing Shed to Secondary Dwelling
+  address: 14 Gum ST DORRIGO NSW 2453
   date_scraped: '2019-05-14'
-  date_received: '2019-06-03'
-- council_reference: 2019/DA-00073
-  address: 11 Lourdes AVE URUNGA NSW 2455
-  description: Alterations and Additions to a Dwelling
-  info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63736
+- info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63625
+  council_reference: 2019/CDC-00007
+  date_received: '2019-05-08'
+  description: Swimming Pool
+  address: 45 Henry Boultwood DR FERNMOUNT NSW 2454
   date_scraped: '2019-05-14'
-  date_received: '2019-06-04'
-- council_reference: 2019/DA-00074
-  address: Bowraville RD BELLINGEN NSW 2454
-  description: Construction of a Shed
-  info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63739
+- info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63481
+  council_reference: 2019/DA-00038
+  date_received: '2019-04-15'
+  description: Boundary Adjustment
+  address: 1166 North Bank RD RALEIGH NSW 2454
   date_scraped: '2019-05-14'
-  date_received: '2019-06-07'
+- info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63503
+  council_reference: 2019/DA-00040
+  date_received: '2019-04-17'
+  description: Boundary Adjustment
+  address: 2260 Kalang RD KALANG NSW 2454
+  date_scraped: '2019-05-14'
+- info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63517
+  council_reference: 2019/DA-00042
+  date_received: '2019-04-24'
+  description: Earthworks &amp; Tree Removal
+  address: 2233 Waterfall WAY THORA NSW 2454
+  date_scraped: '2019-05-14'
+- info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63519
+  council_reference: 2019/DA-00043
+  date_received: '2019-04-24'
+  description: Demoliton of Existing Dwelling &amp; Construction of New Dwelling
+  address: 50 Morgo ST URUNGA NSW 2455
+  date_scraped: '2019-05-14'
+- info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63522
+  council_reference: 2019/DA-00044
+  date_received: '2019-04-24'
+  description: Dwelling Alterations &amp; Additions
+  address: 300 Roses RD GLENIFFER NSW 2454
+  date_scraped: '2019-05-14'
+- info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63523
+  council_reference: 2019/DA-00045
+  date_received: '2019-04-26'
+  description: Dwelling Alterations &amp; Additions
+  address: 56 Crown ST BELLINGEN NSW 2454
+  date_scraped: '2019-05-14'
+- info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63526
+  council_reference: 2019/DA-00046
+  date_received: '2019-04-26'
+  description: Continued Use of Dwelling
+  address: 1245 Kalang RD KALANG NSW 2454
+  date_scraped: '2019-05-14'
+- info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63534
+  council_reference: 2019/DA-00047
+  date_received: '2019-04-18'
+  description: Secondary Dwelling Additions
+  address: 129 Newry Island DR URUNGA NSW 2455
+  date_scraped: '2019-05-14'
+- info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63536
+  council_reference: 2019/DA-00048
+  date_received: '2019-04-18'
+  description: Winter Music Festival &amp; Temporary Camping Grounds
+  address: 4 Black ST BELLINGEN NSW 2454
+  date_scraped: '2019-05-14'
+- info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63539
+  council_reference: 2019/DA-00049
+  date_received: '2019-04-23'
+  description: Swimming Pool
+  address: 189 Osprey DR URUNGA NSW 2455
+  date_scraped: '2019-05-14'
+- info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63542
+  council_reference: 2019/DA-00050
+  date_received: '2019-04-29'
+  description: Dwelling Alterations &amp; Additions; Swimming Pool (Staged)
+  address: 10 Short SL BELLINGEN NSW 2454
+  date_scraped: '2019-05-14'
+- info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63554
+  council_reference: 2019/DA-00051
+  date_received: '2019-05-01'
+  description: Dwelling
+  address: 382 Shephards RD BIELSDOWN HILLS NSW 2453
+  date_scraped: '2019-05-14'
+- info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63564
+  council_reference: 2019/DA-00052
+  date_received: '2019-05-02'
+  description: Subdivision (To Create 5 Additional Lots) &amp; New Access Road
+  address: 150 Hydes Creek RD BELLINGEN NSW 2454
+  date_scraped: '2019-05-14'
+- info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63572
+  council_reference: 2019/DA-00053
+  date_received: '2019-05-01'
+  description: Rebranding of Service Station Signage
+  address: 24 - 26 Hyde ST BELLINGEN NSW 2454
+  date_scraped: '2019-05-14'
+- info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63575
+  council_reference: 2019/DA-00054
+  date_received: '2019-05-07'
+  description: Inground Swimming Pool &amp; Fence
+  address: 27 Newry Island DR URUNGA NSW 2455
+  date_scraped: '2019-05-14'
+- info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63593
+  council_reference: 2019/DA-00055
+  date_received: '2019-05-08'
+  description: Business Identification Sign
+  address: 15 Baker ST FERNMOUNT NSW 2454
+  date_scraped: '2019-05-14'
+- info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63600
+  council_reference: 2019/DA-00056
+  date_received: '2019-05-09'
+  description: Dwelling Alterations &amp; Additions (Deck)
+  address: 16 Johnson AVE MYLESTOM NSW 2454
+  date_scraped: '2019-05-14'
+- info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63601
+  council_reference: 2019/DA-00057
+  date_received: '2019-05-14'
+  description: Dwelling
+  address: 9 Crawford CL HYDES CREEK NSW 2454
+  date_scraped: '2019-05-14'
+- info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63603
+  council_reference: 2019/DA-00058
+  date_received: '2019-05-14'
+  description: Secondary Dwelling
+  address: 9 Crawford CL HYDES CREEK NSW 2454
+  date_scraped: '2019-05-14'
+- info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63623
+  council_reference: 2019/DA-00059
+  date_received: '2019-05-13'
+  description: Change of Use - Retail Nursery
+  address: 21 Hyde ST BELLINGEN NSW 2454
+  date_scraped: '2019-05-14'
+- info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63529
+  council_reference: 2019/MD-00019
+  date_received: '2019-04-29'
+  description: Subdivision (3 additional lots)
+  address: 71 Hydes Creek RD BELLINGEN NSW 2454
+  date_scraped: '2019-05-14'
+- info_url: http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster/default.aspx?page=wrapper&key=63607
+  council_reference: 2019/MD-00021
+  date_received: '2019-05-09'
+  description: Dwelling &amp; Secondary Dwelling
+  address: 24 McLean DR BELLINGEN NSW 2454
+  date_scraped: '2019-05-14'

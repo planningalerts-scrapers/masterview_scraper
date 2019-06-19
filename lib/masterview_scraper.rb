@@ -15,7 +15,7 @@ module MasterviewScraper
   AUTHORITIES = {
     bellingen: {
       url: "http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster",
-      period: :thismonth,
+      period: :last30days,
       params: {
         "4a" => "DA,CDC,TA,MD",
         "6" => "F"
@@ -151,7 +151,14 @@ module MasterviewScraper
            record[:description].nil? ||
            record[:address].nil?
 
-          info_page = agent.get(record[:info_url])
+          begin
+            info_page = agent.get(record[:info_url])
+          # Doing this for the benefit of bellingen that
+          # appears to be able to fault on detail pages of particular
+          # applications
+          rescue Mechanize::ResponseCodeError
+            next
+          end
           record = Pages::Detail.scrape(info_page)
         end
 
