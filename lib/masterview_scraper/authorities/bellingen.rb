@@ -41,8 +41,18 @@ module MasterviewScraper
         page = agent.get(url)
 
         Pages::Index.scrape(page) do |record|
-          info_page = agent.get(record[:info_url])
-          record = scrape_detail_page(info_page)
+          # If index page doesn't have enough information then we need
+          # to scrape the detail page
+          if record[:info_url].nil? ||
+             record[:council_reference].nil? ||
+             record[:date_received].nil? ||
+             record[:description].nil? ||
+             record[:address].nil?
+
+             info_page = agent.get(record[:info_url])
+             record = scrape_detail_page(info_page)
+          end
+
           MasterviewScraper.save(record)
         end
       end
