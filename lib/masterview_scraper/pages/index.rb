@@ -38,7 +38,7 @@ module MasterviewScraper
             details = scrape_details_field(normalised[:details])
             normalised[:description] = details[:description]
             normalised[:address] = details[:address]
-          # For the odd one that doesn't have a details page we have some
+          # For the odd one that doesn't have a details field we have some
           # special handling
           else
             v = normalised[:council_reference].split("-", 2)
