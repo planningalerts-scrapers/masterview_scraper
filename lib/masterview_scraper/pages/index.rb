@@ -11,24 +11,26 @@ module MasterviewScraper
         normalised = {}
         # Step through the columns and handle each one individually
         hash.each do |name, value|
-          if ["Link", "Show", ""].include?(name)
-            normalised[:link] = value
-          elsif %w[Application Number].include?(name)
-            normalised[:council_reference] = value
-          elsif ["Submitted", "Date Lodged"].include?(name)
-            normalised[:date_received] = value
-          elsif ["Details", "Address/Details",
-                 "Description", "Property/Application Details"].include?(name)
-            normalised[:details] = value
-          elsif %w[Determination Decision].include?(name)
-            # Whether the application was approved or rejected.
-            # For the time being we're not doing anything with this value below
-            normalised[:decision] = value
-          else
-            raise "Unknown name #{name} with value #{value}"
-          end
+          normalised[normalise_name(name)] = value
         end
         normalised
+      end
+
+      def self.normalise_name(name)
+        case name
+        when "Link", "Show", ""
+          :link
+        when "Application", "Number"
+          :council_reference
+        when "Submitted", "Date Lodged"
+          :date_received
+        when "Details", "Address/Details", "Description", "Property/Application Details"
+          :details
+        when "Determination", "Decision"
+          :decision
+        else
+          raise "Unknown name #{name} with value #{value}"
+        end
       end
 
       def self.scrape(page)
