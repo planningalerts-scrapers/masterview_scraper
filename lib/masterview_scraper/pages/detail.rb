@@ -6,16 +6,17 @@ module MasterviewScraper
     module Detail
       def self.scrape(page)
         details = page.at("#lblDetails")
+        council_reference = page.at("#ctl03_lblHead")
+        address = page.at("#lblLand")
+        date_received = details.at("td").inner_html.split("<br>")[1].strip[11..-1]
+        description = details.at("td").inner_text.split("\r")[1].strip[13..-1]
 
-        council_reference = page.at("#ctl03_lblHead").inner_text.split(" ")[0]
         {
-          council_reference: council_reference,
-          address: page.at("#lblLand").inner_text.strip.split("\n")[0].strip,
-          description: details.at("td").inner_text.split("\r")[1].strip[13..-1],
+          council_reference: council_reference.inner_text.split(" ")[0],
+          address: address.inner_text.strip.split("\n")[0].strip,
+          description: description,
           info_url: page.uri.to_s,
-          date_received: Date.strptime(
-            details.at("td").inner_html.split("<br>")[1].strip[11..-1], "%d/%m/%Y"
-          ).to_s
+          date_received: Date.strptime(date_received, "%d/%m/%Y").to_s
         }
       end
     end
