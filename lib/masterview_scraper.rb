@@ -157,6 +157,7 @@ module MasterviewScraper
           # appears to be able to fault on detail pages of particular
           # applications
           rescue Mechanize::ResponseCodeError
+            puts "WARNING: Skipping application because of server problem"
             next
           end
           record = Pages::Detail.scrape(info_page)
