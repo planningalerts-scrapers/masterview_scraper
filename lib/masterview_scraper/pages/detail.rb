@@ -9,7 +9,8 @@ module MasterviewScraper
         council_reference = page.at("#ctl03_lblHead")
         address = page.at("#lblLand")
         date_received = details.at("td").inner_html.split("<br>")[1].strip[11..-1]
-        description = details.at("td").inner_html.split("<br>")[0].strip[13..-1]
+        # TODO: Do proper html entity decoding
+        description = details.at("td").inner_html.split("<br>")[0].strip[13..-1].gsub("&amp;", "&")
 
         {
           council_reference: council_reference.inner_text.split(" ")[0],
