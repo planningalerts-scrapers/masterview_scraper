@@ -37,17 +37,15 @@ module MasterviewScraper
         end
       end
 
-      def self.url
-        MasterviewScraper.url_with_period(
+      def self.scrape_and_save
+        url = MasterviewScraper.url_with_period(
           "http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster",
           # All applications in the last month
           "thismonth",
           "4a" => "DA,CDC,TA,MD",
           "6" => "F"
         )
-      end
 
-      def self.scrape
         agent = Mechanize.new
 
         page = agent.get(url)
@@ -58,12 +56,6 @@ module MasterviewScraper
         page = agent.get(url)
 
         scrape_index_page(page, agent) do |record|
-          yield record
-        end
-      end
-
-      def self.scrape_and_save
-        scrape do |record|
           MasterviewScraper.save(record)
         end
       end
