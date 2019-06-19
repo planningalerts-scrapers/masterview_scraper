@@ -5,21 +5,7 @@ require "masterview_scraper/pages/detail"
 
 module MasterviewScraper
   module Authorities
-    # Scraper for Bellingen
     module Bellingen
-      def self.scrape_detail_page(page)
-        record = Pages::Detail.scrape(page)
-
-        {
-          "council_reference" => record[:council_reference],
-          "address" => record[:address],
-          "description" => record[:description],
-          "info_url" => record[:info_url],
-          "date_scraped" => Date.today.to_s,
-          "date_received" => record[:date_received]
-        }
-      end
-
       def self.scrape_and_save
         url = MasterviewScraper.url_with_period(
           "http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster",
@@ -48,7 +34,15 @@ module MasterviewScraper
              record[:address].nil?
 
              info_page = agent.get(record[:info_url])
-             record = scrape_detail_page(info_page)
+             record = Pages::Detail.scrape(info_page)
+             record = {
+               "council_reference" => record[:council_reference],
+               "address" => record[:address],
+               "description" => record[:description],
+               "info_url" => record[:info_url],
+               "date_scraped" => Date.today.to_s,
+               "date_received" => record[:date_received]
+             }
           end
 
           MasterviewScraper.save(record)
