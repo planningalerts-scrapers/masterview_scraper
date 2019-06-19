@@ -29,25 +29,20 @@ module MasterviewScraper
         table = page.at("table.rgMasterTable") ||
                 page.at("table table")
         Table.extract_table(table).each do |row|
-          record = {}
-
           normalised = row[:content].transform_keys { |k| normalise_name(k) }
 
           href = Nokogiri::HTML.fragment(normalised[:link]).at("a")["href"]
-          record["info_url"] = (page.uri + href).to_s
-
-          record["council_reference"] = normalised[:council_reference].squeeze(" ")
-
-          record["date_received"] = Date.strptime(normalised[:date_received], "%d/%m/%Y").to_s
-
           details = scrape_details_field(normalised[:details])
-          record["description"] = details[:description]
-          record["address"] = details[:address]
 
-          # TODO: date_scraped should NOT be added here
-          record["date_scraped"] = Date.today.to_s
-
-          yield record
+          yield(
+            "info_url" => (page.uri + href).to_s,
+            "council_reference" => normalised[:council_reference].squeeze(" "),
+            "date_received" => Date.strptime(normalised[:date_received], "%d/%m/%Y").to_s,
+            "description" => details[:description],
+            "address" => details[:address],
+            # TODO: date_scraped should NOT be added here
+            "date_scraped" => Date.today.to_s
+          )
         end
       end
 
