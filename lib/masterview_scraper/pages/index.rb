@@ -129,7 +129,7 @@ module MasterviewScraper
       # Strips any html tags and decodes any html entities
       # e.g. "<strong>Tea &amp; Cake<strong>" => "Tea & Cake"
       def self.strip_html(html)
-        Nokogiri::HTML(html).inner_text
+        Nokogiri::HTML.fragment(html).inner_text
       end
     end
   end
