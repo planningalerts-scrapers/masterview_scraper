@@ -12,116 +12,108 @@ require "mechanize"
 
 # Scrape a masterview development application system
 module MasterviewScraper
+  AUTHORITIES = {
+    bellingen: {
+      url: "http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster",
+      period: :thismonth,
+      params: {
+        "4a" => "DA,CDC,TA,MD",
+        "6" => "F"
+      }
+    },
+    brisbane: {
+      url: "https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster",
+      period: :last14days,
+      params: { "6" => "F" }
+    },
+    fairfield: {
+      url: "https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster",
+      period: :last14days,
+      params: { "4a" => 10, "6" => "F" }
+    },
+    fraser_coast: {
+      url: "https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster",
+      period: :last14days,
+      params: {
+        # TODO: Do the encoding automatically
+        "4a" => "BPS%27,%27MC%27,%27OP%27,%27SB%27,%27MCU%27,%27ROL%27,%27OPWKS%27,"\
+              "%27QMCU%27,%27QRAL%27,%27QOPW%27,%27QDBW%27,%27QPOS%27,%27QSPS%27,"\
+              "%27QEXE%27,%27QCAR%27,%27ACA",
+        "6" => "F"
+      },
+      state: "QLD"
+    },
+    hawkesbury: {
+      url: "http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster",
+      period: :last14days,
+      params: { "4a" => "DA", "6" => "F" },
+      state: "NSW"
+    },
+    ipswich: {
+      url: "http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster",
+      period: :last14days,
+      # TODO: Don't know what this parameter "5" does
+      params: { "5" => "T", "6" => "F" }
+    },
+    lake_macquarie: {
+      url: "http://apptracking.lakemac.com.au/modules/ApplicationMaster",
+      period: :thisweek,
+      params: {
+        "4a" => "437",
+        "5" => "T"
+      }
+    },
+    logan: {
+      url: "http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster",
+      period: :last14days,
+      params: { "6" => "F" }
+    },
+    mackay: {
+      url: "https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster",
+      period: :last30days,
+      params: {
+        "4a" => "443,444,445,446,487,555,556,557,558,559,560,564",
+        "6" => "F"
+      }
+    },
+    marion: {
+      url: "http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster",
+      period: :thisweek,
+      params: {
+        "4a" => "7",
+        "6" => "F"
+      }
+    },
+    moreton_bay: {
+      url: "http://pdonline.moretonbay.qld.gov.au/Modules/applicationmaster",
+      period: :thismonth,
+      params: {
+        "6" => "F"
+      }
+    },
+    toowoomba: {
+      url: "https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster",
+      period: :last30days,
+      params: {
+        "4a" => "\'488\',\'487\',\'486\',\'495\',\'521\',\'540\',\'496\',\'562\'",
+        "6" => "F"
+      }
+    },
+    wyong: {
+      url: "http://wsconline.wyong.nsw.gov.au/applicationtracking/modules/applicationmaster",
+      period: :last30days,
+      params: {
+        "4a" => "437",
+        "5" => "T"
+      }
+    }
+  }.freeze
+
   def self.scrape_and_save(authority)
-    if authority == :bellingen
-      scrape_and_save_period(
-        url: "http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster",
-        period: :thismonth,
-        params: {
-          "4a" => "DA,CDC,TA,MD",
-          "6" => "F"
-        }
-      )
-    elsif authority == :brisbane
-      scrape_and_save_period(
-        url: "https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster",
-        period: :last14days,
-        params: { "6" => "F" }
-      )
-    elsif authority == :fairfield
-      scrape_and_save_period(
-        url: "https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster",
-        period: :last14days,
-        params: { "4a" => 10, "6" => "F" }
-      )
-    elsif authority == :fraser_coast
-      scrape_and_save_period(
-        url: "https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster",
-        period: :last14days,
-        params: {
-          # TODO: Do the encoding automatically
-          "4a" => "BPS%27,%27MC%27,%27OP%27,%27SB%27,%27MCU%27,%27ROL%27,%27OPWKS%27,"\
-                "%27QMCU%27,%27QRAL%27,%27QOPW%27,%27QDBW%27,%27QPOS%27,%27QSPS%27,"\
-                "%27QEXE%27,%27QCAR%27,%27ACA",
-          "6" => "F"
-        },
-        state: "QLD"
-      )
-    elsif authority == :hawkesbury
-      scrape_and_save_period(
-        url: "http://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster",
-        period: :last14days,
-        params: { "4a" => "DA", "6" => "F" },
-        state: "NSW"
-      )
-    elsif authority == :ipswich
-      scrape_and_save_period(
-        url: "http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster",
-        period: :last14days,
-        # TODO: Don't know what this parameter "5" does
-        params: { "5" => "T", "6" => "F" }
-      )
-    elsif authority == :lake_macquarie
-      scrape_and_save_period(
-        url: "http://apptracking.lakemac.com.au/modules/ApplicationMaster",
-        period: :thisweek,
-        params: {
-          "4a" => "437",
-          "5" => "T"
-        }
-      )
-    elsif authority == :logan
-      scrape_and_save_period(
-        url: "http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster",
-        period: :last14days,
-        params: { "6" => "F" }
-      )
-    elsif authority == :mackay
-      scrape_and_save_period(
-        url: "https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster",
-        period: :last30days,
-        params: {
-          "4a" => "443,444,445,446,487,555,556,557,558,559,560,564",
-          "6" => "F"
-        }
-      )
-    elsif authority == :marion
-      scrape_and_save_period(
-        url: "http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster",
-        period: :thisweek,
-        params: {
-          "4a" => "7",
-          "6" => "F"
-        }
-      )
-    elsif authority == :moreton_bay
-      scrape_and_save_period(
-        url: "http://pdonline.moretonbay.qld.gov.au/Modules/applicationmaster",
-        period: :thismonth,
-        params: {
-          "6" => "F"
-        }
-      )
+    if AUTHORITIES[authority]
+      scrape_and_save_period(AUTHORITIES[authority])
     elsif authority == :shoalhaven
       Authorities::Shoalhaven.scrape_and_save
-    elsif authority == :toowoomba
-      scrape_and_save_period(
-        url: "https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster",
-        period: :last30days,
-        params: {
-          "4a" => "\'488\',\'487\',\'486\',\'495\',\'521\',\'540\',\'496\',\'562\'",
-          "6" => "F"
-        }
-      )
-    elsif authority == :wyong
-      scrape_and_save_period(
-        url: "http://wsconline.wyong.nsw.gov.au/applicationtracking/modules/applicationmaster",
-        period: :last30days,
-        params: {
-          "4a" => "437",
-          "5" => "T"
-        }
-      )
     else
       raise "Unexpected authority: #{authority}"
     end
