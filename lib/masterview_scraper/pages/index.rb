@@ -52,12 +52,20 @@ module MasterviewScraper
           record = {
             info_url: (page.uri + href).to_s,
             council_reference: normalised[:council_reference].squeeze(" "),
-            date_received: Date.strptime(normalised[:date_received], "%d/%m/%Y").to_s,
+            date_received: parse_date(normalised[:date_received]).to_s,
             description: normalised[:description]
           }
           record[:address] = normalised[:address] if normalised[:address]
           yield record
         end
+      end
+
+      # Returns ruby date object
+      def self.parse_date(string)
+        # In most cases the date is in d/m/y but in one it's different. Thanks!
+        Date.strptime(string, "%d/%m/%Y")
+      rescue ArgumentError
+        Date.parse(string)
       end
 
       def self.scrape_details_field(field)
