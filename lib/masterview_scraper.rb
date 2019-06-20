@@ -6,8 +6,7 @@ require "masterview_scraper/pages/index"
 require "masterview_scraper/pages/terms_and_conditions"
 require "masterview_scraper/table"
 require "masterview_scraper/authorities"
-require "masterview_scraper/authorities/albury"
-require "masterview_scraper/authorities/bogan"
+require "masterview_scraper/get_applications_api"
 
 require "scraperwiki"
 require "mechanize"
@@ -18,9 +17,21 @@ module MasterviewScraper
     if AUTHORITIES.key?(authority)
       scrape_and_save_period(AUTHORITIES[authority])
     elsif authority == :albury
-      Authorities::Albury.scrape_and_save
+      MasterviewScraper.scrape_api(
+        "https://eservice.alburycity.nsw.gov.au/ApplicationTracker",
+        Date.today - 10,
+        Date.today
+      ) do |record|
+        MasterviewScraper.save(record)
+      end
     elsif authority == :bogan
-      Authorities::Bogan.scrape_and_save
+      MasterviewScraper.scrape_api(
+        "http://datracker.bogan.nsw.gov.au:81",
+        Date.today - 30,
+        Date.today
+      ) do |record|
+        MasterviewScraper.save(record)
+      end
     else
       raise "Unexpected authority: #{authority}"
     end
@@ -29,6 +40,18 @@ module MasterviewScraper
   def self.scrape_and_save_period(url:, period:, params:, state: nil)
     scrape(url_with_period(url, period, params), state) do |record|
       save(record)
+    end
+  end
+
+  def self.scrape_api(url, start_date, end_date)
+    agent = Mechanize.new
+
+    page = agent.get(url + "/")
+
+    MasterviewScraper::Pages::TermsAndConditions.click_agree(page)
+
+    GetApplicationsApi.scrape(url, start_date, end_date, agent) do |record|
+      MasterviewScraper.save(record)
     end
   end
 
