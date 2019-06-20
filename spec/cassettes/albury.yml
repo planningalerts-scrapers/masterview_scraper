@@ -1,0 +1,453 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - eservice.alburycity.nsw.gov.au
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 302
+      message: Found
+    headers:
+      Date:
+      - Thu, 20 Jun 2019 05:56:27 GMT
+      Server:
+      - Microsoft-IIS/8.5
+      X-Frame-Options:
+      - SAMEORIGIN
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Location:
+      - "/ApplicationTracker/Home/Disclaimer"
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Content-Length:
+      - '152'
+      Set-Cookie:
+      - ASP.NET_SessionId=evb3csgrgozczfkrm5onqc33; path=/; HttpOnly
+      Connection:
+      - close
+    body:
+      encoding: UTF-8
+      string: "<html><head><title>Object moved</title></head><body>\r\n<h2>Object
+        moved to <a href=\"/ApplicationTracker/Home/Disclaimer\">here</a>.</h2>\r\n</body></html>\r\n"
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Home/Disclaimer
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=evb3csgrgozczfkrm5onqc33
+      Host:
+      - eservice.alburycity.nsw.gov.au
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Thu, 20 Jun 2019 05:56:27 GMT
+      Server:
+      - Microsoft-IIS/8.5
+      X-Frame-Options:
+      - SAMEORIGIN
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Content-Encoding:
+      - gzip
+      Expires:
+      - "-1"
+      Vary:
+      - Accept-Encoding
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Content-Length:
+      - '5241'
+      Connection:
+      - close
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        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
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Home/DisclaimerProcessing
+    body:
+      encoding: UTF-8
+      string: agreed=true
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=evb3csgrgozczfkrm5onqc33
+      Host:
+      - eservice.alburycity.nsw.gov.au
+      Referer:
+      - https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Home/Disclaimer
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '11'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 301
+      message: Moved Permanently
+    headers:
+      Date:
+      - Thu, 20 Jun 2019 05:56:27 GMT
+      Server:
+      - Microsoft-IIS/8.5
+      X-Frame-Options:
+      - SAMEORIGIN
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Location:
+      - "/ApplicationTracker/Home/Index"
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Content-Length:
+      - '147'
+      Set-Cookie:
+      - User=accessAllowed-MasterView=True; path=/
+      Connection:
+      - close
+    body:
+      encoding: UTF-8
+      string: "<html><head><title>Object moved</title></head><body>\r\n<h2>Object
+        moved to <a href=\"/ApplicationTracker/Home/Index\">here</a>.</h2>\r\n</body></html>\r\n"
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Home/Index
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=evb3csgrgozczfkrm5onqc33; User=accessAllowed-MasterView=True
+      Host:
+      - eservice.alburycity.nsw.gov.au
+      Referer:
+      - https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Home/Disclaimer
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Thu, 20 Jun 2019 05:56:27 GMT
+      Server:
+      - Microsoft-IIS/8.5
+      X-Frame-Options:
+      - SAMEORIGIN
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Content-Encoding:
+      - gzip
+      Expires:
+      - "-1"
+      Vary:
+      - Accept-Encoding
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Content-Length:
+      - '7649'
+      Connection:
+      - close
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        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
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/GetApplications
+    body:
+      encoding: UTF-8
+      string: start=0&length=1000&json=%7B%22DateFrom%22%3A%2204%2F05%2F2019%22%2C%22DateTo%22%3A%2214%2F05%2F2019%22%2C%22DateType%22%3A%221%22%2C%22RemoveUndeterminedApplications%22%3Afalse%2C%22ShowOutstandingApplications%22%3Afalse%2C%22ShowExhibitedApplications%22%3Afalse%2C%22IncludeDocuments%22%3Afalse%7D
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=evb3csgrgozczfkrm5onqc33; User=accessAllowed-MasterView=True
+      Host:
+      - eservice.alburycity.nsw.gov.au
+      Referer:
+      - https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Home/Index
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '299'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Thu, 20 Jun 2019 05:56:29 GMT
+      Server:
+      - Microsoft-IIS/8.5
+      X-Frame-Options:
+      - SAMEORIGIN
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - application/json; charset=utf-8
+      Expires:
+      - "-1"
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Content-Length:
+      - '12023'
+      Connection:
+      - close
+    body:
+      encoding: UTF-8
+      string: '{"draw":null,"recordsTotal":58,"recordsFiltered":58,"data":[["010.2018.00036145.002","10.2018.36145.2","Development
+        Application","07/05/2019","608 Read Pl, Albury 2640 NSW \u003cbr/\u003e\u003cb\u003eModification
+        of Consent - Residence, Garage, Inground Swimming Pool, Retaining Walls \u0026
+        Tree removal\u003c/b\u003e"],["010.2019.00036834.001","10.2019.36834.1","Development
+        Application","14/05/2019","600 Dean St, Albury 2640 NSW \u003cbr/\u003e\u003cb\u003eInternal
+        Fit-Out, Signage and Alterations \u0026 Additions to Commercial Premises\u003c/b\u003e"],["010.2019.00036830.001","10.2019.36830.1","Development
+        Application","09/05/2019","87 Riverboat Dr, Thurgoona 2640 NSW \u003cbr/\u003e\u003cb\u003eResidence,
+        Garage \u0026 Retaining Wall\u003c/b\u003e"],["010.2019.00036821.001","10.2019.36821.1","Development
+        Application","06/05/2019","66 Osprey St, Thurgoona 2640 NSW \u003cbr/\u003e\u003cb\u003eResidence
+        \u0026 Garage\u003c/b\u003e"],["013.2019.00029192.001","13.2019.29192.1","Complying
+        Development Cert","07/05/2019","9 Beethoven St, Springdale Heights 2641 NSW
+        \u003cbr/\u003e\u003cb\u003eResidence \u0026 Garage\u003c/b\u003e"],["011.2019.00036822.001","11.2019.36822.1","Construction
+        Certificate","06/05/2019","24 Windsor Av, Springdale Heights 2641 NSW \u003cbr/\u003e\u003cb\u003eRetaining
+        Walls\u003c/b\u003e"],["010.2019.00036822.001","10.2019.36822.1","Development
+        Application","06/05/2019","24 Windsor Av, Springdale Heights 2641 NSW \u003cbr/\u003e\u003cb\u003eRetaining
+        Walls\u003c/b\u003e"],["010.2019.00036823.001","10.2019.36823.1","Development
+        Application","07/05/2019","1075 Table Top Rd, Table Top 2640 NSW \u003cbr/\u003e\u003cb\u003eResidence,
+        Garage \u0026 Colorbond Shed\u003c/b\u003e"],["010.2018.00036077.002","10.2018.36077.2","Development
+        Application","08/05/2019","41 Smiggins Dr, Thurgoona 2640 NSW \u003cbr/\u003e\u003cb\u003eModification
+        of Consent - Residence, Garage \u0026 Retaining Wall\u003c/b\u003e"],["010.2019.00036824.001","10.2019.36824.1","Development
+        Application","08/05/2019","14 Sunrise Tce, East Albury 2640 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        \u0026 Additions to Residence \u0026 Retaining Wall\u003c/b\u003e"],["010.2019.00036827.001","10.2019.36827.1","Development
+        Application","08/05/2019","19 Hastings St, Thurgoona 2640 NSW \u003cbr/\u003e51
+        Alpine St, Thurgoona 2640 NSW \u003cbr/\u003e\u003cb\u003eResidence, Garage
+        \u0026 Colorbond Shed\u003c/b\u003e"],["013.2019.00029197.001","13.2019.29197.1","Complying
+        Development Cert","09/05/2019","34 Alpine St, Thurgoona 2640 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        \u0026 Garage\u003c/b\u003e"],["011.2019.00036826.001","11.2019.36826.1","Construction
+        Certificate","08/05/2019","767 David St, North Albury 2640 NSW \u003cbr/\u003e\u003cb\u003eColorbond
+        Shed\u003c/b\u003e"],["010.2019.00036826.001","10.2019.36826.1","Development
+        Application","08/05/2019","767 David St, North Albury 2640 NSW \u003cbr/\u003e\u003cb\u003eColorbond
+        Shed\u003c/b\u003e"],["011.2019.00036831.001","11.2019.36831.1","Construction
+        Certificate","10/05/2019","376 Allawah St, North Albury 2640 NSW \u003cbr/\u003e\u003cb\u003eColorbond
+        Shed\u003c/b\u003e"],["010.2019.00036831.001","10.2019.36831.1","Development
+        Application","10/05/2019","376 Allawah St, North Albury 2640 NSW \u003cbr/\u003e\u003cb\u003eColorbond
+        Shed\u003c/b\u003e"],["010.2019.00036829.001","10.2019.36829.1","Development
+        Application","09/05/2019","20 Osprey St, Thurgoona 2640 NSW \u003cbr/\u003e\u003cb\u003eResidence
+        \u0026 Garage\u003c/b\u003e"],["010.2019.00036825.001","10.2019.36825.1","Development
+        Application","08/05/2019","925 Garland Av, North Albury 2640 NSW \u003cbr/\u003e\u003cb\u003eFence
+        - Industrial\u003c/b\u003e"],["011.2019.00036756.001","11.2019.36756.1","Construction
+        Certificate","06/05/2019","537 Dean St, Albury 2640 NSW \u003cbr/\u003eVolt
+        La, Albury 2640 NSW \u003cbr/\u003e\u003cb\u003eMinor internal \u0026 Shopfront
+        alterations to existing tenancy to create \u0027Black Pepper\u0027\u003c/b\u003e"],["011.2019.00036690.001","11.2019.36690.1","Construction
+        Certificate","13/05/2019","682 Holmwood Cross, Albury 2640 NSW \u003cbr/\u003e\u003cb\u003eCarport\u003c/b\u003e"],["011.2019.00036814.001","11.2019.36814.1","Construction
+        Certificate","06/05/2019","565 Woodbury Ct, Lavington 2641 NSW \u003cbr/\u003e\u003cb\u003eColorbond
+        Shed \u0026 Awning\u003c/b\u003e"],["011.2019.00036759.001","11.2019.36759.1","Construction
+        Certificate","14/05/2019","15 Coola Ct, Table Top 2640 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        and Garage\u003c/b\u003e"],["017.2017.00035502.001","17.2017.35502.1","CC
+        - Subdivision Work","06/05/2019","373 Macauley St, South Albury 2640 NSW \u003cbr/\u003e445
+        Hovell St, South Albury 2640 NSW \u003cbr/\u003e\u003cb\u003eExtension of
+        Sewer Main (Only)\u003c/b\u003e"],["013.2019.00029198.001","13.2019.29198.1","Complying
+        Development Cert","10/05/2019","593 Webb St, Lavington 2641 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        to Residence (Bathroom \u0026 Robe)\u003c/b\u003e"],["015.2017.00035219.002","15.2017.35219.2","Occupation
+        Certificate","14/05/2019","235 Pelican La, Table Top 2640 NSW \u003cbr/\u003ePelican
+        La, Table Top 2640 NSW \u003cbr/\u003e\u003cb\u003eResidence \u0026 Garage\u003c/b\u003e"],["015.2018.00029104.001","15.2018.29104.1","Occupation
+        Certificate","13/05/2019","722 Centaur Rd, Hamilton Valley 2641 NSW \u003cbr/\u003e\u003cb\u003eResidence
+        \u0026 Garage\u003c/b\u003e"],["015.2013.00032295.001","15.2013.32295.1","Occupation
+        Certificate","14/05/2019","2536 Riverina Hwy, Splitters Creek 2640 NSW \u003cbr/\u003e45
+        Quarryview La, Splitters Creek 2640 NSW \u003cbr/\u003e\u003cb\u003eInground
+        Swimming Pool\u003c/b\u003e"],["013.2019.00029199.001","13.2019.29199.1","Complying
+        Development Cert","14/05/2019","7 Yirang Rd, Wirlinga 2640 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        \u0026 Garage\u003c/b\u003e"],["013.2019.00029194.001","13.2019.29194.1","Complying
+        Development Cert","08/05/2019","568 David St, Albury 2640 NSW \u003cbr/\u003eMacauley
+        St, Albury 2640 NSW \u003cbr/\u003e\u003cb\u003eSolar System 24.57 kW\u003c/b\u003e"],["015.2018.00036286.001","15.2018.36286.1","Occupation
+        Certificate","09/05/2019","5 Fernhurst Ct, Albury 2640 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        \u0026 Additions to Residence\u003c/b\u003e"],["013.2019.00029196.001","13.2019.29196.1","Complying
+        Development Cert","09/05/2019","490 Ebden St, South Albury 2640 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        \u0026 Garage\u003c/b\u003e"],["015.2010.00030460.001","15.2010.30460.1","Occupation
+        Certificate","06/05/2019","3 Robbins Dr, East Albury 2640 NSW \u003cbr/\u003eKookaburra
+        Wy, East Albury 2640 NSW \u003cbr/\u003e\u003cb\u003eInground Swimming Pool\u003c/b\u003e"],["015.2018.00036200.001","15.2018.36200.1","Occupation
+        Certificate","08/05/2019","35 Petts Ct, Thurgoona 2640 NSW \u003cbr/\u003e\u003cb\u003eResidence,
+        Garage \u0026 attached carport\u003c/b\u003e"],["013.2019.00029195.001","13.2019.29195.1","Complying
+        Development Cert","09/05/2019","4 Snead Pl, Thurgoona 2640 NSW \u003cbr/\u003e\u003cb\u003eSwimming
+        Pool\u003c/b\u003e"],["015.2018.00028952.001","15.2018.28952.1","Occupation
+        Certificate","14/05/2019","300 Vickers Rd, Lavington 2641 NSW \u003cbr/\u003e\u003cb\u003eInground
+        Swimming Pool\u003c/b\u003e"],["010.2019.00036833.001","10.2019.36833.1","Development
+        Application","13/05/2019","4 Hickey La, Lavington 2641 NSW \u003cbr/\u003e\u003cb\u003eFour
+        (4) Lot Torrens Title Subdivision\u003c/b\u003e"],["010.2019.00036832.001","10.2019.36832.1","Development
+        Application","10/05/2019","18 Hastings St, Thurgoona 2640 NSW \u003cbr/\u003e39
+        Alpine St, Thurgoona 2640 NSW \u003cbr/\u003e\u003cb\u003eTwo (2) Lot Torrens
+        Title Subdivision \u0026 Tree Removal\u003c/b\u003e"],["015.2019.00029181.001","15.2019.29181.1","Occupation
+        Certificate","10/05/2019","532 Thurgoona St, Albury 2640 NSW \u003cbr/\u003e\u003cb\u003eRepairs
+        to existing carport\u003c/b\u003e"],["015.2018.00029090.001","15.2018.29090.1","Occupation
+        Certificate","09/05/2019","450 Balu Ct, West Albury 2640 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        \u0026 Garage\u003c/b\u003e"],["015.2018.00029085.001","15.2018.29085.1","Occupation
+        Certificate","13/05/2019","26 Eisenhauer Dr, Thurgoona 2640 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        \u0026 Garage\u003c/b\u003e"],["015.2018.00036187.001","15.2018.36187.1","Occupation
+        Certificate","13/05/2019","11 Lexington Pl, Hamilton Valley 2641 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        \u0026 Garage\u003c/b\u003e"],["011.2019.00036828.001","11.2019.36828.1","Construction
+        Certificate","09/05/2019","131 Emma Wy, Glenroy 2640 NSW \u003cbr/\u003e\u003cb\u003eRetaining
+        Walls\u003c/b\u003e"],["010.2019.00036828.001","10.2019.36828.1","Development
+        Application","09/05/2019","131 Emma Wy, Glenroy 2640 NSW \u003cbr/\u003e\u003cb\u003eRetaining
+        Walls\u003c/b\u003e"],["011.2019.00036683.001","11.2019.36683.1","Construction
+        Certificate","07/05/2019","3 Faithful St, Glenroy 2640 NSW \u003cbr/\u003eBartholomew
+        St, Glenroy 2640 NSW \u003cbr/\u003e\u003cb\u003eCarport\u003c/b\u003e"],["011.2018.00036542.001","11.2018.36542.1","Construction
+        Certificate","07/05/2019","125 Emma Wy, Glenroy 2640 NSW \u003cbr/\u003e\u003cb\u003eRetaining
+        Wall\u003c/b\u003e"],["011.2019.00036602.001","11.2019.36602.1","Construction
+        Certificate","08/05/2019","733 Dean St, Albury 2640 NSW \u003cbr/\u003e\u003cb\u003eRe-Roofing
+        of Dwelling\u003c/b\u003e"],["015.2018.00035970.001","15.2018.35970.1","Occupation
+        Certificate","09/05/2019","11 Burt St, Glenroy 2640 NSW \u003cbr/\u003e\u003cb\u003eResidence
+        \u0026 Garage\u003c/b\u003e"],["015.2018.00029051.001","15.2018.29051.1","Occupation
+        Certificate","09/05/2019","1 Deakin Pl, Thurgoona 2640 NSW \u003cbr/\u003e\u003cb\u003eSwimming
+        Pool \u0026 Swimming Pool Safety Barrier\u003c/b\u003e"],["015.2019.00029150.001","15.2019.29150.1","Occupation
+        Certificate","07/05/2019","5 Tallow Wood St, Thurgoona 2640 NSW \u003cbr/\u003e\u003cb\u003eIngound
+        Swimming Pool\u003c/b\u003e"],["013.2019.00029193.001","13.2019.29193.1","Complying
+        Development Cert","07/05/2019","23 Horan Ct, North Albury 2640 NSW \u003cbr/\u003e\u003cb\u003eSwimming
+        Pool\u003c/b\u003e"],["015.2018.00036533.001","15.2018.36533.1","Occupation
+        Certificate","08/05/2019","606 Beaumont Cr, East Albury 2640 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        \u0026 Additions to Residence\u003c/b\u003e"],["015.2018.00036238.001","15.2018.36238.1","Occupation
+        Certificate","08/05/2019","435 Mclennan St, West Albury 2640 NSW \u003cbr/\u003e869
+        Padman Dr, West Albury 2640 NSW \u003cbr/\u003e\u003cb\u003eMedium Density
+        Housing - Two (2) Additional Residences \u0026 Garages and Four (4) Lot Community
+        Title Subdivision\u003c/b\u003e"],["015.2018.00035864.001","15.2018.35864.1","Occupation
+        Certificate","07/05/2019","Mudge St, Hamilton Valley 2641 NSW \u003cbr/\u003e\u003cb\u003eAddition
+        of Covered Area \u0026 Washbay Concrete Slab - Albury Waste Management Centre\u003c/b\u003e"],["015.2018.00036465.001","15.2018.36465.1","Occupation
+        Certificate","08/05/2019","435 Mclennan St, West Albury 2640 NSW \u003cbr/\u003e869
+        Padman Dr, West Albury 2640 NSW \u003cbr/\u003e\u003cb\u003eRetaining Walls\u003c/b\u003e"],["015.2018.00035864.002","15.2018.35864.2","Occupation
+        Certificate","08/05/2019","Mudge St, Hamilton Valley 2641 NSW \u003cbr/\u003e\u003cb\u003eStage
+        2 - Roof over Washbay to Completion - Albury Waste Management Ce Waste Management
+        Centre\u003c/b\u003e"],["015.2017.00035700.001","15.2017.35700.1","Occupation
+        Certificate","09/05/2019","667 Forrest Hill Av, Albury 2640 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        \u0026 Additions to Residence, Carport \u0026 Retaining Wall\u003c/b\u003e"],["017.2019.00000096.001","17.2019.96.1","CC
+        - Subdivision Work","07/05/2019","75 Alpine St, Thurgoona 2640 NSW \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["017.2019.00000095.001","17.2019.95.1","CC
+        - Subdivision Work","07/05/2019","373 Macauley St, South Albury 2640 NSW \u003cbr/\u003e445
+        Hovell St, South Albury 2640 NSW \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"]]}'
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+recorded_with: VCR 5.0.0

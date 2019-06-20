@@ -1,0 +1,355 @@
+---
+- council_reference: 10.2018.36077.2
+  address: 41 Smiggins Dr, Thurgoona 2640 NSW
+  description: Modification of Consent - Residence, Garage & Retaining Wall
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/010.2018.00036077.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 10.2018.36145.2
+  address: 608 Read Pl, Albury 2640 NSW
+  description: Modification of Consent - Residence, Garage, Inground Swimming Pool,
+    Retaining Walls & Tree removal
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/010.2018.00036145.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: 10.2019.36821.1
+  address: 66 Osprey St, Thurgoona 2640 NSW
+  description: Residence & Garage
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/010.2019.00036821.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 10.2019.36822.1
+  address: 24 Windsor Av, Springdale Heights 2641 NSW
+  description: Retaining Walls
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/010.2019.00036822.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 10.2019.36823.1
+  address: 1075 Table Top Rd, Table Top 2640 NSW
+  description: Residence, Garage & Colorbond Shed
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/010.2019.00036823.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: 10.2019.36824.1
+  address: 14 Sunrise Tce, East Albury 2640 NSW
+  description: Alterations & Additions to Residence & Retaining Wall
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/010.2019.00036824.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 10.2019.36825.1
+  address: 925 Garland Av, North Albury 2640 NSW
+  description: Fence - Industrial
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/010.2019.00036825.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 10.2019.36826.1
+  address: 767 David St, North Albury 2640 NSW
+  description: Colorbond Shed
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/010.2019.00036826.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 10.2019.36827.1
+  address: 19 Hastings St, Thurgoona 2640 NSW
+  description: Residence, Garage & Colorbond Shed
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/010.2019.00036827.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 10.2019.36828.1
+  address: 131 Emma Wy, Glenroy 2640 NSW
+  description: Retaining Walls
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/010.2019.00036828.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: 10.2019.36829.1
+  address: 20 Osprey St, Thurgoona 2640 NSW
+  description: Residence & Garage
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/010.2019.00036829.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: 10.2019.36830.1
+  address: 87 Riverboat Dr, Thurgoona 2640 NSW
+  description: Residence, Garage & Retaining Wall
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/010.2019.00036830.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: 10.2019.36831.1
+  address: 376 Allawah St, North Albury 2640 NSW
+  description: Colorbond Shed
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/010.2019.00036831.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: 10.2019.36832.1
+  address: 18 Hastings St, Thurgoona 2640 NSW
+  description: Two (2) Lot Torrens Title Subdivision & Tree Removal
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/010.2019.00036832.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: 10.2019.36833.1
+  address: 4 Hickey La, Lavington 2641 NSW
+  description: Four (4) Lot Torrens Title Subdivision
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/010.2019.00036833.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: 10.2019.36834.1
+  address: 600 Dean St, Albury 2640 NSW
+  description: Internal Fit-Out, Signage and Alterations & Additions to Commercial
+    Premises
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/010.2019.00036834.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: 11.2018.36542.1
+  address: 125 Emma Wy, Glenroy 2640 NSW
+  description: Retaining Wall
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/011.2018.00036542.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: 11.2019.36602.1
+  address: 733 Dean St, Albury 2640 NSW
+  description: Re-Roofing of Dwelling
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/011.2019.00036602.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 11.2019.36683.1
+  address: 3 Faithful St, Glenroy 2640 NSW
+  description: Carport
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/011.2019.00036683.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: 11.2019.36690.1
+  address: 682 Holmwood Cross, Albury 2640 NSW
+  description: Carport
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/011.2019.00036690.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: 11.2019.36756.1
+  address: 537 Dean St, Albury 2640 NSW
+  description: Minor internal & Shopfront alterations to existing tenancy to create
+    'Black Pepper'
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/011.2019.00036756.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 11.2019.36759.1
+  address: 15 Coola Ct, Table Top 2640 NSW
+  description: Dwelling and Garage
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/011.2019.00036759.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: 11.2019.36814.1
+  address: 565 Woodbury Ct, Lavington 2641 NSW
+  description: Colorbond Shed & Awning
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/011.2019.00036814.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 11.2019.36822.1
+  address: 24 Windsor Av, Springdale Heights 2641 NSW
+  description: Retaining Walls
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/011.2019.00036822.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 11.2019.36826.1
+  address: 767 David St, North Albury 2640 NSW
+  description: Colorbond Shed
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/011.2019.00036826.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 11.2019.36828.1
+  address: 131 Emma Wy, Glenroy 2640 NSW
+  description: Retaining Walls
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/011.2019.00036828.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: 11.2019.36831.1
+  address: 376 Allawah St, North Albury 2640 NSW
+  description: Colorbond Shed
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/011.2019.00036831.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: 13.2019.29192.1
+  address: 9 Beethoven St, Springdale Heights 2641 NSW
+  description: Residence & Garage
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/013.2019.00029192.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: 13.2019.29193.1
+  address: 23 Horan Ct, North Albury 2640 NSW
+  description: Swimming Pool
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/013.2019.00029193.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: 13.2019.29194.1
+  address: 568 David St, Albury 2640 NSW
+  description: Solar System 24.57 kW
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/013.2019.00029194.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 13.2019.29195.1
+  address: 4 Snead Pl, Thurgoona 2640 NSW
+  description: Swimming Pool
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/013.2019.00029195.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: 13.2019.29196.1
+  address: 490 Ebden St, South Albury 2640 NSW
+  description: Dwelling & Garage
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/013.2019.00029196.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: 13.2019.29197.1
+  address: 34 Alpine St, Thurgoona 2640 NSW
+  description: Dwelling & Garage
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/013.2019.00029197.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: 13.2019.29198.1
+  address: 593 Webb St, Lavington 2641 NSW
+  description: Alterations to Residence (Bathroom & Robe)
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/013.2019.00029198.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: 13.2019.29199.1
+  address: 7 Yirang Rd, Wirlinga 2640 NSW
+  description: Dwelling & Garage
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/013.2019.00029199.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: 15.2010.30460.1
+  address: 3 Robbins Dr, East Albury 2640 NSW
+  description: Inground Swimming Pool
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/015.2010.00030460.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 15.2013.32295.1
+  address: 2536 Riverina Hwy, Splitters Creek 2640 NSW
+  description: Inground Swimming Pool
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/015.2013.00032295.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: 15.2017.35219.2
+  address: 235 Pelican La, Table Top 2640 NSW
+  description: Residence & Garage
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/015.2017.00035219.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: 15.2017.35700.1
+  address: 667 Forrest Hill Av, Albury 2640 NSW
+  description: Alterations & Additions to Residence, Carport & Retaining Wall
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/015.2017.00035700.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: 15.2018.28952.1
+  address: 300 Vickers Rd, Lavington 2641 NSW
+  description: Inground Swimming Pool
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/015.2018.00028952.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: 15.2018.29051.1
+  address: 1 Deakin Pl, Thurgoona 2640 NSW
+  description: Swimming Pool & Swimming Pool Safety Barrier
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/015.2018.00029051.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: 15.2018.29085.1
+  address: 26 Eisenhauer Dr, Thurgoona 2640 NSW
+  description: Dwelling & Garage
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/015.2018.00029085.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: 15.2018.29090.1
+  address: 450 Balu Ct, West Albury 2640 NSW
+  description: Dwelling & Garage
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/015.2018.00029090.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: 15.2018.29104.1
+  address: 722 Centaur Rd, Hamilton Valley 2641 NSW
+  description: Residence & Garage
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/015.2018.00029104.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: 15.2018.35864.1
+  address: Mudge St, Hamilton Valley 2641 NSW
+  description: Addition of Covered Area & Washbay Concrete Slab - Albury Waste Management
+    Centre
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/015.2018.00035864.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: 15.2018.35864.2
+  address: Mudge St, Hamilton Valley 2641 NSW
+  description: Stage 2 - Roof over Washbay to Completion - Albury Waste Management
+    Ce Waste Management Centre
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/015.2018.00035864.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 15.2018.35970.1
+  address: 11 Burt St, Glenroy 2640 NSW
+  description: Residence & Garage
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/015.2018.00035970.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: 15.2018.36187.1
+  address: 11 Lexington Pl, Hamilton Valley 2641 NSW
+  description: Dwelling & Garage
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/015.2018.00036187.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: 15.2018.36200.1
+  address: 35 Petts Ct, Thurgoona 2640 NSW
+  description: Residence, Garage & attached carport
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/015.2018.00036200.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 15.2018.36238.1
+  address: 435 Mclennan St, West Albury 2640 NSW
+  description: Medium Density Housing - Two (2) Additional Residences & Garages and
+    Four (4) Lot Community Title Subdivision
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/015.2018.00036238.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 15.2018.36286.1
+  address: 5 Fernhurst Ct, Albury 2640 NSW
+  description: Alterations & Additions to Residence
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/015.2018.00036286.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: 15.2018.36465.1
+  address: 435 Mclennan St, West Albury 2640 NSW
+  description: Retaining Walls
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/015.2018.00036465.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 15.2018.36533.1
+  address: 606 Beaumont Cr, East Albury 2640 NSW
+  description: Alterations & Additions to Residence
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/015.2018.00036533.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 15.2019.29150.1
+  address: 5 Tallow Wood St, Thurgoona 2640 NSW
+  description: Ingound Swimming Pool
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/015.2019.00029150.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: 15.2019.29181.1
+  address: 532 Thurgoona St, Albury 2640 NSW
+  description: Repairs to existing carport
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/015.2019.00029181.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: 17.2017.35502.1
+  address: 373 Macauley St, South Albury 2640 NSW
+  description: Extension of Sewer Main (Only)
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/017.2017.00035502.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 17.2019.95.1
+  address: 373 Macauley St, South Albury 2640 NSW
+  description: ''
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/017.2019.00000095.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: 17.2019.96.1
+  address: 75 Alpine St, Thurgoona 2640 NSW
+  description: ''
+  info_url: https://eservice.alburycity.nsw.gov.au/ApplicationTracker/Application/ApplicationDetails/017.2019.00000096.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'

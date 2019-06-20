@@ -6,6 +6,8 @@ require "masterview_scraper/pages/index"
 require "masterview_scraper/pages/terms_and_conditions"
 require "masterview_scraper/table"
 require "masterview_scraper/authorities"
+require "masterview_scraper/authorities/albury"
+require "masterview_scraper/authorities/bogan"
 
 require "scraperwiki"
 require "mechanize"
@@ -13,9 +15,15 @@ require "mechanize"
 # Scrape a masterview development application system
 module MasterviewScraper
   def self.scrape_and_save(authority)
-    raise "Unexpected authority: #{authority}" unless AUTHORITIES.key?(authority)
-
-    scrape_and_save_period(AUTHORITIES[authority])
+    if AUTHORITIES.key?(authority)
+      scrape_and_save_period(AUTHORITIES[authority])
+    elsif authority == :albury
+      Authorities::Albury.scrape_and_save
+    elsif authority == :bogan
+      Authorities::Bogan.scrape_and_save
+    else
+      raise "Unexpected authority: #{authority}"
+    end
   end
 
   def self.scrape_and_save_period(url:, period:, params:, state: nil)
