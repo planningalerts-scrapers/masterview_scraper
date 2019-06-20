@@ -130,6 +130,16 @@ module MasterviewScraper
         "4a" => "WLUA,82AReview,CDC,DA,Mods",
         "6" => "F"
       }
+    },
+    albury: {
+      url: "https://eservice.alburycity.nsw.gov.au/ApplicationTracker",
+      period: :last10days,
+      use_api: true
+    },
+    bogan: {
+      url: "http://datracker.bogan.nsw.gov.au:81",
+      period: :last30days,
+      use_api: true
     }
   }.freeze
 end

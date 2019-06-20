@@ -14,32 +14,28 @@ require "mechanize"
 # Scrape a masterview development application system
 module MasterviewScraper
   def self.scrape_and_save(authority)
-    if AUTHORITIES.key?(authority)
-      scrape_and_save_period(AUTHORITIES[authority])
-    elsif authority == :albury
-      MasterviewScraper.scrape_api(
-        "https://eservice.alburycity.nsw.gov.au/ApplicationTracker",
-        Date.today - 10,
-        Date.today
-      ) do |record|
-        MasterviewScraper.save(record)
-      end
-    elsif authority == :bogan
-      MasterviewScraper.scrape_api(
-        "http://datracker.bogan.nsw.gov.au:81",
-        Date.today - 30,
-        Date.today
-      ) do |record|
-        MasterviewScraper.save(record)
-      end
-    else
-      raise "Unexpected authority: #{authority}"
-    end
+    raise "Unexpected authority: #{authority}" unless AUTHORITIES.key?(authority)
+
+    scrape_and_save_period(AUTHORITIES[authority])
   end
 
-  def self.scrape_and_save_period(url:, period:, params:, state: nil)
-    scrape(url_with_period(url, period, params), state) do |record|
-      save(record)
+  def self.scrape_and_save_period(url:, period:, params: {}, state: nil, use_api: false)
+    if use_api
+      if period == :last10days
+        scrape_api(url, Date.today - 10, Date.today) do |record|
+          save(record)
+        end
+      elsif period == :last30days
+        scrape_api(url, Date.today - 30, Date.today) do |record|
+          save(record)
+        end
+      else
+        raise "Unexpected period: #{period}"
+      end
+    else
+      scrape(url_with_period(url, period, params), state) do |record|
+        save(record)
+      end
     end
   end
 
