@@ -1,0 +1,361 @@
+---
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=174439
+  council_reference: DA2019/0139
+  date_received: '2019-04-15'
+  description: Construction of stairs and platform to the rear of the property
+  address: 21 Woodlands Avenue, LUGARNO, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=174446
+  council_reference: DA2019/0140
+  date_received: '2019-04-15'
+  description: Demolition and construction of an attached dual occupancy
+  address: 30 East Crescent, HURSTVILLE GROVE, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=174529
+  council_reference: DA2019/0141
+  date_received: '2019-04-15'
+  description: Construction of a Secondary Dwelling
+  address: 16 Larkhill Avenue, RIVERWOOD, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=174639
+  council_reference: DA2019/0142
+  date_received: '2019-04-16'
+  description: Demolition Works and Construction of a New Two Storey Dwelling
+  address: 39 St Catherine Street, MORTDALE, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=174778
+  council_reference: DA2019/0143
+  date_received: '2019-04-17'
+  description: Demolition and construction of attached dual occupancy
+  address: 104 Edgbaston Road, BEVERLY HILLS, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=174930
+  council_reference: DA2019/0144
+  date_received: '2019-04-18'
+  description: Demolition, construction of dwelling, swimming pool and shed
+  address: 28 Lloyd Street, OATLEY, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=174938
+  council_reference: DA2019/0145
+  date_received: '2019-04-18'
+  description: Proposed balcony enclosure to Unit No 3
+  address: 3 / 52 Station Street, MORTDALE, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=174955
+  council_reference: DA2019/0146
+  date_received: '2019-04-18'
+  description: Construction of a secondary dwelling and detached garage
+  address: 656 King Georges Road, PENSHURST, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=174963
+  council_reference: DA2019/0147
+  date_received: '2019-04-18'
+  description: Demolition and construction of a new two storey dwelling with inground
+    swimming pool
+  address: 66 Harslett Crescent, BEVERLEY PARK, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=175120
+  council_reference: DA2019/0148
+  date_received: '2019-04-23'
+  description: Demolition, construction of dual occupancy with swimming pools
+  address: 39 Seymour Street, HURSTVILLE GROVE, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=175166
+  council_reference: DA2019/0149
+  date_received: '2019-04-24'
+  description: Demolition of existing garage and construction of a new garage
+  address: 6 Judd Street, OATLEY, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=175325
+  council_reference: DA2019/0150
+  date_received: '2019-04-26'
+  description: Alterations and additions to a dwelling house
+  address: 104 Penshurst Street, PENSHURST, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=175374
+  council_reference: DA2019/0151
+  date_received: '2019-04-26'
+  description: Demolition and construction of a dwelling house with swimming pool
+  address: 4 Raleigh Street, BLAKEHURST, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=175378
+  council_reference: DA2019/0152
+  date_received: '2019-04-26'
+  description: Proposed pergola and deck
+  address: 37 Samuel Street, PEAKHURST, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=175519
+  council_reference: DA2019/0153
+  date_received: '2019-04-29'
+  description: Alterations and additions to existing two storey dwelling
+  address: 136 Lugarno Parade, LUGARNO, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=175586
+  council_reference: DA2019/0154
+  date_received: '2019-04-29'
+  description: Construction of a Two Storey Dwelling
+  address: 127 West Street, SOUTH HURSTVILLE, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=175615
+  council_reference: DA2019/0155
+  date_received: '2019-04-29'
+  description: A pile supported Timber Jetty to be installed below the existing seawall
+    and timber sea stairs to be attached to the seaward end of proposed new jetty
+  address: 472-474 Princes Highway, BLAKEHURST, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=175667
+  council_reference: DA2019/0156
+  date_received: '2019-04-30'
+  description: Alterations & Additions to Existing Dwelling & Conversion of Existing
+    Garage into a Secondary Dwelling
+  address: 102 Hillcrest Avenue, HURSTVILLE GROVE, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=175694
+  council_reference: DA2019/0157
+  date_received: '2019-04-30'
+  description: Alterations and additions to existing dwelling
+  address: 4 McRaes Avenue, PENSHURST, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=175716
+  council_reference: DA2019/0158
+  date_received: '2019-04-30'
+  description: Construction of a secondary dwelling and removal of trees
+  address: 38 Hillcrest Avenue, HURSTVILLE, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=175717
+  council_reference: DA2019/0159
+  date_received: '2019-04-30'
+  description: Demolition of garage, construction of a secondary dwelling
+  address: 6 Lyla Street, NARWEE, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=175722
+  council_reference: DA2019/0160
+  date_received: '2019-04-30'
+  description: Partial demolition to Penshurst Hotel and construction of a car park
+    (access from Victoria Avenue)
+  address: 29 Penshurst Street, PENSHURST, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=175838
+  council_reference: DA2019/0161
+  date_received: '2019-05-01'
+  description: Demolition, construction of a new dwelling, swimming pool, secondary
+    dwelling and outbuilding
+  address: 9 Thorpe Road, KINGSGROVE, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=176057
+  council_reference: DA2019/0162
+  date_received: '2019-05-03'
+  description: New outdoor covered entertainment area
+  address: 17 Sybil Street, BEVERLEY PARK, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=176069
+  council_reference: DA2019/0163
+  date_received: '2019-05-03'
+  description: Demolition of existing structures & construction of 3 town houses.
+    2 x Single Storey & 1 x 2 Storey
+  address: 97 Bonds Road, PEAKHURST, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=176166
+  council_reference: DA2019/0164
+  date_received: '2019-05-03'
+  description: Alterations and additions and detached rumpus room at the rear
+  address: 32 Bowns Road, KOGARAH, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=176304
+  council_reference: DA2019/0165
+  date_received: '2019-05-06'
+  description: Demolition and construction of a two storey dwelling
+  address: 6 Morris Avenue, KINGSGROVE, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=176309
+  council_reference: DA2019/0166
+  date_received: '2019-05-06'
+  description: Change of use to a basketball training facility in Unit 3
+  address: 3 / 159 Penshurst Street, BEVERLY HILLS, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=176489
+  council_reference: DA2019/0167
+  date_received: '2019-05-07'
+  description: Addition of 2 units on third floor - DA2017/0465
+  address: 23 Empress Street, HURSTVILLE, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=176673
+  council_reference: DA2019/0168
+  date_received: '2019-05-09'
+  description: Change of use to tow truck holding premises operating 24/7
+  address: 1 Durkin Place, PEAKHURST, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=176782
+  council_reference: DA2019/0169
+  date_received: '2019-05-09'
+  description: Torrens Title Subdivision of an existing Dual Occupancy
+  address: 531 Forest Road, MORTDALE, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=176834
+  council_reference: DA2019/0170
+  date_received: '2019-05-10'
+  description: Demolition, construction of a 2 storey dwelling with inground swimming
+    pool, cabana and front fence
+  address: 52 Souter Street, KOGARAH BAY, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=176837
+  council_reference: DA2019/0171
+  date_received: '2019-05-10'
+  description: Construction of external stair, outbuilding, removal of 4 trees and
+    landscaping works
+  address: 313 Connells Point Road, CONNELLS POINT, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=176848
+  council_reference: DA2019/0172
+  date_received: '2019-05-10'
+  description: Minor internal demolition to rear existing residence with proposal
+    of new roof and additional fitout of a W/C and laundry. Change of use of existing
+    garage into store-room. New proposal of a secondary dwelling incorporated within
+    the existing garage.
+  address: 102 Hillcrest Avenue, HURSTVILLE GROVE, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=176859
+  council_reference: DA2019/0173
+  date_received: '2019-05-10'
+  description: LED Digital Sign Retro Fit to Existing Structure
+  address: 579 Forest Road, MORTDALE, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=177062
+  council_reference: DA2019/0174
+  date_received: '2019-05-14'
+  description: Rear Factory storage space to existing office
+  address: 60 Blackshaw Avenue, MORTDALE, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=174385
+  council_reference: MOD2019/0067
+  date_received: '2019-04-15'
+  description: Modification of Consent No DA2018/0247- Delete Condition 14 – provision
+    of access for the disabled
+  address: 472 King Georges Road, BEVERLY HILLS, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=174443
+  council_reference: MOD2019/0068
+  date_received: '2019-04-15'
+  description: S4.55 Modification - Modification to Condition 1
+  address: 1 Castle Street, BLAKEHURST, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=174497
+  council_reference: MOD2019/0069
+  date_received: '2019-04-15'
+  description: S4.55 Modification of Consent No DA2018/0373 - include conditions relating
+    to bushfire requirements
+  address: 2 Waterfall Road, OATLEY, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=174536
+  council_reference: MOD2019/0070
+  date_received: '2019-04-15'
+  description: Proposed extension and additions to existing dwelling
+  address: 38A Arcadia Street, PENSHURST, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=174694
+  council_reference: MOD2019/0071
+  date_received: '2019-04-16'
+  description: Modification to Consent No. DA93/2010 - Modify Condition 10 to Remove
+    Requirement for Line Marking on School Playground
+  address: 50 Bellevue Parade, ALLAWAH, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=174887
+  council_reference: MOD2019/0072
+  date_received: '2019-04-18'
+  description: Modification of consent no DA2018/0433 - Cost of construction reduced
+    due to amendments during Development Approval Process
+  address: 2 Vivienne Street, KINGSGROVE, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=175028
+  council_reference: MOD2019/0073
+  date_received: '2019-04-23'
+  description: Modification of Consent Number DA2018/0064 - to included covered deck
+    area
+  address: 46 Park Road, CARLTON, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=175177
+  council_reference: MOD2019/0074
+  date_received: '2019-04-24'
+  description: Modification of Consent Number DA2019/0077 – to increase height of
+    carport and delete conditions 4c
+  address: 36 Edward Street, CARLTON, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=175455
+  council_reference: MOD2019/0075
+  date_received: '2019-04-29'
+  description: Modification of Consent DA2018/0113 - Modification to achieve 2.5m
+    rear setback and delete condition 8 and alter conditions 13 and 15
+  address: 74 Balmoral Road, MORTDALE, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=175495
+  council_reference: MOD2019/0076
+  date_received: '2019-04-29'
+  description: Modification of Consent No 2006/DA-0469 – Reduce Scope of Works to
+    the Alts and Adds of the Existing Dwelling
+  address: 102 Moons Avenue, LUGARNO, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=175743
+  council_reference: MOD2019/0077
+  date_received: '2019-04-30'
+  description: Modification of Consent No DA2018/0425 - Modify condition 1 - delete
+    'development consent' and replace with 'building certificate' as the drainage
+    works have been completed
+  address: 12 Anderson Road, MORTDALE, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=175757
+  council_reference: MOD2019/0078
+  date_received: '2019-04-30'
+  description: Modification of consent number DA105/2017 – the modification involves
+    changes to drainage requirements and conditions on the consent
+  address: 2 Torwood Street, SANS SOUCI, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=175911
+  council_reference: MOD2019/0079
+  date_received: '2019-05-02'
+  description: Modification of consent number DA2016/0132 – modification to relocate
+    the staircase to the mezzanine level & relocate access door to existing toilet
+  address: 8 / 8 Crofts Avenue, HURSTVILLE, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=175947
+  council_reference: MOD2019/0080
+  date_received: '2019-05-02'
+  description: Modification of consent number DA2017/0241 – modification to extend
+    terrace within the in-ground pool/cabana & remove the Eucalyptus tree
+  address: 59 Valentia Avenue, LUGARNO, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=176220
+  council_reference: MOD2019/0081
+  date_received: '2019-05-06'
+  description: Modification of consent number DA2018/0128 - Raised garden bed installed
+    along rear boundary to allow for screen planting to grow
+  address: 4 Young Place, SOUTH HURSTVILLE, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=176463
+  council_reference: MOD2019/0082
+  date_received: '2019-05-07'
+  description: Modification of consent number DA2018/0563 – Removal of Condition 14-
+    relating to permanent berthing
+  address: 59 Queens Road, CONNELLS POINT, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=176699
+  council_reference: MOD2019/0083
+  date_received: '2019-05-09'
+  description: Modification of consent number DA2018/0158 – the modifications include
+    amendment of carport to form a garage, pool RL changes, master bed balcony size,
+    window amendments
+  address: 15 Martin Street, BLAKEHURST, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=176758
+  council_reference: MOD2019/0084
+  date_received: '2019-05-09'
+  description: Modification of consent number DA2018/0054 –remove remainder of unstable
+    block wall & replace with Concrite Lok Blok wall
+  address: 113 Boundary Road, PEAKHURST, NSW
+  date_scraped: '2019-05-14'
+- info_url: http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster/default.aspx?page=wrapper&key=174916
+  council_reference: Rev2019/0007
+  date_received: '2019-04-18'
+  description: Review of Determination - Demolition of existing structures and construction
+    of dual occupancy - DA2018/0112
+  address: 33 Souter Street, KOGARAH BAY, NSW
+  date_scraped: '2019-05-14'

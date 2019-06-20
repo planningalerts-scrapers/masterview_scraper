@@ -113,6 +113,15 @@ module MasterviewScraper
         "6" => "F"
       },
       state: "QLD"
+    },
+    hurstville: {
+      url: "http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster",
+      period: :last30days,
+      params: {
+        "4a" => "DA%27,%27S96Mods%27,%27Mods%27,%27Reviews",
+        "6" => "F"
+      },
+      state: "NSW"
     }
   }.freeze
 end
