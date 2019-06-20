@@ -9,6 +9,9 @@ module MasterviewScraper
         form = form(page)
         raise "Couldn't find form" if form.nil?
 
+        agreed_field = form.field_with(name: "agreed")
+        agreed_field.value = true if agreed_field
+
         button = button(form)
         raise "Can't find agree button" if button.nil?
 
@@ -32,7 +35,8 @@ module MasterviewScraper
       end
 
       def self.button(form)
-        form.button_with(value: /Agree/)
+        form.button_with(value: /Agree/) ||
+          form.button_with(id: "agree")
       end
     end
   end
