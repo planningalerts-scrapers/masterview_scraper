@@ -21,21 +21,27 @@ module MasterviewScraper
 
   def self.scrape_and_save_period(url:, period:, params: {}, state: nil, use_api: false)
     if use_api
-      if period == :last10days
-        scrape_api(url, Date.today - 10, Date.today) do |record|
-          save(record)
-        end
-      elsif period == :last30days
-        scrape_api(url, Date.today - 30, Date.today) do |record|
-          save(record)
-        end
-      else
-        raise "Unexpected period: #{period}"
+      scrape_api_period(url, period) do |record|
+        save(record)
       end
     else
       scrape(url_with_period(url, period, params), state) do |record|
         save(record)
       end
+    end
+  end
+
+  def self.scrape_api_period(url, period)
+    if period == :last10days
+      scrape_api(url, Date.today - 10, Date.today) do |record|
+        yield record
+      end
+    elsif period == :last30days
+      scrape_api(url, Date.today - 30, Date.today) do |record|
+        yield record
+      end
+    else
+      raise "Unexpected period: #{period}"
     end
   end
 
