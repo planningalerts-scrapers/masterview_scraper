@@ -122,6 +122,14 @@ module MasterviewScraper
         "6" => "F"
       },
       state: "NSW"
+    },
+    wingecarribee: {
+      url: "https://datracker.wsc.nsw.gov.au/Modules/applicationmaster",
+      period: :last30days,
+      params: {
+        "4a" => "WLUA,82AReview,CDC,DA,Mods",
+        "6" => "F"
+      }
     }
   }.freeze
 end
