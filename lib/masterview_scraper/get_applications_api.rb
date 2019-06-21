@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require "json"
+
 module MasterviewScraper
   # This API endpoint only exists on recent versions of the system
   module GetApplicationsApi
