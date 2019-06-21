@@ -1,0 +1,549 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://datracker.cessnock.nsw.gov.au/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - datracker.cessnock.nsw.gov.au
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 302
+      message: Found
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Location:
+      - "/Home/Disclaimer"
+      Server:
+      - Microsoft-IIS/8.0
+      Set-Cookie:
+      - ASP.NET_SessionId=2g1ivnghxpzh0pvgkw3g0srd; path=/; HttpOnly
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Fri, 21 Jun 2019 03:58:21 GMT
+      Content-Length:
+      - '133'
+    body:
+      encoding: UTF-8
+      string: "<html><head><title>Object moved</title></head><body>\r\n<h2>Object
+        moved to <a href=\"/Home/Disclaimer\">here</a>.</h2>\r\n</body></html>\r\n"
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: http://datracker.cessnock.nsw.gov.au/Home/Disclaimer
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=2g1ivnghxpzh0pvgkw3g0srd
+      Host:
+      - datracker.cessnock.nsw.gov.au
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Content-Encoding:
+      - gzip
+      Expires:
+      - "-1"
+      Vary:
+      - Accept-Encoding
+      Server:
+      - Microsoft-IIS/8.0
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Fri, 21 Jun 2019 03:58:22 GMT
+      Content-Length:
+      - '6333'
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        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
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: http://datracker.cessnock.nsw.gov.au/Home/DisclaimerProcessing
+    body:
+      encoding: UTF-8
+      string: agreed=true
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=2g1ivnghxpzh0pvgkw3g0srd
+      Host:
+      - datracker.cessnock.nsw.gov.au
+      Referer:
+      - http://datracker.cessnock.nsw.gov.au/Home/Disclaimer
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '11'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 301
+      message: Moved Permanently
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Location:
+      - "/"
+      Server:
+      - Microsoft-IIS/8.0
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      Set-Cookie:
+      - User=accessAllowed-MasterView=True; path=/
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Fri, 21 Jun 2019 03:58:22 GMT
+      Content-Length:
+      - '118'
+    body:
+      encoding: UTF-8
+      string: "<html><head><title>Object moved</title></head><body>\r\n<h2>Object
+        moved to <a href=\"/\">here</a>.</h2>\r\n</body></html>\r\n"
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: http://datracker.cessnock.nsw.gov.au/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=2g1ivnghxpzh0pvgkw3g0srd; User=accessAllowed-MasterView=True
+      Host:
+      - datracker.cessnock.nsw.gov.au
+      Referer:
+      - http://datracker.cessnock.nsw.gov.au/Home/Disclaimer
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Content-Encoding:
+      - gzip
+      Expires:
+      - "-1"
+      Vary:
+      - Accept-Encoding
+      Server:
+      - Microsoft-IIS/8.0
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Fri, 21 Jun 2019 03:58:22 GMT
+      Content-Length:
+      - '12205'
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        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
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: http://datracker.cessnock.nsw.gov.au/Application/GetApplications
+    body:
+      encoding: UTF-8
+      string: start=0&length=1000&json=%7B%22DateFrom%22%3A%2204%2F05%2F2019%22%2C%22DateTo%22%3A%2214%2F05%2F2019%22%2C%22DateType%22%3A%221%22%2C%22RemoveUndeterminedApplications%22%3Afalse%2C%22ShowOutstandingApplications%22%3Afalse%2C%22ShowExhibitedApplications%22%3Afalse%2C%22IncludeDocuments%22%3Afalse%7D
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=2g1ivnghxpzh0pvgkw3g0srd; User=accessAllowed-MasterView=True
+      Host:
+      - datracker.cessnock.nsw.gov.au
+      Referer:
+      - http://datracker.cessnock.nsw.gov.au/
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '299'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - application/json; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/8.0
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Fri, 21 Jun 2019 03:58:24 GMT
+      Content-Length:
+      - '25516'
+    body:
+      encoding: UTF-8
+      string: '{"draw":null,"recordsTotal":132,"recordsFiltered":132,"data":[["010/2019/00000309/001","10/2019/309/1","Construction
+        Certificate","14/05/2019","6 Cooly Av, Kitchener 2325 NSW \u003cbr/\u003e\u003cb\u003eShed\u003c/b\u003e"],["008/2019/00000291/001","8/2019/291/1","Development
+        Application","06/05/2019","5 Grevillea St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling with Attached Garage\u003c/b\u003e"],["009/2019/00000197/001","9/2019/197/1","Complying
+        Development Cert","14/05/2019","35 Canning St, Wollombi 2325 NSW \u003cbr/\u003e\u003cb\u003eSpa\u003c/b\u003e"],["010/2018/00000689/001","10/2018/689/1","Construction
+        Certificate","09/05/2019","37 Aberdare St, Kurri Kurri 2327 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling with Attached Garage\u003c/b\u003e"],["008/2019/00000288/001","8/2019/288/1","Development
+        Application","06/05/2019","176 Rawson St, Kurri Kurri 2327 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling with Attached Garage\u003c/b\u003e"],["010/2019/00000286/001","10/2019/286/1","Construction
+        Certificate","08/05/2019","43 Rawson St, Aberdare 2325 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        Additions \u0026 Alterations, Carport \u0026 Detached Shed\u003c/b\u003e"],["009/2019/00000194/001","9/2019/194/1","Complying
+        Development Cert","13/05/2019","9 Cooly Av, Kitchener 2325 NSW \u003cbr/\u003e\u003cb\u003eSwimming
+        Pool\u003c/b\u003e"],["008/2019/00000293/001","8/2019/293/1","Development
+        Application","08/05/2019","7 Jolley Rd, North Rothbury 2335 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling with Attached Garage\u003c/b\u003e"],["008/2019/00000286/001","8/2019/286/1","Development
+        Application","08/05/2019","43 Rawson St, Aberdare 2325 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        Additions \u0026 Alterations, Carport \u0026 Detached Shed\u003c/b\u003e"],["009/2019/00000168/001","9/2019/168/1","Complying
+        Development Cert","10/05/2019","14 Grevillea St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        -  New Brick Veneer\u003c/b\u003e"],["008/2019/00000300/001","8/2019/300/1","Development
+        Application","09/05/2019","182 Gills Lane, Brunkerville 2323 NSW \u003cbr/\u003e\u003cb\u003eSwimming
+        Pool and Deck\u003c/b\u003e"],["008/2019/00000305/001","8/2019/305/1","Development
+        Application","13/05/2019","3 Oak St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling with Attached Garage \u0026 Associated Retaining Walls\u003c/b\u003e"],["010/2019/00000023/001","10/2019/23/1","Construction
+        Certificate","13/05/2019","54 Greta St, Aberdare 2325 NSW \u003cbr/\u003e\u003cb\u003eConstruct
+        a New Dwelling to create a Detached Dual Occupancy \u0026 Relocation of Detached
+        Garage\u003c/b\u003e"],["008/2019/00000296/001","8/2019/296/1","Development
+        Application","08/05/2019","20 Grevillea St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling\u003c/b\u003e"],["010/2019/00000266/001","10/2019/266/1","Construction
+        Certificate","10/05/2019","8 Burril St, Bellbird 2325 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling\u003c/b\u003e"],["009/2019/00000158/001","9/2019/158/1","Complying
+        Development Cert","14/05/2019","3 Grevillea St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        -  New Brick Veneer\u003c/b\u003e"],["010/2019/00000242/001","10/2019/242/1","Construction
+        Certificate","07/05/2019","5 Saxby Av, North Rothbury 2335 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling with Attached Garage\u003c/b\u003e"],["044/2019/00000221/001","44/2019/221/1","S138
+        Driveway/Public Road","14/05/2019","68 O\u0027connors Rd, Nulkaba 2325 NSW
+        \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["044/2019/00000208/001","44/2019/208/1","S138
+        Driveway/Public Road","09/05/2019","24 Garven St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["044/2019/00000206/001","44/2019/206/1","S138
+        Driveway/Public Road","08/05/2019","7 Grevillea St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["044/2019/00000202/001","44/2019/202/1","S138
+        Driveway/Public Road","06/05/2019","Paynes Crossing Rd, Wollombi 2325 NSW
+        \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["010/2019/00000294/001","10/2019/294/1","Construction
+        Certificate","08/05/2019","72 Kesterton Rise, North Rothbury 2335 NSW \u003cbr/\u003e74
+        Kesterton Rise, North Rothbury 2335 NSW \u003cbr/\u003e\u003cb\u003eRetaining
+        Wall\u003c/b\u003e"],["008/2019/00000309/001","8/2019/309/1","Development
+        Application","14/05/2019","6 Cooly Av, Kitchener 2325 NSW \u003cbr/\u003e\u003cb\u003eShed\u003c/b\u003e"],["010/2019/00000292/001","10/2019/292/1","Construction
+        Certificate","08/05/2019","18 Yates St, East Branxton 2335 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling with Attached Garage\u003c/b\u003e"],["010/2019/00000297/001","10/2019/297/1","Construction
+        Certificate","08/05/2019","12 Glen Ayr Av, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling \u0026 Associated Retaining Walls\u003c/b\u003e"],["044/2019/00000211/001","44/2019/211/1","S138
+        Driveway/Public Road","09/05/2019","33 Harkin Rd, North Rothbury 2335 NSW
+        \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["008/2019/00000294/001","8/2019/294/1","Development
+        Application","08/05/2019","72 Kesterton Rise, North Rothbury 2335 NSW \u003cbr/\u003e74
+        Kesterton Rise, North Rothbury 2335 NSW \u003cbr/\u003e\u003cb\u003eRetaining
+        Wall\u003c/b\u003e"],["009/2019/00000185/001","9/2019/185/1","Complying Development
+        Cert","13/05/2019","16-20 Allandale Rd, Cessnock 2325 NSW \u003cbr/\u003e\u003cb\u003eRestaurant\u003c/b\u003e"],["008/2019/00000292/001","8/2019/292/1","Development
+        Application","08/05/2019","18 Yates St, East Branxton 2335 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling with Attached Garage\u003c/b\u003e"],["009/2019/00000162/001","9/2019/162/1","Complying
+        Development Cert","09/05/2019","23 Grevillea St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        -  New Brick Veneer\u003c/b\u003e"],["009/2019/00000174/001","9/2019/174/1","Complying
+        Development Cert","14/05/2019","1 Grevillea St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        -  New Brick Veneer\u003c/b\u003e"],["008/2019/00000297/001","8/2019/297/1","Development
+        Application","08/05/2019","12 Glen Ayr Av, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling \u0026 Associated Retaining Walls\u003c/b\u003e"],["008/2019/00000289/001","8/2019/289/1","Development
+        Application","06/05/2019","49 Armidale St, Abermain 2326 NSW \u003cbr/\u003e\u003cb\u003eInground
+        Swimming pool\u003c/b\u003e"],["009/2019/00000184/001","9/2019/184/1","Complying
+        Development Cert","09/05/2019","4 Rutidosis Cl, Paxton 2325 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        -  New Brick Veneer\u003c/b\u003e"],["008/2019/00000299/001","8/2019/299/1","Development
+        Application","10/05/2019","44 Stanford St, Kitchener 2325 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling with Attached Garage\u003c/b\u003e"],["009/2019/00000182/001","9/2019/182/1","Complying
+        Development Cert","13/05/2019","13 Grevillea St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010/2019/00000263/001","10/2019/263/1","Construction
+        Certificate","09/05/2019","31 Mulbring St, Ellalong 2325 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling with Attached Garage\u003c/b\u003e"],["008/2019/00000285/001","8/2019/285/1","Development
+        Application","06/05/2019","7 Haverty Av, North Rothbury 2335 NSW \u003cbr/\u003e\u003cb\u003eInground
+        Swimmig Pool\u003c/b\u003e"],["009/2019/00000181/001","9/2019/181/1","Complying
+        Development Cert","07/05/2019","19 Garven St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        -  New Brick Veneer and Retaining Wall - Fence Dwelling -  New Brick Veneer
+        Retaining Wall - Fence\u003c/b\u003e"],["009/2019/00000179/001","9/2019/179/1","Complying
+        Development Cert","13/05/2019","21 Garven St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eResidential
+        - Other - New\u003c/b\u003e"],["008/2019/00000303/001","8/2019/303/1","Development
+        Application","10/05/2019","41A Branxton St, Greta 2334 NSW \u003cbr/\u003e\u003cb\u003eNew
+        Single Storey Dwelling and Attached Garage\u003c/b\u003e"],["008/2019/00000283/001","8/2019/283/1","Development
+        Application","06/05/2019","10 Casuarina Dr, Pokolbin 2320 NSW \u003cbr/\u003e\u003cb\u003eSwimming
+        Pool\u003c/b\u003e"],["009/2019/00000170/001","9/2019/170/1","Complying Development
+        Cert","13/05/2019","7 Horne Cl, Greta 2334 NSW \u003cbr/\u003e\u003cb\u003eDual
+        Occupancy - Attached - New\u003c/b\u003e"],["010/2019/00000046/001","10/2019/46/1","Construction
+        Certificate","09/05/2019","5 Narone Lane, Wollombi 2325 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        Additions\u003c/b\u003e"],["044/2019/00000214/001","44/2019/214/1","S138 Driveway/Public
+        Road","09/05/2019","122 Washery Rd, North Rothbury 2335 NSW \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["044/2019/00000203/001","44/2019/203/1","S138
+        Driveway/Public Road","06/05/2019","5 Grevillea St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["009/2019/00000175/001","9/2019/175/1","Complying
+        Development Cert","14/05/2019","14 Garven St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        -  New Brick Veneer\u003c/b\u003e"],["009/2019/00000159/001","9/2019/159/1","Complying
+        Development Cert","08/05/2019","17 Busby St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eSwimming
+        Pool - Inground\u003c/b\u003e"],["010/2019/00000023/002","10/2019/23/2","Construction
+        Certificate","13/05/2019","54 Greta St, Aberdare 2325 NSW \u003cbr/\u003e\u003cb\u003eCivil
+        Work - Internal Access\u003c/b\u003e"],["048/2019/00000013/001","48/2019/13/1","Road
+        Restoration","08/05/2019","138 O\u0027connors Rd, Nulkaba 2325 NSW \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["009/2019/00000167/001","9/2019/167/1","Complying
+        Development Cert","09/05/2019","18 Garven St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        -  New Brick Veneer\u003c/b\u003e"],["009/2019/00000165/001","9/2019/165/1","Complying
+        Development Cert","09/05/2019","7 Margan St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        -  New Brick Veneer\u003c/b\u003e"],["015/2019/00000025/001","15/2019/25/1","Septic
+        Tank Application","06/05/2019","201 Whitings Lane, Quorrobolong 2325 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling\u003c/b\u003e"],["009/2019/00000164/001","9/2019/164/1","Complying
+        Development Cert","10/05/2019","64 Ridgeview Dr, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        -  New Brick Veneer\u003c/b\u003e"],["015/2019/00000024/001","15/2019/24/1","Septic
+        Tank Application","08/05/2019","217 Lake Rd, Elrington 2325 NSW \u003cbr/\u003e\u003cb\u003eAdditional
+        System (Existing to Continue to Operate)\u003c/b\u003e"],["009/2019/00000150/001","9/2019/150/1","Complying
+        Development Cert","08/05/2019","1 Keene St, Cessnock 2325 NSW \u003cbr/\u003e\u003cb\u003eCommerical
+        Premises\u003c/b\u003e"],["009/2019/00000163/001","9/2019/163/1","Complying
+        Development Cert","07/05/2019","11 Tatler St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        -  New Brick Veneer\u003c/b\u003e"],["009/2019/00000161/001","9/2019/161/1","Complying
+        Development Cert","09/05/2019","36 Arrowfield St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        -  New Brick Veneer\u003c/b\u003e"],["012/2018/00000445/001","12/2018/445/1","Occupation
+        Certificate","13/05/2019","49 Popham St, Greta 2334 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling with Attached Garage\u003c/b\u003e"],["009/2019/00000160/001","9/2019/160/1","Complying
+        Development Cert","09/05/2019","4 Margan St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        -  New Brick Veneer\u003c/b\u003e"],["012/2018/00000515/001","12/2018/515/1","Occupation
+        Certificate","14/05/2019","45 Tooze Cct, North Rothbury 2335 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling with Attached Garage\u003c/b\u003e"],["009/2019/00000157/001","9/2019/157/1","Complying
+        Development Cert","10/05/2019","56 Northcote St, Kurri Kurri 2327 NSW \u003cbr/\u003e\u003cb\u003ePergola\u003c/b\u003e"],["010/2019/00000233/001","10/2019/233/1","Construction
+        Certificate","14/05/2019","21 William Tester Dr, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling with Attached Garage\u003c/b\u003e"],["008/2019/00000287/001","8/2019/287/1","Development
+        Application","08/05/2019","74 Casuarina Dr, Pokolbin 2320 NSW \u003cbr/\u003e\u003cb\u003eSwimming
+        Pool\u003c/b\u003e"],["012/2017/00000445/001","12/2017/445/1","Occupation
+        Certificate","14/05/2019","40 Stanford St, Kitchener 2325 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling with Attached Garage\u003c/b\u003e"],["010/2018/00000854/002","10/2018/854/2","Construction
+        Certificate","08/05/2019","86 Barton St, Kurri Kurri 2327 NSW \u003cbr/\u003e\u003cb\u003eSection
+        4.55(1A) Modification to Change Length \u0026 Width of Shed\u003c/b\u003e"],["015/2019/00000026/001","15/2019/26/1","Septic
+        Tank Application","08/05/2019","34 Mansfield St, Greta 2334 NSW \u003cbr/\u003e\u003cb\u003eReplace
+        Existing System\u003c/b\u003e"],["012/2017/00000739/002","12/2017/739/2","Occupation
+        Certificate","07/05/2019","1 Wicks Ent, North Rothbury 2335 NSW \u003cbr/\u003e\u003cb\u003eTwo
+        (2) Storey Dwelling Attached Garage \u0026 Associated Retaining Walls\u003c/b\u003e"],["012/2018/00000184/001","12/2018/184/1","Occupation
+        Certificate","14/05/2019","29 Popham St, Greta 2334 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        -  New Brick Veneer\u003c/b\u003e"],["012/2018/00000150/003","12/2018/150/3","Occupation
+        Certificate","13/05/2019","14 Turnberry Av, Cessnock 2325 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        -  New Brick Veneer\u003c/b\u003e"],["010/2019/00000167/001","10/2019/167/1","Construction
+        Certificate","07/05/2019","60 Casuarina Dr, Pokolbin 2320 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling with Attached Garage\u003c/b\u003e"],["010/2019/00000109/001","10/2019/109/1","Construction
+        Certificate","14/05/2019","16 Aberdare St, Pelaw Main 2327 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling and Detached Garage and Carport\u003c/b\u003e"],["008/2018/00000854/002","8/2018/854/2","S96","08/05/2019","86
+        Barton St, Kurri Kurri 2327 NSW \u003cbr/\u003e\u003cb\u003eAmend the width
+        and length of Garage\u003c/b\u003e"],["012/2018/00000799/001","12/2018/799/1","Occupation
+        Certificate","07/05/2019","7 Malian St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling with Attached Garage\u003c/b\u003e"],["008/2018/00000929/002","8/2018/929/2","S96","08/05/2019","430
+        Wine Country Dr, Lovedale 2325 NSW \u003cbr/\u003e\u003cb\u003eSection 4.55(1A)
+        Modification to Consent 8/2018/929/1 Which Granted Consent for the Enclosure
+        of a Terrace, Application Seeks Alterations to Roof Over Terrace\u003c/b\u003e"],["010/2019/00000118/001","10/2019/118/1","Construction
+        Certificate","13/05/2019","1686 Broke Rd, Pokolbin 2320 NSW \u003cbr/\u003e\u003cb\u003eConstruction
+        of a farm building\u003c/b\u003e"],["010/2019/00000217/001","10/2019/217/1","Construction
+        Certificate","13/05/2019","6 Holdaway Cl, Millfield 2325 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling\u003c/b\u003e"],["008/2019/00000295/001","8/2019/295/1","Development
+        Application","08/05/2019","7 Grevillea St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling\u003c/b\u003e"],["012/2018/00000181/001","12/2018/181/1","Occupation
+        Certificate","13/05/2019","27 Tooze Cct, North Rothbury 2335 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        -  New Brick Veneer and Secondary Dwelling (granny flat) and Dwelling -  New
+        Brick Veneer Secondary Dwelling (granny flat) Retaining Wall - Fence\u003c/b\u003e"],["008/2019/00000290/001","8/2019/290/1","Development
+        Application","08/05/2019","81 William Tester Dr, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling\u003c/b\u003e"],["008/2019/00000310/001","8/2019/310/1","Development
+        Application","14/05/2019","63 Yallambie Rd, Laguna 2325 NSW \u003cbr/\u003e\u003cb\u003eSubdivision
+        of One (1) Lot Into Two (2) Lots\u003c/b\u003e"],["012/2018/00000388/001","12/2018/388/1","Occupation
+        Certificate","14/05/2019","1/41 Olivia Pl, North Rothbury 2335 NSW \u003cbr/\u003e2/41
+        Olivia Pl, North Rothbury 2335 NSW \u003cbr/\u003e\u003cb\u003eSingle Storey
+        Dwelling, Attached Secondary Dwelling and Attached Garages\u003c/b\u003e"],["012/2018/00000216/001","12/2018/216/1","Occupation
+        Certificate","10/05/2019","1 Rosella Cl, Weston 2326 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        -  New Brick Veneer\u003c/b\u003e"],["012/2017/00000249/002","12/2017/249/2","Occupation
+        Certificate","09/05/2019","105 Macquarie Av, Cessnock 2325 NSW \u003cbr/\u003e\u003cb\u003eShed\u003c/b\u003e"],["009/2019/00000152/001","9/2019/152/1","Complying
+        Development Cert","04/05/2019","98 Maitland Rd, Mulbring 2323 NSW \u003cbr/\u003e\u003cb\u003eSwimming
+        Pool - Inground\u003c/b\u003e"],["012/2018/00000513/001","12/2018/513/1","Occupation
+        Certificate","06/05/2019","61 Sale St, Greta 2334 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling with Attached Garage\u003c/b\u003e"],["044/2019/00000212/001","44/2019/212/1","S138
+        Driveway/Public Road","09/05/2019","43 Rawson St, Aberdare 2325 NSW \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["044/2019/00000223/001","44/2019/223/1","S138
+        Driveway/Public Road","14/05/2019","8 Grevillea St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["044/2019/00000224/001","44/2019/224/1","S138
+        Driveway/Public Road","14/05/2019","44 Stanford St, Kitchener 2325 NSW \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["044/2019/00000213/001","44/2019/213/1","S138
+        Driveway/Public Road","09/05/2019","18 Yates St, East Branxton 2335 NSW \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["010/2019/00000240/001","10/2019/240/1","Construction
+        Certificate","08/05/2019","33 Arrowfield St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling with Attached Garage\u003c/b\u003e"],["044/2019/00000210/001","44/2019/210/1","S138
+        Driveway/Public Road","09/05/2019","91 Casuarina Dr, Pokolbin 2320 NSW \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["044/2019/00000220/001","44/2019/220/1","S138
+        Driveway/Public Road","14/05/2019","13 Haverty Av, North Rothbury 2335 NSW
+        \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["010/2019/00000258/001","10/2019/258/1","Construction
+        Certificate","08/05/2019","19 Evans St, Greta 2334 NSW \u003cbr/\u003e\u003cb\u003eInground
+        Swimming Pool\u003c/b\u003e"],["044/2019/00000222/001","44/2019/222/1","S138
+        Driveway/Public Road","14/05/2019","100 Talleyrand Cct, Greta 2334 NSW \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["012/2018/00000581/001","12/2018/581/1","Occupation
+        Certificate","07/05/2019","15 Glen Ayr Av, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eAttached
+        Principal and Secondary Dwellings\u003c/b\u003e"],["012/2018/00000801/001","12/2018/801/1","Occupation
+        Certificate","07/05/2019","33 Moorebank Rd, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling with Attached Garage\u003c/b\u003e"],["012/2015/00000117/002","12/2015/117/2","Occupation
+        Certificate","14/05/2019","4 Lewis St, Greta 2334 NSW \u003cbr/\u003e\u003cb\u003eGarage\u003c/b\u003e"],["012/2019/00000111/001","12/2019/111/1","Occupation
+        Certificate","06/05/2019","30 Mackellar St, Cessnock 2325 NSW \u003cbr/\u003e\u003cb\u003eGaraport\u003c/b\u003e"],["015/2019/00000027/001","15/2019/27/1","Septic
+        Tank Application","13/05/2019","1693 Broke Rd, Pokolbin 2320 NSW \u003cbr/\u003e1727
+        Broke Rd, Pokolbin 2320 NSW \u003cbr/\u003e\u003cb\u003eTourist Accommodation\u003c/b\u003e"],["048/2019/00000014/001","48/2019/14/1","Road
+        Restoration","13/05/2019","65 Abernethy St, Kitchener 2325 NSW \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["044/2019/00000219/001","44/2019/219/1","S138
+        Driveway/Public Road","10/05/2019","41A Branxton St, Greta 2334 NSW \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["044/2019/00000218/001","44/2019/218/1","S138
+        Driveway/Public Road","10/05/2019","12 Glen Ayr Av, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["044/2019/00000217/001","44/2019/217/1","S138
+        Driveway/Public Road","10/05/2019","72 Ridgeview Dr, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["044/2019/00000216/001","44/2019/216/1","S138
+        Driveway/Public Road","09/05/2019","64 Ridgeview Dr, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["044/2019/00000215/001","44/2019/215/1","S138
+        Driveway/Public Road","09/05/2019","30 Grevillea St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["044/2019/00000209/001","44/2019/209/1","S138
+        Driveway/Public Road","09/05/2019","7 St Andrews Cl, Heddon Greta 2321 NSW
+        \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["044/2019/00000207/001","44/2019/207/1","S138
+        Driveway/Public Road","08/05/2019","45 Popham St, Greta 2334 NSW \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["012/2017/00000709/001","12/2017/709/1","Occupation
+        Certificate","13/05/2019","23 Concord Cct, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling with Attached Garage \u0026 Associated Retaining Wall\u003c/b\u003e"],["012/2018/00000469/001","12/2018/469/1","Occupation
+        Certificate","13/05/2019","3A Branxton St, Nulkaba 2325 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling with Attached Garage\u003c/b\u003e"],["012/2018/00000193/002","12/2018/193/2","Occupation
+        Certificate","06/05/2019","5 Dianella Cr, Paxton 2325 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        -  New Brick Veneer\u003c/b\u003e"],["010/2019/00000214/001","10/2019/214/1","Construction
+        Certificate","08/05/2019","29 Wethered Cr, North Rothbury 2335 NSW \u003cbr/\u003e\u003cb\u003eInground
+        Swimming Pool\u003c/b\u003e"],["012/2018/00000319/001","12/2018/319/1","Occupation
+        Certificate","13/05/2019","1/41 Olivia Pl, North Rothbury 2335 NSW \u003cbr/\u003e2/41
+        Olivia Pl, North Rothbury 2335 NSW \u003cbr/\u003e\u003cb\u003eRetaining Walls\u003c/b\u003e"],["012/2017/00000321/002","12/2017/321/2","Occupation
+        Certificate","07/05/2019","27 Stanford St, Kitchener 2325 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling With Attached Garage\u003c/b\u003e"],["012/2018/00000110/001","12/2018/110/1","Occupation
+        Certificate","06/05/2019","10 Judge Rd, North Rothbury 2335 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        -  New Brick Veneer\u003c/b\u003e"],["012/2018/00000189/003","12/2018/189/3","Occupation
+        Certificate","06/05/2019","18 Dianella Cr, Paxton 2325 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["012/2018/00000580/001","12/2018/580/1","Occupation
+        Certificate","07/05/2019","12 Shalistan St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling with Attached Garage\u003c/b\u003e"],["008/2019/00000302/001","8/2019/302/1","Development
+        Application","09/05/2019","129 Mitchell Av, Kurri Kurri 2327 NSW \u003cbr/\u003e\u003cb\u003eState
+        Significant Development - SSD 7396 | Weston Aluminium Waste Management Processing
+        Facility Thermal Treatment\u003c/b\u003e"],["008/2019/00000298/001","8/2019/298/1","Development
+        Application","08/05/2019","50A Bowen St, Branxton 2335 NSW \u003cbr/\u003e\u003cb\u003eProposed
+        Dual Occuancy\u003c/b\u003e"],["010/2019/00000302/001","10/2019/302/1","Construction
+        Certificate","09/05/2019","129 Mitchell Av, Kurri Kurri 2327 NSW \u003cbr/\u003e\u003cb\u003eState
+        Significant Development - SSD 7396 | Weston Aluminium Waste Management Processing
+        Facility Thermal Treatment\u003c/b\u003e"],["009/2019/00000144/001","9/2019/144/1","Complying
+        Development Cert","06/05/2019","1 Hutton St, Cessnock 2325 NSW \u003cbr/\u003e\u003cb\u003eDrainage
+        Works\u003c/b\u003e"],["012/2018/00000204/001","12/2018/204/1","Occupation
+        Certificate","06/05/2019","23 Wethered Cr, North Rothbury 2335 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        -  New Brick Veneer\u003c/b\u003e"],["044/2019/00000200/001","44/2019/200/1","S138
+        Driveway/Public Road","06/05/2019","76 Stanford St, Kitchener 2325 NSW \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["044/2019/00000201/001","44/2019/201/1","S138
+        Driveway/Public Road","06/05/2019","16 Turnberry Av, Cessnock 2325 NSW \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["044/2019/00000204/001","44/2019/204/1","S138
+        Driveway/Public Road","07/05/2019","25 Popham St, Greta 2334 NSW \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["044/2019/00000205/001","44/2019/205/1","S138
+        Driveway/Public Road","07/05/2019","11 Tatler St, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003e\u003c/b\u003e"],["012/2018/00000910/001","12/2018/910/1","Occupation
+        Certificate","08/05/2019","25 Mcfarlane St, Cessnock 2325 NSW \u003cbr/\u003e\u003cb\u003eGarage\u003c/b\u003e"],["012/2018/00000546/001","12/2018/546/1","Occupation
+        Certificate","07/05/2019","1/7 Glen Ayr Av, Cliftleigh 2321 NSW \u003cbr/\u003e2/7
+        Glen Ayr Av, Cliftleigh 2321 NSW \u003cbr/\u003e\u003cb\u003eAttached Principal
+        and Secondary Dwellings\u003c/b\u003e"],["012/2018/00000097/001","12/2018/97/1","Occupation
+        Certificate","06/05/2019","56 Wallsend St, Stanford Merthyr 2327 NSW \u003cbr/\u003e\u003cb\u003eGarage\u003c/b\u003e"],["010/2018/00000665/001","10/2018/665/1","Construction
+        Certificate","07/05/2019","2 Stirling St, Abernethy 2325 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Storey Dwelling with Attached Garage\u003c/b\u003e"],["012/2018/00000360/001","12/2018/360/1","Occupation
+        Certificate","06/05/2019","89 Elvin Cct, Millfield 2325 NSW \u003cbr/\u003e\u003cb\u003eShed\u003c/b\u003e"],["012/2018/00000195/001","12/2018/195/1","Occupation
+        Certificate","06/05/2019","4 Nairn Av, Heddon Greta 2321 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        with Attached Garage \u0026 Associated Retaining Walls\u003c/b\u003e"]]}'
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+recorded_with: VCR 5.0.0

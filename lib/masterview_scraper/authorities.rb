@@ -140,6 +140,11 @@ module MasterviewScraper
       url: "http://datracker.bogan.nsw.gov.au:81",
       period: :last30days,
       use_api: true
+    },
+    cessnock: {
+      url: "http://datracker.cessnock.nsw.gov.au",
+      period: :last10days,
+      use_api: true
     }
   }.freeze
 end
