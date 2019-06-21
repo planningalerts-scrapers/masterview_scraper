@@ -25,13 +25,15 @@ module MasterviewScraper
 
       JSON.parse(page.body)["data"].each do |application|
         details = application[4].split("<br/>")
-
+        # TODO: Do this properly
+        description = details[-1].gsub("<b>", "").gsub("</b>", "").squeeze(" ")
+        # If no description then use the application type as the description
+        description = application[2] if description.empty?
         yield(
           "council_reference" => application[1],
           # Only picking out the first address
           "address" => details[0].strip,
-          # TODO: Do this properly
-          "description" => details[-1].gsub("<b>", "").gsub("</b>", "").squeeze(" "),
+          "description" => description,
           "info_url" => (page.uri + "ApplicationDetails/" + application[0]).to_s,
           "date_scraped" => Date.today.to_s,
           "date_received" => Date.strptime(application[3], "%d/%m/%Y").to_s
