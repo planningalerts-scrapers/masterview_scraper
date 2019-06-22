@@ -19,25 +19,32 @@ module MasterviewScraper
     scrape_and_save_period(AUTHORITIES[authority])
   end
 
-  def self.scrape_and_save_period(url:, period:, params: {}, state: nil, use_api: false)
+  def self.scrape_and_save_period(
+    url:,
+    period:,
+    params: {},
+    state: nil,
+    use_api: false,
+    disable_ssl_certificate_check: false
+  )
     if use_api
-      scrape_api_period(url, period) do |record|
+      scrape_api_period(url, period, disable_ssl_certificate_check) do |record|
         save(record)
       end
     else
-      scrape(url_with_period(url, period, params), state) do |record|
+      scrape(url_with_period(url, period, params), state, disable_ssl_certificate_check) do |record|
         save(record)
       end
     end
   end
 
-  def self.scrape_api_period(url, period)
+  def self.scrape_api_period(url, period, disable_ssl_certificate_check)
     if period == :last10days
-      scrape_api(url, Date.today - 10, Date.today) do |record|
+      scrape_api(url, Date.today - 10, Date.today, disable_ssl_certificate_check) do |record|
         yield record
       end
     elsif period == :last30days
-      scrape_api(url, Date.today - 30, Date.today) do |record|
+      scrape_api(url, Date.today - 30, Date.today, disable_ssl_certificate_check) do |record|
         yield record
       end
     else
@@ -45,8 +52,9 @@ module MasterviewScraper
     end
   end
 
-  def self.scrape_api(url, start_date, end_date)
+  def self.scrape_api(url, start_date, end_date, disable_ssl_certificate_check)
     agent = Mechanize.new
+    agent.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
 
     page = agent.get(url + "/")
 
@@ -58,8 +66,9 @@ module MasterviewScraper
   end
 
   # Set state if the address does not already include the state (e.g. NSW, WA, etc..)
-  def self.scrape(url, state = nil)
+  def self.scrape(url, state = nil, disable_ssl_certificate_check = false)
     agent = Mechanize.new
+    agent.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
 
     # Read in a page
     page = agent.get(url)
