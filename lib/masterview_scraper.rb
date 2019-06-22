@@ -19,32 +19,75 @@ module MasterviewScraper
     scrape_and_save_period(AUTHORITIES[authority])
   end
 
-  def self.scrape_and_save_period(
+  def self.scrape_period(
     url:,
     period:,
     params: {},
     state: nil,
     use_api: false,
-    disable_ssl_certificate_check: false
+    disable_ssl_certificate_check: false,
+    long_council_reference: false,
+    types: nil
   )
     if use_api
-      scrape_api_period(url, period, disable_ssl_certificate_check) do |record|
-        save(record)
+      scrape_api_period(
+        url,
+        period,
+        disable_ssl_certificate_check,
+        long_council_reference,
+        types
+      ) do |record|
+        yield record
       end
     else
       scrape(url_with_period(url, period, params), state, disable_ssl_certificate_check) do |record|
-        save(record)
+        yield record
       end
     end
   end
 
-  def self.scrape_api_period(url, period, disable_ssl_certificate_check)
+  def self.scrape_and_save_period(params)
+    scrape_period(params) do |record|
+      save(record)
+    end
+  end
+
+  def self.scrape_api_period(
+    url, period, disable_ssl_certificate_check, long_council_reference, types
+  )
     if period == :last10days
-      scrape_api(url, Date.today - 10, Date.today, disable_ssl_certificate_check) do |record|
+      scrape_api(
+        url,
+        Date.today - 10,
+        Date.today,
+        disable_ssl_certificate_check,
+        long_council_reference,
+        types
+      ) do |record|
         yield record
       end
     elsif period == :last30days
-      scrape_api(url, Date.today - 30, Date.today, disable_ssl_certificate_check) do |record|
+      scrape_api(
+        url,
+        Date.today - 30,
+        Date.today,
+        disable_ssl_certificate_check,
+        long_council_reference,
+        types
+      ) do |record|
+        yield record
+      end
+    elsif period == :thismonth
+      today = Date.today
+      start_of_this_month = Date.new(today.year, today.month, 1)
+      scrape_api(
+        url,
+        start_of_this_month,
+        today,
+        disable_ssl_certificate_check,
+        long_council_reference,
+        types
+      ) do |record|
         yield record
       end
     else
@@ -52,7 +95,14 @@ module MasterviewScraper
     end
   end
 
-  def self.scrape_api(url, start_date, end_date, disable_ssl_certificate_check)
+  def self.scrape_api(
+    url,
+    start_date,
+    end_date,
+    disable_ssl_certificate_check,
+    long_council_reference,
+    types
+  )
     agent = Mechanize.new
     agent.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
 
@@ -60,8 +110,10 @@ module MasterviewScraper
 
     MasterviewScraper::Pages::TermsAndConditions.click_agree(page)
 
-    GetApplicationsApi.scrape(url, start_date, end_date, agent) do |record|
-      MasterviewScraper.save(record)
+    GetApplicationsApi.scrape(
+      url, start_date, end_date, agent, long_council_reference, types
+    ) do |record|
+      yield record
     end
   end
 

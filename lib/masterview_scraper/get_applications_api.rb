@@ -6,21 +6,24 @@ module MasterviewScraper
   # This API endpoint only exists on recent versions of the system
   module GetApplicationsApi
     # Returns applications between those dates
-    def self.scrape(base_url, start_date, end_date, agent)
+    def self.scrape(base_url, start_date, end_date, agent, long_council_reference, types)
+      json = {
+        "DateFrom" => start_date.strftime("%d/%m/%Y"),
+        "DateTo" => end_date.strftime("%d/%m/%Y"),
+        "DateType" => "1",
+        "RemoveUndeterminedApplications" => false,
+        "ShowOutstandingApplications" => false,
+        "ShowExhibitedApplications" => false,
+        "IncludeDocuments" => false
+      }
+      json["ApplicationType"] = types.join(",") if types
+
       page = agent.post(
         base_url + "/Application/GetApplications",
         "start" => 0,
         # TODO: Do some kind of paging instead rather than just grabbing a large fixed number
         "length" => 1000,
-        "json" => {
-          "DateFrom" => start_date.strftime("%d/%m/%Y"),
-          "DateTo" => end_date.strftime("%d/%m/%Y"),
-          "DateType" => "1",
-          "RemoveUndeterminedApplications" => false,
-          "ShowOutstandingApplications" => false,
-          "ShowExhibitedApplications" => false,
-          "IncludeDocuments" => false
-        }.to_json
+        "json" => json.to_json
       )
 
       JSON.parse(page.body)["data"].each do |application|
@@ -30,7 +33,7 @@ module MasterviewScraper
         # If no description then use the application type as the description
         description = application[2] if description.empty?
         yield(
-          "council_reference" => application[1],
+          "council_reference" => long_council_reference ? application[0] : application[1],
           # Only picking out the first address
           "address" => details[0].strip,
           "description" => description,
