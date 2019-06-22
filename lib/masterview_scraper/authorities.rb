@@ -157,6 +157,11 @@ module MasterviewScraper
       url: "http://tracker.lismore.nsw.gov.au",
       period: :last30days,
       use_api: true
+    },
+    port_macquarie_hastings: {
+      url: "https://datracker.pmhc.nsw.gov.au",
+      period: :last30days,
+      use_api: true
     }
   }.freeze
 end
