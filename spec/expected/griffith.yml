@@ -1,0 +1,215 @@
+---
+- council_reference: 100/2019.1
+  address: 30-32 Mirrool Av, Yenda 2681 NSW
+  description: Proposed Service Station Rebranding & Pylon Sign
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/010.2019.00000100.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: 101/2019.1
+  address: 178 Yambil St, Griffith 2680 NSW
+  description: Proposed Commercial Premises
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/010.2019.00000101.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: 102/2019.1
+  address: 48-54 Oakes Rd, Griffith 2680 NSW
+  description: Extension of awning at front of existing workshop and carpot type awning
+    for cover over a hot works (welding) area
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/010.2019.00000102.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: 103/2019.1
+  address: 61 Messner St, Griffith 2680 NSW
+  description: Alterations & additions to existing dwelling
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/010.2019.00000103.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: 104/2019.1
+  address: 96 Curran Rd, Yenda 2681 NSW
+  description: Shed Extension
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/010.2019.00000104.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: 105/2019.1
+  address: 8 Hardiman Wy, Griffith 2680 NSW
+  description: New Dwelling - Urban
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/010.2019.00000105.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: 106/2019.1
+  address: 98 Merrigal St, Griffith 2680 NSW
+  description: Shed
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/010.2019.00000106.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: 107/2019.1
+  address: 51 Tucker St, Griffith 2680 NSW
+  description: Dwelling with attached garage
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/010.2019.00000107.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: 108/2019.1
+  address: 67 Druitt Rd, Lake Wyangan 2680 NSW
+  description: Dwelling with attached garage
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/010.2019.00000108.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: 16/2013.1
+  address: 21 Oakes Rd, Griffith 2680 NSW
+  description: Use of an existing premises for the display, sale & servicing of trucks
+    & agricultural machinery & equipment
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/017.2013.00000016.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 16/2013.2
+  address: 21 Oakes Rd, Griffith 2680 NSW
+  description: Use of an existing premises for the display, sale & servicing of trucks
+    & agricultural machinery
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/010.2013.00000016.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 231/2017.4
+  address: 29-43 Sidlow Rd, Griffith 2680 NSW
+  description: Stage 9C - Units 190 and 191
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/019.2017.00000231.004
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: 254/2018.1
+  address: Wakley Rd, Yenda 2681 NSW
+  description: Shed for use as distilling room
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/019.2018.00000254.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: 29/2019.1
+  address: 81 Kooyoo St, Griffith 2680 NSW
+  description: Timber deck & entrance ramp
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/019.2019.00000029.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 31/2019.1
+  address: 409 West Rd, Nericon 2680 NSW
+  description: Boundary Adjustment
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/012.2019.00000031.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 528/2019.1
+  address: 11 Oakes Rd, Griffith 2680 NSW
+  description: Installation of Commercial Solar PV System
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/016.2019.00000528.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 531/2019.1
+  address: 38 Tucker St, Griffith 2680 NSW
+  description: Dwelling with attached garage
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/016.2019.00000531.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 538/2019.1
+  address: 44 Bowditch Pl, Griffith 2680 NSW
+  description: Proposed secondary dwelling with detached carport
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/016.2019.00000538.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: 541/2019.1
+  address: 8 Mallinson St, Griffith 2680 NSW
+  description: Proposed secondary dwelling and detached carport
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/016.2019.00000541.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: 542/2019.1
+  address: 32 Hillam Dr, Griffith 2680 NSW
+  description: Detached shed
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/016.2019.00000542.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: 543/2019.1
+  address: 18 Tubbo Cr, Griffith 2680 NSW
+  description: Secondary Dwelling with attached carport
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/016.2019.00000543.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: 55/2019.1
+  address: 34 Tucker St, Griffith 2680 NSW
+  description: Shed
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/018.2019.00000055.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: 557/2018.1
+  address: 41 Walla Av, Griffith 2680 NSW
+  description: Dwelling with attached garage & secondary dwelling
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/013.2018.00000557.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 56/2019.1
+  address: 108 Old Willbriggie Rd, Griffith 2680 NSW
+  description: Shed
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/019.2019.00000056.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: 568/2018.1
+  address: 49 Walla Av, Griffith 2680 NSW
+  description: New dwelling & attached garage
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/013.2018.00000568.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: 580/2018.1
+  address: 10 Suman Cl, Griffith 2680 NSW
+  description: Dwelling with attached Garage
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/013.2018.00000580.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 66/2019.1
+  address: 7 Suman Cl, Griffith 2680 NSW
+  description: Residential dwelling with attached garage
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/018.2019.00000066.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 92/2019.1
+  address: Wakley Rd, Yenda 2681 NSW
+  description: Extension of warehouse and container loading pad
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/019.2019.00000092.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 93/2019.1
+  address: 38 Leonard Rd, Hanwood 2680 NSW
+  description: Extension & renovaton to dwelling, carpot and driveway
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/010.2019.00000093.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 94/2019.1
+  address: 72 Gillmartin Dr, Griffith 2680 NSW
+  description: Shed & Swimming Pool Alteration/Addition to existing Shed/Awning Alteration/Addition
+    to existing Swimming Pool/Spa
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/010.2019.00000094.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: 95/2019.1
+  address: 51 Tucker St, Griffith 2680 NSW
+  description: Shed
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/010.2019.00000095.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: 96/2019.1
+  address: 19 Lanza Gr, Griffith 2680 NSW
+  description: Dwelling with attached garage
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/010.2019.00000096.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: 97/2019.1
+  address: 76 Murrumbidgee Av, Griffith 2680 NSW
+  description: New Shed
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/010.2019.00000097.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: 98/2019.1
+  address: 13 West Av, Yenda 2681 NSW
+  description: Proposed construction of community room
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/010.2019.00000098.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: 99/2019.1
+  address: 1255 Rankins Springs Rd, Myall Park 2681 NSW
+  description: Conversion from a temporary dwelling to a permanent dwelling
+  info_url: https://datracking.griffith.nsw.gov.au/Application/ApplicationDetails/010.2019.00000099.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
