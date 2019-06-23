@@ -169,6 +169,11 @@ module MasterviewScraper
       use_api: true,
       long_council_reference: true,
       types: [16, 9, 25]
+    },
+    singleton: {
+      url: "https://datracker.singleton.nsw.gov.au:444",
+      use_api: true,
+      period: :last30days
     }
   }.freeze
 end

@@ -1,0 +1,311 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://datracker.singleton.nsw.gov.au:444/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - datracker.singleton.nsw.gov.au:444
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 302
+      message: Found
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Location:
+      - "/Home/Disclaimer"
+      Server:
+      - Microsoft-IIS/7.5
+      Set-Cookie:
+      - ASP.NET_SessionId=qfnqxm0wygzxaip3jn2rnkmj; path=/; HttpOnly
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Sun, 23 Jun 2019 23:16:51 GMT
+      Content-Length:
+      - '133'
+    body:
+      encoding: UTF-8
+      string: "<html><head><title>Object moved</title></head><body>\r\n<h2>Object
+        moved to <a href=\"/Home/Disclaimer\">here</a>.</h2>\r\n</body></html>\r\n"
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: https://datracker.singleton.nsw.gov.au:444/Home/Disclaimer
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=qfnqxm0wygzxaip3jn2rnkmj
+      Host:
+      - datracker.singleton.nsw.gov.au:444
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Content-Encoding:
+      - gzip
+      Expires:
+      - "-1"
+      Vary:
+      - Accept-Encoding
+      Server:
+      - Microsoft-IIS/7.5
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Sun, 23 Jun 2019 23:16:51 GMT
+      Content-Length:
+      - '4134'
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        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
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://datracker.singleton.nsw.gov.au:444/Home/DisclaimerProcessing
+    body:
+      encoding: UTF-8
+      string: agreed=true
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=qfnqxm0wygzxaip3jn2rnkmj
+      Host:
+      - datracker.singleton.nsw.gov.au:444
+      Referer:
+      - https://datracker.singleton.nsw.gov.au:444/Home/Disclaimer
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '11'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 301
+      message: Moved Permanently
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Location:
+      - "/"
+      Server:
+      - Microsoft-IIS/7.5
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      Set-Cookie:
+      - User=accessAllowed-MasterView=True; path=/
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Sun, 23 Jun 2019 23:16:51 GMT
+      Content-Length:
+      - '118'
+    body:
+      encoding: UTF-8
+      string: "<html><head><title>Object moved</title></head><body>\r\n<h2>Object
+        moved to <a href=\"/\">here</a>.</h2>\r\n</body></html>\r\n"
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: https://datracker.singleton.nsw.gov.au:444/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=qfnqxm0wygzxaip3jn2rnkmj; User=accessAllowed-MasterView=True
+      Host:
+      - datracker.singleton.nsw.gov.au:444
+      Referer:
+      - https://datracker.singleton.nsw.gov.au:444/Home/Disclaimer
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Content-Encoding:
+      - gzip
+      Expires:
+      - "-1"
+      Vary:
+      - Accept-Encoding
+      Server:
+      - Microsoft-IIS/7.5
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Sun, 23 Jun 2019 23:16:51 GMT
+      Content-Length:
+      - '6176'
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        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
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://datracker.singleton.nsw.gov.au:444/Application/GetApplications
+    body:
+      encoding: UTF-8
+      string: start=0&length=1000&json=%7B%22DateFrom%22%3A%2214%2F04%2F2019%22%2C%22DateTo%22%3A%2214%2F05%2F2019%22%2C%22DateType%22%3A%221%22%2C%22RemoveUndeterminedApplications%22%3Afalse%2C%22ShowOutstandingApplications%22%3Afalse%2C%22ShowExhibitedApplications%22%3Afalse%2C%22IncludeDocuments%22%3Afalse%7D
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=qfnqxm0wygzxaip3jn2rnkmj; User=accessAllowed-MasterView=True
+      Host:
+      - datracker.singleton.nsw.gov.au:444
+      Referer:
+      - https://datracker.singleton.nsw.gov.au:444/
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '299'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - application/json; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/7.5
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Sun, 23 Jun 2019 23:16:54 GMT
+      Content-Length:
+      - '13316'
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        eyJkcmF3IjpudWxsLCJyZWNvcmRzVG90YWwiOjcyLCJyZWNvcmRzRmlsdGVyZWQiOjcyLCJkYXRhIjpbWyIwMDguMjAxOS4wMDAwMDA3My4wMDEiLCI4LjIwMTkuNzMuMSIsIkRldmVsb3BtZW50IEFwcGxpY2F0aW9uIiwiMTgvMDQvMjAxOSIsIjM0NSBNaWxicm9kYWxlIFJkLCBGb3Jkd2ljaCAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlRHdlbGxpbmcgSG91c2VcdTAwM2MvYlx1MDAzZSJdLFsiMDEwLjIwMTkuMDAwMDAwOTAuMDAxIiwiMTAuMjAxOS45MC4xIiwiQ29uc3RydWN0aW9uIENlcnQiLCIxMC8wNS8yMDE5IiwiRWxkZXJzbGllIFJkLCBNaXRjaGVsbHMgRmxhdCAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlRHdlbGxpbmcgSG91c2VcdTAwM2MvYlx1MDAzZSJdLFsiMDA4LjIwMTkuMDAwMDAwOTAuMDAxIiwiOC4yMDE5LjkwLjEiLCJEZXZlbG9wbWVudCBBcHBsaWNhdGlvbiIsIjEwLzA1LzIwMTkiLCJFbGRlcnNsaWUgUmQsIE1pdGNoZWxscyBGbGF0IDIzMzAgTlNXIFx1MDAzY2JyL1x1MDAzZVx1MDAzY2JcdTAwM2VEd2VsbGluZyBIb3VzZVx1MDAzYy9iXHUwMDNlIl0sWyIwMDguMjAxOS4wMDAwMDA5NC4wMDEiLCI4LjIwMTkuOTQuMSIsIkRldmVsb3BtZW50IEFwcGxpY2F0aW9uIiwiMTQvMDUvMjAxOSIsIjgwMyBNaXJhbm5pZSBSZCwgUmVlZHkgQ3JlZWsgMjMzMCBOU1cgXHUwMDNjYnIvXHUwMDNlXHUwMDNjYlx1MDAzZUR3ZWxsaW5nIEhvdXNlXHUwMDNjL2JcdTAwM2UiXSxbIjAwOC4yMDE5LjAwMDAwMDkyLjAwMSIsIjguMjAxOS45Mi4xIiwiRGV2ZWxvcG1lbnQgQXBwbGljYXRpb24iLCIxMC8wNS8yMDE5IiwiR2xlbm5pZXMgQ3JlZWsgUmQsIEdsZW5uaWVzIENyZWVrIDIzMzAgTlNXIFx1MDAzY2JyL1x1MDAzZVx1MDAzY2JcdTAwM2VEZW1vbGl0aW9uXHUwMDNjL2JcdTAwM2UiXSxbIjAxNS4yMDE5LjAwMDAwMDQwLjAwMSIsIjE1LjIwMTkuNDAuMSIsIlNlcHRpYyBUYW5rIiwiMDYvMDUvMjAxOSIsIjMwMCBSb2JlcnRzb24gQ2N0LCBTZWRnZWZpZWxkIDIzMzAgTlNXIFx1MDAzY2JyL1x1MDAzZVx1MDAzY2JcdTAwM2VPU1NNXHUwMDNjL2JcdTAwM2UiXSxbIjAwOC4yMDE5LjAwMDAwMDg3LjAwMSIsIjguMjAxOS44Ny4xIiwiRGV2ZWxvcG1lbnQgQXBwbGljYXRpb24iLCIwOS8wNS8yMDE5IiwiNjUgR3JlZW53b29kIEF2LCBTaW5nbGV0b24gMjMzMCBOU1cgXHUwMDNjYnIvXHUwMDNlXHUwMDNjYlx1MDAzZVNoZWRcdTAwM2MvYlx1MDAzZSJdLFsiMDA4LjIwMTkuMDAwMDAwODkuMDAxIiwiOC4yMDE5Ljg5LjEiLCJEZXZlbG9wbWVudCBBcHBsaWNhdGlvbiIsIjA5LzA1LzIwMTkiLCI3IFN0IERhdmlkcyBDbCwgR293cmllIDIzMzAgTlNXIFx1MDAzY2JyL1x1MDAzZVx1MDAzY2JcdTAwM2VEd2VsbGluZyBIb3VzZVx1MDAzYy9iXHUwMDNlIl0sWyIwMDguMjAxOS4wMDAwMDA4MS4wMDEiLCI4LjIwMTkuODEuMSIsIkRldmVsb3BtZW50IEFwcGxpY2F0aW9uIiwiMTgvMDQvMjAxOSIsIjMxQSBMb29rb3V0IFJkLCBHb3dyaWUgMjMzMCBOU1cgXHUwMDNjYnIvXHUwMDNlXHUwMDNjYlx1MDAzZUluZ3JvdW5kIFBvb2xcdTAwM2MvYlx1MDAzZSJdLFsiMDA4LjIwMTkuMDAwMDAwNzkuMDAxIiwiOC4yMDE5Ljc5LjEiLCJEZXZlbG9wbWVudCBBcHBsaWNhdGlvbiIsIjI5LzA0LzIwMTkiLCI0MTEgU2NvdHRzIEZsYXQgUmQsIFNjb3R0cyBGbGF0IDIzMzAgTlNXIFx1MDAzY2JyL1x1MDAzZVx1MDAzY2JcdTAwM2VGYXJtIEJ1aWxkaW5nXHUwMDNjL2JcdTAwM2UiXSxbIjAwOC4yMDE5LjAwMDAwMDg4LjAwMSIsIjguMjAxOS44OC4xIiwiRGV2ZWxvcG1lbnQgQXBwbGljYXRpb24iLCIwOS8wNS8yMDE5IiwiOSBHcmFuZGUgQ2wsIEh1bnRlcnZpZXcgMjMzMCBOU1cgXHUwMDNjYnIvXHUwMDNlXHUwMDNjYlx1MDAzZVNoZWRcdTAwM2MvYlx1MDAzZSJdLFsiMDA4LjIwMTkuMDAwMDAwNzcuMDAxIiwiOC4yMDE5Ljc3LjEiLCJEZXZlbG9wbWVudCBBcHBsaWNhdGlvbiIsIjI0LzA0LzIwMTkiLCI0MiBSb2JlcnRzb24gQ2N0LCBTZWRnZWZpZWxkIDIzMzAgTlNXIFx1MDAzY2JyL1x1MDAzZVx1MDAzY2JcdTAwM2VUd28gKDIpIFNoZWRzIGFuZCBIb3JzZSBTaGVsdGVyXHUwMDNjL2JcdTAwM2UiXSxbIjAwOC4yMDE5LjAwMDAwMDkxLjAwMSIsIjguMjAxOS45MS4xIiwiRGV2ZWxvcG1lbnQgQXBwbGljYXRpb24iLCIxMC8wNS8yMDE5IiwiMTAyRCBNY211bGxpbnMgUmQsIEJyYW54dG9uIDIzMzUgTlNXIFx1MDAzY2JyL1x1MDAzZVx1MDAzY2JcdTAwM2VEdWFsIE9jY3VwYW5jeSAoT25lIEV4aXN0aW5nIER3ZWxsaW5nIGFuZCBPbmUgUHJvcG9zZWQgRHdlbGxpbmcpXHUwMDNjL2JcdTAwM2UiXSxbIjAwOC4yMDE5LjAwMDAwMDg0LjAwMSIsIjguMjAxOS44NC4xIiwiRGV2ZWxvcG1lbnQgQXBwbGljYXRpb24iLCIwNi8wNS8yMDE5IiwiMTMgVGhlIEdyb3ZlLCBIdW50ZXJ2aWV3IDIzMzAgTlNXIFx1MDAzY2JyL1x1MDAzZVx1MDAzY2JcdTAwM2VQYXRpb1x1MDAzYy9iXHUwMDNlIl0sWyIwMDguMTk5Ny4wMDAwMDIwNi4wMDEiLCI4LjE5OTcuMjA2LjEiLCJEZXZlbG9wbWVudCBBcHBsaWNhdGlvbiIsIjA5LzA1LzIwMTkiLCJNYXNrZXkgUmQsIE1vdW50IFRob3JsZXkgMjMzMCBOU1cgXHUwMDNjYnIvXHUwMDNlXHUwMDNjYlx1MDAzZUFsdGVyYXRpb24gb3QgRW11bHNpb24gTWFudWZhY3R1cmluZyBidWlsZGluZyAoTW9kaWZpY2F0aW9uIDMpXHUwMDNjL2JcdTAwM2UiXSxbIjAwOS4yMDE5LjAwMDAwMDI3LjAwMSIsIjkuMjAxOS4yNy4xIiwiQ29tcGx5aW5nIERldmVsb3BtZW50IiwiMjQvMDQvMjAxOSIsIjkgTGxveWQgSm9uZXMgRHIsIFNpbmdsZXRvbiBIZWlnaHRzIDIzMzAgTlNXIFx1MDAzY2JyL1x1MDAzZVx1MDAzY2JcdTAwM2VJbmdyb3VuZCBQb29sXHUwMDNjL2JcdTAwM2UiXSxbIjAwOS4yMDE5LjAwMDAwMDI2LjAwMSIsIjkuMjAxOS4yNi4xIiwiQ29tcGx5aW5nIERldmVsb3BtZW50IiwiMjQvMDQvMjAxOSIsIjIgRGltbW9jayBTdCwgSHVudGVydmlldyAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlRHdlbGxpbmcgSG91c2VcdTAwM2MvYlx1MDAzZSJdLFsiMDEwLjIwMTcuMDAwMDAyNDguMDAyIiwiMTAuMjAxNy4yNDguMiIsIkNvbnN0cnVjdGlvbiBDZXJ0IiwiMTQvMDUvMjAxOSIsIjM2MSBXZXN0YnJvb2sgUmQsIFdlc3Ricm9vayAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlTW9kaWZpY2F0aW9uIC0gRGVsZXRlIEFsZnJlc2NvIGFyZWEgdG8gbm9ydGggb2YgYnVpbGRpbmdcdTAwM2MvYlx1MDAzZSJdLFsiMDE1LjIwMTkuMDAwMDAwMzcuMDAxIiwiMTUuMjAxOS4zNy4xIiwiU2VwdGljIFRhbmsiLCIyMy8wNC8yMDE5IiwiMjYgS2lya3dvb2QgUGwsIEJyYW54dG9uIDIzMzUgTlNXIFx1MDAzY2JyL1x1MDAzZVx1MDAzY2JcdTAwM2VPU1NNXHUwMDNjL2JcdTAwM2UiXSxbIjAwOC4yMDE4LjAwMDAwMjcyLjAwMiIsIjguMjAxOC4yNzIuMiIsIk1vZGlmaWNhdGlvbihTNC41NSkgIiwiMDcvMDUvMjAxOSIsIjI2NCBGcm9zdCBUciwgQnVsZ2EgMjMzMCBOU1cgXHUwMDNjYnIvXHUwMDNlXHUwMDNjYlx1MDAzZU1vZGlmaWNhdGlvbiB0byBkd2VsbGluZyBsYXlvdXRcdTAwM2MvYlx1MDAzZSJdLFsiMDEwLjIwMTkuMDAwMDAwNzYuMDAxIiwiMTAuMjAxOS43Ni4xIiwiQ29uc3RydWN0aW9uIENlcnQiLCIyMy8wNC8yMDE5IiwiNyBFeXJlIENsLCBTaW5nbGV0b24gSGVpZ2h0cyAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlQ2FycG9ydFx1MDAzYy9iXHUwMDNlIl0sWyIwMTAuMjAxOC4wMDAwMDAzOS4wMDEiLCIxMC4yMDE4LjM5LjEiLCJDb25zdHJ1Y3Rpb24gQ2VydCIsIjIzLzA0LzIwMTkiLCJSb3N3aWxsIERyLCBQdXR0eSAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlRHdlbGxpbmcgSG91c2UgT05MWVx1MDAzYy9iXHUwMDNlIl0sWyIwMDguMjAxOS4wMDAwMDA4My4wMDEiLCI4LjIwMTkuODMuMSIsIkRldmVsb3BtZW50IEFwcGxpY2F0aW9uIiwiMjQvMDQvMjAxOSIsIjMyIFlvcmsgU3QsIFNpbmdsZXRvbiAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlQWx0ZXJhdGlvbnMgYW5kIEFkZGl0aW9ucyB0byBEd2VsbGluZyBIb3VzZSBhbmQgQ2FycG9ydFx1MDAzYy9iXHUwMDNlIl0sWyIwMTAuMjAxOS4wMDAwMDA4Mi4wMDEiLCIxMC4yMDE5LjgyLjEiLCJDb25zdHJ1Y3Rpb24gQ2VydCIsIjMwLzA0LzIwMTkiLCI4IExsb3lkIEpvbmVzIERyLCBTaW5nbGV0b24gSGVpZ2h0cyAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlU2hlZFx1MDAzYy9iXHUwMDNlIl0sWyIwMDguMjAxOS4wMDAwMDA3Ni4wMDEiLCI4LjIwMTkuNzYuMSIsIkRldmVsb3BtZW50IEFwcGxpY2F0aW9uIiwiMjMvMDQvMjAxOSIsIjcgRXlyZSBDbCwgU2luZ2xldG9uIEhlaWdodHMgMjMzMCBOU1cgXHUwMDNjYnIvXHUwMDNlXHUwMDNjYlx1MDAzZUNhcnBvcnRcdTAwM2MvYlx1MDAzZSJdLFsiMDA4LjIwMTkuMDAwMDAwNzEuMDAxIiwiOC4yMDE5LjcxLjEiLCJEZXZlbG9wbWVudCBBcHBsaWNhdGlvbiIsIjE1LzA0LzIwMTkiLCI4MTggSGVybWl0YWdlIFJkLCBQb2tvbGJpbiAyMzIwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlQ2hhbmdlIG9mIFVzZSB0byBUb3VyaXN0IGFuZCBWaXNpdG9yIEFjY29tbW9kYXRpb25cdTAwM2MvYlx1MDAzZSJdLFsiMDA4LjIwMTkuMDAwMDAwNzIuMDAxIiwiOC4yMDE5LjcyLjEiLCJEZXZlbG9wbWVudCBBcHBsaWNhdGlvbiIsIjE4LzA0LzIwMTkiLCJNaXJhbm5pZSBSZCwgUmVlZHkgQ3JlZWsgMjMzMCBOU1cgXHUwMDNjYnIvXHUwMDNlXHUwMDNjYlx1MDAzZUR3ZWxsaW5nIEhvdXNlXHUwMDNjL2JcdTAwM2UiXSxbIjAwOC4yMDE5LjAwMDAwMDY4LjAwMSIsIjguMjAxOS42OC4xIiwiRGV2ZWxvcG1lbnQgQXBwbGljYXRpb24iLCIxNi8wNC8yMDE5IiwiMTYgTGVzdGVyIENsLCBXYXR0bGUgUG9uZHMgMjMzMCBOU1cgXHUwMDNjYnIvXHUwMDNlXHUwMDNjYlx1MDAzZVNoZWRcdTAwM2MvYlx1MDAzZSJdLFsiMDE1LjIwMTkuMDAwMDAwNDMuMDAxIiwiMTUuMjAxOS40My4xIiwiU2VwdGljIFRhbmsiLCIxNC8wNS8yMDE5IiwiODAzIE1pcmFubmllIFJkLCBSZWVkeSBDcmVlayAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlT1NTTSAtIDguMjAxOS45NC4xXHUwMDNjL2JcdTAwM2UiXSxbIjAxMC4yMDE5LjAwMDAwMDE4LjAwMSIsIjEwLjIwMTkuMTguMSIsIkNvbnN0cnVjdGlvbiBDZXJ0IiwiMjkvMDQvMjAxOSIsIjMxOTNIIE5ldyBFbmdsYW5kIEh3eSwgQmVsZm9yZCAyMzM1IE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlRHVhbCBPY2N1cGFuY3lcdTAwM2MvYlx1MDAzZSJdLFsiMDA4LjIwMTkuMDAwMDAwNjYuMDAxIiwiOC4yMDE5LjY2LjEiLCJEZXZlbG9wbWVudCBBcHBsaWNhdGlvbiIsIjE1LzA0LzIwMTkiLCIxMjkgSm9obiBTdCwgU2luZ2xldG9uIDIzMzAgTlNXIFx1MDAzY2JyL1x1MDAzZVx1MDAzY2JcdTAwM2VBZHZlcnRpc2luZyBTdHJ1Y3R1cmVcdTAwM2MvYlx1MDAzZSJdLFsiMDA1LjE5OTcuMDAwMDAyMDYuMDAzIiwiNS4xOTk3LjIwNi4zIiwiTW9kaWZpY2F0aW9uKFM0LjU1KSAiLCIwOS8wNS8yMDE5IiwiOCBNZWx2YSBQbCwgTW91bnQgVGhvcmxleSAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VNYXNrZXkgUmQsIE1vdW50IFRob3JsZXkgMjMzMCBOU1cgXHUwMDNjYnIvXHUwMDNlTWVsdmEgUGwsIE1vdW50IFRob3JsZXkgMjMzMCBOU1cgXHUwMDNjYnIvXHUwMDNlXHUwMDNjYlx1MDAzZUFsdGVyYXRpb25zIHRvIEVtdWxzaW9uIE1hbnVmYWN0dXJpbmcgQnVpbGRpbmcgQW1lbmRtZW50XHUwMDNjL2JcdTAwM2UiXSxbIjAwOC4yMDE5LjAwMDAwMDc1LjAwMSIsIjguMjAxOS43NS4xIiwiRGV2ZWxvcG1lbnQgQXBwbGljYXRpb24iLCIxNy8wNC8yMDE5IiwiMTcgUHlydXMgQXYsIEJyYW54dG9uIDIzMzUgTlNXIFx1MDAzY2JyL1x1MDAzZVx1MDAzY2JcdTAwM2VTaGVkIGFuZCBUcmVlIFJlbW92YWxcdTAwM2MvYlx1MDAzZSJdLFsiMDA4LjIwMTkuMDAwMDAwODIuMDAxIiwiOC4yMDE5LjgyLjEiLCJEZXZlbG9wbWVudCBBcHBsaWNhdGlvbiIsIjE2LzA0LzIwMTkiLCI4IExsb3lkIEpvbmVzIERyLCBTaW5nbGV0b24gSGVpZ2h0cyAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlU2hlZFx1MDAzYy9iXHUwMDNlIl0sWyIwMDguMjAxOC4wMDAwMDI2Ni4wMDIiLCI4LjIwMTguMjY2LjIiLCJNb2RpZmljYXRpb24oUzQuNTUpICIsIjI5LzA0LzIwMTkiLCIyMjkgV29sbG9tYmkgUmQsIEJyb2tlIDIzMzAgTlNXIFx1MDAzY2JyL1x1MDAzZVx1MDAzY2JcdTAwM2VNb2RpZmljYXRpb25cdTAwM2MvYlx1MDAzZSJdLFsiMDA4LjIwMTkuMDAwMDAwOTMuMDAxIiwiOC4yMDE5LjkzLjEiLCJEZXZlbG9wbWVudCBBcHBsaWNhdGlvbiIsIjEwLzA1LzIwMTkiLCIxMzc4IEJyaWRnbWFuIFJkLCBCcmlkZ21hbiAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlRHdlbGxpbmcgSG91c2VcdTAwM2MvYlx1MDAzZSJdLFsiMDA4LjIwMTQuMDAwMDAwNjQuMDA0IiwiOC4yMDE0LjY0LjQiLCJNb2RpZmljYXRpb24oUzQuNTUpICIsIjAyLzA1LzIwMTkiLCIxOCBPbGQgTm9ydGggUmQsIFBva29sYmluIDIzMjAgTlNXIFx1MDAzY2JyL1x1MDAzZTM3NSBIZXJtaXRhZ2UgUmQsIFBva29sYmluIDIzMjAgTlNXIFx1MDAzY2JyL1x1MDAzZVx1MDAzY2JcdTAwM2VEZWxldGlvbiBvZiBTdGFnZSAzXHUwMDNjL2JcdTAwM2UiXSxbIjAwOC4yMDA0LjAwMDAwNzY5LjAwNCIsIjguMjAwNC43NjkuNCIsIk1vZGlmaWNhdGlvbihTNC41NSkgIiwiMDYvMDUvMjAxOSIsIjY2IEFkYW1zIFBlYWsgUmQsIEJyb2tlIDIzMzAgTlNXIFx1MDAzY2JyL1x1MDAzZVx1MDAzY2JcdTAwM2VSZW1vdmFsIG9mIEZhcm0gTWFuYWdlcnMgUmVzaWRlbmNlIGZyb20gREFcdTAwM2MvYlx1MDAzZSJdLFsiMDA4LjIwMTYuMDAwMDAxNzMuMDAzIiwiOC4yMDE2LjE3My4zIiwiTW9kaWZpY2F0aW9uKFM0LjU1KSAiLCIyOS8wNC8yMDE5IiwiNzQgTGVtaW5ndG9uIFJkLCBSYXZlbnN3b3J0aCAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlUzQuNTUoMikg4oCTIE1vZGlmaWNhdGlvbiB0byBhbGxvdyB0cnVjayBtb3ZlbWVudHMgdG8gb3RoZXIgc2l0ZXMgYW5kIGFsdGVyYXRpb25zIHRvIG9wZXJhdGluZyB0aW1lc1x1MDAzYy9iXHUwMDNlIl0sWyIwMTAuMjAxOS4wMDAwMDAwOS4wMDEiLCIxMC4yMDE5LjkuMSIsIkNvbnN0cnVjdGlvbiBDZXJ0IiwiMDcvMDUvMjAxOSIsIjEyOCBCbGF4bGFuZCBBdiwgU2luZ2xldG9uIEhlaWdodHMgMjMzMCBOU1cgXHUwMDNjYnIvXHUwMDNlQnJpZGdtYW4gUmQsIFNpbmdsZXRvbiBIZWlnaHRzIDIzMzAgTlNXIFx1MDAzY2JyL1x1MDAzZVx1MDAzY2JcdTAwM2VTaWduYWdlIEFuY2lsbGFyeSB0byBFeGlzdGluZyBBZ2VkIENhcmUgRmFjaWxpdHlcdTAwM2MvYlx1MDAzZSJdLFsiMDA4LjIwMTkuMDAwMDAwNzguMDAxIiwiOC4yMDE5Ljc4LjEiLCJEZXZlbG9wbWVudCBBcHBsaWNhdGlvbiIsIjI5LzA0LzIwMTkiLCI4MzUgTWl0Y2hlbGwgTGluZSBPZiBSZCwgTW91bnQgVGhvcmxleSAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlRWxlY3RyaWNpdHkgR2VuZXJhdGluZyBXb3Jrc1x1MDAzYy9iXHUwMDNlIl0sWyIwMTUuMjAxOS4wMDAwMDA0Mi4wMDEiLCIxNS4yMDE5LjQyLjEiLCJTZXB0aWMgVGFuayIsIjEwLzA1LzIwMTkiLCJFbGRlcnNsaWUgUmQsIE1pdGNoZWxscyBGbGF0IDIzMzAgTlNXIFx1MDAzY2JyL1x1MDAzZVx1MDAzY2JcdTAwM2VEQSAjIDguMjAxOS45MC4xXHUwMDNjL2JcdTAwM2UiXSxbIjAxMC4yMDE4LjAwMDAwMjkzLjAwMSIsIjEwLjIwMTguMjkzLjEiLCJDb25zdHJ1Y3Rpb24gQ2VydCIsIjE1LzA0LzIwMTkiLCIzMDAgQ3Jhbmt5IENvcm5lciAtIE50aCBFbmQgUmQsIEdsZW5kb24gQnJvb2sgMjMzMCBOU1cgXHUwMDNjYnIvXHUwMDNlXHUwMDNjYlx1MDAzZVN0YWdlIDEgLSBTbWFsbCBEd2VsbGluZyBhbmQgQW5jaWxsYXJ5IFNoZWRcdTAwM2MvYlx1MDAzZSJdLFsiMDEyLjIwMTguMDAwMDAzMDYuMDAxIiwiMTIuMjAxOC4zMDYuMSIsIk9jY3VwYXRpb24gQ2VydGlmaWNhdGUiLCIxMC8wNS8yMDE5IiwiNTg3IFdvbGxvbWJpIFJkLCBCcm9rZSAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlU3dpbW1pbmcgUG9vbCBBbmNpbGxhcnkgdG8gRHdlbGxpbmcgSG91c2VcdTAwM2MvYlx1MDAzZSJdLFsiMDEyLjIwMTguMDAwMDAwMzIuMDAxIiwiMTIuMjAxOC4zMi4xIiwiT2NjdXBhdGlvbiBDZXJ0aWZpY2F0ZSIsIjA4LzA1LzIwMTkiLCIxOSBEaW1tb2NrIFN0LCBIdW50ZXJ2aWV3IDIzMzAgTlNXIFx1MDAzY2JyL1x1MDAzZVx1MDAzY2JcdTAwM2VEd2VsbGluZyBIb3VzZVx1MDAzYy9iXHUwMDNlIl0sWyIwMTAuMjAxOS4wMDAwMDA4OC4wMDEiLCIxMC4yMDE5Ljg4LjEiLCJDb25zdHJ1Y3Rpb24gQ2VydCIsIjA5LzA1LzIwMTkiLCI5IEdyYW5kZSBDbCwgSHVudGVydmlldyAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlU2hlZFx1MDAzYy9iXHUwMDNlIl0sWyIwMTIuMjAxNy4wMDAwMDE5Ni4wMDEiLCIxMi4yMDE3LjE5Ni4xIiwiT2NjdXBhdGlvbiBDZXJ0aWZpY2F0ZSIsIjA5LzA1LzIwMTkiLCIyNyBLaXJrd29vZCBQbCwgQnJhbnh0b24gMjMzNSBOU1cgXHUwMDNjYnIvXHUwMDNlXHUwMDNjYlx1MDAzZUR3ZWxsaW5nIEhvdXNlXHUwMDNjL2JcdTAwM2UiXSxbIjAxMC4yMDE5LjAwMDAwMDg2LjAwMSIsIjEwLjIwMTkuODYuMSIsIkNvbnN0cnVjdGlvbiBDZXJ0IiwiMDcvMDUvMjAxOSIsIjMgUGlyaWJpbCBTdCwgSmVycnlzIFBsYWlucyAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlRHdlbGxpbmcgSG91c2VcdTAwM2MvYlx1MDAzZSJdLFsiMDA5LjIwMTkuMDAwMDAwMjkuMDAxIiwiOS4yMDE5LjI5LjEiLCJDb21wbHlpbmcgRGV2ZWxvcG1lbnQiLCIwNi8wNS8yMDE5IiwiMTYgTWF0aHJ5IENsLCBHb3dyaWUgMjMzMCBOU1cgXHUwMDNjYnIvXHUwMDNlXHUwMDNjYlx1MDAzZU9mZmljZSBQcmVtaXNlc1x1MDAzYy9iXHUwMDNlIl0sWyIwMDguMjAxOS4wMDAwMDA4NS4wMDEiLCI4LjIwMTkuODUuMSIsIkRldmVsb3BtZW50IEFwcGxpY2F0aW9uIiwiMDYvMDUvMjAxOSIsIjEyIEJyb29rZXIgQ2wsIEh1bnRlcnZpZXcgMjMzMCBOU1cgXHUwMDNjYnIvXHUwMDNlXHUwMDNjYlx1MDAzZVNoZWRcdTAwM2MvYlx1MDAzZSJdLFsiMDEwLjIwMTkuMDAwMDAwODUuMDAxIiwiMTAuMjAxOS44NS4xIiwiQ29uc3RydWN0aW9uIENlcnQiLCIwNi8wNS8yMDE5IiwiMTIgQnJvb2tlciBDbCwgSHVudGVydmlldyAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlU2hlZFx1MDAzYy9iXHUwMDNlIl0sWyIwMTAuMjAxOS4wMDAwMDA1Mi4wMDEiLCIxMC4yMDE5LjUyLjEiLCJDb25zdHJ1Y3Rpb24gQ2VydCIsIjAzLzA1LzIwMTkiLCIyOCBCcm91Z2h0b24gU3QsIFNpbmdsZXRvbiAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlQWx0ZXJhdGlvbnMgdG8gRXhpc3RpbmcgRHdlbGxpbmcgXHUwMDI2IE5ldyBDYXJwb3J0XHUwMDNjL2JcdTAwM2UiXSxbIjAxMC4yMDE5LjAwMDAwMDEzLjAwMSIsIjEwLjIwMTkuMTMuMSIsIkNvbnN0cnVjdGlvbiBDZXJ0IiwiMDIvMDUvMjAxOSIsIjE1IEtlbm5lZHkgU3QsIFNpbmdsZXRvbiAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlRHVhbCBPY2N1cGFuY3kgYW5kIFN0cmF0YSBTdWJkaXZpc2lvblx1MDAzYy9iXHUwMDNlIl0sWyIwMTIuMjAxOC4wMDAwMDA0OS4wMDEiLCIxMi4yMDE4LjQ5LjEiLCJPY2N1cGF0aW9uIENlcnRpZmljYXRlIiwiMDIvMDUvMjAxOSIsIjE2NyBNYWlzb24gRGlldSBSZCwgR293cmllIDIzMzAgTlNXIFx1MDAzY2JyL1x1MDAzZTEtNyBNYXRocnkgQ2wsIEdvd3JpZSAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlQWx0ZXJhdGlvbnMgYW5kIEFkZGl0aW9ucyB0byBFeGlzaXRuZyBJbmR1c3RyaWFsIEJ1aWxkaW5nXHUwMDNjL2JcdTAwM2UiXSxbIjAxMC4yMDE4LjAwMDAwMzE3LjAwMSIsIjEwLjIwMTguMzE3LjEiLCJDb25zdHJ1Y3Rpb24gQ2VydCIsIjAzLzA1LzIwMTkiLCIyNjRDIE1pdGNoZWxscyBGbGF0IFJkLCBNaXRjaGVsbHMgRmxhdCAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlRHdlbGxpbmcgSG91c2VcdTAwM2MvYlx1MDAzZSJdLFsiMDEwLjIwMTkuMDAwMDAwNjguMDAxIiwiMTAuMjAxOS42OC4xIiwiQ29uc3RydWN0aW9uIENlcnQiLCIxNi8wNC8yMDE5IiwiMTYgTGVzdGVyIENsLCBXYXR0bGUgUG9uZHMgMjMzMCBOU1cgXHUwMDNjYnIvXHUwMDNlXHUwMDNjYlx1MDAzZVNoZWRcdTAwM2MvYlx1MDAzZSJdLFsiMDEwLjIwMTkuMDAwMDAwNzcuMDAxIiwiMTAuMjAxOS43Ny4xIiwiQ29uc3RydWN0aW9uIENlcnQiLCIyNC8wNC8yMDE5IiwiNDIgUm9iZXJ0c29uIENjdCwgU2VkZ2VmaWVsZCAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlU2hlZFx1MDAzYy9iXHUwMDNlIl0sWyIwMTAuMjAxOS4wMDAwMDA3OS4wMDEiLCIxMC4yMDE5Ljc5LjEiLCJDb25zdHJ1Y3Rpb24gQ2VydCIsIjI5LzA0LzIwMTkiLCI0MTEgU2NvdHRzIEZsYXQgUmQsIFNjb3R0cyBGbGF0IDIzMzAgTlNXIFx1MDAzY2JyL1x1MDAzZVx1MDAzY2JcdTAwM2VGYXJtIEJ1aWxkaW5nXHUwMDNjL2JcdTAwM2UiXSxbIjAxMC4yMDE3LjAwMDAwMjE3LjAwMiIsIjEwLjIwMTcuMjE3LjIiLCJDb25zdHJ1Y3Rpb24gQ2VydCIsIjMwLzA0LzIwMTkiLCIxMiBQeXJ1cyBBdiwgQnJhbnh0b24gMjMzNSBOU1cgXHUwMDNjYnIvXHUwMDNlXHUwMDNjYlx1MDAzZU1vZGlmaWNhdGlvbiAtIFNoZWQgQW5jaWxsYXJ5IHRvIER3ZWxsaW5nIEhvdXNlXHUwMDNjL2JcdTAwM2UiXSxbIjAwOC4yMDE5LjAwMDAwMDgwLjAwMSIsIjguMjAxOS44MC4xIiwiRGV2ZWxvcG1lbnQgQXBwbGljYXRpb24iLCIyOS8wNC8yMDE5IiwiMTggQmx1ZSBDbGlmZiBSZCwgUG9rb2xiaW4gMjMyMCBOU1cgXHUwMDNjYnIvXHUwMDNlXHUwMDNjYlx1MDAzZVRvdXJpc3QgYW5kIFZpc2l0b3IgQWNjb21tb2RhdGlvblx1MDAzYy9iXHUwMDNlIl0sWyIwMTAuMjAxOS4wMDAwMDA1MC4wMDEiLCIxMC4yMDE5LjUwLjEiLCJDb25zdHJ1Y3Rpb24gQ2VydCIsIjMwLzA0LzIwMTkiLCIyMyBNb250ZXJleSBSZCwgSHVudGVydmlldyAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlRHdlbGxpbmcgSG91c2VcdTAwM2MvYlx1MDAzZSJdLFsiMDEwLjIwMTkuMDAwMDAwODAuMDAxIiwiMTAuMjAxOS44MC4xIiwiQ29uc3RydWN0aW9uIENlcnQiLCIyOS8wNC8yMDE5IiwiNDExIFNjb3R0cyBGbGF0IFJkLCBTY290dHMgRmxhdCAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlQXduaW5nXHUwMDNjL2JcdTAwM2UiXSxbIjAwOS4yMDE5LjAwMDAwMDI4LjAwMSIsIjkuMjAxOS4yOC4xIiwiQ29tcGx5aW5nIERldmVsb3BtZW50IiwiMjQvMDQvMjAxOSIsIjUgQ2Fzc3dlbGwgVGNlLCBNY2RvdWdhbGxzIEhpbGwgMjMzMCBOU1cgXHUwMDNjYnIvXHUwMDNlXHUwMDNjYlx1MDAzZUluZHVzdHJhaWwgUmV0YWlsIE91dGxldFx1MDAzYy9iXHUwMDNlIl0sWyIwMTUuMjAxOS4wMDAwMDAzOC4wMDEiLCIxNS4yMDE5LjM4LjEiLCJTZXB0aWMgVGFuayIsIjI0LzA0LzIwMTkiLCI0MiBSb2JlcnRzb24gQ2N0LCBTZWRnZWZpZWxkIDIzMzAgTlNXIFx1MDAzY2JyL1x1MDAzZVx1MDAzY2JcdTAwM2VPU1NNIC0gOC4yMDE5LjU5LjFcdTAwM2MvYlx1MDAzZSJdLFsiMDEwLjIwMTkuMDAwMDAwMzIuMDAxIiwiMTAuMjAxOS4zMi4xIiwiQ29uc3RydWN0aW9uIENlcnQiLCIyMy8wNC8yMDE5IiwiOTUgTWluaW1iYWggRHIsIFdoaXR0aW5naGFtIDIzMzAgTlNXIFx1MDAzY2JyL1x1MDAzZVx1MDAzY2JcdTAwM2VEd2VsbGluZyBIb3VzZVx1MDAzYy9iXHUwMDNlIl0sWyIwMTUuMjAxOS4wMDAwMDAzNi4wMDEiLCIxNS4yMDE5LjM2LjEiLCJTZXB0aWMgVGFuayIsIjE3LzA0LzIwMTkiLCIyIEFscGhhIFN0LCBDYW1iZXJ3ZWxsIDIzMzAgTlNXIFx1MDAzY2JyL1x1MDAzZTQzIE1jaW5lcm5leSBSZCwgQ2FtYmVyd2VsbCAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlMiBBbHBoYSBTdHJlZXQgLSBTZXB0aWNcdTAwM2MvYlx1MDAzZSJdLFsiMDE1LjIwMTkuMDAwMDAwMzUuMDAxIiwiMTUuMjAxOS4zNS4xIiwiU2VwdGljIFRhbmsiLCIxNy8wNC8yMDE5IiwiMyBEdW5uIENsLCBDYW1iZXJ3ZWxsIDIzMzAgTlNXIFx1MDAzY2JyL1x1MDAzZVx1MDAzY2JcdTAwM2UzIER1bm4gQ2xvc2UgLSBTZXB0aWMgVGFua1x1MDAzYy9iXHUwMDNlIl0sWyIwMTUuMjAxOS4wMDAwMDAzNC4wMDEiLCIxNS4yMDE5LjM0LjEiLCJTZXB0aWMgVGFuayIsIjE3LzA0LzIwMTkiLCIxMDMgTWluaW1iYWggRHIsIFdoaXR0aW5naGFtIDIzMzAgTlNXIFx1MDAzY2JyL1x1MDAzZVx1MDAzY2JcdTAwM2VTZXB0aWMgVGFua1x1MDAzYy9iXHUwMDNlIl0sWyIwMTIuMjAxOC4wMDAwMDAyMC4wMDEiLCIxMi4yMDE4LjIwLjEiLCJPY2N1cGF0aW9uIENlcnRpZmljYXRlIiwiMTcvMDQvMjAxOSIsIjc1IEJlbmphbWluIENjdCwgSHVudGVydmlldyAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlRHdlbGxpbmcgSG91c2VcdTAwM2MvYlx1MDAzZSJdLFsiMDEwLjIwMTguMDAwMDAzMTEuMDAxIiwiMTAuMjAxOC4zMTEuMSIsIkNvbnN0cnVjdGlvbiBDZXJ0IiwiMTUvMDQvMjAxOSIsIjRBIEhhcnJvd2J5IFN0LCBCcm9rZSAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlU2hlZCBBbmNpbGxhcnkgdG8gRHdlbGxpbmcgSG91c2VcdTAwM2MvYlx1MDAzZSJdLFsiMDEwLjIwMTguMDAwMDAzMTkuMDAxIiwiMTAuMjAxOC4zMTkuMSIsIkNvbnN0cnVjdGlvbiBDZXJ0IiwiMTUvMDQvMjAxOSIsIjMzIERpbW1vY2sgU3QsIEh1bnRlcnZpZXcgMjMzMCBOU1cgXHUwMDNjYnIvXHUwMDNlXHUwMDNjYlx1MDAzZUR3ZWxsaW5nIEhvdXNlIFx1MDAyNiBSZXRhaW5pbmcgV2FsbFx1MDAzYy9iXHUwMDNlIl0sWyIwMTAuMjAxOC4wMDAwMDMwOS4wMDEiLCIxMC4yMDE4LjMwOS4xIiwiQ29uc3RydWN0aW9uIENlcnQiLCIxNS8wNC8yMDE5IiwiNCBTdCBEYXZpZHMgQ2wsIEdvd3JpZSAyMzMwIE5TVyBcdTAwM2Nici9cdTAwM2VcdTAwM2NiXHUwMDNlRHdlbGxpbmcgSG91c2VcdTAwM2MvYlx1MDAzZSJdXX0=
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+recorded_with: VCR 5.0.0
