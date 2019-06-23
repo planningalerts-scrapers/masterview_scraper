@@ -42,7 +42,9 @@ module MasterviewScraper
         yield record
       end
     else
-      scrape(url_with_period(url, period, params), state, disable_ssl_certificate_check) do |record|
+      scrape_url(
+        url_with_period(url, period, params), state, disable_ssl_certificate_check
+      ) do |record|
         yield record
       end
     end
@@ -114,7 +116,7 @@ module MasterviewScraper
   end
 
   # Set state if the address does not already include the state (e.g. NSW, WA, etc..)
-  def self.scrape(url, state = nil, disable_ssl_certificate_check = false)
+  def self.scrape_url(url, state = nil, disable_ssl_certificate_check = false)
     agent = Mechanize.new
     agent.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
 
