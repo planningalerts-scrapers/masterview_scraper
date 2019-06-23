@@ -16,7 +16,9 @@ module MasterviewScraper
   def self.scrape_and_save(authority)
     raise "Unexpected authority: #{authority}" unless AUTHORITIES.key?(authority)
 
-    scrape_and_save_period(AUTHORITIES[authority])
+    scrape_period(AUTHORITIES[authority]) do |record|
+      save(record)
+    end
   end
 
   def self.scrape_period(
@@ -43,12 +45,6 @@ module MasterviewScraper
       scrape(url_with_period(url, period, params), state, disable_ssl_certificate_check) do |record|
         yield record
       end
-    end
-  end
-
-  def self.scrape_and_save_period(params)
-    scrape_period(params) do |record|
-      save(record)
     end
   end
 
