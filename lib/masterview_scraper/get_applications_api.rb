@@ -7,6 +7,18 @@ module MasterviewScraper
   module GetApplicationsApi
     # Returns applications between those dates
     def self.scrape(url:, start_date:, end_date:, agent:, long_council_reference:, types:)
+      # TODO: Do some kind of paging instead rather than just grabbing a large fixed number
+      scrape_page(
+        offset: 0, limit: 1000, url: url, start_date: start_date, end_date: end_date,
+        agent: agent, long_council_reference: long_council_reference, types: types
+      ) do |record|
+        yield record
+      end
+    end
+
+    def self.scrape_page(
+      offset:, limit:, url:, start_date:, end_date:, agent:, long_council_reference:, types:
+    )
       json = {
         "DateFrom" => start_date.strftime("%d/%m/%Y"),
         "DateTo" => end_date.strftime("%d/%m/%Y"),
@@ -20,9 +32,8 @@ module MasterviewScraper
 
       page = agent.post(
         url + "/Application/GetApplications",
-        "start" => 0,
-        # TODO: Do some kind of paging instead rather than just grabbing a large fixed number
-        "length" => 1000,
+        "start" => offset,
+        "length" => limit,
         "json" => json.to_json
       )
 
