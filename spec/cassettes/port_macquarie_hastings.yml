@@ -41,7 +41,7 @@ http_interactions:
       Server:
       - Microsoft-IIS/8.5
       Set-Cookie:
-      - ASP.NET_SessionId=vmxprk1jicuzlj0qujoxez5g; path=/; HttpOnly
+      - ASP.NET_SessionId=fhp0zicxkj3chgdt2ewdo210; path=/; HttpOnly
       X-Aspnetmvc-Version:
       - '5.2'
       X-Aspnet-Version:
@@ -49,7 +49,7 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Sat, 22 Jun 2019 03:48:41 GMT
+      - Mon, 24 Jun 2019 01:51:36 GMT
       Content-Length:
       - '133'
     body:
@@ -76,7 +76,7 @@ http_interactions:
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - ASP.NET_SessionId=vmxprk1jicuzlj0qujoxez5g
+      - ASP.NET_SessionId=fhp0zicxkj3chgdt2ewdo210
       Host:
       - datracker.pmhc.nsw.gov.au
       Connection:
@@ -105,7 +105,7 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Sat, 22 Jun 2019 03:48:41 GMT
+      - Mon, 24 Jun 2019 01:51:36 GMT
       Content-Length:
       - '25547'
     body:
@@ -132,7 +132,7 @@ http_interactions:
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - ASP.NET_SessionId=vmxprk1jicuzlj0qujoxez5g
+      - ASP.NET_SessionId=fhp0zicxkj3chgdt2ewdo210
       Host:
       - datracker.pmhc.nsw.gov.au
       Referer:
@@ -171,7 +171,7 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Sat, 22 Jun 2019 03:48:41 GMT
+      - Mon, 24 Jun 2019 01:51:36 GMT
       Content-Length:
       - '118'
     body:
@@ -198,7 +198,7 @@ http_interactions:
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - ASP.NET_SessionId=vmxprk1jicuzlj0qujoxez5g; User=accessAllowed-MasterView=True
+      - ASP.NET_SessionId=fhp0zicxkj3chgdt2ewdo210; User=accessAllowed-MasterView=True
       Host:
       - datracker.pmhc.nsw.gov.au
       Referer:
@@ -229,9 +229,9 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Sat, 22 Jun 2019 03:48:41 GMT
+      - Mon, 24 Jun 2019 01:51:36 GMT
       Content-Length:
-      - '37446'
+      - '37448'
     body:
       encoding: UTF-8
       string: "<!DOCTYPE html>\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\"
@@ -361,13 +361,13 @@ http_interactions:
         class=\"fa fa-list-ul fa-fw\"></i>Applications Submitted<span class=\"fa arrow\"></span></a>\r\n
         \                                       <ul class=\"nav nav-second-level collapse\">\r\n
         \                                               <li>\r\n                                                    <a
-        href=/Application/AdvancedSearchResult?DateFrom=17%2f06%2f2019&DateTo=22%2f06%2f2019&DateType=1&RemoveUndeterminedApplications=False&ApplicationType=&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        href=/Application/AdvancedSearchResult?DateFrom=24%2f06%2f2019&DateTo=24%2f06%2f2019&DateType=1&RemoveUndeterminedApplications=False&ApplicationType=&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
         target=_self>This Week</a>\r\n                                                </li>\r\n
         \                                               <li>\r\n                                                    <a
-        href=/Application/AdvancedSearchResult?DateFrom=9%2f06%2f2019&DateTo=15%2f06%2f2019&DateType=1&RemoveUndeterminedApplications=False&ApplicationType=&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        href=/Application/AdvancedSearchResult?DateFrom=16%2f06%2f2019&DateTo=22%2f06%2f2019&DateType=1&RemoveUndeterminedApplications=False&ApplicationType=&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
         target=_self>Last Week</a>\r\n                                                </li>\r\n
         \                                               <li>\r\n                                                    <a
-        href=/Application/AdvancedSearchResult?DateFrom=1%2f06%2f2019&DateTo=22%2f06%2f2019&DateType=1&RemoveUndeterminedApplications=False&ApplicationType=&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        href=/Application/AdvancedSearchResult?DateFrom=1%2f06%2f2019&DateTo=24%2f06%2f2019&DateType=1&RemoveUndeterminedApplications=False&ApplicationType=&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
         target=_self>This Month</a>\r\n                                                </li>\r\n
         \                                               <li>\r\n                                                    <a
         href=/Application/AdvancedSearchResult?DateFrom=1%2f05%2f2019&DateTo=31%2f05%2f2019&DateType=1&RemoveUndeterminedApplications=False&ApplicationType=&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
@@ -378,13 +378,13 @@ http_interactions:
         class=\"fa fa-list-ul fa-fw\"></i>Applications Determined<span class=\"fa
         arrow\"></span></a>\r\n                                        <ul class=\"nav
         nav-second-level collapse\">\r\n                                                <li>\r\n
-        \                                                   <a href=/Application/AdvancedSearchResult?DateFrom=17%2f06%2f2019&DateTo=22%2f06%2f2019&DateType=2&RemoveUndeterminedApplications=True&ApplicationType=&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        \                                                   <a href=/Application/AdvancedSearchResult?DateFrom=24%2f06%2f2019&DateTo=24%2f06%2f2019&DateType=2&RemoveUndeterminedApplications=True&ApplicationType=&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
         target=_self>This Week</a>\r\n                                                </li>\r\n
         \                                               <li>\r\n                                                    <a
-        href=/Application/AdvancedSearchResult?DateFrom=9%2f06%2f2019&DateTo=15%2f06%2f2019&DateType=2&RemoveUndeterminedApplications=True&ApplicationType=&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        href=/Application/AdvancedSearchResult?DateFrom=16%2f06%2f2019&DateTo=22%2f06%2f2019&DateType=2&RemoveUndeterminedApplications=True&ApplicationType=&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
         target=_self>Last Week</a>\r\n                                                </li>\r\n
         \                                               <li>\r\n                                                    <a
-        href=/Application/AdvancedSearchResult?DateFrom=1%2f06%2f2019&DateTo=22%2f06%2f2019&DateType=2&RemoveUndeterminedApplications=True&ApplicationType=&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        href=/Application/AdvancedSearchResult?DateFrom=1%2f06%2f2019&DateTo=24%2f06%2f2019&DateType=2&RemoveUndeterminedApplications=True&ApplicationType=&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
         target=_self>This Month</a>\r\n                                                </li>\r\n
         \                                               <li>\r\n                                                    <a
         href=/Application/AdvancedSearchResult?DateFrom=1%2f05%2f2019&DateTo=31%2f05%2f2019&DateType=2&RemoveUndeterminedApplications=True&ApplicationType=&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
@@ -396,8 +396,8 @@ http_interactions:
         -->\r\n            </nav>\r\n            <div id=\"page-wrapper\">\r\n                <div
         class=\"container-fluid\">\r\n                    \r\n\r\n\r\n\r\n\r\n\r\n<div
         class=\"page-header\">\r\n    <h2>Home</h2>\r\n</div>\r\n\r\n\r\n\r\n<div
-        id=\"gmapsLabel\">\r\n    <h4>Applications submitted between 10 June 2019
-        and 16 June 2019</h4>\r\n</div>\r\n\r\n\r\n\r\n\r\n\r\n<div id=\"map_container\"
+        id=\"gmapsLabel\">\r\n    <h4>Applications submitted between 17 June 2019
+        and 23 June 2019</h4>\r\n</div>\r\n\r\n\r\n\r\n\r\n\r\n<div id=\"map_container\"
         class=\"homepage\">\r\n    <div id=\"map_canvas\" class=\"iframe-rwd\"></div>\r\n</div>\r\n\r\n\r\n<div
         id=\"map_canvas_print_container\">\r\n    <div id=\"map_canvas_print\"></div>\r\n</div>\r\n\r\n\r\n<script
         type=\"text/javascript\">\r\n\r\n    var map, mapPrint;\r\n    var geocoder;\r\n
@@ -651,7 +651,7 @@ http_interactions:
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - ASP.NET_SessionId=vmxprk1jicuzlj0qujoxez5g; User=accessAllowed-MasterView=True
+      - ASP.NET_SessionId=fhp0zicxkj3chgdt2ewdo210; User=accessAllowed-MasterView=True
       Host:
       - datracker.pmhc.nsw.gov.au
       Referer:
@@ -686,12 +686,21 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Sat, 22 Jun 2019 03:48:51 GMT
+      - Mon, 24 Jun 2019 01:51:45 GMT
       Content-Length:
-      - '87814'
+      - '88031'
     body:
       encoding: UTF-8
-      string: '{"draw":null,"recordsTotal":402,"recordsFiltered":402,"data":[["011.2019.00000353.001","11.2019.353.1","Construction
+      string: '{"draw":null,"recordsTotal":403,"recordsFiltered":403,"data":[["010.2019.00000271.001","10.2019.271.1","Development
+        Application","15/04/2019","4A Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e4B
+        Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling and Secondary
+        Dwelling\u003c/b\u003e"],["011.2019.00000197.001","11.2019.197.1","Construction
+        Certificate","16/04/2019","199 The Ruins Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        with Attached Garage and Retaining Wall\u003c/b\u003e"],["010.2019.00000269.001","10.2019.269.1","Development
+        Application","15/04/2019","30 Mimosa Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["010.2019.00000318.001","10.2019.318.1","Development
+        Application","06/05/2019","2511 Comboyne Rd, Comboyne 2429 NSW \u003cbr/\u003e\u003cb\u003eChange
+        of Use - Dwelling to Community Facility  (Museum)\u003c/b\u003e"],["011.2019.00000353.001","11.2019.353.1","Construction
         Certificate","05/05/2019","13 Richwood Rdg, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eSingle
         Residential Dwelling\u003c/b\u003e"],["680.2019.00000283.001","680.2019.283.1","Section
         68 (680)","17/04/2019","34 Production Dr, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eIndustrial
@@ -871,9 +880,7 @@ http_interactions:
         Subdivision Work for Dual Occupancy Torrens Title\u003c/b\u003e"],["010.2019.00000303.001","10.2019.303.1","Development
         Application","29/04/2019","26A Meares Cct, Thrumster 2444 NSW \u003cbr/\u003e26B
         Meares Cct, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling and Secondary
-        Dwelling\u003c/b\u003e"],["010.2019.00000269.001","10.2019.269.1","Development
-        Application","15/04/2019","30 Mimosa Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["680.2019.00005060.001","680.2019.5060.1","Section
+        Dwelling\u003c/b\u003e"],["680.2019.00005060.001","680.2019.5060.1","Section
         68 (680)","08/05/2019","11 Lemongrass Cct, Yippin Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eNew
         Dwelling\u003c/b\u003e"],["680.2016.00000700.003","680.2016.700.3","Section
         68 (680)","29/04/2019","743 Ocean Dr, Grants Beach 2445 NSW \u003cbr/\u003e\u003cb\u003eStormwater
@@ -977,10 +984,7 @@ http_interactions:
         and multi faith froom (FC42) only to the exclusion of the following;\n\n*
         Remainder of the First Floor level,\n* Ground floor Outdoor room GC 18,\n*
         Landscaping works to the front entrance,\n* Innowood external cladding (attachment)
-        located on south, north, west \u0026 east elevations\u003c/b\u003e"],["010.2019.00000271.001","10.2019.271.1","Development
-        Application","15/04/2019","4A Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e4B
-        Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling and Secondary
-        Dwelling\u003c/b\u003e"],["012.2018.00007138.001","12.2018.7138.1","Occupation
+        located on south, north, west \u0026 east elevations\u003c/b\u003e"],["012.2018.00007138.001","12.2018.7138.1","Occupation
         Certificate","08/05/2019","126 Hindman St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eInternal
         Alterations to Unit 66 - Non Structural\u003c/b\u003e"],["012.2018.00007402.001","12.2018.7402.1","Occupation
         Certificate","08/05/2019","126 Hindman St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eInternal
@@ -1334,9 +1338,7 @@ http_interactions:
         Facility\u003c/b\u003e"],["012.2019.00000321.001","12.2019.321.1","Occupation
         Certificate","07/05/2019","34 Newport Cr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
         and Additions to Dwelling\u003c/b\u003e"],["012.2019.00000320.001","12.2019.320.1","Occupation
-        Certificate","06/05/2019","35 Songbird Cct, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2019.00000318.001","10.2019.318.1","Development
-        Application","06/05/2019","2511 Comboyne Rd, Comboyne 2429 NSW \u003cbr/\u003e\u003cb\u003eChange
-        of Use - Dwelling to Community Facility  (Museum)\u003c/b\u003e"],["010.2019.00000319.001","10.2019.319.1","Development
+        Certificate","06/05/2019","35 Songbird Cct, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2019.00000319.001","10.2019.319.1","Development
         Application","06/05/2019","24 Business Cct, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eStorage
         Premises\u003c/b\u003e"],["680.2019.00000318.001","680.2019.318.1","Section
         68 (680)","06/05/2019","2511 Comboyne Rd, Comboyne 2429 NSW \u003cbr/\u003e\u003cb\u003eChange

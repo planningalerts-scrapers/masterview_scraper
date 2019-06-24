@@ -41,7 +41,7 @@ http_interactions:
       Server:
       - Microsoft-IIS/7.5
       Set-Cookie:
-      - ASP.NET_SessionId=qfnqxm0wygzxaip3jn2rnkmj; path=/; HttpOnly
+      - ASP.NET_SessionId=ng2qqeykmrfnhzbgsngipclo; path=/; HttpOnly
       X-Aspnetmvc-Version:
       - '5.2'
       X-Aspnet-Version:
@@ -49,7 +49,7 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Sun, 23 Jun 2019 23:16:51 GMT
+      - Mon, 24 Jun 2019 01:51:33 GMT
       Content-Length:
       - '133'
     body:
@@ -76,7 +76,7 @@ http_interactions:
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - ASP.NET_SessionId=qfnqxm0wygzxaip3jn2rnkmj
+      - ASP.NET_SessionId=ng2qqeykmrfnhzbgsngipclo
       Host:
       - datracker.singleton.nsw.gov.au:444
       Connection:
@@ -109,7 +109,7 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Sun, 23 Jun 2019 23:16:51 GMT
+      - Mon, 24 Jun 2019 01:51:33 GMT
       Content-Length:
       - '4134'
     body:
@@ -136,7 +136,7 @@ http_interactions:
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - ASP.NET_SessionId=qfnqxm0wygzxaip3jn2rnkmj
+      - ASP.NET_SessionId=ng2qqeykmrfnhzbgsngipclo
       Host:
       - datracker.singleton.nsw.gov.au:444
       Referer:
@@ -175,7 +175,7 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Sun, 23 Jun 2019 23:16:51 GMT
+      - Mon, 24 Jun 2019 01:51:33 GMT
       Content-Length:
       - '118'
     body:
@@ -202,7 +202,7 @@ http_interactions:
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - ASP.NET_SessionId=qfnqxm0wygzxaip3jn2rnkmj; User=accessAllowed-MasterView=True
+      - ASP.NET_SessionId=ng2qqeykmrfnhzbgsngipclo; User=accessAllowed-MasterView=True
       Host:
       - datracker.singleton.nsw.gov.au:444
       Referer:
@@ -237,7 +237,7 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Sun, 23 Jun 2019 23:16:51 GMT
+      - Mon, 24 Jun 2019 01:51:33 GMT
       Content-Length:
       - '6176'
     body:
@@ -264,7 +264,7 @@ http_interactions:
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - ASP.NET_SessionId=qfnqxm0wygzxaip3jn2rnkmj; User=accessAllowed-MasterView=True
+      - ASP.NET_SessionId=ng2qqeykmrfnhzbgsngipclo; User=accessAllowed-MasterView=True
       Host:
       - datracker.singleton.nsw.gov.au:444
       Referer:
@@ -299,7 +299,7 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Sun, 23 Jun 2019 23:16:54 GMT
+      - Mon, 24 Jun 2019 01:51:35 GMT
       Content-Length:
       - '13316'
     body:

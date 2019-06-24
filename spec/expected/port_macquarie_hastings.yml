@@ -709,6 +709,12 @@
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/011.2019.00000192.001
   date_scraped: '2019-05-14'
   date_received: '2019-05-03'
+- council_reference: 11.2019.197.1
+  address: 199 The Ruins Wy, Port Macquarie 2444 NSW
+  description: Dwelling with Attached Garage and Retaining Wall
+  info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/011.2019.00000197.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
 - council_reference: 11.2019.219.1
   address: 5 Bounty Av, Lake Cathie 2445 NSW
   description: Dwelling with Attached Garage & Retaining Wall
