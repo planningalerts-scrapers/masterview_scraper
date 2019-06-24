@@ -115,7 +115,8 @@ module MasterviewScraper
     MasterviewScraper::Pages::TermsAndConditions.click_agree(page)
 
     GetApplicationsApi.scrape(
-      url, start_date, end_date, agent, long_council_reference, types
+      url: url, start_date: start_date, end_date: end_date,
+      agent: agent, long_council_reference: long_council_reference, types: types
     ) do |record|
       yield record
     end

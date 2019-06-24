@@ -6,7 +6,7 @@ module MasterviewScraper
   # This API endpoint only exists on recent versions of the system
   module GetApplicationsApi
     # Returns applications between those dates
-    def self.scrape(base_url, start_date, end_date, agent, long_council_reference, types)
+    def self.scrape(url:, start_date:, end_date:, agent:, long_council_reference:, types:)
       json = {
         "DateFrom" => start_date.strftime("%d/%m/%Y"),
         "DateTo" => end_date.strftime("%d/%m/%Y"),
@@ -19,7 +19,7 @@ module MasterviewScraper
       json["ApplicationType"] = types.join(",") if types
 
       page = agent.post(
-        base_url + "/Application/GetApplications",
+        url + "/Application/GetApplications",
         "start" => 0,
         # TODO: Do some kind of paging instead rather than just grabbing a large fixed number
         "length" => 1000,
