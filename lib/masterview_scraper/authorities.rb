@@ -151,7 +151,8 @@ module MasterviewScraper
       period: :last10days,
       use_api: true,
       # Has an incomplete certificate chain. See https://www.ssllabs.com/ssltest/analyze.html?d=datracking.griffith.nsw.gov.au
-      disable_ssl_certificate_check: true
+      disable_ssl_certificate_check: true,
+      proxy: true
     },
     lismore: {
       url: "http://tracker.lismore.nsw.gov.au",
