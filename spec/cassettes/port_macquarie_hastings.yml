@@ -41,7 +41,7 @@ http_interactions:
       Server:
       - Microsoft-IIS/8.5
       Set-Cookie:
-      - ASP.NET_SessionId=fhp0zicxkj3chgdt2ewdo210; path=/; HttpOnly
+      - ASP.NET_SessionId=zg4ss4y3pi2oiodya42ei3na; path=/; HttpOnly
       X-Aspnetmvc-Version:
       - '5.2'
       X-Aspnet-Version:
@@ -49,7 +49,7 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Mon, 24 Jun 2019 01:51:36 GMT
+      - Mon, 24 Jun 2019 01:54:24 GMT
       Content-Length:
       - '133'
     body:
@@ -76,7 +76,7 @@ http_interactions:
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - ASP.NET_SessionId=fhp0zicxkj3chgdt2ewdo210
+      - ASP.NET_SessionId=zg4ss4y3pi2oiodya42ei3na
       Host:
       - datracker.pmhc.nsw.gov.au
       Connection:
@@ -105,7 +105,7 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Mon, 24 Jun 2019 01:51:36 GMT
+      - Mon, 24 Jun 2019 01:54:24 GMT
       Content-Length:
       - '25547'
     body:
@@ -132,7 +132,7 @@ http_interactions:
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - ASP.NET_SessionId=fhp0zicxkj3chgdt2ewdo210
+      - ASP.NET_SessionId=zg4ss4y3pi2oiodya42ei3na
       Host:
       - datracker.pmhc.nsw.gov.au
       Referer:
@@ -171,7 +171,7 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Mon, 24 Jun 2019 01:51:36 GMT
+      - Mon, 24 Jun 2019 01:54:24 GMT
       Content-Length:
       - '118'
     body:
@@ -198,7 +198,7 @@ http_interactions:
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - ASP.NET_SessionId=fhp0zicxkj3chgdt2ewdo210; User=accessAllowed-MasterView=True
+      - ASP.NET_SessionId=zg4ss4y3pi2oiodya42ei3na; User=accessAllowed-MasterView=True
       Host:
       - datracker.pmhc.nsw.gov.au
       Referer:
@@ -229,7 +229,7 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Mon, 24 Jun 2019 01:51:36 GMT
+      - Mon, 24 Jun 2019 01:54:24 GMT
       Content-Length:
       - '37448'
     body:
@@ -638,7 +638,7 @@ http_interactions:
     uri: https://datracker.pmhc.nsw.gov.au/Application/GetApplications
     body:
       encoding: UTF-8
-      string: start=0&length=1000&json=%7B%22DateFrom%22%3A%2214%2F04%2F2019%22%2C%22DateTo%22%3A%2214%2F05%2F2019%22%2C%22DateType%22%3A%221%22%2C%22RemoveUndeterminedApplications%22%3Afalse%2C%22ShowOutstandingApplications%22%3Afalse%2C%22ShowExhibitedApplications%22%3Afalse%2C%22IncludeDocuments%22%3Afalse%7D
+      string: start=0&length=100&json=%7B%22DateFrom%22%3A%2214%2F04%2F2019%22%2C%22DateTo%22%3A%2214%2F05%2F2019%22%2C%22DateType%22%3A%221%22%2C%22RemoveUndeterminedApplications%22%3Afalse%2C%22ShowOutstandingApplications%22%3Afalse%2C%22ShowExhibitedApplications%22%3Afalse%2C%22IncludeDocuments%22%3Afalse%7D
     headers:
       Accept-Encoding:
       - gzip,deflate,identity
@@ -651,7 +651,7 @@ http_interactions:
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - ASP.NET_SessionId=fhp0zicxkj3chgdt2ewdo210; User=accessAllowed-MasterView=True
+      - ASP.NET_SessionId=zg4ss4y3pi2oiodya42ei3na; User=accessAllowed-MasterView=True
       Host:
       - datracker.pmhc.nsw.gov.au
       Referer:
@@ -659,7 +659,7 @@ http_interactions:
       Content-Type:
       - application/x-www-form-urlencoded
       Content-Length:
-      - '299'
+      - '298'
       Connection:
       - keep-alive
       Keep-Alive:
@@ -686,121 +686,31 @@ http_interactions:
       X-Powered-By:
       - ASP.NET
       Date:
-      - Mon, 24 Jun 2019 01:51:45 GMT
+      - Mon, 24 Jun 2019 01:54:27 GMT
       Content-Length:
-      - '88031'
+      - '21720'
     body:
       encoding: UTF-8
-      string: '{"draw":null,"recordsTotal":403,"recordsFiltered":403,"data":[["010.2019.00000271.001","10.2019.271.1","Development
-        Application","15/04/2019","4A Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e4B
-        Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling and Secondary
-        Dwelling\u003c/b\u003e"],["011.2019.00000197.001","11.2019.197.1","Construction
-        Certificate","16/04/2019","199 The Ruins Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        with Attached Garage and Retaining Wall\u003c/b\u003e"],["010.2019.00000269.001","10.2019.269.1","Development
-        Application","15/04/2019","30 Mimosa Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["010.2019.00000318.001","10.2019.318.1","Development
-        Application","06/05/2019","2511 Comboyne Rd, Comboyne 2429 NSW \u003cbr/\u003e\u003cb\u003eChange
-        of Use - Dwelling to Community Facility  (Museum)\u003c/b\u003e"],["011.2019.00000353.001","11.2019.353.1","Construction
-        Certificate","05/05/2019","13 Richwood Rdg, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eSingle
-        Residential Dwelling\u003c/b\u003e"],["680.2019.00000283.001","680.2019.283.1","Section
-        68 (680)","17/04/2019","34 Production Dr, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eIndustrial
-        Building\u003c/b\u003e"],["010.2019.00000316.001","10.2019.316.1","Development
-        Application","03/05/2019","7A Day Cct, Thrumster 2444 NSW \u003cbr/\u003e7B
-        Day Cct, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eChange of Use from
-        Dwelling and Secondary Dwelling to Dual Occupancy and Strata Subdivision\u003c/b\u003e"],["010.2019.00000102.002","10.2019.102.2","S96","08/05/2019","165
+      string: '{"draw":null,"recordsTotal":403,"recordsFiltered":403,"data":[["010.2019.00000102.002","10.2019.102.2","S96","08/05/2019","165
         Matthew Flinders Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling - Modification\u003c/b\u003e"],["680.2019.00000271.001","680.2019.271.1","Section
-        68 (680)","15/04/2019","4A Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e4B
-        Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling and Secondary
-        Dwelling\u003c/b\u003e"],["010.2019.00000276.001","10.2019.276.1","Development
-        Application","16/04/2019","44 Stanley Dr, Beechwood 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["011.2019.00000063.001","11.2019.63.1","Construction
-        Certificate","06/05/2019","102 Oxbow Cct, King Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eDetached
-        Shed\u003c/b\u003e"],["011.2019.00000334.001","11.2019.334.1","Construction
+        and Additions to Dwelling - Modification\u003c/b\u003e"],["011.2019.00000334.001","11.2019.334.1","Construction
         Certificate","09/05/2019","2 Talara Pl, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["010.2019.00000322.001","10.2019.322.1","Development
-        Application","07/05/2019","1 Sherwood Rd, Port Macquarie 2444 NSW \u003cbr/\u003e5
-        Sherwood Rd, Port Macquarie 2444 NSW \u003cbr/\u003e7 Sherwood Rd, Port Macquarie
-        2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations and Additions to Aged Care
-        Facility\u003c/b\u003e"],["680.2019.00005058.001","680.2019.5058.1","Section
-        68 (680)","06/05/2019","Sancrox Rd, Sancrox 2446 NSW \u003cbr/\u003e\u003cb\u003eNew
-        Office, Workshop, Warehouse/Storage \u0026 Hard Standing\u003c/b\u003e"],["010.2019.00000277.001","10.2019.277.1","Development
-        Application","16/04/2019","Parklands Cl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eCafe
-        and Associated Car Parking\u003c/b\u003e"],["021.2019.00000042.001","21.2019.42.1","S6.23
-        - Building Inform. Cert.","16/04/2019","11 Verde Rtt, Port Macquarie 2444
-        NSW \u003cbr/\u003e\u003cb\u003eSwimming Pool and Barrier\u003c/b\u003e"],["010.2019.00000293.001","10.2019.293.1","Development
-        Application","24/04/2019","5 Kooloonbung Cl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eHome
-        Business\u003c/b\u003e"],["010.2019.00000283.001","10.2019.283.1","Development
-        Application","17/04/2019","34 Production Dr, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eIndustrial
-        Building\u003c/b\u003e"],["010.2019.00000289.001","10.2019.289.1","Development
-        Application","23/04/2019","5 Jersey Cl, Logans Crossing 2439 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["011.2018.00000851.001","11.2018.851.1","Construction
-        Certificate","01/05/2019","18 Seminar St, Thrumster 2444 NSW \u003cbr/\u003e20
-        Seminar St, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eAttached Dual Occupancy
-        and Retaining Walls\u003c/b\u003e"],["011.2018.00001066.001","11.2018.1066.1","Construction
-        Certificate","30/04/2019","118 Crestwood Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        with Attached Garage and Retaining Walls\u003c/b\u003e"],["010.2017.00000866.002","10.2017.866.2","S96","09/05/2019","60
+        and Additions to Dwelling\u003c/b\u003e"],["010.2017.00000866.002","10.2017.866.2","S96","09/05/2019","60
         Hibbard Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling - Modification\u003c/b\u003e"],["010.2019.00000323.001","10.2019.323.1","Development
-        Application","07/05/2019","44 Summer Cct, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        and Secondary Dwelling\u003c/b\u003e"],["010.2019.00000312.001","10.2019.312.1","Development
-        Application","01/05/2019","48 Lee Pl, Logans Crossing 2439 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["011.2019.00000312.001","11.2019.312.1","Construction
-        Certificate","01/05/2019","48 Lee Pl, Logans Crossing 2439 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["010.2018.00000694.003","10.2018.694.3","S96","09/05/2019","1582
+        and Additions to Dwelling - Modification\u003c/b\u003e"],["010.2018.00000694.003","10.2018.694.3","S96","09/05/2019","1582
         Ocean Dr, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eTo Modify the Garage
-        Roof Design\u003c/b\u003e"],["710.2019.00006058.001","710.2019.6058.1","Section
-        138","23/04/2019","Toorak Ct, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eConstruction
-        of Works on Road Reserve for Carpark Access\u003c/b\u003e"],["710.2019.00000298.001","710.2019.298.1","Section
-        138","29/04/2019","40 Chepana St, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDriveway
-        Crossover\u003c/b\u003e"],["710.2019.00000329.001","710.2019.329.1","Section
+        Roof Design\u003c/b\u003e"],["710.2019.00000329.001","710.2019.329.1","Section
         138","08/05/2019","4 Pipi Ct, North Shore 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway
-        Crossover\u003c/b\u003e"],["011.2015.00000867.002","11.2015.867.2","Construction
-        Certificate","03/05/2019","11 Gordon St, Port Macquarie 2444 NSW \u003cbr/\u003e7
-        Gordon St, Port Macquarie 2444 NSW \u003cbr/\u003e9 Gordon St, Port Macquarie
-        2444 NSW \u003cbr/\u003e\u003cb\u003eStage 2 - Excavation, Construction \u0026
-        Remaining Works for the Residential Flat Building\u003c/b\u003e"],["680.2019.00000332.001","680.2019.332.1","Section
-        68 (680)","08/05/2019","199 The Point Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["680.2019.00000298.001","680.2019.298.1","Section
-        68 (680)","29/04/2019","40 Chepana St, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["010.2019.00000298.001","10.2019.298.1","Development
-        Application","29/04/2019","40 Chepana St, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["010.2018.00001083.002","10.2018.1083.2","S96","09/05/2019","7
+        Crossover\u003c/b\u003e"],["680.2019.00000332.001","680.2019.332.1","Section
+        68 (680)","08/05/2019","199 The Point Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2018.00001083.002","10.2018.1083.2","S96","09/05/2019","7
         Glen Ewan Rd, Sancrox 2446 NSW \u003cbr/\u003e\u003cb\u003eWithdrawn    -    Dwelling
-        - Modification\u003c/b\u003e"],["013.2016.00001008.002","13.2016.1008.2","Subdivision
-        Certificate","06/05/2019","149 Gordon St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eSeven
-        (7) Lot Strata Title Subdivision\u003c/b\u003e"],["710.2019.00000270.001","710.2019.270.1","Section
-        138","15/04/2019","29A Antigua Av, Lake Cathie 2445 NSW \u003cbr/\u003e29B
-        Antigua Av, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDriveway Crossover\u003c/b\u003e"],["010.2019.00000270.001","10.2019.270.1","Development
-        Application","15/04/2019","29A Antigua Av, Lake Cathie 2445 NSW \u003cbr/\u003e29B
-        Antigua Av, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling and
-        Secondary Dwelling\u003c/b\u003e"],["710.2019.00000327.001","710.2019.327.1","Section
-        138","07/05/2019","25 Shore Break Cr, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDriveway
-        Crossover\u003c/b\u003e"],["680.2019.00000286.001","680.2019.286.1","Section
-        68 (680)","18/04/2019","11 Nevis St, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["011.2019.00000253.001","11.2019.253.1","Construction
+        - Modification\u003c/b\u003e"],["011.2019.00000253.001","11.2019.253.1","Construction
         Certificate","13/05/2019","13 Meares Cct, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        \u0026 Retaining Wall \u0026 Associated Earthworks\u003c/b\u003e"],["010.2019.00000327.001","10.2019.327.1","Development
-        Application","07/05/2019","25 Shore Break Cr, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["015.2019.00007141.001","15.2019.7141.1","Complying
-        Development Cert.","23/04/2019","57 Peach Gr, Laurieton 2443 NSW \u003cbr/\u003e\u003cb\u003eSolar
-        Panel Installation 99KWP\u003c/b\u003e"],["012.2018.00007295.001","12.2018.7295.1","Occupation
-        Certificate","17/04/2019","79 Scarborough Wy, Dunbogan 2443 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2018.00000130.002","10.2018.130.2","S96","18/04/2019","11
-        Ngamba Pl, Bonny Hills 2445 NSW \u003cbr/\u003e3 Mcgilvray Rd, Bonny Hills
-        2445 NSW \u003cbr/\u003e\u003cb\u003eTo Modify to Allow Staging\u003c/b\u003e"],["010.2019.00000309.001","10.2019.309.1","Development
-        Application","30/04/2019","Koala St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eResidential
-        Subdivision\u003c/b\u003e"],["010.2019.00000301.001","10.2019.301.1","Development
-        Application","29/04/2019","72 Horton St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAdditions
-        to Business Premises - Automatic Teller Machine\u003c/b\u003e"],["015.2019.00007162.001","15.2019.7162.1","Complying
-        Development Cert.","02/05/2019","22 Pountney Av, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eNew
-        Construction of 1 Storey Dwelling\u003c/b\u003e"],["710.2019.00007127.001","710.2019.7127.1","Section
+        \u0026 Retaining Wall \u0026 Associated Earthworks\u003c/b\u003e"],["710.2019.00007127.001","710.2019.7127.1","Section
         138","13/05/2019","15 Drover St, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eDriveway
         Crossover\u003c/b\u003e"],["017.2018.00000899.001","17.2018.899.1","Construct.Cert
         Infrastructure","13/05/2019","98 Lord St, Laurieton 2443 NSW \u003cbr/\u003e\u003cb\u003eConstruction
-        of Subdivision Work for Dual Occupancy Torrens Title Development\u003c/b\u003e"],["011.2018.00000789.001","11.2018.789.1","Construction
-        Certificate","17/04/2019","2 Kingfisher Rd, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eNew
-        Shed\u003c/b\u003e"],["680.2013.00000056.002","680.2013.56.2","Section 68
-        (680)","30/04/2019","101 High St, Wauchope 2446 NSW \u003cbr/\u003e2 Wade
-        St, Wauchope 2446 NSW \u003cbr/\u003eHigh St, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eConstruction
-        of Units 3-8\u003c/b\u003e"],["680.2019.00000303.001","680.2019.303.1","Section
-        68 (680)","29/04/2019","26A Meares Cct, Thrumster 2444 NSW \u003cbr/\u003e26B
-        Meares Cct, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling and Secondary
-        Dwelling\u003c/b\u003e"],["015.2019.00007159.001","15.2019.7159.1","Complying
+        of Subdivision Work for Dual Occupancy Torrens Title Development\u003c/b\u003e"],["015.2019.00007159.001","15.2019.7159.1","Complying
         Development Cert.","14/05/2019","1 Parker St, Port Macquarie 2444 NSW \u003cbr/\u003e1A
         Parker St, Port Macquarie 2444 NSW \u003cbr/\u003e1B Parker St, Port Macquarie
         2444 NSW \u003cbr/\u003e\u003cb\u003eInternal Alterations to Unit 94 - Non
@@ -808,183 +718,55 @@ http_interactions:
         68 (680)","08/05/2019","27 Grassmere Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAdditional
         Dwelling to Create Dual Occupancy and Strata Subdivision\u003c/b\u003e"],["017.2018.00000790.001","17.2018.790.1","Construct.Cert
         Infrastructure","08/05/2019","27 Grassmere Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eConstruction
-        of Infrastructure Work associated with Dual Occupancy and Strata Title Development\u003c/b\u003e"],["015.2017.00007461.002","15.2017.7461.2","Complying
-        Development Cert.","23/04/2019","17 Elparra Cl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        Additions (Portico Added)\u003c/b\u003e"],["680.2019.00000330.001","680.2019.330.1","Section
-        68 (680)","08/05/2019","18 John Phillip Dr, Bonny Hills 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["011.2019.00000132.001","11.2019.132.1","Construction
-        Certificate","17/04/2019","47 Litchfield Pky, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["011.2019.00000192.001","11.2019.192.1","Construction
-        Certificate","03/05/2019","18A Stables Wy, Port Macquarie 2444 NSW \u003cbr/\u003e18B
-        Stables Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling and
-        Secondary Dwelling with Attached Garages\u003c/b\u003e"],["010.2019.00000310.001","10.2019.310.1","Development
-        Application","01/05/2019","36 Kittyhawk Pl, Beechwood 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2019.00000284.001","10.2019.284.1","Development
-        Application","17/04/2019","38 Livingstone Rd, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["021.2019.00000046.001","21.2019.46.1","S6.23
-        - Building Inform. Cert.","29/04/2019","72 Clarence St, Port Macquarie 2444
-        NSW \u003cbr/\u003e\u003cb\u003eRestruant Interior\u003c/b\u003e"],["710.2019.00000332.001","710.2019.332.1","Section
+        of Infrastructure Work associated with Dual Occupancy and Strata Title Development\u003c/b\u003e"],["680.2019.00000330.001","680.2019.330.1","Section
+        68 (680)","08/05/2019","18 John Phillip Dr, Bonny Hills 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["710.2019.00000332.001","710.2019.332.1","Section
         138","08/05/2019","199 The Point Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway
         Crossover\u003c/b\u003e"],["010.2019.00000332.001","10.2019.332.1","Development
         Application","08/05/2019","199 The Point Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2018.00000617.002","10.2018.617.2","S96","09/05/2019","12
         Sandy Shores Av, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        - Modification\u003c/b\u003e"],["680.2014.00000943.001","680.2014.943.1","Section
-        68 (680)","16/04/2019","820 Rawdon Island Rd, Rawdon Island 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        - Modification\u003c/b\u003e"],["710.2019.00000286.001","710.2019.286.1","Section
-        138","18/04/2019","11 Nevis St, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDriveway
-        Crossover\u003c/b\u003e"],["011.2019.00000167.001","11.2019.167.1","Construction
-        Certificate","18/04/2019","11 Kennedy Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAdditions
-        to Dwelling\u003c/b\u003e"],["680.2019.00005062.001","680.2019.5062.1","Section
+        - Modification\u003c/b\u003e"],["680.2019.00005062.001","680.2019.5062.1","Section
         68 (680)","13/05/2019","34 Isabel Pl, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eInstall
-        Septic Tank to Machinery Shed Amenities\u003c/b\u003e"],["010.2014.00000430.003","10.2014.430.3","S96","02/05/2019","340
-        Blackmans Point Rd, Blackmans Point 2444 NSW \u003cbr/\u003e340A Blackmans
-        Point Rd, Blackmans Point 2444 NSW \u003cbr/\u003e340B Blackmans Point Rd,
-        Blackmans Point 2444 NSW \u003cbr/\u003e340C Blackmans Point Rd, Blackmans
-        Point 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations and Additions to Caravan
-        Park - Continued Use\u003c/b\u003e"],["011.2014.00000943.001","11.2014.943.1","Construction
-        Certificate","16/04/2019","820 Rawdon Island Rd, Rawdon Island 2446 NSW \u003cbr/\u003eRawdon
-        Island Rd, Rawdon Island 2446 NSW \u003cbr/\u003e\u003cb\u003eRebuild Dwelling
-        \u0026 Swimming Pool\u003c/b\u003e"],["710.2019.00000338.001","710.2019.338.1","Section
+        Septic Tank to Machinery Shed Amenities\u003c/b\u003e"],["710.2019.00000338.001","710.2019.338.1","Section
         138","13/05/2019","153 Rawdon Island Rd, Sancrox 2446 NSW \u003cbr/\u003e\u003cb\u003eDriveway
-        Crossover\u003c/b\u003e"],["010.2019.00000176.002","10.2019.176.2","S96","06/05/2019","83
-        South Atlantic Dr, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        - Modification\u003c/b\u003e"],["680.2019.00007123.001","680.2019.7123.1","Section
+        Crossover\u003c/b\u003e"],["680.2019.00007123.001","680.2019.7123.1","Section
         68 (680)","09/05/2019","16 Cohen Wy, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["015.2019.00007123.001","15.2019.7123.1","Complying
         Development Cert.","09/05/2019","16 Cohen Wy, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["680.2019.00000334.001","680.2019.334.1","Section
         68 (680)","09/05/2019","2 Talara Pl, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["010.2019.00000286.001","10.2019.286.1","Development
-        Application","18/04/2019","11 Nevis St, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2016.00000126.003","10.2016.126.3","S96","14/05/2019","98
+        and Additions to Dwelling\u003c/b\u003e"],["010.2016.00000126.003","10.2016.126.3","S96","14/05/2019","98
         William St, Port Macquarie 2444 NSW \u003cbr/\u003e98A William St, Port Macquarie
         2444 NSW \u003cbr/\u003e98B William St, Port Macquarie 2444 NSW \u003cbr/\u003e98C
         William St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
         and Additions to Commercial Building and Part Change of Use to Dwelling and
-        Boarding House - Modification\u003c/b\u003e"],["710.2019.00000274.001","710.2019.274.1","Section
-        138","16/04/2019","4A Theatre Pl, Thrumster 2444 NSW \u003cbr/\u003e4B Theatre
-        Pl, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway Crossover\u003c/b\u003e"],["710.2019.00000271.001","710.2019.271.1","Section
-        138","15/04/2019","4A Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e4B Assembly
-        Cl, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway Crossover\u003c/b\u003e"],["710.2019.00000303.001","710.2019.303.1","Section
-        138","29/04/2019","26A Meares Cct, Thrumster 2444 NSW \u003cbr/\u003e26B Meares
-        Cct, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway Crossover\u003c/b\u003e"],["012.2018.00007179.001","12.2018.7179.1","Occupation
+        Boarding House - Modification\u003c/b\u003e"],["012.2018.00007179.001","12.2018.7179.1","Occupation
         Certificate","14/05/2019","27 Oxbow Cct, King Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        with Attached Garage and Detached Shed\u003c/b\u003e"],["011.2019.00000008.002","11.2019.8.2","Construction
-        Certificate","24/04/2019","8 Seaside Dr, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eExhibition
-        home\u003c/b\u003e"],["680.2019.00000327.001","680.2019.327.1","Section 68
-        (680)","07/05/2019","25 Shore Break Cr, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2019.00000267.001","10.2019.267.1","Development
-        Application","15/04/2019","21 Shore Break Cr, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2019.00000304.001","10.2019.304.1","Development
-        Application","30/04/2019","20 Howell Av, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2019.00000335.001","10.2019.335.1","Development
+        with Attached Garage and Detached Shed\u003c/b\u003e"],["010.2019.00000335.001","10.2019.335.1","Development
         Application","09/05/2019","15 Garden Cr, Port Macquarie 2444 NSW \u003cbr/\u003e19
         Garden Cr, Port Macquarie 2444 NSW \u003cbr/\u003e23 Garden Cr, Port Macquarie
         2444 NSW \u003cbr/\u003e7 Garden Cr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
         and Additions to Aged Care Facility\u003c/b\u003e"],["010.2019.00000329.001","10.2019.329.1","Development
         Application","08/05/2019","4 Pipi Ct, North Shore 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling and Construction of Pool\u003c/b\u003e"],["017.2019.00000051.001","17.2019.51.1","Construct.Cert
-        Infrastructure","15/04/2019","5A Seminar St, Thrumster 2444 NSW \u003cbr/\u003e5B
-        Seminar St, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eConstruction of
-        Subdivision Work for Dual Occupancy Torrens Title\u003c/b\u003e"],["010.2019.00000303.001","10.2019.303.1","Development
-        Application","29/04/2019","26A Meares Cct, Thrumster 2444 NSW \u003cbr/\u003e26B
-        Meares Cct, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling and Secondary
-        Dwelling\u003c/b\u003e"],["680.2019.00005060.001","680.2019.5060.1","Section
+        and Additions to Dwelling and Construction of Pool\u003c/b\u003e"],["680.2019.00005060.001","680.2019.5060.1","Section
         68 (680)","08/05/2019","11 Lemongrass Cct, Yippin Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eNew
-        Dwelling\u003c/b\u003e"],["680.2016.00000700.003","680.2016.700.3","Section
-        68 (680)","29/04/2019","743 Ocean Dr, Grants Beach 2445 NSW \u003cbr/\u003e\u003cb\u003eStormwater
-        Drainage from Existing Eco Tourist Facility, Car Park \u0026 Overland Flow
-        Swale To An Existing Vegetated Gully\u003c/b\u003e"],["680.2019.00000289.001","680.2019.289.1","Section
-        68 (680)","23/04/2019","5 Jersey Cl, Logans Crossing 2439 NSW \u003cbr/\u003e\u003cb\u003eNew
-        Dwelling Serviced by an AWTS and Sub-Surface Irrigation Approved Under 680.2019.205.1
-        (Associated with Shed)\u003c/b\u003e"],["680.2019.00000305.001","680.2019.305.1","Section
-        68 (680)","30/04/2019","3 Katandra Pl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["010.2019.00000305.001","10.2019.305.1","Development
-        Application","30/04/2019","3 Katandra Pl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["680.2019.00005061.001","680.2019.5061.1","Section
+        Dwelling\u003c/b\u003e"],["680.2019.00005061.001","680.2019.5061.1","Section
         68 (680)","09/05/2019","589 Lake Innes Dr, Lake Innes 2446 NSW \u003cbr/\u003e\u003cb\u003eAlteration
-        to Existing Septic System\u003c/b\u003e"],["010.2004.00000859.005","10.2004.859.5","S96","30/04/2019","5
-        Glen St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eTo Modify Roofline
-        and Upper Deck\u003c/b\u003e"],["010.2019.00000324.001","10.2019.324.1","Development
-        Application","07/05/2019","Bago Rd, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eIndustrial
-        Subdivision\u003c/b\u003e"],["010.2019.00000278.001","10.2019.278.1","Development
-        Application","16/04/2019","14 The Anchorage, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAdditions
-        to Dwelling\u003c/b\u003e"],["010.2019.00000167.002","10.2019.167.2","S96","18/04/2019","11
-        Kennedy Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAdditions
-        to Dwelling - Modification\u003c/b\u003e"],["013.1991.00000494.006","13.1991.494.6","Subdivision
-        Certificate","02/05/2019","Ericson Pl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eResigning
-        of Subdivision Plan\u003c/b\u003e"],["015.2019.00007152.001","15.2019.7152.1","Complying
-        Development Cert.","11/05/2019","13 Heritage Pl, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eCarport\u003c/b\u003e"],["010.2019.00000255.001","10.2019.255.1","Development
-        Application","18/04/2019","25 Antigua Av, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["013.2018.00000440.001","13.2018.440.1","Subdivision
-        Certificate","16/04/2019","4A Seminar St, Thrumster 2444 NSW \u003cbr/\u003e4B
-        Seminar St, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003e2 Lot Strata Title
-        Subdivision\u003c/b\u003e"],["680.2019.00000338.001","680.2019.338.1","Section
+        to Existing Septic System\u003c/b\u003e"],["015.2019.00007152.001","15.2019.7152.1","Complying
+        Development Cert.","11/05/2019","13 Heritage Pl, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eCarport\u003c/b\u003e"],["680.2019.00000338.001","680.2019.338.1","Section
         68 (680)","13/05/2019","153 Rawdon Island Rd, Sancrox 2446 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling Serviced by a Septic Tank and Absorption Trenches\u003c/b\u003e"],["680.2019.00000051.001","680.2019.51.1","Section
-        68 (680)","15/04/2019","5A Seminar St, Thrumster 2444 NSW \u003cbr/\u003e5B
-        Seminar St, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eChange of Use from
-        Dwelling and Secondary Dwelling to Dual Occupancy and Strata Subdivision\u003c/b\u003e"],["010.2019.00000274.001","10.2019.274.1","Development
-        Application","16/04/2019","4A Theatre Pl, Thrumster 2444 NSW \u003cbr/\u003e4B
-        Theatre Pl, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling and Secondary
-        Dwelling\u003c/b\u003e"],["680.2019.00000267.001","680.2019.267.1","Section
-        68 (680)","15/04/2019","21 Shore Break Cr, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["680.2019.00000333.001","680.2019.333.1","Section
+        and Additions to Dwelling Serviced by a Septic Tank and Absorption Trenches\u003c/b\u003e"],["680.2019.00000333.001","680.2019.333.1","Section
         68 (680)","09/05/2019","822 Pembrooke Rd, Pembrooke 2446 NSW \u003cbr/\u003e\u003cb\u003eDual
-        Occupancy (Attached) Serviced by 2 x New Septic Tanks and 4 x Absorption Trenches\u003c/b\u003e"],["710.2019.00000326.001","710.2019.326.1","Section
-        138","07/05/2019","50 Sovereign Dr, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway
-        Crossover\u003c/b\u003e"],["010.2019.00000336.001","10.2019.336.1","Development
+        Occupancy (Attached) Serviced by 2 x New Septic Tanks and 4 x Absorption Trenches\u003c/b\u003e"],["010.2019.00000336.001","10.2019.336.1","Development
         Application","10/05/2019","6 George Cr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
         and Additions to Dwelling and Construction of Pool\u003c/b\u003e"],["680.2019.00000336.001","680.2019.336.1","Section
         68 (680)","10/05/2019","6 George Cr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
         and Additions to Dwelling and Construction of Pool\u003c/b\u003e"],["011.2019.00000336.001","11.2019.336.1","Construction
         Certificate","10/05/2019","6 George Cr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling and Construction of Pool\u003c/b\u003e"],["010.2019.00000321.001","10.2019.321.1","Development
-        Application","07/05/2019","34 Newport Cr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["011.2019.00000321.001","11.2019.321.1","Construction
-        Certificate","07/05/2019","34 Newport Cr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["010.2019.00000314.001","10.2019.314.1","Development
-        Application","02/05/2019","Bronzewing Tce, Lakewood 2443 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        and shed (Proposed Lot 107)\u003c/b\u003e"],["015.2019.00007121.001","15.2019.7121.1","Complying
-        Development Cert.","29/04/2019","16 Montague St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["011.2018.00000991.002","11.2018.991.2","Construction
-        Certificate","17/04/2019","21 Aspect Ct, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        With Attached Garage,Alfresco and Cabana\u003c/b\u003e"],["010.2014.00000943.002","10.2014.943.2","S96","16/04/2019","820
-        Rawdon Island Rd, Rawdon Island 2446 NSW \u003cbr/\u003e\u003cb\u003eModify
-        Dwelling by Redesigning Layout of Previously Approved Dwelling\u003c/b\u003e"],["010.2019.00000268.001","10.2019.268.1","Development
-        Application","15/04/2019","258 Rosewood Rd, Rosewood 2446 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Existing Dwelling, Construction of New Dwelling and Decommissioning
-        of Existing Dwelling\u003c/b\u003e"],["680.2019.00000172.001","680.2019.172.1","Section
-        68 (680)","03/05/2019","15A Pountney Av, Thrumster 2444 NSW \u003cbr/\u003e15B
-        Pountney Av, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eChange of Use
-        from Dwelling and Secondary Dwelling to Dual Occupancy with Strata Subdivision\u003c/b\u003e"],["011.2019.00000297.001","11.2019.297.1","Construction
-        Certificate","26/04/2019","8 Wasabi Wy, Yippin Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eAncillary
-        Building - Shed\u003c/b\u003e"],["010.2019.00000297.001","10.2019.297.1","Development
-        Application","26/04/2019","8 Wasabi Wy, Yippin Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eAncillary
-        Building - Shed\u003c/b\u003e"],["021.2019.00000043.001","21.2019.43.1","S6.23
-        - Building Inform. Cert.","17/04/2019","9 Trade Cct, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eWarehouse,
-        two storey office \u0026 awning structure\u003c/b\u003e"],["011.2013.00000525.003","11.2013.525.3","Construction
+        and Additions to Dwelling and Construction of Pool\u003c/b\u003e"],["011.2013.00000525.003","11.2013.525.3","Construction
         Certificate","10/05/2019","53 The Parade, North Haven 2443 NSW \u003cbr/\u003e\u003cb\u003eConstruction
         of Additions and Alterations to Existing Dwelling\u003c/b\u003e"],["012.2018.00000539.001","12.2018.539.1","Occupation
         Certificate","14/05/2019","104 Oxbow Cct, King Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        with Attached Garage\u003c/b\u003e"],["010.2015.00000867.002","10.2015.867.2","S96","29/04/2019","7
-        Gordon St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eTo Modify the
-        Design of Previous Approved Residential Flat Building\u003c/b\u003e"],["680.2019.00000326.001","680.2019.326.1","Section
-        68 (680)","07/05/2019","50 Sovereign Dr, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2019.00000326.001","10.2019.326.1","Development
-        Application","07/05/2019","50 Sovereign Dr, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["680.2019.00000297.001","680.2019.297.1","Section
-        68 (680)","26/04/2019","8 Wasabi Wy, Yippin Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eCANCELLED
-        - Ancillary Building - Shed\u003c/b\u003e"],["010.2019.00000338.001","10.2019.338.1","Development
+        with Attached Garage\u003c/b\u003e"],["010.2019.00000338.001","10.2019.338.1","Development
         Application","13/05/2019","153 Rawdon Island Rd, Sancrox 2446 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["010.2019.00000299.001","10.2019.299.1","Development
-        Application","29/04/2019","18 The Cottage Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eRetaining
-        Wall\u003c/b\u003e"],["012.2016.00000729.001","12.2016.729.1","Occupation
-        Certificate","16/04/2019","28 John Oxley Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eConstruction
-        of a new 68 Bed Residential Care Facility over 2 storeys Plus a Basement Carpark\n\nPart
-        - \n\nBasement and ground floor areas including external courtyards and balcony\u0027s,
-        only to the exclusion of the following;\n\n* First Floor level,\n* Ground
-        floor Outdoor room GC 18,\n* Landscaping works to the front entrance,\n* Innowood
-        external cladding (attachment) located on south, north, west \u0026 east elevations\u003c/b\u003e"],["011.2019.00000299.001","11.2019.299.1","Construction
-        Certificate","29/04/2019","18 The Cottage Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eRetaining
-        Wall\u003c/b\u003e"],["012.2016.00000729.002","12.2016.729.2","Occupation
-        Certificate","29/04/2019","28 John Oxley Dr, Port Macquarie 2444 NSW \u003cbr/\u003e34
-        John Oxley Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eThe Construction
-        of a New 68 Bed Aged Care Facility over 2 Storeys Plus a Basement Carpark\n\nPart
-        - \n\nBasement and ground floor areas including external courtyards, balcony\u0027s
-        and first floor Ancilliary use areas being Store room (FC29), sanitary facilities
-        (FC41 + FC40), hairdressers (FC37), Gymnasium (FC36) consult rooms (FC39)
-        and multi faith froom (FC42) only to the exclusion of the following;\n\n*
-        Remainder of the First Floor level,\n* Ground floor Outdoor room GC 18,\n*
-        Landscaping works to the front entrance,\n* Innowood external cladding (attachment)
-        located on south, north, west \u0026 east elevations\u003c/b\u003e"],["012.2018.00007138.001","12.2018.7138.1","Occupation
+        and Additions to Dwelling\u003c/b\u003e"],["012.2018.00007138.001","12.2018.7138.1","Occupation
         Certificate","08/05/2019","126 Hindman St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eInternal
         Alterations to Unit 66 - Non Structural\u003c/b\u003e"],["012.2018.00007402.001","12.2018.7402.1","Occupation
         Certificate","08/05/2019","126 Hindman St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eInternal
@@ -994,70 +776,278 @@ http_interactions:
         Certificate","08/05/2019","1 Parker St, Port Macquarie 2444 NSW \u003cbr/\u003e1A
         Parker St, Port Macquarie 2444 NSW \u003cbr/\u003e1B Parker St, Port Macquarie
         2444 NSW \u003cbr/\u003e\u003cb\u003eInternal Alterations to Unit 81 - Non
-        Structural\u003c/b\u003e"],["015.2019.00007146.001","15.2019.7146.1","Complying
-        Development Cert.","29/04/2019","11 Rafael Cr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eSwimming
-        Pool\u003c/b\u003e"],["015.2019.00007145.001","15.2019.7145.1","Complying
-        Development Cert.","01/05/2019","13 Stables Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        and Attached Garage\u003c/b\u003e"],["010.2018.00000563.002","10.2018.563.2","S96","13/05/2019","14
+        Structural\u003c/b\u003e"],["010.2018.00000563.002","10.2018.563.2","S96","13/05/2019","14
         Crummer St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eModification
         - Staging of Consent to previously approved Alterations and Additions to Dwelling
-        and Construction of Swimming Pooll\u003c/b\u003e"],["015.2019.00007143.001","15.2019.7143.1","Complying
-        Development Cert.","06/05/2019","19 Ocean Ridge Tce, Port Macquarie 2444 NSW
-        \u003cbr/\u003e\u003cb\u003eSwimming Pool\u003c/b\u003e"],["015.2019.00007142.001","15.2019.7142.1","Complying
-        Development Cert.","30/04/2019","21 Wedgetail Dr, Kew 2439 NSW \u003cbr/\u003e\u003cb\u003eCarport\u003c/b\u003e"],["013.2018.00000996.001","13.2018.996.1","Subdivision
-        Certificate","29/04/2019","18A Archibald St, Port Macquarie 2444 NSW \u003cbr/\u003e18B
-        Archibald St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003e2 Lot Strata
-        Title Subdivision\u003c/b\u003e"],["010.2019.00000257.001","10.2019.257.1","Development
-        Application","02/05/2019","5 Gukandi St, Lakewood 2443 NSW \u003cbr/\u003e\u003cb\u003eRetaining
-        Wall\u003c/b\u003e"],["011.2019.00000257.001","11.2019.257.1","Construction
-        Certificate","02/05/2019","5 Gukandi St, Lakewood 2443 NSW \u003cbr/\u003e\u003cb\u003eRetaining
-        Wall\u003c/b\u003e"],["010.2019.00000302.001","10.2019.302.1","Development
-        Application","29/04/2019","7A Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e7B
-        Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eChange of Use
-        from Dwelling and Secondary Dwelling to Dual Occupancy and Strata Subdivision\u003c/b\u003e"],["015.2019.00007139.001","15.2019.7139.1","Complying
+        and Construction of Swimming Pooll\u003c/b\u003e"],["015.2019.00007139.001","15.2019.7139.1","Complying
         Development Cert.","14/05/2019","1 Parker St, Port Macquarie 2444 NSW \u003cbr/\u003e1A
         Parker St, Port Macquarie 2444 NSW \u003cbr/\u003e1B Parker St, Port Macquarie
         2444 NSW \u003cbr/\u003e\u003cb\u003eInternal Alterations to Unit 45 - Non
-        Structural\u003c/b\u003e"],["015.2019.00007138.001","15.2019.7138.1","Complying
-        Development Cert.","17/04/2019","16 Stables Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        with Attached Garage and Retaining Wall\u003c/b\u003e"],["011.2018.00000877.001","11.2018.877.1","Construction
+        Structural\u003c/b\u003e"],["011.2018.00000877.001","11.2018.877.1","Construction
         Certificate","08/05/2019","14A Archibald St, Port Macquarie 2444 NSW \u003cbr/\u003e14B
         Archibald St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDual Occupancy
         - 2 x Dwellings and Attach Garages\u003c/b\u003e"],["011.2019.00000275.001","11.2019.275.1","Construction
         Certificate","09/05/2019","16 Stables Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eRetaining
-        Wall\u003c/b\u003e"],["010.2019.00000275.001","10.2019.275.1","Development
-        Application","16/04/2019","16 Stables Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAncillary
-        Development - Retaining Wall\u003c/b\u003e"],["011.2015.00000720.002","11.2015.720.2","Construction
+        Wall\u003c/b\u003e"],["011.2015.00000720.002","11.2015.720.2","Construction
         Certificate","09/05/2019","1061 Oxley Hwy, Thrumster 2444 NSW \u003cbr/\u003e1063
         Oxley Hwy, Thrumster 2444 NSW \u003cbr/\u003e1065 Oxley Hwy, Thrumster 2444
         NSW \u003cbr/\u003e1067 Oxley Hwy, Thrumster 2444 NSW \u003cbr/\u003eOxley
         Hwy, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eStage 3a - BP Service
-        Station Re-development\u003c/b\u003e"],["011.2018.00001105.001","11.2018.1105.1","Construction
-        Certificate","22/04/2019","41 Cohen Wy, Thrumster 2444 NSW \u003cbr/\u003e60
-        Mackellar Wy, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDual Occupancy
-        Dwellings and attached Garages\u003c/b\u003e"],["011.2019.00000183.001","11.2019.183.1","Construction
-        Certificate","29/04/2019","5 Lakeside Wy, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eSwimming
-        Pool\u003c/b\u003e"],["710.2018.00001104.001","710.2018.1104.1","Section 138","15/04/2019","Pennant
-        La, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway Crossover\u003c/b\u003e"],["012.2017.00000333.001","12.2017.333.1","Occupation
+        Station Re-development\u003c/b\u003e"],["012.2017.00000333.001","12.2017.333.1","Occupation
         Certificate","14/05/2019","15 Seaview Av, Port Macquarie 2444 NSW \u003cbr/\u003e15A
         Seaview Av, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eSecondary
-        Dwelling \u0026 Garage\u003c/b\u003e"],["012.2019.00007106.001","12.2019.7106.1","Occupation
-        Certificate","15/04/2019","40-42 Horton St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eTenancy
-        Fitout (Shop T40) - Rockwear\u003c/b\u003e"],["012.2018.00007022.001","12.2018.7022.1","Occupation
+        Dwelling \u0026 Garage\u003c/b\u003e"],["012.2018.00000608.001","12.2018.608.1","Occupation
+        Certificate","14/05/2019","393 Burrawan Forest Dr, Lake Innes 2446 NSW \u003cbr/\u003e\u003cb\u003eConstruction
+        of New Single Storey Dwelling and Attached Garage\u003c/b\u003e"],["012.2019.00007088.001","12.2019.7088.1","Occupation
+        Certificate","09/05/2019","41 Bangalay Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eRoofed
+        Patio\u003c/b\u003e"],["012.2010.00000572.012","12.2010.572.12","Occupation
+        Certificate","08/05/2019","13 Pennant La, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        with Attached Garage and Retaining Wall\u003c/b\u003e"],["710.2017.00000957.001","710.2017.957.1","Section
+        138","13/05/2019","11 Glider Sp, Kew 2439 NSW \u003cbr/\u003e\u003cb\u003eDriveway
+        Crossover\u003c/b\u003e"],["680.2019.00000129.001","680.2019.129.1","Section
+        68 (680)","13/05/2019","6 Woodvale Pl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["012.2018.00000506.001","12.2018.506.1","Occupation
+        Certificate","14/05/2019","19 Hideaway Pl, Port Macquarie 2444 NSW \u003cbr/\u003e21
+        Hideaway Pl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        House (Southern Dwelling - Proposed Lot 1b - Dual Occupancy)\u003c/b\u003e"],["012.2018.00000354.001","12.2018.354.1","Occupation
+        Certificate","13/05/2019","3 Caitlin Darcy Pky, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eNew
+        Construction of Dwelling - 1 Storey and New Construction of Retaining Wall\u003c/b\u003e"],["012.2018.00007274.001","12.2018.7274.1","Occupation
+        Certificate","08/05/2019","19 Gunsynd Ch, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eNew
+        Construction of Dwelling - 1 Storey\u003c/b\u003e"],["012.2018.00000093.001","12.2018.93.1","Occupation
+        Certificate","09/05/2019","19 Paris La, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eNew
+        Construction of Dwelling - 1 Storey and New Construction of Retaining Wall\u003c/b\u003e"],["012.2018.00000431.001","12.2018.431.1","Occupation
+        Certificate","13/05/2019","37 Meares Cct, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eNew
+        Construction of Dwelling - 1 Storey\u003c/b\u003e"],["013.2017.00000843.001","13.2017.843.1","Subdivision
+        Certificate","13/05/2019","151 Kennedy Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eTwo
+        (2) Lot Torrens Title Subdivision of Existing Dual Occupancy\u003c/b\u003e"],["012.2018.00000413.001","12.2018.413.1","Occupation
+        Certificate","09/05/2019","15A Pountney Av, Thrumster 2444 NSW \u003cbr/\u003e15B
+        Pountney Av, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling with
+        Attached Garage and Retaining Wall\u003c/b\u003e"],["012.2017.00000377.001","12.2017.377.1","Occupation
+        Certificate","14/05/2019","9 Vendul Cr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDetached
+        Garage\u003c/b\u003e"],["680.2019.00005059.001","680.2019.5059.1","Section
+        68 (680)","08/05/2019","406 Brookhouse Rd, Pembrooke 2446 NSW \u003cbr/\u003e\u003cb\u003eNew
+        Septic Tank and Plumbing for a Shed Only\u003c/b\u003e"],["680.2019.00007127.001","680.2019.7127.1","Section
+        68 (680)","13/05/2019","15 Drover St, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["015.2019.00007127.001","15.2019.7127.1","Complying
+        Development Cert.","13/05/2019","15 Drover St, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2019.00000340.001","10.2019.340.1","Development
+        Application","14/05/2019","128 Diamond Head Rd, Dunbogan 2443 NSW \u003cbr/\u003e\u003cb\u003eEnvironmental
+        Protection Work\u003c/b\u003e"],["011.2019.00000340.001","11.2019.340.1","Construction
+        Certificate","14/05/2019","128 Diamond Head Rd, Dunbogan 2443 NSW \u003cbr/\u003e\u003cb\u003eEnvironmental
+        Protection Work\u003c/b\u003e"],["012.2019.00000340.001","12.2019.340.1","Occupation
+        Certificate","14/05/2019","128 Diamond Head Rd, Dunbogan 2443 NSW \u003cbr/\u003e\u003cb\u003eEnvironmental
+        Protection Work\u003c/b\u003e"],["015.2019.00007126.001","15.2019.7126.1","Complying
+        Development Cert.","14/05/2019","56 Mahogany Wy, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["710.2019.00006068.001","710.2019.6068.1","Section
+        138","14/05/2019","190 Lord St, Port Macquarie 2444 NSW \u003cbr/\u003e2/190
+        Lord St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway Crossover\u003c/b\u003e"],["710.2019.00006066.001","710.2019.6066.1","Section
+        138","13/05/2019","25 Antigua Av, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDriveway
+        Crossover\u003c/b\u003e"],["015.2019.00007135.001","15.2019.7135.1","Complying
+        Development Cert.","10/05/2019","26A Cohen Wy, Thrumster 2444 NSW \u003cbr/\u003e26B
+        Cohen Wy, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling with Attached
+        Secondary Dwelling and Garages\u003c/b\u003e"],["710.2019.00007123.001","710.2019.7123.1","Section
+        138","09/05/2019","16 Cohen Wy, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway
+        Crossover\u003c/b\u003e"],["010.2019.00000342.001","10.2019.342.1","Development
+        Application","14/05/2019","19A Antigua Av, Lake Cathie 2445 NSW \u003cbr/\u003e19B
+        Antigua Av, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eChange of Use
+        from Dwelling and Secondary Dwelling to Dual Occupancy and Strata Subdivision\u003c/b\u003e"],["011.2016.00000524.001","11.2016.524.1","Construction
+        Certificate","08/05/2019","22 Vendul Cr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eSwimming
+        Pool\u003c/b\u003e"],["012.2016.00000524.001","12.2016.524.1","Occupation
+        Certificate","08/05/2019","22 Vendul Cr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eSwimming
+        Pool\u003c/b\u003e"],["010.2019.00000341.001","10.2019.341.1","Development
+        Application","14/05/2019","Homedale Rd, Kew 2439 NSW \u003cbr/\u003eKendall
+        Rd, Kew 2439 NSW \u003cbr/\u003e\u003cb\u003eResidential Subdivision\u003c/b\u003e"],["010.2019.00000339.001","10.2019.339.1","Development
+        Application","13/05/2019","1 Laguna Pl, Port Macquarie 2444 NSW \u003cbr/\u003e3/1
+        Laguna Pl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eMooring Pylons\u003c/b\u003e"],["011.2019.00000339.001","11.2019.339.1","Construction
+        Certificate","13/05/2019","1 Laguna Pl, Port Macquarie 2444 NSW \u003cbr/\u003e3/1
+        Laguna Pl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eMooring Pylons\u003c/b\u003e"],["012.2019.00000339.001","12.2019.339.1","Occupation
+        Certificate","13/05/2019","1 Laguna Pl, Port Macquarie 2444 NSW \u003cbr/\u003e3/1
+        Laguna Pl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eMooring Pylons\u003c/b\u003e"],["012.2019.00000336.001","12.2019.336.1","Occupation
+        Certificate","10/05/2019","6 George Cr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling and Construction of Pool\u003c/b\u003e"],["010.2019.00000307.001","10.2019.307.1","Development
+        Application","10/05/2019","20 Merrigal Rd, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eChange
+        of Use - Industry to Industrial Training Facility (Unit 1)\u003c/b\u003e"],["011.2019.00000335.001","11.2019.335.1","Construction
+        Certificate","09/05/2019","15 Garden Cr, Port Macquarie 2444 NSW \u003cbr/\u003e19
+        Garden Cr, Port Macquarie 2444 NSW \u003cbr/\u003e23 Garden Cr, Port Macquarie
+        2444 NSW \u003cbr/\u003e7 Garden Cr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Aged Care Facility\u003c/b\u003e"],["012.2019.00000335.001","12.2019.335.1","Occupation
+        Certificate","09/05/2019","15 Garden Cr, Port Macquarie 2444 NSW \u003cbr/\u003e19
+        Garden Cr, Port Macquarie 2444 NSW \u003cbr/\u003e23 Garden Cr, Port Macquarie
+        2444 NSW \u003cbr/\u003e7 Garden Cr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Aged Care Facility\u003c/b\u003e"],["012.2019.00000334.001","12.2019.334.1","Occupation
+        Certificate","09/05/2019","2 Talara Pl, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["710.2019.00006067.001","710.2019.6067.1","Section
+        138","14/05/2019","9 Pinah Pl, King Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eDriveway
+        Crossover\u003c/b\u003e"],["710.2019.00006064.001","710.2019.6064.1","Section
+        138","09/05/2019","26 Whistler Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway
+        Crossover\u003c/b\u003e"],["012.2019.00007126.001","12.2019.7126.1","Occupation
+        Certificate","14/05/2019","56 Mahogany Wy, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["710.2019.00000330.001","710.2019.330.1","Section
+        138","08/05/2019","18 John Phillip Dr, Bonny Hills 2445 NSW \u003cbr/\u003e\u003cb\u003eDriveway
+        Crossover\u003c/b\u003e"],["011.2019.00000330.001","11.2019.330.1","Construction
+        Certificate","08/05/2019","18 John Phillip Dr, Bonny Hills 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["012.2019.00000330.001","12.2019.330.1","Occupation
+        Certificate","08/05/2019","18 John Phillip Dr, Bonny Hills 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2018.00000733.002","10.2018.733.2","S96","07/05/2019","6
+        Hastings River Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eTo
+        Modify Conditions of Consent (Water Metering)\u003c/b\u003e"],["010.2019.00000330.001","10.2019.330.1","Development
+        Application","08/05/2019","18 John Phillip Dr, Bonny Hills 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["680.2019.00000329.001","680.2019.329.1","Section
+        68 (680)","08/05/2019","4 Pipi Ct, North Shore 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling and Construction of Pool\u003c/b\u003e"],["011.2019.00000329.001","11.2019.329.1","Construction
+        Certificate","08/05/2019","4 Pipi Ct, North Shore 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling and Construction of Pool\u003c/b\u003e"],["012.2019.00000329.001","12.2019.329.1","Occupation
+        Certificate","08/05/2019","4 Pipi Ct, North Shore 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling and Construction of Pool\u003c/b\u003e"],["010.2019.00000328.001","10.2019.328.1","Development
+        Application","08/05/2019","6 Pandamus Cl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["011.2019.00000328.001","11.2019.328.1","Construction
+        Certificate","08/05/2019","6 Pandamus Cl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["012.2019.00000328.001","12.2019.328.1","Occupation
+        Certificate","08/05/2019","6 Pandamus Cl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["012.2019.00007127.001","12.2019.7127.1","Occupation
+        Certificate","13/05/2019","15 Drover St, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling,
+        urban\u003c/b\u003e"],["710.2019.00006065.001","710.2019.6065.1","Section
+        138","08/05/2019","11 Lemongrass Cct, Yippin Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eDriveway
+        Crossover\u003c/b\u003e"],["012.2019.00007123.001","12.2019.7123.1","Occupation
+        Certificate","09/05/2019","16 Cohen Wy, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"]]}'
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://datracker.pmhc.nsw.gov.au/Application/GetApplications
+    body:
+      encoding: UTF-8
+      string: start=100&length=100&json=%7B%22DateFrom%22%3A%2214%2F04%2F2019%22%2C%22DateTo%22%3A%2214%2F05%2F2019%22%2C%22DateType%22%3A%221%22%2C%22RemoveUndeterminedApplications%22%3Afalse%2C%22ShowOutstandingApplications%22%3Afalse%2C%22ShowExhibitedApplications%22%3Afalse%2C%22IncludeDocuments%22%3Afalse%7D
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=zg4ss4y3pi2oiodya42ei3na; User=accessAllowed-MasterView=True
+      Host:
+      - datracker.pmhc.nsw.gov.au
+      Referer:
+      - https://datracker.pmhc.nsw.gov.au/Application/GetApplications
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '300'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - application/json; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/8.5
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Mon, 24 Jun 2019 01:54:31 GMT
+      Content-Length:
+      - '23489'
+    body:
+      encoding: UTF-8
+      string: '{"draw":null,"recordsTotal":403,"recordsFiltered":403,"data":[["010.2019.00000318.001","10.2019.318.1","Development
+        Application","06/05/2019","2511 Comboyne Rd, Comboyne 2429 NSW \u003cbr/\u003e\u003cb\u003eChange
+        of Use - Dwelling to Community Facility  (Museum)\u003c/b\u003e"],["011.2019.00000353.001","11.2019.353.1","Construction
+        Certificate","05/05/2019","13 Richwood Rdg, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Residential Dwelling\u003c/b\u003e"],["010.2019.00000316.001","10.2019.316.1","Development
+        Application","03/05/2019","7A Day Cct, Thrumster 2444 NSW \u003cbr/\u003e7B
+        Day Cct, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eChange of Use from
+        Dwelling and Secondary Dwelling to Dual Occupancy and Strata Subdivision\u003c/b\u003e"],["011.2019.00000063.001","11.2019.63.1","Construction
+        Certificate","06/05/2019","102 Oxbow Cct, King Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eDetached
+        Shed\u003c/b\u003e"],["010.2019.00000322.001","10.2019.322.1","Development
+        Application","07/05/2019","1 Sherwood Rd, Port Macquarie 2444 NSW \u003cbr/\u003e5
+        Sherwood Rd, Port Macquarie 2444 NSW \u003cbr/\u003e7 Sherwood Rd, Port Macquarie
+        2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations and Additions to Aged Care
+        Facility\u003c/b\u003e"],["680.2019.00005058.001","680.2019.5058.1","Section
+        68 (680)","06/05/2019","Sancrox Rd, Sancrox 2446 NSW \u003cbr/\u003e\u003cb\u003eNew
+        Office, Workshop, Warehouse/Storage \u0026 Hard Standing\u003c/b\u003e"],["011.2018.00000851.001","11.2018.851.1","Construction
+        Certificate","01/05/2019","18 Seminar St, Thrumster 2444 NSW \u003cbr/\u003e20
+        Seminar St, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eAttached Dual Occupancy
+        and Retaining Walls\u003c/b\u003e"],["010.2019.00000323.001","10.2019.323.1","Development
+        Application","07/05/2019","44 Summer Cct, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        and Secondary Dwelling\u003c/b\u003e"],["010.2019.00000312.001","10.2019.312.1","Development
+        Application","01/05/2019","48 Lee Pl, Logans Crossing 2439 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["011.2019.00000312.001","11.2019.312.1","Construction
+        Certificate","01/05/2019","48 Lee Pl, Logans Crossing 2439 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["011.2015.00000867.002","11.2015.867.2","Construction
+        Certificate","03/05/2019","11 Gordon St, Port Macquarie 2444 NSW \u003cbr/\u003e7
+        Gordon St, Port Macquarie 2444 NSW \u003cbr/\u003e9 Gordon St, Port Macquarie
+        2444 NSW \u003cbr/\u003e\u003cb\u003eStage 2 - Excavation, Construction \u0026
+        Remaining Works for the Residential Flat Building\u003c/b\u003e"],["013.2016.00001008.002","13.2016.1008.2","Subdivision
+        Certificate","06/05/2019","149 Gordon St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eSeven
+        (7) Lot Strata Title Subdivision\u003c/b\u003e"],["710.2019.00000327.001","710.2019.327.1","Section
+        138","07/05/2019","25 Shore Break Cr, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDriveway
+        Crossover\u003c/b\u003e"],["010.2019.00000327.001","10.2019.327.1","Development
+        Application","07/05/2019","25 Shore Break Cr, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["015.2019.00007162.001","15.2019.7162.1","Complying
+        Development Cert.","02/05/2019","22 Pountney Av, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eNew
+        Construction of 1 Storey Dwelling\u003c/b\u003e"],["011.2019.00000192.001","11.2019.192.1","Construction
+        Certificate","03/05/2019","18A Stables Wy, Port Macquarie 2444 NSW \u003cbr/\u003e18B
+        Stables Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling and
+        Secondary Dwelling with Attached Garages\u003c/b\u003e"],["010.2019.00000310.001","10.2019.310.1","Development
+        Application","01/05/2019","36 Kittyhawk Pl, Beechwood 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2014.00000430.003","10.2014.430.3","S96","02/05/2019","340
+        Blackmans Point Rd, Blackmans Point 2444 NSW \u003cbr/\u003e340A Blackmans
+        Point Rd, Blackmans Point 2444 NSW \u003cbr/\u003e340B Blackmans Point Rd,
+        Blackmans Point 2444 NSW \u003cbr/\u003e340C Blackmans Point Rd, Blackmans
+        Point 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations and Additions to Caravan
+        Park - Continued Use\u003c/b\u003e"],["010.2019.00000176.002","10.2019.176.2","S96","06/05/2019","83
+        South Atlantic Dr, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        - Modification\u003c/b\u003e"],["680.2019.00000327.001","680.2019.327.1","Section
+        68 (680)","07/05/2019","25 Shore Break Cr, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2004.00000859.005","10.2004.859.5","S96","30/04/2019","5
+        Glen St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eTo Modify Roofline
+        and Upper Deck\u003c/b\u003e"],["010.2019.00000324.001","10.2019.324.1","Development
+        Application","07/05/2019","Bago Rd, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eIndustrial
+        Subdivision\u003c/b\u003e"],["013.1991.00000494.006","13.1991.494.6","Subdivision
+        Certificate","02/05/2019","Ericson Pl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eResigning
+        of Subdivision Plan\u003c/b\u003e"],["710.2019.00000326.001","710.2019.326.1","Section
+        138","07/05/2019","50 Sovereign Dr, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway
+        Crossover\u003c/b\u003e"],["010.2019.00000321.001","10.2019.321.1","Development
+        Application","07/05/2019","34 Newport Cr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["011.2019.00000321.001","11.2019.321.1","Construction
+        Certificate","07/05/2019","34 Newport Cr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["010.2019.00000314.001","10.2019.314.1","Development
+        Application","02/05/2019","Bronzewing Tce, Lakewood 2443 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        and shed (Proposed Lot 107)\u003c/b\u003e"],["680.2019.00000172.001","680.2019.172.1","Section
+        68 (680)","03/05/2019","15A Pountney Av, Thrumster 2444 NSW \u003cbr/\u003e15B
+        Pountney Av, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eChange of Use
+        from Dwelling and Secondary Dwelling to Dual Occupancy with Strata Subdivision\u003c/b\u003e"],["680.2019.00000326.001","680.2019.326.1","Section
+        68 (680)","07/05/2019","50 Sovereign Dr, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2019.00000326.001","10.2019.326.1","Development
+        Application","07/05/2019","50 Sovereign Dr, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["015.2019.00007145.001","15.2019.7145.1","Complying
+        Development Cert.","01/05/2019","13 Stables Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        and Attached Garage\u003c/b\u003e"],["015.2019.00007143.001","15.2019.7143.1","Complying
+        Development Cert.","06/05/2019","19 Ocean Ridge Tce, Port Macquarie 2444 NSW
+        \u003cbr/\u003e\u003cb\u003eSwimming Pool\u003c/b\u003e"],["010.2019.00000257.001","10.2019.257.1","Development
+        Application","02/05/2019","5 Gukandi St, Lakewood 2443 NSW \u003cbr/\u003e\u003cb\u003eRetaining
+        Wall\u003c/b\u003e"],["011.2019.00000257.001","11.2019.257.1","Construction
+        Certificate","02/05/2019","5 Gukandi St, Lakewood 2443 NSW \u003cbr/\u003e\u003cb\u003eRetaining
+        Wall\u003c/b\u003e"],["012.2018.00007022.001","12.2018.7022.1","Occupation
         Certificate","02/05/2019","13 Strawberry Rd, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eSwimming
         Pool\u003c/b\u003e"],["017.2019.00000172.001","17.2019.172.1","Construct.Cert
         Infrastructure","03/05/2019","15A Pountney Av, Thrumster 2444 NSW \u003cbr/\u003e15B
         Pountney Av, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eConstruction of
         Subdivision Work for Dual Occupancy Strata Title Development (Water Service
-        ONLY)\u003c/b\u003e"],["012.2018.00000608.001","12.2018.608.1","Occupation
-        Certificate","14/05/2019","393 Burrawan Forest Dr, Lake Innes 2446 NSW \u003cbr/\u003e\u003cb\u003eConstruction
-        of New Single Storey Dwelling and Attached Garage\u003c/b\u003e"],["012.2019.00007088.001","12.2019.7088.1","Occupation
-        Certificate","09/05/2019","41 Bangalay Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eRoofed
-        Patio\u003c/b\u003e"],["012.2018.00007294.001","12.2018.7294.1","Occupation
+        ONLY)\u003c/b\u003e"],["012.2018.00007294.001","12.2018.7294.1","Occupation
         Certificate","07/05/2019","9 Day Cct, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        \u0026 Attached Garage \u0026 Retaining Walls\u003c/b\u003e"],["012.2010.00000572.012","12.2010.572.12","Occupation
-        Certificate","08/05/2019","13 Pennant La, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        with Attached Garage and Retaining Wall\u003c/b\u003e"],["012.2018.00000457.001","12.2018.457.1","Occupation
+        \u0026 Attached Garage \u0026 Retaining Walls\u003c/b\u003e"],["012.2018.00000457.001","12.2018.457.1","Occupation
         Certificate","03/05/2019","4A Seminar St, Thrumster 2444 NSW \u003cbr/\u003e4B
         Seminar St, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDual Occupancy
         (Proposed Lot 14 Seminar Street)\u003c/b\u003e"],["012.2018.00000264.001","12.2018.264.1","Occupation
@@ -1076,208 +1066,61 @@ http_interactions:
         Certificate","01/05/2019","83 Savoy St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eMedical
         Centre and Sign\u003c/b\u003e"],["012.2018.00007170.001","12.2018.7170.1","Occupation
         Certificate","01/05/2019","26 Marine Pde, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eTwo
-        Storey Dwelling\u003c/b\u003e"],["012.2010.00000572.011","12.2010.572.11","Occupation
-        Certificate","30/04/2019","15 Pennant La, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        with Attached Garage and Retaining Wall\u003c/b\u003e"],["680.2018.00000789.001","680.2018.789.1","Section
-        68 (680)","17/04/2019","2 Kingfisher Rd, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eNew
-        Shed\u003c/b\u003e"],["015.2019.00007117.001","15.2019.7117.1","Complying
-        Development Cert.","16/04/2019","64 Kennedy Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eSwimming
-        Pool\u003c/b\u003e"],["680.2019.00000292.001","680.2019.292.1","Section 68
-        (680)","24/04/2019","410 Right Arm Rd, Upper Pappinbarra 2446 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["021.2019.00000047.001","21.2019.47.1","S6.23
-        - Building Inform. Cert.","30/04/2019","20 Amaroo Pde, Port Macquarie 2444
-        NSW \u003cbr/\u003e\u003cb\u003eto be defined\u003c/b\u003e"],["012.2018.00000343.001","12.2018.343.1","Occupation
-        Certificate","30/04/2019","4 Birchwood Ct, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        and Retaining Wall and Associated Earthworks\u003c/b\u003e"],["710.2017.00000957.001","710.2017.957.1","Section
-        138","13/05/2019","11 Glider Sp, Kew 2439 NSW \u003cbr/\u003e\u003cb\u003eDriveway
-        Crossover\u003c/b\u003e"],["012.2017.00001156.001","12.2017.1156.1","Occupation
+        Storey Dwelling\u003c/b\u003e"],["012.2017.00001156.001","12.2017.1156.1","Occupation
         Certificate","03/05/2019","4A Archibald St, Port Macquarie 2444 NSW \u003cbr/\u003e4B
-        Archibald St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDual Occupancy\u003c/b\u003e"],["680.2019.00000129.001","680.2019.129.1","Section
-        68 (680)","13/05/2019","6 Woodvale Pl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["710.2019.00000310.001","710.2019.310.1","Section
+        Archibald St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDual Occupancy\u003c/b\u003e"],["710.2019.00000310.001","710.2019.310.1","Section
         138","01/05/2019","36 Kittyhawk Pl, Beechwood 2446 NSW \u003cbr/\u003e\u003cb\u003eDriveway
         Crossover\u003c/b\u003e"],["012.2018.00007305.001","12.2018.7305.1","Occupation
         Certificate","01/05/2019","7 Yaluma Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eSwimming
-        Pool\u003c/b\u003e"],["012.2018.00000506.001","12.2018.506.1","Occupation
-        Certificate","14/05/2019","19 Hideaway Pl, Port Macquarie 2444 NSW \u003cbr/\u003e21
-        Hideaway Pl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        House (Southern Dwelling - Proposed Lot 1b - Dual Occupancy)\u003c/b\u003e"],["012.2018.00000354.001","12.2018.354.1","Occupation
-        Certificate","13/05/2019","3 Caitlin Darcy Pky, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eNew
-        Construction of Dwelling - 1 Storey and New Construction of Retaining Wall\u003c/b\u003e"],["012.2018.00000071.001","12.2018.71.1","Occupation
-        Certificate","03/05/2019","3 Foreshore Av, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eNew
-        Construction of Dwelling - 2 Storey and New Construction Retaining Wall\u003c/b\u003e"],["012.2018.00007274.001","12.2018.7274.1","Occupation
-        Certificate","08/05/2019","19 Gunsynd Ch, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eNew
-        Construction of Dwelling - 1 Storey\u003c/b\u003e"],["012.2018.00000093.001","12.2018.93.1","Occupation
-        Certificate","09/05/2019","19 Paris La, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eNew
-        Construction of Dwelling - 1 Storey and New Construction of Retaining Wall\u003c/b\u003e"],["012.2018.00000390.001","12.2018.390.1","Occupation
+        Pool\u003c/b\u003e"],["012.2018.00000071.001","12.2018.71.1","Occupation Certificate","03/05/2019","3
+        Foreshore Av, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eNew Construction
+        of Dwelling - 2 Storey and New Construction Retaining Wall\u003c/b\u003e"],["012.2018.00000390.001","12.2018.390.1","Occupation
         Certificate","02/05/2019","30 Meares Cct, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eNew
-        Construction of Dwelling - 1 Storey and New Construction of Retaining Wall\u003c/b\u003e"],["012.2018.00000431.001","12.2018.431.1","Occupation
-        Certificate","13/05/2019","37 Meares Cct, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eNew
-        Construction of Dwelling - 1 Storey\u003c/b\u003e"],["012.2018.00000545.001","12.2018.545.1","Occupation
+        Construction of Dwelling - 1 Storey and New Construction of Retaining Wall\u003c/b\u003e"],["012.2018.00000545.001","12.2018.545.1","Occupation
         Certificate","02/05/2019","47 Willow Dene Av, Beechwood 2446 NSW \u003cbr/\u003e\u003cb\u003eNew
         Construction of Dwelling - 1 Storey\u003c/b\u003e"],["680.2019.00000310.001","680.2019.310.1","Section
         68 (680)","01/05/2019","36 Kittyhawk Pl, Beechwood 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["011.2019.00000281.001","11.2019.281.1","Construction
         Certificate","01/05/2019","92 Arranbee Rd, King Creek 2446 NSW \u003cbr/\u003e92A
-        Arranbee Rd, King Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eSecondary Dwelling\u003c/b\u003e"],["013.2017.00000843.001","13.2017.843.1","Subdivision
-        Certificate","13/05/2019","151 Kennedy Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eTwo
-        (2) Lot Torrens Title Subdivision of Existing Dual Occupancy\u003c/b\u003e"],["012.2018.00007292.001","12.2018.7292.1","Occupation
+        Arranbee Rd, King Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eSecondary Dwelling\u003c/b\u003e"],["012.2018.00007292.001","12.2018.7292.1","Occupation
         Certificate","02/05/2019","33 Meares Cct, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
         with Attached Garage \u0026 Retaining Wall\u003c/b\u003e"],["012.2018.00007395.001","12.2018.7395.1","Occupation
         Certificate","02/05/2019","20 Homedale Rd, Kew 2439 NSW \u003cbr/\u003e\u003cb\u003eDwelling
         with attached garage\u003c/b\u003e"],["012.2018.00007280.001","12.2018.7280.1","Occupation
         Certificate","07/05/2019","15 Tarragon Dr, Yippin Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        and Attached Garage\u003c/b\u003e"],["012.2018.00000413.001","12.2018.413.1","Occupation
-        Certificate","09/05/2019","15A Pountney Av, Thrumster 2444 NSW \u003cbr/\u003e15B
-        Pountney Av, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling with
-        Attached Garage and Retaining Wall\u003c/b\u003e"],["012.2019.00007010.001","12.2019.7010.1","Occupation
+        and Attached Garage\u003c/b\u003e"],["012.2019.00007010.001","12.2019.7010.1","Occupation
         Certificate","07/05/2019","11 Regatta Cr, Port Macquarie 2444 NSW \u003cbr/\u003e11A
         Regatta Cr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eConvert Part
-        of Existing Dwelling to Granny Flat and New Deck\u003c/b\u003e"],["012.2017.00000377.001","12.2017.377.1","Occupation
-        Certificate","14/05/2019","9 Vendul Cr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDetached
-        Garage\u003c/b\u003e"],["012.2018.00000451.001","12.2018.451.1","Occupation
+        of Existing Dwelling to Granny Flat and New Deck\u003c/b\u003e"],["012.2018.00000451.001","12.2018.451.1","Occupation
         Certificate","06/05/2019","6A Archibald St, Port Macquarie 2444 NSW \u003cbr/\u003e6B
         Archibald St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
         with Secondary Dwelling, Attached Garages and Retaining Wall\u003c/b\u003e"],["012.2018.00007399.001","12.2018.7399.1","Occupation
         Certificate","07/05/2019","1 Coromandel Ct, Dunbogan 2443 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        with Attached Garage\u003c/b\u003e"],["010.2019.00000295.001","10.2019.295.1","Development
-        Application","24/04/2019","124 Hastings River Dr, Port Macquarie 2444 NSW
-        \u003cbr/\u003e\u003cb\u003eEducational Establishment\u003c/b\u003e"],["010.2019.00000320.001","10.2019.320.1","Development
+        with Attached Garage\u003c/b\u003e"],["010.2019.00000320.001","10.2019.320.1","Development
         Application","06/05/2019","35 Songbird Cct, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["680.2019.00000320.001","680.2019.320.1","Section
-        68 (680)","06/05/2019","35 Songbird Cct, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2019.00000281.001","10.2019.281.1","Development
-        Application","17/04/2019","92 Arranbee Rd, King Creek 2446 NSW \u003cbr/\u003e92A
-        Arranbee Rd, King Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eSecondary Dwelling\u003c/b\u003e"],["011.2019.00000320.001","11.2019.320.1","Construction
+        68 (680)","06/05/2019","35 Songbird Cct, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["011.2019.00000320.001","11.2019.320.1","Construction
         Certificate","06/05/2019","35 Songbird Cct, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        and Attached Garage\u003c/b\u003e"],["680.2019.00005059.001","680.2019.5059.1","Section
-        68 (680)","08/05/2019","406 Brookhouse Rd, Pembrooke 2446 NSW \u003cbr/\u003e\u003cb\u003eNew
-        Septic Tank and Plumbing for a Shed Only\u003c/b\u003e"],["680.2019.00007127.001","680.2019.7127.1","Section
-        68 (680)","13/05/2019","15 Drover St, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["015.2019.00007127.001","15.2019.7127.1","Complying
-        Development Cert.","13/05/2019","15 Drover St, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2019.00000340.001","10.2019.340.1","Development
-        Application","14/05/2019","128 Diamond Head Rd, Dunbogan 2443 NSW \u003cbr/\u003e\u003cb\u003eEnvironmental
-        Protection Work\u003c/b\u003e"],["011.2019.00000340.001","11.2019.340.1","Construction
-        Certificate","14/05/2019","128 Diamond Head Rd, Dunbogan 2443 NSW \u003cbr/\u003e\u003cb\u003eEnvironmental
-        Protection Work\u003c/b\u003e"],["012.2019.00000340.001","12.2019.340.1","Occupation
-        Certificate","14/05/2019","128 Diamond Head Rd, Dunbogan 2443 NSW \u003cbr/\u003e\u003cb\u003eEnvironmental
-        Protection Work\u003c/b\u003e"],["015.2019.00007126.001","15.2019.7126.1","Complying
-        Development Cert.","14/05/2019","56 Mahogany Wy, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["680.2019.00005056.001","680.2019.5056.1","Section
-        68 (680)","26/04/2019","66 Tall Timber Rd, Lake Innes 2446 NSW \u003cbr/\u003e\u003cb\u003eReplace
-        existing AWTS tank\u003c/b\u003e"],["710.2019.00006068.001","710.2019.6068.1","Section
-        138","14/05/2019","190 Lord St, Port Macquarie 2444 NSW \u003cbr/\u003e2/190
-        Lord St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway Crossover\u003c/b\u003e"],["710.2019.00006066.001","710.2019.6066.1","Section
-        138","13/05/2019","25 Antigua Av, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDriveway
-        Crossover\u003c/b\u003e"],["010.2019.00000292.001","10.2019.292.1","Development
-        Application","24/04/2019","410 Right Arm Rd, Upper Pappinbarra 2446 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["011.2019.00000292.001","11.2019.292.1","Construction
-        Certificate","24/04/2019","410 Right Arm Rd, Upper Pappinbarra 2446 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["011.2019.00000165.001","11.2019.165.1","Construction
-        Certificate","30/04/2019","22 Coachman Lp, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eSingle
-        Dwelling\u003c/b\u003e"],["011.2018.00001051.001","11.2018.1051.1","Construction
+        and Attached Garage\u003c/b\u003e"],["011.2018.00001051.001","11.2018.1051.1","Construction
         Certificate","04/05/2019","1/18 John Oxley Dr, Port Macquarie 2444 NSW \u003cbr/\u003e18
         John Oxley Dr, Port Macquarie 2444 NSW \u003cbr/\u003e2/18 John Oxley Dr,
         Port Macquarie 2444 NSW \u003cbr/\u003e3/18 John Oxley Dr, Port Macquarie
         2444 NSW \u003cbr/\u003e4/18 John Oxley Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eGymnasium
         Fit-out and Signage (Tenancy 2)\u003c/b\u003e"],["011.2018.00000840.001","11.2018.840.1","Construction
         Certificate","02/05/2019","34 Ellerslie Cr, Lakewood 2443 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        \u0026 Retaining Wall \u0026 Associated Earthworks\u003c/b\u003e"],["011.2019.00000219.001","11.2019.219.1","Construction
-        Certificate","29/04/2019","5 Bounty Av, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        with Attached Garage \u0026 Retaining Wall\u003c/b\u003e"],["011.2019.00000164.001","11.2019.164.1","Construction
-        Certificate","29/04/2019","19 Day Cct, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2019.00000280.001","10.2019.280.1","Development
-        Application","17/04/2019","39 Stanley Dr, Beechwood 2446 NSW \u003cbr/\u003e\u003cb\u003eAncillary
-        Building - Shed\u003c/b\u003e"],["015.2019.00007136.001","15.2019.7136.1","Complying
-        Development Cert.","24/04/2019","77 Solomon Dr, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        with Attached Garage\u003c/b\u003e"],["680.2019.00000280.001","680.2019.280.1","Section
-        68 (680)","17/04/2019","39 Stanley Dr, Beechwood 2446 NSW \u003cbr/\u003e\u003cb\u003eAncillary
-        Building - Shed\u003c/b\u003e"],["011.2019.00000280.001","11.2019.280.1","Construction
-        Certificate","17/04/2019","39 Stanley Dr, Beechwood 2446 NSW \u003cbr/\u003e\u003cb\u003eAncillary
-        Building - Shed\u003c/b\u003e"],["015.2019.00007135.001","15.2019.7135.1","Complying
-        Development Cert.","10/05/2019","26A Cohen Wy, Thrumster 2444 NSW \u003cbr/\u003e26B
-        Cohen Wy, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling with Attached
-        Secondary Dwelling and Garages\u003c/b\u003e"],["015.2019.00007134.001","15.2019.7134.1","Complying
-        Development Cert.","15/04/2019","41 Diamond Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        with Attached Garage\u003c/b\u003e"],["015.2019.00007132.001","15.2019.7132.1","Complying
-        Development Cert.","17/04/2019","15 Stables Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        with Attached Garage\u003c/b\u003e"],["015.2019.00007131.001","15.2019.7131.1","Complying
-        Development Cert.","18/04/2019","7A Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e7B
-        Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eRock Retaining
-        Wall\u003c/b\u003e"],["015.2019.00007130.001","15.2019.7130.1","Complying
-        Development Cert.","17/04/2019","11 Verne Prescott Rtt, Port Macquarie 2444
-        NSW \u003cbr/\u003e\u003cb\u003eRetaining Wall \u0026 Associated Earthworks\u003c/b\u003e"],["710.2019.00007123.001","710.2019.7123.1","Section
-        138","09/05/2019","16 Cohen Wy, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway
-        Crossover\u003c/b\u003e"],["010.2019.00000342.001","10.2019.342.1","Development
-        Application","14/05/2019","19A Antigua Av, Lake Cathie 2445 NSW \u003cbr/\u003e19B
-        Antigua Av, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eChange of Use
-        from Dwelling and Secondary Dwelling to Dual Occupancy and Strata Subdivision\u003c/b\u003e"],["012.2019.00007120.001","12.2019.7120.1","Occupation
-        Certificate","29/04/2019","2 Talara Pl, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["680.2019.00007120.001","680.2019.7120.1","Section
-        68 (680)","29/04/2019","2 Talara Pl, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["710.2017.00000641.001","710.2017.641.1","Section
+        \u0026 Retaining Wall \u0026 Associated Earthworks\u003c/b\u003e"],["710.2017.00000641.001","710.2017.641.1","Section
         138","06/05/2019","38 Whitewater Tce, Lake Cathie 2445 NSW \u003cbr/\u003e60
         Whitewater Tce, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eConstruction
         of Works on Road Reserve for Multi-Dwelling Residential Driveway Applications
-        (Lots 319 - 330, DP 1232490)\u003c/b\u003e"],["011.2016.00000524.001","11.2016.524.1","Construction
-        Certificate","08/05/2019","22 Vendul Cr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eSwimming
-        Pool\u003c/b\u003e"],["012.2016.00000524.001","12.2016.524.1","Occupation
-        Certificate","08/05/2019","22 Vendul Cr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eSwimming
-        Pool\u003c/b\u003e"],["010.2019.00000341.001","10.2019.341.1","Development
-        Application","14/05/2019","Homedale Rd, Kew 2439 NSW \u003cbr/\u003eKendall
-        Rd, Kew 2439 NSW \u003cbr/\u003e\u003cb\u003eResidential Subdivision\u003c/b\u003e"],["010.2019.00000339.001","10.2019.339.1","Development
-        Application","13/05/2019","1 Laguna Pl, Port Macquarie 2444 NSW \u003cbr/\u003e3/1
-        Laguna Pl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eMooring Pylons\u003c/b\u003e"],["011.2019.00000339.001","11.2019.339.1","Construction
-        Certificate","13/05/2019","1 Laguna Pl, Port Macquarie 2444 NSW \u003cbr/\u003e3/1
-        Laguna Pl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eMooring Pylons\u003c/b\u003e"],["012.2019.00000339.001","12.2019.339.1","Occupation
-        Certificate","13/05/2019","1 Laguna Pl, Port Macquarie 2444 NSW \u003cbr/\u003e3/1
-        Laguna Pl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eMooring Pylons\u003c/b\u003e"],["010.2019.00000311.001","10.2019.311.1","Development
+        (Lots 319 - 330, DP 1232490)\u003c/b\u003e"],["010.2019.00000311.001","10.2019.311.1","Development
         Application","01/05/2019","38 Batar Creek Rd, Kendall 2439 NSW \u003cbr/\u003e\u003cb\u003eAncillary
         Building - Garage\u003c/b\u003e"],["011.2019.00000311.001","11.2019.311.1","Construction
         Certificate","01/05/2019","38 Batar Creek Rd, Kendall 2439 NSW \u003cbr/\u003e\u003cb\u003eAncillary
-        Building - Garage\u003c/b\u003e"],["012.2019.00000336.001","12.2019.336.1","Occupation
-        Certificate","10/05/2019","6 George Cr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling and Construction of Pool\u003c/b\u003e"],["010.2019.00000285.001","10.2019.285.1","Development
-        Application","18/04/2019","15 Ocean Dr, Port Macquarie 2444 NSW \u003cbr/\u003e39
-        Ackroyd St, Port Macquarie 2444 NSW \u003cbr/\u003e43 Ackroyd St, Port Macquarie
-        2444 NSW \u003cbr/\u003e\u003cb\u003eService Station and Take Away Food and
-        Drink Premises\u003c/b\u003e"],["010.2019.00000307.001","10.2019.307.1","Development
-        Application","10/05/2019","20 Merrigal Rd, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eChange
-        of Use - Industry to Industrial Training Facility (Unit 1)\u003c/b\u003e"],["015.2019.00007120.001","15.2019.7120.1","Complying
-        Development Cert.","29/04/2019","2 Talara Pl, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["011.2019.00000335.001","11.2019.335.1","Construction
-        Certificate","09/05/2019","15 Garden Cr, Port Macquarie 2444 NSW \u003cbr/\u003e19
-        Garden Cr, Port Macquarie 2444 NSW \u003cbr/\u003e23 Garden Cr, Port Macquarie
-        2444 NSW \u003cbr/\u003e7 Garden Cr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Aged Care Facility\u003c/b\u003e"],["012.2019.00000335.001","12.2019.335.1","Occupation
-        Certificate","09/05/2019","15 Garden Cr, Port Macquarie 2444 NSW \u003cbr/\u003e19
-        Garden Cr, Port Macquarie 2444 NSW \u003cbr/\u003e23 Garden Cr, Port Macquarie
-        2444 NSW \u003cbr/\u003e7 Garden Cr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Aged Care Facility\u003c/b\u003e"],["012.2019.00000334.001","12.2019.334.1","Occupation
-        Certificate","09/05/2019","2 Talara Pl, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["013.2002.00000512.001","13.2002.512.1","Subdivision
+        Building - Garage\u003c/b\u003e"],["013.2002.00000512.001","13.2002.512.1","Subdivision
         Certificate","02/05/2019","5-9 Everard St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eModify
         Real Property Documents Relating to Stormwater Easements\u003c/b\u003e"],["010.2017.00000721.003","10.2017.721.3","S96","02/05/2019","Thrumster
         St, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eManufactured Housing Estate
-        - Modification\u003c/b\u003e"],["710.2019.00006067.001","710.2019.6067.1","Section
-        138","14/05/2019","9 Pinah Pl, King Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eDriveway
-        Crossover\u003c/b\u003e"],["710.2019.00006063.001","710.2019.6063.1","Section
+        - Modification\u003c/b\u003e"],["710.2019.00006063.001","710.2019.6063.1","Section
         138","07/05/2019","44 Parklands Cl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway
-        Crossover\u003c/b\u003e"],["710.2019.00006064.001","710.2019.6064.1","Section
-        138","09/05/2019","26 Whistler Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway
-        Crossover\u003c/b\u003e"],["012.2019.00007126.001","12.2019.7126.1","Occupation
-        Certificate","14/05/2019","56 Mahogany Wy, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["710.2019.00000330.001","710.2019.330.1","Section
-        138","08/05/2019","18 John Phillip Dr, Bonny Hills 2445 NSW \u003cbr/\u003e\u003cb\u003eDriveway
-        Crossover\u003c/b\u003e"],["011.2019.00000330.001","11.2019.330.1","Construction
-        Certificate","08/05/2019","18 John Phillip Dr, Bonny Hills 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["012.2019.00000330.001","12.2019.330.1","Occupation
-        Certificate","08/05/2019","18 John Phillip Dr, Bonny Hills 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2018.00000733.002","10.2018.733.2","S96","07/05/2019","6
-        Hastings River Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eTo
-        Modify Conditions of Consent (Water Metering)\u003c/b\u003e"],["010.2019.00000330.001","10.2019.330.1","Development
-        Application","08/05/2019","18 John Phillip Dr, Bonny Hills 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["680.2019.00000329.001","680.2019.329.1","Section
-        68 (680)","08/05/2019","4 Pipi Ct, North Shore 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling and Construction of Pool\u003c/b\u003e"],["011.2019.00000329.001","11.2019.329.1","Construction
-        Certificate","08/05/2019","4 Pipi Ct, North Shore 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling and Construction of Pool\u003c/b\u003e"],["012.2019.00000329.001","12.2019.329.1","Occupation
-        Certificate","08/05/2019","4 Pipi Ct, North Shore 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling and Construction of Pool\u003c/b\u003e"],["680.2018.00001104.001","680.2018.1104.1","Section
-        68 (680)","15/04/2019","3 Pennant La, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        Lot 8\u003c/b\u003e"],["010.2019.00000325.001","10.2019.325.1","Development
+        Crossover\u003c/b\u003e"],["010.2019.00000325.001","10.2019.325.1","Development
         Application","07/05/2019","1 Bolwarra Rd, Port Macquarie 2444 NSW \u003cbr/\u003e1/1A
         Blackbutt Rd, Port Macquarie 2444 NSW \u003cbr/\u003e10/1A Blackbutt Rd, Port
         Macquarie 2444 NSW \u003cbr/\u003e11/1A Blackbutt Rd, Port Macquarie 2444
@@ -1288,20 +1131,8 @@ http_interactions:
         Blackbutt Rd, Port Macquarie 2444 NSW \u003cbr/\u003e7/1A Blackbutt Rd, Port
         Macquarie 2444 NSW \u003cbr/\u003e8/1A Blackbutt Rd, Port Macquarie 2444 NSW
         \u003cbr/\u003e9/1A Blackbutt Rd, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eChange
-        of Use - Cafe (Unit 9)\u003c/b\u003e"],["010.2019.00000328.001","10.2019.328.1","Development
-        Application","08/05/2019","6 Pandamus Cl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["011.2019.00000328.001","11.2019.328.1","Construction
-        Certificate","08/05/2019","6 Pandamus Cl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["012.2019.00000328.001","12.2019.328.1","Occupation
-        Certificate","08/05/2019","6 Pandamus Cl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["012.2019.00007127.001","12.2019.7127.1","Occupation
-        Certificate","13/05/2019","15 Drover St, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling,
-        urban\u003c/b\u003e"],["010.2015.00000134.002","10.2015.134.2","S96","17/04/2019","P
-        Macquarie, Thrumster 2444 NSW \u003cbr/\u003eThrumster St, Thrumster 2444
-        NSW \u003cbr/\u003e\u003cb\u003eCANCELLED      Subdivision - Modification\u003c/b\u003e"],["012.2019.00000288.001","12.2019.288.1","Occupation
+        of Use - Cafe (Unit 9)\u003c/b\u003e"],["012.2019.00000288.001","12.2019.288.1","Occupation
         Certificate","02/05/2019","2 Narran Cl, King Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eWITHDRAWN   -    Swimming
-        Pool\u003c/b\u003e"],["010.2019.00000288.001","10.2019.288.1","Development
-        Application","23/04/2019","2 Narran Cl, King Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eSwimming
         Pool\u003c/b\u003e"],["011.2019.00000288.001","11.2019.288.1","Construction
         Certificate","02/05/2019","2 Narran Cl, King Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eSwimming
         Pool\u003c/b\u003e"],["680.2019.00000325.001","680.2019.325.1","Section 68
@@ -1315,9 +1146,7 @@ http_interactions:
         Blackbutt Rd, Port Macquarie 2444 NSW \u003cbr/\u003e7/1A Blackbutt Rd, Port
         Macquarie 2444 NSW \u003cbr/\u003e8/1A Blackbutt Rd, Port Macquarie 2444 NSW
         \u003cbr/\u003e9/1A Blackbutt Rd, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eChange
-        of Use - Cafe (Unit 9)\u003c/b\u003e"],["010.2019.00000300.001","10.2019.300.1","Development
-        Application","29/04/2019","3/11 Lord St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling as Part of Residential Flat Building\u003c/b\u003e"],["710.2019.00000323.001","710.2019.323.1","Section
+        of Use - Cafe (Unit 9)\u003c/b\u003e"],["710.2019.00000323.001","710.2019.323.1","Section
         138","07/05/2019","44 Summer Cct, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDriveway
         Crossover\u003c/b\u003e"],["680.2019.00000323.001","680.2019.323.1","Section
         68 (680)","07/05/2019","44 Summer Cct, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling
@@ -1346,15 +1175,13 @@ http_interactions:
         68 (680)","06/05/2019","148 Settlement Point Rd, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
         and Additions to Dwelling\u003c/b\u003e"],["010.2019.00000317.001","10.2019.317.1","Development
         Application","06/05/2019","148 Settlement Point Rd, Port Macquarie 2444 NSW
-        \u003cbr/\u003e\u003cb\u003eAlterations and Additions to Dwelling\u003c/b\u003e"],["680.2019.00000255.001","680.2019.255.1","Section
-        68 (680)","18/04/2019","25 Antigua Av, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["710.2019.00000315.001","710.2019.315.1","Section
+        \u003cbr/\u003e\u003cb\u003eAlterations and Additions to Dwelling\u003c/b\u003e"],["710.2019.00000315.001","710.2019.315.1","Section
         138","03/05/2019","4 Hastings Av, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway
         Crossover\u003c/b\u003e"],["010.2019.00000315.001","10.2019.315.1","Development
         Application","03/05/2019","4 Hastings Av, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDemolition
         of Dwelling and Construction of New Dwelling\u003c/b\u003e"],["680.2019.00000315.001","680.2019.315.1","Section
         68 (680)","03/05/2019","4 Hastings Av, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDemolition
-        of Dwelling and Construction of New Dwelling\u003c/b\u003e"],["680.2019.00000276.001","680.2019.276.1","Section
-        68 (680)","16/04/2019","44 Stanley Dr, Beechwood 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["680.2019.00000313.001","680.2019.313.1","Section
+        of Dwelling and Construction of New Dwelling\u003c/b\u003e"],["680.2019.00000313.001","680.2019.313.1","Section
         68 (680)","02/05/2019","17 Eames Av, North Haven 2443 NSW \u003cbr/\u003e\u003cb\u003eAlterations
         and Additions to Dwelling\u003c/b\u003e"],["011.2019.00000313.001","11.2019.313.1","Construction
         Certificate","02/05/2019","17 Eames Av, North Haven 2443 NSW \u003cbr/\u003e\u003cb\u003eAlterations
@@ -1362,28 +1189,225 @@ http_interactions:
         Certificate","02/05/2019","17 Eames Av, North Haven 2443 NSW \u003cbr/\u003e\u003cb\u003eAlterations
         and Additions to Dwelling\u003c/b\u003e"],["010.2019.00000313.001","10.2019.313.1","Development
         Application","02/05/2019","17 Eames Av, North Haven 2443 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["680.2019.00007119.001","680.2019.7119.1","Section
-        68 (680)","23/04/2019","21 Leaders Wy, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["012.2019.00000257.001","12.2019.257.1","Occupation
+        and Additions to Dwelling\u003c/b\u003e"],["012.2019.00000257.001","12.2019.257.1","Occupation
         Certificate","02/05/2019","5 Gukandi St, Lakewood 2443 NSW \u003cbr/\u003e\u003cb\u003eRetaining
-        Wall\u003c/b\u003e"],["680.2019.00000281.001","680.2019.281.1","Section 68
-        (680)","17/04/2019","92 Arranbee Rd, King Creek 2446 NSW \u003cbr/\u003e92A
-        Arranbee Rd, King Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eSecondary Dwelling
-        Serviced by a New AWTS and Sub-Surface Drip Irrigation also to Service Main
-        Dwelling\u003c/b\u003e"],["012.2019.00000312.001","12.2019.312.1","Occupation
+        Wall\u003c/b\u003e"],["012.2019.00000312.001","12.2019.312.1","Occupation
         Certificate","01/05/2019","48 Lee Pl, Logans Crossing 2439 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["010.2019.00000306.001","10.2019.306.1","Development
-        Application","30/04/2019","38 Evans St, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDemolition
-        of Dwelling and Construction of New Dwelling\u003c/b\u003e"],["012.2019.00000311.001","12.2019.311.1","Occupation
+        and Additions to Dwelling\u003c/b\u003e"],["012.2019.00000311.001","12.2019.311.1","Occupation
         Certificate","01/05/2019","38 Batar Creek Rd, Kendall 2439 NSW \u003cbr/\u003e\u003cb\u003eAncillary
-        Building - Garage\u003c/b\u003e"],["680.2018.00001104.002","680.2018.1104.2","Section
-        68 (680)","15/04/2019","Pennant La, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        Lot 9\u003c/b\u003e"],["710.2019.00007119.001","710.2019.7119.1","Section
-        138","23/04/2019","21 Leaders Wy, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eDriveway
-        Crossover\u003c/b\u003e"],["680.2017.00000987.001","680.2017.987.1","Section
+        Building - Garage\u003c/b\u003e"],["680.2017.00000987.001","680.2017.987.1","Section
         68 (680)","02/05/2019","21 Ocean Dr, Port Macquarie 2444 NSW \u003cbr/\u003e35
         Table St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eResidential
-        Flat Building\u003c/b\u003e"],["710.2019.00006065.001","710.2019.6065.1","Section
-        138","08/05/2019","11 Lemongrass Cct, Yippin Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eDriveway
+        Flat Building\u003c/b\u003e"],["680.2015.00005110.058","680.2015.5110.58","Section
+        68 (680)","07/05/2019","11 Resort Rd, Kew 2439 NSW \u003cbr/\u003e\u003cb\u003eLaurieton
+        Residential Resort manufactures Homes Sites - Lots 242, 260, 263, 278, 262,
+        261, 279, 280, 281, 297, 298, 299, 296, 282, 295, 300, 283, 294\u003c/b\u003e"],["013.2016.00000053.001","13.2016.53.1","Subdivision
+        Certificate","01/05/2019","40 Reading St, Port Macquarie 2444 NSW \u003cbr/\u003eReading
+        St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003e5 Lot Torrens Title
+        Subdivision\u003c/b\u003e"],["012.2012.00000358.012","12.2012.358.12","Occupation
+        Certificate","02/05/2019","30 Boundary St, Port Macquarie 2444 NSW \u003cbr/\u003eClarence
+        St, Port Macquarie 2444 NSW \u003cbr/\u003eHorton St, Port Macquarie 2444
+        NSW \u003cbr/\u003ePark St, Port Macquarie 2444 NSW \u003cbr/\u003eShort St,
+        Port Macquarie 2444 NSW \u003cbr/\u003eTuffins La, Port Macquarie 2444 NSW
+        \u003cbr/\u003e\u003cb\u003eIronman Australia \u0026 Ironman 70.3 Port Macquarie  -
+        (2 May 2019 - 6 May 2019)\u003c/b\u003e"],["710.2019.00006062.001","710.2019.6062.1","Section
+        138","01/05/2019","120 Lake Rd, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway
+        Crossover - Replace Existing Driveway\u003c/b\u003e"]]}'
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://datracker.pmhc.nsw.gov.au/Application/GetApplications
+    body:
+      encoding: UTF-8
+      string: start=200&length=100&json=%7B%22DateFrom%22%3A%2214%2F04%2F2019%22%2C%22DateTo%22%3A%2214%2F05%2F2019%22%2C%22DateType%22%3A%221%22%2C%22RemoveUndeterminedApplications%22%3Afalse%2C%22ShowOutstandingApplications%22%3Afalse%2C%22ShowExhibitedApplications%22%3Afalse%2C%22IncludeDocuments%22%3Afalse%7D
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=zg4ss4y3pi2oiodya42ei3na; User=accessAllowed-MasterView=True
+      Host:
+      - datracker.pmhc.nsw.gov.au
+      Referer:
+      - https://datracker.pmhc.nsw.gov.au/Application/GetApplications
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '300'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - application/json; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/8.5
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Mon, 24 Jun 2019 01:54:33 GMT
+      Content-Length:
+      - '21038'
+    body:
+      encoding: UTF-8
+      string: '{"draw":null,"recordsTotal":403,"recordsFiltered":403,"data":[["010.2019.00000293.001","10.2019.293.1","Development
+        Application","24/04/2019","5 Kooloonbung Cl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eHome
+        Business\u003c/b\u003e"],["010.2019.00000289.001","10.2019.289.1","Development
+        Application","23/04/2019","5 Jersey Cl, Logans Crossing 2439 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["011.2018.00001066.001","11.2018.1066.1","Construction
+        Certificate","30/04/2019","118 Crestwood Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        with Attached Garage and Retaining Walls\u003c/b\u003e"],["710.2019.00006058.001","710.2019.6058.1","Section
+        138","23/04/2019","Toorak Ct, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eConstruction
+        of Works on Road Reserve for Carpark Access\u003c/b\u003e"],["710.2019.00000298.001","710.2019.298.1","Section
+        138","29/04/2019","40 Chepana St, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDriveway
+        Crossover\u003c/b\u003e"],["680.2019.00000298.001","680.2019.298.1","Section
+        68 (680)","29/04/2019","40 Chepana St, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["010.2019.00000298.001","10.2019.298.1","Development
+        Application","29/04/2019","40 Chepana St, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["015.2019.00007141.001","15.2019.7141.1","Complying
+        Development Cert.","23/04/2019","57 Peach Gr, Laurieton 2443 NSW \u003cbr/\u003e\u003cb\u003eSolar
+        Panel Installation 99KWP\u003c/b\u003e"],["010.2018.00000130.002","10.2018.130.2","S96","18/04/2019","11
+        Ngamba Pl, Bonny Hills 2445 NSW \u003cbr/\u003e3 Mcgilvray Rd, Bonny Hills
+        2445 NSW \u003cbr/\u003e\u003cb\u003eTo Modify to Allow Staging\u003c/b\u003e"],["010.2019.00000309.001","10.2019.309.1","Development
+        Application","30/04/2019","Koala St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eResidential
+        Subdivision\u003c/b\u003e"],["010.2019.00000301.001","10.2019.301.1","Development
+        Application","29/04/2019","72 Horton St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAdditions
+        to Business Premises - Automatic Teller Machine\u003c/b\u003e"],["680.2013.00000056.002","680.2013.56.2","Section
+        68 (680)","30/04/2019","101 High St, Wauchope 2446 NSW \u003cbr/\u003e2 Wade
+        St, Wauchope 2446 NSW \u003cbr/\u003eHigh St, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eConstruction
+        of Units 3-8\u003c/b\u003e"],["680.2019.00000303.001","680.2019.303.1","Section
+        68 (680)","29/04/2019","26A Meares Cct, Thrumster 2444 NSW \u003cbr/\u003e26B
+        Meares Cct, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling and Secondary
+        Dwelling\u003c/b\u003e"],["015.2017.00007461.002","15.2017.7461.2","Complying
+        Development Cert.","23/04/2019","17 Elparra Cl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        Additions (Portico Added)\u003c/b\u003e"],["021.2019.00000046.001","21.2019.46.1","S6.23
+        - Building Inform. Cert.","29/04/2019","72 Clarence St, Port Macquarie 2444
+        NSW \u003cbr/\u003e\u003cb\u003eRestruant Interior\u003c/b\u003e"],["011.2019.00000167.001","11.2019.167.1","Construction
+        Certificate","18/04/2019","11 Kennedy Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAdditions
+        to Dwelling\u003c/b\u003e"],["010.2019.00000286.001","10.2019.286.1","Development
+        Application","18/04/2019","11 Nevis St, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["710.2019.00000303.001","710.2019.303.1","Section
+        138","29/04/2019","26A Meares Cct, Thrumster 2444 NSW \u003cbr/\u003e26B Meares
+        Cct, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway Crossover\u003c/b\u003e"],["011.2019.00000008.002","11.2019.8.2","Construction
+        Certificate","24/04/2019","8 Seaside Dr, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eExhibition
+        home\u003c/b\u003e"],["010.2019.00000304.001","10.2019.304.1","Development
+        Application","30/04/2019","20 Howell Av, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2019.00000303.001","10.2019.303.1","Development
+        Application","29/04/2019","26A Meares Cct, Thrumster 2444 NSW \u003cbr/\u003e26B
+        Meares Cct, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling and Secondary
+        Dwelling\u003c/b\u003e"],["680.2016.00000700.003","680.2016.700.3","Section
+        68 (680)","29/04/2019","743 Ocean Dr, Grants Beach 2445 NSW \u003cbr/\u003e\u003cb\u003eStormwater
+        Drainage from Existing Eco Tourist Facility, Car Park \u0026 Overland Flow
+        Swale To An Existing Vegetated Gully\u003c/b\u003e"],["680.2019.00000289.001","680.2019.289.1","Section
+        68 (680)","23/04/2019","5 Jersey Cl, Logans Crossing 2439 NSW \u003cbr/\u003e\u003cb\u003eNew
+        Dwelling Serviced by an AWTS and Sub-Surface Irrigation Approved Under 680.2019.205.1
+        (Associated with Shed)\u003c/b\u003e"],["680.2019.00000305.001","680.2019.305.1","Section
+        68 (680)","30/04/2019","3 Katandra Pl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["010.2019.00000305.001","10.2019.305.1","Development
+        Application","30/04/2019","3 Katandra Pl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["010.2019.00000167.002","10.2019.167.2","S96","18/04/2019","11
+        Kennedy Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAdditions
+        to Dwelling - Modification\u003c/b\u003e"],["010.2019.00000255.001","10.2019.255.1","Development
+        Application","18/04/2019","25 Antigua Av, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["015.2019.00007121.001","15.2019.7121.1","Complying
+        Development Cert.","29/04/2019","16 Montague St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["011.2019.00000297.001","11.2019.297.1","Construction
+        Certificate","26/04/2019","8 Wasabi Wy, Yippin Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eAncillary
+        Building - Shed\u003c/b\u003e"],["010.2019.00000297.001","10.2019.297.1","Development
+        Application","26/04/2019","8 Wasabi Wy, Yippin Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eAncillary
+        Building - Shed\u003c/b\u003e"],["010.2015.00000867.002","10.2015.867.2","S96","29/04/2019","7
+        Gordon St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eTo Modify the
+        Design of Previous Approved Residential Flat Building\u003c/b\u003e"],["680.2019.00000297.001","680.2019.297.1","Section
+        68 (680)","26/04/2019","8 Wasabi Wy, Yippin Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eCANCELLED
+        - Ancillary Building - Shed\u003c/b\u003e"],["010.2019.00000299.001","10.2019.299.1","Development
+        Application","29/04/2019","18 The Cottage Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eRetaining
+        Wall\u003c/b\u003e"],["011.2019.00000299.001","11.2019.299.1","Construction
+        Certificate","29/04/2019","18 The Cottage Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eRetaining
+        Wall\u003c/b\u003e"],["012.2016.00000729.002","12.2016.729.2","Occupation
+        Certificate","29/04/2019","28 John Oxley Dr, Port Macquarie 2444 NSW \u003cbr/\u003e34
+        John Oxley Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eThe Construction
+        of a New 68 Bed Aged Care Facility over 2 Storeys Plus a Basement Carpark\n\nPart
+        - \n\nBasement and ground floor areas including external courtyards, balcony\u0027s
+        and first floor Ancilliary use areas being Store room (FC29), sanitary facilities
+        (FC41 + FC40), hairdressers (FC37), Gymnasium (FC36) consult rooms (FC39)
+        and multi faith froom (FC42) only to the exclusion of the following;\n\n*
+        Remainder of the First Floor level,\n* Ground floor Outdoor room GC 18,\n*
+        Landscaping works to the front entrance,\n* Innowood external cladding (attachment)
+        located on south, north, west \u0026 east elevations\u003c/b\u003e"],["015.2019.00007146.001","15.2019.7146.1","Complying
+        Development Cert.","29/04/2019","11 Rafael Cr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eSwimming
+        Pool\u003c/b\u003e"],["015.2019.00007142.001","15.2019.7142.1","Complying
+        Development Cert.","30/04/2019","21 Wedgetail Dr, Kew 2439 NSW \u003cbr/\u003e\u003cb\u003eCarport\u003c/b\u003e"],["013.2018.00000996.001","13.2018.996.1","Subdivision
+        Certificate","29/04/2019","18A Archibald St, Port Macquarie 2444 NSW \u003cbr/\u003e18B
+        Archibald St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003e2 Lot Strata
+        Title Subdivision\u003c/b\u003e"],["010.2019.00000302.001","10.2019.302.1","Development
+        Application","29/04/2019","7A Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e7B
+        Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eChange of Use
+        from Dwelling and Secondary Dwelling to Dual Occupancy and Strata Subdivision\u003c/b\u003e"],["011.2018.00001105.001","11.2018.1105.1","Construction
+        Certificate","22/04/2019","41 Cohen Wy, Thrumster 2444 NSW \u003cbr/\u003e60
+        Mackellar Wy, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDual Occupancy
+        Dwellings and attached Garages\u003c/b\u003e"],["011.2019.00000183.001","11.2019.183.1","Construction
+        Certificate","29/04/2019","5 Lakeside Wy, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eSwimming
+        Pool\u003c/b\u003e"],["012.2010.00000572.011","12.2010.572.11","Occupation
+        Certificate","30/04/2019","15 Pennant La, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        with Attached Garage and Retaining Wall\u003c/b\u003e"],["680.2019.00000292.001","680.2019.292.1","Section
+        68 (680)","24/04/2019","410 Right Arm Rd, Upper Pappinbarra 2446 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["021.2019.00000047.001","21.2019.47.1","S6.23
+        - Building Inform. Cert.","30/04/2019","20 Amaroo Pde, Port Macquarie 2444
+        NSW \u003cbr/\u003e\u003cb\u003eto be defined\u003c/b\u003e"],["012.2018.00000343.001","12.2018.343.1","Occupation
+        Certificate","30/04/2019","4 Birchwood Ct, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        and Retaining Wall and Associated Earthworks\u003c/b\u003e"],["010.2019.00000295.001","10.2019.295.1","Development
+        Application","24/04/2019","124 Hastings River Dr, Port Macquarie 2444 NSW
+        \u003cbr/\u003e\u003cb\u003eEducational Establishment\u003c/b\u003e"],["680.2019.00005056.001","680.2019.5056.1","Section
+        68 (680)","26/04/2019","66 Tall Timber Rd, Lake Innes 2446 NSW \u003cbr/\u003e\u003cb\u003eReplace
+        existing AWTS tank\u003c/b\u003e"],["010.2019.00000292.001","10.2019.292.1","Development
+        Application","24/04/2019","410 Right Arm Rd, Upper Pappinbarra 2446 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["011.2019.00000292.001","11.2019.292.1","Construction
+        Certificate","24/04/2019","410 Right Arm Rd, Upper Pappinbarra 2446 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["011.2019.00000165.001","11.2019.165.1","Construction
+        Certificate","30/04/2019","22 Coachman Lp, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eSingle
+        Dwelling\u003c/b\u003e"],["011.2019.00000219.001","11.2019.219.1","Construction
+        Certificate","29/04/2019","5 Bounty Av, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        with Attached Garage \u0026 Retaining Wall\u003c/b\u003e"],["011.2019.00000164.001","11.2019.164.1","Construction
+        Certificate","29/04/2019","19 Day Cct, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["015.2019.00007136.001","15.2019.7136.1","Complying
+        Development Cert.","24/04/2019","77 Solomon Dr, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        with Attached Garage\u003c/b\u003e"],["012.2019.00007120.001","12.2019.7120.1","Occupation
+        Certificate","29/04/2019","2 Talara Pl, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["680.2019.00007120.001","680.2019.7120.1","Section
+        68 (680)","29/04/2019","2 Talara Pl, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["010.2019.00000285.001","10.2019.285.1","Development
+        Application","18/04/2019","15 Ocean Dr, Port Macquarie 2444 NSW \u003cbr/\u003e39
+        Ackroyd St, Port Macquarie 2444 NSW \u003cbr/\u003e43 Ackroyd St, Port Macquarie
+        2444 NSW \u003cbr/\u003e\u003cb\u003eService Station and Take Away Food and
+        Drink Premises\u003c/b\u003e"],["015.2019.00007120.001","15.2019.7120.1","Complying
+        Development Cert.","29/04/2019","2 Talara Pl, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["010.2019.00000288.001","10.2019.288.1","Development
+        Application","23/04/2019","2 Narran Cl, King Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eSwimming
+        Pool\u003c/b\u003e"],["010.2019.00000300.001","10.2019.300.1","Development
+        Application","29/04/2019","3/11 Lord St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling as Part of Residential Flat Building\u003c/b\u003e"],["680.2019.00007119.001","680.2019.7119.1","Section
+        68 (680)","23/04/2019","21 Leaders Wy, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2019.00000306.001","10.2019.306.1","Development
+        Application","30/04/2019","38 Evans St, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDemolition
+        of Dwelling and Construction of New Dwelling\u003c/b\u003e"],["710.2019.00007119.001","710.2019.7119.1","Section
+        138","23/04/2019","21 Leaders Wy, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eDriveway
         Crossover\u003c/b\u003e"],["015.2019.00007119.001","15.2019.7119.1","Complying
         Development Cert.","23/04/2019","21 Leaders Wy, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["680.2018.00001065.001","680.2018.1065.1","Section
         68 (680)","29/04/2019","26 Clarence St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eChange
@@ -1393,23 +1417,14 @@ http_interactions:
         68 (680)","23/04/2019","14 Bergalia Cr, Camden Head 2443 NSW \u003cbr/\u003e\u003cb\u003eDetached
         Habitable Additions - Studio\u003c/b\u003e"],["011.2019.00000290.001","11.2019.290.1","Construction
         Certificate","23/04/2019","14 Bergalia Cr, Camden Head 2443 NSW \u003cbr/\u003e\u003cb\u003eDetached
-        Habitable Additions - Studio\u003c/b\u003e"],["012.2019.00007123.001","12.2019.7123.1","Occupation
-        Certificate","09/05/2019","16 Cohen Wy, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["680.2015.00005110.058","680.2015.5110.58","Section
-        68 (680)","07/05/2019","11 Resort Rd, Kew 2439 NSW \u003cbr/\u003e\u003cb\u003eLaurieton
-        Residential Resort manufactures Homes Sites - Lots 242, 260, 263, 278, 262,
-        261, 279, 280, 281, 297, 298, 299, 296, 282, 295, 300, 283, 294\u003c/b\u003e"],["011.2019.00000287.001","11.2019.287.1","Construction
+        Habitable Additions - Studio\u003c/b\u003e"],["011.2019.00000287.001","11.2019.287.1","Construction
         Certificate","18/04/2019","7 Millers Pl, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        and Additions to Dwelling\u003c/b\u003e"],["013.2016.00000053.001","13.2016.53.1","Subdivision
-        Certificate","01/05/2019","40 Reading St, Port Macquarie 2444 NSW \u003cbr/\u003eReading
-        St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003e5 Lot Torrens Title
-        Subdivision\u003c/b\u003e"],["010.2019.00000287.001","10.2019.287.1","Development
+        and Additions to Dwelling\u003c/b\u003e"],["010.2019.00000287.001","10.2019.287.1","Development
         Application","18/04/2019","7 Millers Pl, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eAlterations
         and Additions to Dwelling\u003c/b\u003e"],["680.2019.00000302.001","680.2019.302.1","Section
         68 (680)","29/04/2019","7A Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e7B
         Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eChange of Use
-        from Dwelling and Secondary Dwelling to Dual Occupancy and Strata Subdivision\u003c/b\u003e"],["015.2019.00007124.001","15.2019.7124.1","Complying
-        Development Cert.","18/04/2019","12 Backler St, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        and Attached Garage\u003c/b\u003e"],["710.2018.00001047.001","710.2018.1047.1","Section
+        from Dwelling and Secondary Dwelling to Dual Occupancy and Strata Subdivision\u003c/b\u003e"],["710.2018.00001047.001","710.2018.1047.1","Section
         138","30/04/2019","25 Aspect Ct, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway
         Crossover\u003c/b\u003e"],["011.2019.00000300.001","11.2019.300.1","Construction
         Certificate","29/04/2019","3/11 Lord St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
@@ -1417,58 +1432,28 @@ http_interactions:
         Certificate","29/04/2019","3/11 Lord St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
         and Additions to Dwelling as Part of Residential Flat Building\u003c/b\u003e"],["012.2019.00000299.001","12.2019.299.1","Occupation
         Certificate","29/04/2019","18 The Cottage Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eRetaining
-        Wall\u003c/b\u003e"],["010.2018.00000635.002","10.2018.635.2","S96","15/04/2019","12
-        Warlters St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eTo Reduce
-        Shed Size and Remove Demolition Proposal\u003c/b\u003e"],["010.2019.00000291.001","10.2019.291.1","Development
+        Wall\u003c/b\u003e"],["010.2019.00000291.001","10.2019.291.1","Development
         Application","24/04/2019","Sitella St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eMulti
         Dwelling Housing and Torrens Title Subdivision\u003c/b\u003e"],["012.2019.00000297.001","12.2019.297.1","Occupation
         Certificate","26/04/2019","8 Wasabi Wy, Yippin Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eAncillary
-        Building - Shed\u003c/b\u003e"],["012.2012.00000358.012","12.2012.358.12","Occupation
-        Certificate","02/05/2019","30 Boundary St, Port Macquarie 2444 NSW \u003cbr/\u003eClarence
-        St, Port Macquarie 2444 NSW \u003cbr/\u003eHorton St, Port Macquarie 2444
-        NSW \u003cbr/\u003ePark St, Port Macquarie 2444 NSW \u003cbr/\u003eShort St,
-        Port Macquarie 2444 NSW \u003cbr/\u003eTuffins La, Port Macquarie 2444 NSW
-        \u003cbr/\u003e\u003cb\u003eIronman Australia \u0026 Ironman 70.3 Port Macquarie  -
-        (2 May 2019 - 6 May 2019)\u003c/b\u003e"],["010.2017.00000286.002","10.2017.286.2","S96","26/04/2019","45
+        Building - Shed\u003c/b\u003e"],["010.2017.00000286.002","10.2017.286.2","S96","26/04/2019","45
         Cameron St, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eModification to
         Tourist and Visitor Accommodation, Retail Premises, Function Centre, Restaurant
         and Cafe\u003c/b\u003e"],["010.2019.00000308.001","10.2019.308.1","Development
         Application","30/04/2019","42 Stanley Dr, Beechwood 2446 NSW \u003cbr/\u003e\u003cb\u003eAncillary
-        Buildings/Structures\u003c/b\u003e"],["710.2019.00006062.001","710.2019.6062.1","Section
-        138","01/05/2019","120 Lake Rd, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway
-        Crossover - Replace Existing Driveway\u003c/b\u003e"],["013.2012.00000305.002","13.2012.305.2","Subdivision
+        Buildings/Structures\u003c/b\u003e"],["013.2012.00000305.002","13.2012.305.2","Subdivision
         Certificate","18/04/2019","21 Sancrox Rd, Sancrox 2446 NSW \u003cbr/\u003e7
         Sancrox Rd, Sancrox 2446 NSW \u003cbr/\u003eSancrox Rd, Sancrox 2446 NSW \u003cbr/\u003e\u003cb\u003e21
-        Lot Torrens Title Subdivision\u003c/b\u003e"],["710.2019.00007118.001","710.2019.7118.1","Section
-        138","18/04/2019","3 Neville Rd, Beechwood 2446 NSW \u003cbr/\u003e\u003cb\u003eWITHDRAWN   -   Driveway
-        Crossover (Proposed Lot 128)\u003c/b\u003e"],["017.2003.00000662.001","17.2003.662.1","Construct.Cert
-        Infrastructure","18/04/2019","60 Lake St, Laurieton 2443 NSW \u003cbr/\u003e\u003cb\u003eConstruction
-        of Infrastructure Work for 9 Unit Development\u003c/b\u003e"],["680.2019.00005055.001","680.2019.5055.1","Section
-        68 (680)","15/04/2019","13 Stables Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["710.2019.00000283.001","710.2019.283.1","Section
-        138","17/04/2019","34 Production Dr, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eS138
-        Works for Industrial Development\u003c/b\u003e"],["013.2018.00000289.001","13.2018.289.1","Subdivision
-        Certificate","16/04/2019","1/5 Meehan St, Thrumster 2444 NSW \u003cbr/\u003e2/5
-        Meehan St, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003e2 Lot Strata Title
-        Subdivision\u003c/b\u003e"],["012.2019.00007117.001","12.2019.7117.1","Occupation
-        Certificate","16/04/2019","64 Kennedy Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eSwimming
-        Pool\u003c/b\u003e"],["017.2016.00001001.001","17.2016.1001.1","Construct.Cert
-        Infrastructure","18/04/2019","82 Bay St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eConstruction
-        of Infrastructure Work for Multi-Unit Development\u003c/b\u003e"],["012.2018.00000495.001","12.2018.495.1","Occupation
+        Lot Torrens Title Subdivision\u003c/b\u003e"],["012.2018.00000495.001","12.2018.495.1","Occupation
         Certificate","24/04/2019","44 Gunsynd Ch, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eSingle
         Residential Dwelling\u003c/b\u003e"],["012.2018.00000534.001","12.2018.534.1","Occupation
         Certificate","30/04/2019","4 Bauhinia Pl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eSwimming
         Pool\u003c/b\u003e"],["012.2018.00000704.001","12.2018.704.1","Occupation
         Certificate","30/04/2019","8 Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        With Attached Garage\u003c/b\u003e"],["012.2018.00000789.001","12.2018.789.1","Occupation
-        Certificate","17/04/2019","2 Kingfisher Rd, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAdditional
-        Building associated with Place of Public Worship\u003c/b\u003e"],["010.2019.00000296.001","10.2019.296.1","Development
+        With Attached Garage\u003c/b\u003e"],["010.2019.00000296.001","10.2019.296.1","Development
         Application","24/04/2019","Octagonal Rise, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDual
         Occupancy and Strata Title Subdivision\u003c/b\u003e"],["012.2019.00007118.001","12.2019.7118.1","Occupation
         Certificate","18/04/2019","3 Neville Rd, Beechwood 2446 NSW \u003cbr/\u003e\u003cb\u003eWITHDRAWN  -  Dwelling
-        (Proposed Lot 128)\u003c/b\u003e"],["680.2019.00007118.001","680.2019.7118.1","Section
-        68 (680)","18/04/2019","3 Neville Rd, Beechwood 2446 NSW \u003cbr/\u003e\u003cb\u003eWITHDRAWN     -   Dwelling
-        (Proposed Lot 128)\u003c/b\u003e"],["015.2019.00007118.001","15.2019.7118.1","Complying
-        Development Cert.","18/04/2019","3 Neville Rd, Beechwood 2446 NSW \u003cbr/\u003e\u003cb\u003eWITHDRAWN    -   Dwelling
         (Proposed Lot 128)\u003c/b\u003e"],["010.2019.00000294.001","10.2019.294.1","Development
         Application","24/04/2019","25 Garnet Av, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eSecondary
         Dwelling\u003c/b\u003e"],["710.2019.00006061.001","710.2019.6061.1","Section
@@ -1483,9 +1468,7 @@ http_interactions:
         Certificate","23/04/2019","14 Bergalia Cr, Camden Head 2443 NSW \u003cbr/\u003e\u003cb\u003eDetached
         Habitable Additions - Studio\u003c/b\u003e"],["012.2019.00000167.001","12.2019.167.1","Occupation
         Certificate","18/04/2019","11 Kennedy Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAdditions
-        to Dwelling\u003c/b\u003e"],["680.2003.00000662.001","680.2003.662.1","Section
-        68 (680)","18/04/2019","54 Lake St, Laurieton 2443 NSW \u003cbr/\u003e\u003cb\u003eMutil
-        Dwelling Units\u003c/b\u003e"],["012.2019.00007121.001","12.2019.7121.1","Occupation
+        to Dwelling\u003c/b\u003e"],["012.2019.00007121.001","12.2019.7121.1","Occupation
         Certificate","29/04/2019","16 Montague St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
         and Additions to Dwelling\u003c/b\u003e"],["012.2013.00000526.001","12.2013.526.1","Occupation
         Certificate","29/04/2019","23 Batar Creek Rd, Kendall 2439 NSW \u003cbr/\u003e\u003cb\u003eRecreational
@@ -1495,18 +1478,218 @@ http_interactions:
         Certificate","18/04/2019","7 Millers Pl, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eAlterations
         and Additions to Dwelling\u003c/b\u003e"],["015.2019.00007122.001","15.2019.7122.1","Complying
         Development Cert.","29/04/2019","2 Chicory Cl, Yippin Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        with Attached Garage and Retaining Walls\u003c/b\u003e"],["680.2019.00000285.001","680.2019.285.1","Section
+        with Attached Garage and Retaining Walls\u003c/b\u003e"],["710.2019.00006060.001","710.2019.6060.1","Section
+        138","24/04/2019","21 Manuka Pky, King Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eDriveway
+        Crossover\u003c/b\u003e"],["710.2019.00006059.001","710.2019.6059.1","Section
+        138","24/04/2019","828 Ocean Dr, Bonny Hills 2445 NSW \u003cbr/\u003e\u003cb\u003eDriveway
+        Crossover\u003c/b\u003e"],["012.2019.00007107.001","12.2019.7107.1","Occupation
+        Certificate","23/04/2019","12 Mimosa Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        - Internal Alterations\u003c/b\u003e"],["012.2019.00007119.001","12.2019.7119.1","Occupation
+        Certificate","23/04/2019","21 Leaders Wy, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"]]}'
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://datracker.pmhc.nsw.gov.au/Application/GetApplications
+    body:
+      encoding: UTF-8
+      string: start=300&length=100&json=%7B%22DateFrom%22%3A%2214%2F04%2F2019%22%2C%22DateTo%22%3A%2214%2F05%2F2019%22%2C%22DateType%22%3A%221%22%2C%22RemoveUndeterminedApplications%22%3Afalse%2C%22ShowOutstandingApplications%22%3Afalse%2C%22ShowExhibitedApplications%22%3Afalse%2C%22IncludeDocuments%22%3Afalse%7D
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=zg4ss4y3pi2oiodya42ei3na; User=accessAllowed-MasterView=True
+      Host:
+      - datracker.pmhc.nsw.gov.au
+      Referer:
+      - https://datracker.pmhc.nsw.gov.au/Application/GetApplications
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '300'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - application/json; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/8.5
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Mon, 24 Jun 2019 01:54:37 GMT
+      Content-Length:
+      - '21360'
+    body:
+      encoding: UTF-8
+      string: '{"draw":null,"recordsTotal":403,"recordsFiltered":403,"data":[["010.2019.00000271.001","10.2019.271.1","Development
+        Application","15/04/2019","4A Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e4B
+        Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling and Secondary
+        Dwelling\u003c/b\u003e"],["011.2019.00000197.001","11.2019.197.1","Construction
+        Certificate","16/04/2019","199 The Ruins Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        with Attached Garage and Retaining Wall\u003c/b\u003e"],["010.2019.00000269.001","10.2019.269.1","Development
+        Application","15/04/2019","30 Mimosa Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["680.2019.00000283.001","680.2019.283.1","Section
+        68 (680)","17/04/2019","34 Production Dr, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eIndustrial
+        Building\u003c/b\u003e"],["680.2019.00000271.001","680.2019.271.1","Section
+        68 (680)","15/04/2019","4A Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e4B
+        Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling and Secondary
+        Dwelling\u003c/b\u003e"],["010.2019.00000276.001","10.2019.276.1","Development
+        Application","16/04/2019","44 Stanley Dr, Beechwood 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2019.00000277.001","10.2019.277.1","Development
+        Application","16/04/2019","Parklands Cl, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eCafe
+        and Associated Car Parking\u003c/b\u003e"],["021.2019.00000042.001","21.2019.42.1","S6.23
+        - Building Inform. Cert.","16/04/2019","11 Verde Rtt, Port Macquarie 2444
+        NSW \u003cbr/\u003e\u003cb\u003eSwimming Pool and Barrier\u003c/b\u003e"],["010.2019.00000283.001","10.2019.283.1","Development
+        Application","17/04/2019","34 Production Dr, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eIndustrial
+        Building\u003c/b\u003e"],["010.2019.00000270.001","10.2019.270.1","Development
+        Application","15/04/2019","29A Antigua Av, Lake Cathie 2445 NSW \u003cbr/\u003e29B
+        Antigua Av, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling and
+        Secondary Dwelling\u003c/b\u003e"],["680.2019.00000286.001","680.2019.286.1","Section
+        68 (680)","18/04/2019","11 Nevis St, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["012.2018.00007295.001","12.2018.7295.1","Occupation
+        Certificate","17/04/2019","79 Scarborough Wy, Dunbogan 2443 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["011.2018.00000789.001","11.2018.789.1","Construction
+        Certificate","17/04/2019","2 Kingfisher Rd, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eNew
+        Shed\u003c/b\u003e"],["011.2019.00000132.001","11.2019.132.1","Construction
+        Certificate","17/04/2019","47 Litchfield Pky, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2019.00000284.001","10.2019.284.1","Development
+        Application","17/04/2019","38 Livingstone Rd, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Dwelling\u003c/b\u003e"],["680.2014.00000943.001","680.2014.943.1","Section
+        68 (680)","16/04/2019","820 Rawdon Island Rd, Rawdon Island 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        - Modification\u003c/b\u003e"],["710.2019.00000286.001","710.2019.286.1","Section
+        138","18/04/2019","11 Nevis St, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDriveway
+        Crossover\u003c/b\u003e"],["011.2014.00000943.001","11.2014.943.1","Construction
+        Certificate","16/04/2019","820 Rawdon Island Rd, Rawdon Island 2446 NSW \u003cbr/\u003eRawdon
+        Island Rd, Rawdon Island 2446 NSW \u003cbr/\u003e\u003cb\u003eRebuild Dwelling
+        \u0026 Swimming Pool\u003c/b\u003e"],["710.2019.00000274.001","710.2019.274.1","Section
+        138","16/04/2019","4A Theatre Pl, Thrumster 2444 NSW \u003cbr/\u003e4B Theatre
+        Pl, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway Crossover\u003c/b\u003e"],["010.2019.00000267.001","10.2019.267.1","Development
+        Application","15/04/2019","21 Shore Break Cr, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["017.2019.00000051.001","17.2019.51.1","Construct.Cert
+        Infrastructure","15/04/2019","5A Seminar St, Thrumster 2444 NSW \u003cbr/\u003e5B
+        Seminar St, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eConstruction of
+        Subdivision Work for Dual Occupancy Torrens Title\u003c/b\u003e"],["010.2019.00000278.001","10.2019.278.1","Development
+        Application","16/04/2019","14 The Anchorage, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAdditions
+        to Dwelling\u003c/b\u003e"],["013.2018.00000440.001","13.2018.440.1","Subdivision
+        Certificate","16/04/2019","4A Seminar St, Thrumster 2444 NSW \u003cbr/\u003e4B
+        Seminar St, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003e2 Lot Strata Title
+        Subdivision\u003c/b\u003e"],["680.2019.00000051.001","680.2019.51.1","Section
+        68 (680)","15/04/2019","5A Seminar St, Thrumster 2444 NSW \u003cbr/\u003e5B
+        Seminar St, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eChange of Use from
+        Dwelling and Secondary Dwelling to Dual Occupancy and Strata Subdivision\u003c/b\u003e"],["010.2019.00000274.001","10.2019.274.1","Development
+        Application","16/04/2019","4A Theatre Pl, Thrumster 2444 NSW \u003cbr/\u003e4B
+        Theatre Pl, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling and Secondary
+        Dwelling\u003c/b\u003e"],["680.2019.00000267.001","680.2019.267.1","Section
+        68 (680)","15/04/2019","21 Shore Break Cr, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["011.2018.00000991.002","11.2018.991.2","Construction
+        Certificate","17/04/2019","21 Aspect Ct, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        With Attached Garage,Alfresco and Cabana\u003c/b\u003e"],["010.2014.00000943.002","10.2014.943.2","S96","16/04/2019","820
+        Rawdon Island Rd, Rawdon Island 2446 NSW \u003cbr/\u003e\u003cb\u003eModify
+        Dwelling by Redesigning Layout of Previously Approved Dwelling\u003c/b\u003e"],["010.2019.00000268.001","10.2019.268.1","Development
+        Application","15/04/2019","258 Rosewood Rd, Rosewood 2446 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and Additions to Existing Dwelling, Construction of New Dwelling and Decommissioning
+        of Existing Dwelling\u003c/b\u003e"],["021.2019.00000043.001","21.2019.43.1","S6.23
+        - Building Inform. Cert.","17/04/2019","9 Trade Cct, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eWarehouse,
+        two storey office \u0026 awning structure\u003c/b\u003e"],["012.2016.00000729.001","12.2016.729.1","Occupation
+        Certificate","16/04/2019","28 John Oxley Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eConstruction
+        of a new 68 Bed Residential Care Facility over 2 storeys Plus a Basement Carpark\n\nPart
+        - \n\nBasement and ground floor areas including external courtyards and balcony\u0027s,
+        only to the exclusion of the following;\n\n* First Floor level,\n* Ground
+        floor Outdoor room GC 18,\n* Landscaping works to the front entrance,\n* Innowood
+        external cladding (attachment) located on south, north, west \u0026 east elevations\u003c/b\u003e"],["015.2019.00007138.001","15.2019.7138.1","Complying
+        Development Cert.","17/04/2019","16 Stables Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        with Attached Garage and Retaining Wall\u003c/b\u003e"],["010.2019.00000275.001","10.2019.275.1","Development
+        Application","16/04/2019","16 Stables Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAncillary
+        Development - Retaining Wall\u003c/b\u003e"],["710.2018.00001104.001","710.2018.1104.1","Section
+        138","15/04/2019","Pennant La, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway
+        Crossover\u003c/b\u003e"],["012.2019.00007106.001","12.2019.7106.1","Occupation
+        Certificate","15/04/2019","40-42 Horton St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eTenancy
+        Fitout (Shop T40) - Rockwear\u003c/b\u003e"],["680.2018.00000789.001","680.2018.789.1","Section
+        68 (680)","17/04/2019","2 Kingfisher Rd, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eNew
+        Shed\u003c/b\u003e"],["015.2019.00007117.001","15.2019.7117.1","Complying
+        Development Cert.","16/04/2019","64 Kennedy Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eSwimming
+        Pool\u003c/b\u003e"],["010.2019.00000281.001","10.2019.281.1","Development
+        Application","17/04/2019","92 Arranbee Rd, King Creek 2446 NSW \u003cbr/\u003e92A
+        Arranbee Rd, King Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eSecondary Dwelling\u003c/b\u003e"],["010.2019.00000280.001","10.2019.280.1","Development
+        Application","17/04/2019","39 Stanley Dr, Beechwood 2446 NSW \u003cbr/\u003e\u003cb\u003eAncillary
+        Building - Shed\u003c/b\u003e"],["680.2019.00000280.001","680.2019.280.1","Section
+        68 (680)","17/04/2019","39 Stanley Dr, Beechwood 2446 NSW \u003cbr/\u003e\u003cb\u003eAncillary
+        Building - Shed\u003c/b\u003e"],["011.2019.00000280.001","11.2019.280.1","Construction
+        Certificate","17/04/2019","39 Stanley Dr, Beechwood 2446 NSW \u003cbr/\u003e\u003cb\u003eAncillary
+        Building - Shed\u003c/b\u003e"],["015.2019.00007134.001","15.2019.7134.1","Complying
+        Development Cert.","15/04/2019","41 Diamond Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        with Attached Garage\u003c/b\u003e"],["015.2019.00007132.001","15.2019.7132.1","Complying
+        Development Cert.","17/04/2019","15 Stables Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        with Attached Garage\u003c/b\u003e"],["015.2019.00007131.001","15.2019.7131.1","Complying
+        Development Cert.","18/04/2019","7A Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e7B
+        Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eRock Retaining
+        Wall\u003c/b\u003e"],["015.2019.00007130.001","15.2019.7130.1","Complying
+        Development Cert.","17/04/2019","11 Verne Prescott Rtt, Port Macquarie 2444
+        NSW \u003cbr/\u003e\u003cb\u003eRetaining Wall \u0026 Associated Earthworks\u003c/b\u003e"],["680.2018.00001104.001","680.2018.1104.1","Section
+        68 (680)","15/04/2019","3 Pennant La, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        Lot 8\u003c/b\u003e"],["010.2015.00000134.002","10.2015.134.2","S96","17/04/2019","P
+        Macquarie, Thrumster 2444 NSW \u003cbr/\u003eThrumster St, Thrumster 2444
+        NSW \u003cbr/\u003e\u003cb\u003eCANCELLED      Subdivision - Modification\u003c/b\u003e"],["680.2019.00000255.001","680.2019.255.1","Section
+        68 (680)","18/04/2019","25 Antigua Av, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["680.2019.00000276.001","680.2019.276.1","Section
+        68 (680)","16/04/2019","44 Stanley Dr, Beechwood 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["680.2019.00000281.001","680.2019.281.1","Section
+        68 (680)","17/04/2019","92 Arranbee Rd, King Creek 2446 NSW \u003cbr/\u003e92A
+        Arranbee Rd, King Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eSecondary Dwelling
+        Serviced by a New AWTS and Sub-Surface Drip Irrigation also to Service Main
+        Dwelling\u003c/b\u003e"],["680.2018.00001104.002","680.2018.1104.2","Section
+        68 (680)","15/04/2019","Pennant La, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        Lot 9\u003c/b\u003e"],["015.2019.00007124.001","15.2019.7124.1","Complying
+        Development Cert.","18/04/2019","12 Backler St, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        and Attached Garage\u003c/b\u003e"],["010.2018.00000635.002","10.2018.635.2","S96","15/04/2019","12
+        Warlters St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eTo Reduce
+        Shed Size and Remove Demolition Proposal\u003c/b\u003e"],["710.2019.00007118.001","710.2019.7118.1","Section
+        138","18/04/2019","3 Neville Rd, Beechwood 2446 NSW \u003cbr/\u003e\u003cb\u003eWITHDRAWN   -   Driveway
+        Crossover (Proposed Lot 128)\u003c/b\u003e"],["017.2003.00000662.001","17.2003.662.1","Construct.Cert
+        Infrastructure","18/04/2019","60 Lake St, Laurieton 2443 NSW \u003cbr/\u003e\u003cb\u003eConstruction
+        of Infrastructure Work for 9 Unit Development\u003c/b\u003e"],["680.2019.00005055.001","680.2019.5055.1","Section
+        68 (680)","15/04/2019","13 Stables Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["710.2019.00000283.001","710.2019.283.1","Section
+        138","17/04/2019","34 Production Dr, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eS138
+        Works for Industrial Development\u003c/b\u003e"],["013.2018.00000289.001","13.2018.289.1","Subdivision
+        Certificate","16/04/2019","1/5 Meehan St, Thrumster 2444 NSW \u003cbr/\u003e2/5
+        Meehan St, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003e2 Lot Strata Title
+        Subdivision\u003c/b\u003e"],["012.2019.00007117.001","12.2019.7117.1","Occupation
+        Certificate","16/04/2019","64 Kennedy Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eSwimming
+        Pool\u003c/b\u003e"],["017.2016.00001001.001","17.2016.1001.1","Construct.Cert
+        Infrastructure","18/04/2019","82 Bay St, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eConstruction
+        of Infrastructure Work for Multi-Unit Development\u003c/b\u003e"],["012.2018.00000789.001","12.2018.789.1","Occupation
+        Certificate","17/04/2019","2 Kingfisher Rd, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAdditional
+        Building associated with Place of Public Worship\u003c/b\u003e"],["680.2019.00007118.001","680.2019.7118.1","Section
+        68 (680)","18/04/2019","3 Neville Rd, Beechwood 2446 NSW \u003cbr/\u003e\u003cb\u003eWITHDRAWN     -   Dwelling
+        (Proposed Lot 128)\u003c/b\u003e"],["015.2019.00007118.001","15.2019.7118.1","Complying
+        Development Cert.","18/04/2019","3 Neville Rd, Beechwood 2446 NSW \u003cbr/\u003e\u003cb\u003eWITHDRAWN    -   Dwelling
+        (Proposed Lot 128)\u003c/b\u003e"],["680.2003.00000662.001","680.2003.662.1","Section
+        68 (680)","18/04/2019","54 Lake St, Laurieton 2443 NSW \u003cbr/\u003e\u003cb\u003eMutil
+        Dwelling Units\u003c/b\u003e"],["680.2019.00000285.001","680.2019.285.1","Section
         68 (680)","18/04/2019","15 Ocean Dr, Port Macquarie 2444 NSW \u003cbr/\u003e39
         Ackroyd St, Port Macquarie 2444 NSW \u003cbr/\u003e43 Ackroyd St, Port Macquarie
         2444 NSW \u003cbr/\u003e\u003cb\u003eService Station and Take Away Food and
-        Drink Premises\u003c/b\u003e"],["710.2019.00006060.001","710.2019.6060.1","Section
-        138","24/04/2019","21 Manuka Pky, King Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eDriveway
-        Crossover\u003c/b\u003e"],["011.2017.00000833.001","11.2017.833.1","Construction
+        Drink Premises\u003c/b\u003e"],["011.2017.00000833.001","11.2017.833.1","Construction
         Certificate","17/04/2019","15 Production Dr, Wauchope 2446 NSW \u003cbr/\u003e4
         Trade Cct, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eIndustrial Building,
-        Storage Shed, Workshop \u0026 Wash Bay\u003c/b\u003e"],["710.2019.00006059.001","710.2019.6059.1","Section
-        138","24/04/2019","828 Ocean Dr, Bonny Hills 2445 NSW \u003cbr/\u003e\u003cb\u003eDriveway
-        Crossover\u003c/b\u003e"],["011.2019.00000080.001","11.2019.80.1","Construction
+        Storage Shed, Workshop \u0026 Wash Bay\u003c/b\u003e"],["011.2019.00000080.001","11.2019.80.1","Construction
         Certificate","17/04/2019","31 Campus St, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
         with Attached Garage and Retaining Walls\u003c/b\u003e"],["011.2019.00000283.001","11.2019.283.1","Construction
         Certificate","17/04/2019","34 Production Dr, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eIndustrial
@@ -1525,9 +1708,7 @@ http_interactions:
         Certificate","17/04/2019","92 Arranbee Rd, King Creek 2446 NSW \u003cbr/\u003e92A
         Arranbee Rd, King Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eSecondary Dwelling\u003c/b\u003e"],["012.2019.00000280.001","12.2019.280.1","Occupation
         Certificate","17/04/2019","39 Stanley Dr, Beechwood 2446 NSW \u003cbr/\u003e\u003cb\u003eAncillary
-        Building - Shed\u003c/b\u003e"],["012.2019.00007107.001","12.2019.7107.1","Occupation
-        Certificate","23/04/2019","12 Mimosa Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        - Internal Alterations\u003c/b\u003e"],["012.2018.00000461.001","12.2018.461.1","Occupation
+        Building - Shed\u003c/b\u003e"],["012.2018.00000461.001","12.2018.461.1","Occupation
         Certificate","16/04/2019","42A Gunsynd Ch, Port Macquarie 2444 NSW \u003cbr/\u003e42B
         Gunsynd Ch, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eTwo Attached
         Residential Dwellings\u003c/b\u003e"],["010.2019.00000279.001","10.2019.279.1","Development
@@ -1542,8 +1723,7 @@ http_interactions:
         Certificate","16/04/2019","45 Litchfield Pky, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDwelling
         and Swimming Pool\u003c/b\u003e"],["012.2014.00000943.001","12.2014.943.1","Occupation
         Certificate","16/04/2019","820 Rawdon Island Rd, Rawdon Island 2446 NSW \u003cbr/\u003eRawdon
-        Island Rd, Rawdon Island 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling - Modification\u003c/b\u003e"],["012.2019.00007119.001","12.2019.7119.1","Occupation
-        Certificate","23/04/2019","21 Leaders Wy, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling\u003c/b\u003e"],["010.2019.00000273.001","10.2019.273.1","Development
+        Island Rd, Rawdon Island 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling - Modification\u003c/b\u003e"],["010.2019.00000273.001","10.2019.273.1","Development
         Application","16/04/2019","150 Lake Rd, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eAlterations
         to Building and Change of Use to Light Industry\u003c/b\u003e"],["012.2017.00000464.001","12.2017.464.1","Occupation
         Certificate","16/04/2019","151 Greenmeadows Dr, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eStorage
@@ -1573,9 +1753,7 @@ http_interactions:
         138","17/04/2019","49 Bold St, Laurieton 2443 NSW \u003cbr/\u003e\u003cb\u003eTraffic
         - S138 exempt - Special Event road closure\u003c/b\u003e"],["710.2019.00006056.001","710.2019.6056.1","Section
         138","17/04/2019","High St, Wauchope 2446 NSW \u003cbr/\u003e\u003cb\u003eTraffic
-        - S138 exempt Special Event Road Closure\u003c/b\u003e"],["710.2019.00006055.001","710.2019.6055.1","Section
-        138","15/04/2019","13 Stables Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway
-        Crossover\u003c/b\u003e"],["012.2018.00000223.001","12.2018.223.1","Occupation
+        - S138 exempt Special Event Road Closure\u003c/b\u003e"],["012.2018.00000223.001","12.2018.223.1","Occupation
         Certificate","15/04/2019","111 Oxbow Cct, King Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling
         with Attached Shed and Garage\u003c/b\u003e"],["012.2018.00000330.001","12.2018.330.1","Occupation
         Certificate","16/04/2019","40 Oxbow Cct, King Creek 2446 NSW \u003cbr/\u003e\u003cb\u003eDwelling
@@ -1586,6 +1764,73 @@ http_interactions:
         \u0026 Detached Sheds\u003c/b\u003e"],["680.2015.00005126.014","680.2015.5126.14","Section
         68 (680)","15/04/2019","1333 Ocean Dr, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eOcean
         Club Resort - Stage 18 Lots 221, 222, 225, 226 \u0026 227\u003c/b\u003e"]]}'
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: https://datracker.pmhc.nsw.gov.au/Application/GetApplications
+    body:
+      encoding: UTF-8
+      string: start=400&length=100&json=%7B%22DateFrom%22%3A%2214%2F04%2F2019%22%2C%22DateTo%22%3A%2214%2F05%2F2019%22%2C%22DateType%22%3A%221%22%2C%22RemoveUndeterminedApplications%22%3Afalse%2C%22ShowOutstandingApplications%22%3Afalse%2C%22ShowExhibitedApplications%22%3Afalse%2C%22IncludeDocuments%22%3Afalse%7D
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=zg4ss4y3pi2oiodya42ei3na; User=accessAllowed-MasterView=True
+      Host:
+      - datracker.pmhc.nsw.gov.au
+      Referer:
+      - https://datracker.pmhc.nsw.gov.au/Application/GetApplications
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '300'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - application/json; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/8.5
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Mon, 24 Jun 2019 01:54:38 GMT
+      Content-Length:
+      - '676'
+    body:
+      encoding: UTF-8
+      string: '{"draw":null,"recordsTotal":403,"recordsFiltered":403,"data":[["710.2019.00000270.001","710.2019.270.1","Section
+        138","15/04/2019","29A Antigua Av, Lake Cathie 2445 NSW \u003cbr/\u003e29B
+        Antigua Av, Lake Cathie 2445 NSW \u003cbr/\u003e\u003cb\u003eDriveway Crossover\u003c/b\u003e"],["710.2019.00000271.001","710.2019.271.1","Section
+        138","15/04/2019","4A Assembly Cl, Thrumster 2444 NSW \u003cbr/\u003e4B Assembly
+        Cl, Thrumster 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway Crossover\u003c/b\u003e"],["710.2019.00006055.001","710.2019.6055.1","Section
+        138","15/04/2019","13 Stables Wy, Port Macquarie 2444 NSW \u003cbr/\u003e\u003cb\u003eDriveway
+        Crossover\u003c/b\u003e"]]}'
     http_version: 
   recorded_at: Mon, 13 May 2019 14:00:00 GMT
 recorded_with: VCR 5.0.0
