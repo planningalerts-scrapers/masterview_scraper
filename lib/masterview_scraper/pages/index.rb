@@ -28,6 +28,11 @@ module MasterviewScraper
       end
 
       def self.scrape(page)
+        d = page.at("div.ControlContent")
+        if d&.inner_html&.match(/An unexpected error has occured./)
+          raise "The server has a problem. It says an unexpected error has occured"
+        end
+
         table = page.at("table.rgMasterTable") ||
                 page.at("table table") ||
                 page.at("#ctl03_lblData table")
