@@ -7,12 +7,20 @@ module MasterviewScraper
   module GetApplicationsApi
     # Returns applications between those dates
     def self.scrape(url:, start_date:, end_date:, agent:, long_council_reference:, types:)
-      # TODO: Do some kind of paging instead rather than just grabbing a large fixed number
-      scrape_page(
-        offset: 0, limit: 1000, url: url, start_date: start_date, end_date: end_date,
-        agent: agent, long_council_reference: long_council_reference, types: types
-      ) do |record|
-        yield record
+      page_size = 1000
+      page_no = 0
+      # Start with the assumption that there is at least one records to be returned
+      total_records = 1
+
+      while total_records > page_no * page_size
+        total_records = scrape_page(
+          offset: page_no * page_size, limit: page_size, url: url,
+          start_date: start_date, end_date: end_date,
+          agent: agent, long_council_reference: long_council_reference, types: types
+        ) do |record|
+          yield record
+        end
+        page_no += 1
       end
     end
 
@@ -37,7 +45,8 @@ module MasterviewScraper
         "json" => json.to_json
       )
 
-      JSON.parse(page.body)["data"].each do |application|
+      result = JSON.parse(page.body)
+      result["data"].each do |application|
         details = application[4].split("<br/>")
         # TODO: Do this properly
         description = details[-1].gsub("<b>", "").gsub("</b>", "").squeeze(" ")
@@ -53,6 +62,9 @@ module MasterviewScraper
           "date_received" => Date.strptime(application[3], "%d/%m/%Y").to_s
         )
       end
+
+      # Return the total number of records (not just what's in this page)
+      result["recordsTotal"]
     end
   end
 end
