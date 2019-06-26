@@ -46,6 +46,8 @@ module MasterviewScraper
       )
 
       result = JSON.parse(page.body)
+      raise "Unexpected for of result: #{result}" unless result["data"].respond_to?(:each)
+
       result["data"].each do |application|
         details = application[4].split("<br/>")
         # TODO: Do this properly
