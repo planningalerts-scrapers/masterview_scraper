@@ -6,8 +6,8 @@ module MasterviewScraper
   # This API endpoint only exists on recent versions of the system
   module GetApplicationsApi
     # Returns applications between those dates
-    def self.scrape(url:, start_date:, end_date:, agent:, long_council_reference:, types:)
-      page_size = 100
+    def self.scrape(url:, start_date:, end_date:, agent:, long_council_reference:,
+                    types:, page_size: 100)
       page_no = 0
       # Start with the assumption that there is at least one records to be returned
       total_records = 1

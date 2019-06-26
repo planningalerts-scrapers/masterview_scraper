@@ -36,7 +36,9 @@ module MasterviewScraper
     disable_ssl_certificate_check: false,
     long_council_reference: false,
     types: nil,
-    proxy: false
+    proxy: false,
+    # page_size only applies when use_api is true at the moment
+    page_size: 100
   )
     if use_api
       scrape_api_period(
@@ -45,7 +47,8 @@ module MasterviewScraper
         disable_ssl_certificate_check,
         long_council_reference,
         types,
-        proxy
+        proxy,
+        page_size
       ) do |record|
         yield record
       end
@@ -59,7 +62,8 @@ module MasterviewScraper
   end
 
   def self.scrape_api_period(
-    url, period, disable_ssl_certificate_check, long_council_reference, types, proxy
+    url, period, disable_ssl_certificate_check, long_council_reference, types,
+    proxy, page_size = 100
   )
     if period == :last10days
       scrape_api(
@@ -69,7 +73,8 @@ module MasterviewScraper
         disable_ssl_certificate_check,
         long_council_reference,
         types,
-        proxy
+        proxy,
+        page_size
       ) do |record|
         yield record
       end
@@ -81,7 +86,8 @@ module MasterviewScraper
         disable_ssl_certificate_check,
         long_council_reference,
         types,
-        proxy
+        proxy,
+        page_size
       ) do |record|
         yield record
       end
@@ -95,7 +101,8 @@ module MasterviewScraper
         disable_ssl_certificate_check,
         long_council_reference,
         types,
-        proxy
+        proxy,
+        page_size
       ) do |record|
         yield record
       end
@@ -111,7 +118,8 @@ module MasterviewScraper
     disable_ssl_certificate_check,
     long_council_reference,
     types,
-    proxy
+    proxy,
+    page_size = 100
   )
     agent = Mechanize.new
     agent.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
@@ -123,7 +131,8 @@ module MasterviewScraper
 
     GetApplicationsApi.scrape(
       url: url, start_date: start_date, end_date: end_date,
-      agent: agent, long_council_reference: long_council_reference, types: types
+      agent: agent, long_council_reference: long_council_reference, types: types,
+      page_size: page_size
     ) do |record|
       yield record
     end

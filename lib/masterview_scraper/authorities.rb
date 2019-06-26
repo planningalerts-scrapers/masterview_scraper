@@ -175,6 +175,12 @@ module MasterviewScraper
       url: "https://datracker.singleton.nsw.gov.au:444",
       use_api: true,
       period: :last30days
+    },
+    byron: {
+      url: "https://datracker.byron.nsw.gov.au/MasterViewUI-External",
+      use_api: true,
+      period: :last30days,
+      page_size: 10
     }
   }.freeze
 end
