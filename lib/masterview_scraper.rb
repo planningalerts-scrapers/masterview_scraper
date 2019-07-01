@@ -36,7 +36,6 @@ module MasterviewScraper
     disable_ssl_certificate_check: false,
     long_council_reference: false,
     types: nil,
-    proxy: false,
     # page_size only applies when use_api is true at the moment
     page_size: 100
   )
@@ -47,14 +46,13 @@ module MasterviewScraper
         disable_ssl_certificate_check,
         long_council_reference,
         types,
-        proxy,
         page_size
       ) do |record|
         yield record
       end
     else
       scrape_url(
-        url_with_period(url, period, params), state, disable_ssl_certificate_check, proxy
+        url_with_period(url, period, params), state, disable_ssl_certificate_check
       ) do |record|
         yield record
       end
@@ -63,7 +61,7 @@ module MasterviewScraper
 
   def self.scrape_api_period(
     url, period, disable_ssl_certificate_check, long_council_reference, types,
-    proxy, page_size = 100
+    page_size = 100
   )
     if period == :last10days
       scrape_api(
@@ -73,7 +71,6 @@ module MasterviewScraper
         disable_ssl_certificate_check,
         long_council_reference,
         types,
-        proxy,
         page_size
       ) do |record|
         yield record
@@ -86,7 +83,6 @@ module MasterviewScraper
         disable_ssl_certificate_check,
         long_council_reference,
         types,
-        proxy,
         page_size
       ) do |record|
         yield record
@@ -101,7 +97,6 @@ module MasterviewScraper
         disable_ssl_certificate_check,
         long_council_reference,
         types,
-        proxy,
         page_size
       ) do |record|
         yield record
@@ -118,12 +113,10 @@ module MasterviewScraper
     disable_ssl_certificate_check,
     long_council_reference,
     types,
-    proxy,
     page_size = 100
   )
     agent = Mechanize.new
     agent.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
-    agent.set_proxy(ENV["MORPH_PROXY_HOST"], ENV["MORPH_PROXY_PORT"].to_i) if proxy
 
     page = agent.get(url + "/")
 
@@ -139,10 +132,9 @@ module MasterviewScraper
   end
 
   # Set state if the address does not already include the state (e.g. NSW, WA, etc..)
-  def self.scrape_url(url, state = nil, disable_ssl_certificate_check = false, proxy = false)
+  def self.scrape_url(url, state = nil, disable_ssl_certificate_check = false)
     agent = Mechanize.new
     agent.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
-    agent.set_proxy(ENV["MORPH_PROXY_HOST"], ENV["MORPH_PROXY_PORT"].to_i) if proxy
 
     # Read in a page
     page = agent.get(url)
