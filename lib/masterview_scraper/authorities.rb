@@ -180,6 +180,11 @@ module MasterviewScraper
       use_api: true,
       period: :last30days,
       page_size: 10
+    },
+    camden: {
+      url: "https://planning.camden.nsw.gov.au",
+      use_api: true,
+      period: :last10days
     }
   }.freeze
 end

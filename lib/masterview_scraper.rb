@@ -120,7 +120,9 @@ module MasterviewScraper
 
     page = agent.get(url + "/")
 
-    MasterviewScraper::Pages::TermsAndConditions.click_agree(page)
+    if Pages::TermsAndConditions.on_page?(page)
+      MasterviewScraper::Pages::TermsAndConditions.click_agree(page)
+    end
 
     GetApplicationsApi.scrape(
       url: url, start_date: start_date, end_date: end_date,

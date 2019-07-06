@@ -1,0 +1,1715 @@
+---
+- council_reference: CC/2016/1047/1
+  address: Raby Rd, Leppington 2179 NSW
+  description: Construction of a community hall and amenities building, open space
+    playground and skate area, car parking area, landscaping and associated site works.
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2016.00001047.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: CC/2017/1305/23
+  address: Gledswood Hills Dr, Gledswood Hills 2557 NSW
+  description: CC for Proposed Lot 10 Lambert Way Double Story Dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2017.00001305.023
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: CC/2017/1310/1
+  address: 42A Bluett Dr, Smeaton Grange 2567 NSW
+  description: Construction and use of industrial building as a data centre, including
+    earthworks, carparking, fencing, landscaping and associated works.
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2017.00001310.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: CC/2017/1409/1
+  address: 9 Russell St, Oran Park 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2017.00001409.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: CC/2017/1609/1
+  address: 40 Owens St, Spring Farm 2570 NSW
+  description: Single Storey Dwelling with Detached Secondary Dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2017.00001609.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: CC/2017/1675/1
+  address: 30 Bega St, Gregory Hills 2557 NSW
+  description: Two Double Storey Dwellings with Torrens Title Subdivision
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2017.00001675.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: CC/2017/323/5
+  address: 33 Village Cct, Gregory Hills 2557 NSW
+  description: DA Modification to business identification signage
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2017.00000323.005
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: CC/2018/104/2
+  address: 900B Camden Valley Wy, Gledswood Hills 2557 NSW
+  description: CC mod - 2 storey dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2018.00000104.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: CC/2018/1082/1
+  address: 46 Power Rdg, Oran Park 2570 NSW
+  description: Two Double Storey Dwellings with Torrens Title Subdivision
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2018.00001082.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: CC/2018/1226/1
+  address: 11 Norton St, Spring Farm 2570 NSW
+  description: Two Storey Dwelling with Attached Secondary Dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2018.00001226.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: CC/2018/1279/1
+  address: 17 Livesy St, Oran Park 2570 NSW
+  description: Two Single Storey Dwellings with Torrens Title Subdivision
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2018.00001279.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: CC/2018/1289/1
+  address: Clancy Ln, Oran Park 2570 NSW
+  description: Two storey dwelling - proposed Lot 171
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2018.00001289.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: CC/2018/1289/2
+  address: Clancy Ln, Oran Park 2570 NSW
+  description: Two storey dwelling - proposed Lot 170
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2018.00001289.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: CC/2018/1289/3
+  address: Clancy Ln, Oran Park 2570 NSW
+  description: Two storey dwelling - proposed Lot 169
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2018.00001289.003
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: CC/2018/1289/4
+  address: Clancy Ln, Oran Park 2570 NSW
+  description: Tow storey dwelling - proposed Lot 168
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2018.00001289.004
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: CC/2018/1289/5
+  address: Clancy Ln, Oran Park 2570 NSW
+  description: Two storey dwelling - proposed Lot 167
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2018.00001289.005
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: CC/2018/1289/6
+  address: Clancy Ln, Oran Park 2570 NSW
+  description: Two storey dwelling - proposed Lot 165
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2018.00001289.006
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: CC/2018/1289/7
+  address: Clancy Ln, Oran Park 2570 NSW
+  description: Two storey dwelling - proposed lot 166
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2018.00001289.007
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: CC/2018/1361/1
+  address: 33 Village Cct, Gregory Hills 2557 NSW
+  description: Fit out and use within Medical Centre for Pharmacy
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2018.00001361.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: CC/2018/1383/1
+  address: 42 Gibbs Cr, Catherine Field 2557 NSW
+  description: Construction of a two storey dwelling house
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2018.00001383.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: CC/2018/1441/1
+  address: 3 Grandstand Lp, Oran Park 2570 NSW
+  description: Two Storey Dwelling with Retaining Walls & Associated Landscaping
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2018.00001441.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: CC/2018/1442/1
+  address: 3 Bergin Cct, Leppington 2179 NSW
+  description: Two Storey Dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2018.00001442.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: CC/2018/1489/1
+  address: 48 Matilda Rd, Leppington 2179 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2018.00001489.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: CC/2018/578/1
+  address: 164 The Old Oaks Rd, Grasmere 2570 NSW
+  description: Secondary Dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2018.00000578.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: CC/2019/114/1
+  address: 49 Limestone Ave, Spring Farm 2570 NSW
+  description: Two Storey Dwelling with Retaining Walls
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2019.00000114.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: CC/2019/123/1
+  address: 15 Macquarie Av, Camden 2570 NSW
+  description: New Alterations/Additions To Dwelling with Swimming Pool, Boundary
+    Fence + Retaining Walls
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2019.00000123.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: CC/2019/133/1
+  address: 74 Floyd St, Spring Farm 2570 NSW
+  description: New Single Storey Dwelling with Detached Granny Flat
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2019.00000133.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: CC/2019/202/1
+  address: 28 Rheinbergers Cct, Elderslie 2570 NSW
+  description: Alteration/Additions To Existing Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2019.00000202.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: CC/2019/245/1
+  address: 48 Evergreen Dr, Oran Park 2570 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2019.00000245.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: CC/2019/273/1
+  address: 8 Daniels Rd, Cobbitty 2570 NSW
+  description: Single Storey Dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2019.00000273.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: CC/2019/275/1
+  address: 4 Daniels Rd, Cobbitty 2570 NSW
+  description: Single Storey Dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2019.00000275.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: CC/2019/315/1
+  address: 11 Rofe Pl, Grasmere 2570 NSW
+  description: Detached Garage
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2019.00000315.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: CC/2019/362/1
+  address: 38 Price Rdg, Leppington 2179 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2019.00000362.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: CC/2019/390/1
+  address: 5B River Rd, Elderslie 2570 NSW
+  description: New Retaining Wall
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2019.00000390.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: CC/2019/86/1
+  address: 36 Potts St, Oran Park 2570 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2019.00000086.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: CDC/2019/654/1
+  address: 10 Graceful Ct, Cobbitty 2570 NSW
+  description: New Swimming Pool - Concrete
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000654.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: CDC/2019/655/1
+  address: 133 Jersey Rd, Bringelly 2556 NSW
+  description: New Swimming Pool - Concrete
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000655.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: CDC/2019/656/1
+  address: Bellingham St, Narellan 2567 NSW
+  description: Subdivision - Strata
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000656.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: CDC/2019/657/1
+  address: 20 Wagner Rd, Spring Farm 2570 NSW
+  description: New Principal Dwelling / Secondary Dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000657.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: CDC/2019/658/1
+  address: 7 Cain Av, Gregory Hills 2557 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000658.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: CDC/2019/659/1
+  address: 9 Gray St, Leppington 2179 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000659.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: CDC/2019/660/1
+  address: 46 Tupman St, Spring Farm 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000660.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: CDC/2019/661/1
+  address: 18 Morinda St, Mount Annan 2567 NSW
+  description: New Swimming Pool - Concrete
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000661.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: CDC/2019/662/1
+  address: 43 Limestone Ave, Spring Farm 2570 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000662.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: CDC/2019/663/1
+  address: 5 Daniels Rd, Cobbitty 2570 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000663.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: CDC/2019/664/1
+  address: 6 Daniels Rd, Cobbitty 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000664.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: CDC/2019/665/1
+  address: 8 Barbara St, Cobbitty 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000665.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: CDC/2019/666/1
+  address: 6 Barbara St, Cobbitty 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000666.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: CDC/2019/667/1
+  address: 4 Barbara St, Cobbitty 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000667.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: CDC/2019/668/1
+  address: 7 Daniels Rd, Cobbitty 2570 NSW
+  description: Two Story Dwelling, Attached Double Garage & Retaining Walls
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000668.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: CDC/2019/669/1
+  address: 9 Newmarket St, Currans Hill 2567 NSW
+  description: Single Story Dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000669.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: CDC/2019/670/1
+  address: 40 Evergreen Dr, Oran Park 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000670.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: CDC/2019/671/1
+  address: 5 Musgrave Ave, Spring Farm 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000671.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: CDC/2019/672/1
+  address: 41 Limestone Ave, Spring Farm 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000672.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: CDC/2019/673/1
+  address: 4 Koonara Gra, Gledswood Hills 2557 NSW
+  description: New Swimming Pool - Concrete
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000673.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: CDC/2019/674/1
+  address: 10 Oak Flat Ave, Cobbitty 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000674.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: CDC/2019/675/1
+  address: 3 Sickles Dr, Grasmere 2570 NSW
+  description: New Swimming Pool - Fibreglass
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000675.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: CDC/2019/677/1
+  address: 35 Kettle St, Leppington 2179 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000677.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: CDC/2019/678/1
+  address: 3 Sickles Dr, Grasmere 2570 NSW
+  description: Shade Structure
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000678.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: CDC/2019/679/1
+  address: 41 Radisich Lp, Oran Park 2570 NSW
+  description: New Swimming Pool - Fibreglass
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000679.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: CDC/2019/680/1
+  address: 33 Village Cct, Gregory Hills 2557 NSW
+  description: Shop 101, First Use and Associated Fitout of Business Premises -Office
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000680.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: CDC/2019/681/1
+  address: 2 Galah Way, Spring Farm 2570 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000681.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: CDC/2019/682/1
+  address: 39 Bluebell Cr, Spring Farm 2570 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000682.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: CDC/2019/683/1
+  address: 15 Salmon St, Oran Park 2570 NSW
+  description: Dwelling Additions - Attached Balcony and Detached Swimming Pool ,
+    Awning & Cabana
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000683.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: CDC/2019/684/1
+  address: 6 Musgrave Ave, Spring Farm 2570 NSW
+  description: Construction of a new single story dwelling and attached secondary
+    dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000684.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: CDC/2019/685/1
+  address: 65 Archer Rd, Spring Farm 2570 NSW
+  description: Construction of a new single story dwelling and attached secondary
+    dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000685.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: CDC/2019/686/1
+  address: 8 Joey Cr, Leppington 2179 NSW
+  description: Proposed alteration to exsiting dwelling - alteration to the front
+    facade
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000686.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: CDC/2019/687/1
+  address: 20 Wagner Rd, Spring Farm 2570 NSW
+  description: Construction of a new two story dwelling and detached secondary dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000687.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: CDC/2019/688/1
+  address: 83 Bligh Av, Camden South 2570 NSW
+  description: Demolition of existing dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000688.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: CDC/2019/689/1
+  address: 6 Galah Way, Spring Farm 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000689.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: CDC/2019/690/1
+  address: 23 Bewhouse Rd, Leppington 2179 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000690.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: CDC/2019/691/1
+  address: 6 Exchange Pde, Smeaton Grange 2567 NSW
+  description: Construction of 6 industrial units including carpark and landscaping
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000691.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: CDC/2019/692/1
+  address: 38 Pearson Cr, Harrington Park 2567 NSW
+  description: New Swimming Pool - Concrete
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000692.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: CDC/2019/693/1
+  address: 13 Wattle St, Spring Farm 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000693.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: CDC/2019/694/1
+  address: 36 Waterworth Dr, Narellan Vale 2567 NSW
+  description: New Swimming Pool - Concrete
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000694.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: CDC/2019/695/1
+  address: 30 Asimus Cct, Elderslie 2570 NSW
+  description: New Swimming Pool - Concrete
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000695.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: CDC/2019/696/1
+  address: 7 Kettle St, Leppington 2179 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000696.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: CDC/2019/697/1
+  address: 95 Kavanagh St, Gregory Hills 2557 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000697.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: CDC/2019/698/1
+  address: 41 The Old Northern Rd, Narellan 2567 NSW
+  description: Installation of a 9.96KW Solar photovoltaic system on roof
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000698.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: CDC/2019/699/1
+  address: 19 Archway St, Gregory Hills 2557 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000699.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: CDC/2019/700/1
+  address: 23A Power Rdg, Oran Park 2570 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000700.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: CDC/2019/701/1
+  address: 23B Power Rdg, Oran Park 2570 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000701.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: CDC/2019/702/1
+  address: 59 Kettle St, Leppington 2179 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000702.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: CDC/2019/703/1
+  address: 3 Daniels Rd, Cobbitty 2570 NSW
+  description: Single storey dweeling with garage and retaining walls
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000703.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: DA/2019/348/1
+  address: 2 Holden Dr, Oran Park 2570 NSW
+  description: Two Double Storey Detached Dwellings with Torrens Title Subdivision
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000348.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: DA/2019/349/1
+  address: 4 Gray St, Leppington 2179 NSW
+  description: Two Storey Dwelling with Detached Secondary Dwelling & Swimming Pool
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000349.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: DA/2019/350/1
+  address: 81 Argyle St, Camden 2570 NSW
+  description: Alterations & Additions
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000350.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: DA/2019/351/1
+  address: 3 Friend Rd, Leppington 2179 NSW
+  description: New Dwelling - Two Storey With Swimming Pool
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000351.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: DA/2019/352/1
+  address: 23 Carter St, Oran Park 2570 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000352.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: DA/2019/354/1
+  address: 54 Old Hume Hwy, Camden 2570 NSW
+  description: Install A Single Sided LED Digital Sign & Frame
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000354.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: DA/2019/355/1
+  address: 65 Jennings Cr, Spring Farm 2570 NSW
+  description: New Dwelling - Single Storey and New Retaining Wall - Proposed Lot
+    7109 - DP unknown
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000355.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: DA/2019/356/1
+  address: 65 Jennings Cr, Spring Farm 2570 NSW
+  description: Single Storey Dwelling - Proposed Lot 7107
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000356.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: DA/2019/357/1
+  address: 65 Jennings Cr, Spring Farm 2570 NSW
+  description: New Dwelling - Single Storey and New Retaining Wall Proposed Lot 7108
+    Garner St Spring Farm.
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000357.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: DA/2019/359/1
+  address: 54 Flintlock Dr, Harrington Park 2567 NSW
+  description: Two Storey Dwelling with Swimming Pool
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000359.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: DA/2019/360/1
+  address: 4 O'Keefe Dr, Oran Park 2570 NSW
+  description: Construction of an at-grade car park, timber pergola, installation
+    of street furniture and landscaping works
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000360.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: DA/2019/361/1
+  address: 122 Dickson Rd, Leppington 2179 NSW
+  description: Remediation of contaminated land, demolition of existing structures,
+    construction of a new local road and Torrens title subdivision of one lot into
+    two.
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000361.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: DA/2019/362/1
+  address: 38 Price Rdg, Leppington 2179 NSW
+  description: Two storey dwelling with attached garage
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000362.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: DA/2019/363/1
+  address: 12 The Meadows, Kirkham 2570 NSW
+  description: New colourbond shed on existing slab
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000363.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: DA/2019/364/1
+  address: 8 Wattle St, Spring Farm 2570 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000364.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: DA/2019/365/1
+  address: 33 Olive Hill Dr, Cobbitty 2570 NSW
+  description: New Dwelling - Single Storey and New Swimming Pool - Fibreglass New
+    Dwelling - Single Storey New Swimming Pool - Fibreglass
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000365.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: DA/2019/366/1
+  address: 1 Barrett St, Gregory Hills 2557 NSW
+  description: Remediation of contaminated land, demolition of existing structures,
+    tree removal, subdivision creating 71 residential Torrens title lots and 2 residue
+    lots, and associated site works.
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000366.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: DA/2019/367/1
+  address: 124 Aqueduct St, Leppington 2179 NSW
+  description: New Retaining Wall
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000367.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: DA/2019/368/1
+  address: 76 Lowndes Dr, Oran Park 2570 NSW
+  description: New Fibreglass Swimming Pool
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000368.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: DA/2019/369/1
+  address: 35 Olive Hill Dr, Cobbitty 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000369.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: DA/2019/370/1
+  address: 73 Providence Dr, Gledswood Hills 2557 NSW
+  description: New Dwelling - Single Storey - Proposed lot 304 Channon St
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000370.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: DA/2019/371/1
+  address: 73 Providence Dr, Gledswood Hills 2557 NSW
+  description: Two Storey Dwelling - Proposed Lot 311 Bluestone Ave
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000371.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: DA/2019/373/1
+  address: 73 Providence Dr, Gledswood Hills 2557 NSW
+  description: New Dwelling - Two Storey - Prosposed lot 302 Channon St
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000373.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: DA/2019/374/1
+  address: 73 Providence Dr, Gledswood Hills 2557 NSW
+  description: Two Storey Dwelling - Proposed Lot 301 Channon Street
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000374.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: DA/2019/375/1
+  address: 73 Providence Dr, Gledswood Hills 2557 NSW
+  description: Two Storey Dwelling - Proposed Lot 307 Providence Drive
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000375.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: DA/2019/376/1
+  address: 73 Providence Dr, Gledswood Hills 2557 NSW
+  description: New Dwelling - Two Storey - Proposed Lot 312 Bluestone Ave
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000376.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: DA/2019/377/1
+  address: 73 Providence Dr, Gledswood Hills 2557 NSW
+  description: Single Storey Dwelling - Proposed Lot 315 Bluestone Avenue
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000377.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: DA/2019/378/1
+  address: 73 Providence Dr, Gledswood Hills 2557 NSW
+  description: Single Storey Dwelling - Proposed Lot 316 Bluestone Avenue
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000378.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: DA/2019/379/1
+  address: 73 Providence Dr, Gledswood Hills 2557 NSW
+  description: Single Storey Dwelling - Proposed Lot 313
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000379.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: DA/2019/380/1
+  address: 73 Providence Dr, Gledswood Hills 2557 NSW
+  description: Two Storey Dwelling - Proposed lot 310 Providence Drive
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000380.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: DA/2019/381/1
+  address: 2 Firewheel Cct, Gregory Hills 2557 NSW
+  description: New - Two Double Storey Dwellings on Torrens Title Subdivision
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000381.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: DA/2019/382/1
+  address: 30 Barry Av, Catherine Field 2557 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000382.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: DA/2019/383/1
+  address: 73 Providence Dr, Gledswood Hills 2557 NSW
+  description: Two Storey Dwelling - Proposed Lot 303 Channon Street
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000383.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: DA/2019/384/1
+  address: 73 Providence Dr, Gledswood Hills 2557 NSW
+  description: Single Storey Dwelling - Proposed Lot 317
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000384.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: DA/2019/385/1
+  address: 73 Providence Dr, Gledswood Hills 2557 NSW
+  description: Two Storey Dwelling - Proposed Lot 306 Channon Street
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000385.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: DA/2019/386/1
+  address: 73 Providence Dr, Gledswood Hills 2557 NSW
+  description: Proposed Lot 305 Channon Street New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000386.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: DA/2019/387/1
+  address: 73 Providence Dr, Gledswood Hills 2557 NSW
+  description: Proposed Lot 309 Providence Drive New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000387.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: DA/2019/388/1
+  address: 73 Providence Dr, Gledswood Hills 2557 NSW
+  description: Proposed Lot 308 Providence Drive - Construction of a double storey
+    dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000388.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: DA/2019/389/1
+  address: 73 Providence Dr, Gledswood Hills 2557 NSW
+  description: Single storey dwelling - Proposed Lot 314
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000389.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: DA/2019/390/1
+  address: 5B River Rd, Elderslie 2570 NSW
+  description: New Retaining Wall
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000390.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: DA/2019/391/1
+  address: 17 Joey Cr, Leppington 2179 NSW
+  description: Change of Use - Display Home & Signage
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000391.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: DA/2019/392/1
+  address: 19 Joey Cr, Leppington 2179 NSW
+  description: Change of Use - Display Home & Signage
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000392.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: DA/2019/393/1
+  address: 26 Potts St, Oran Park 2570 NSW
+  description: Two Lot Torrens Title Subdivision and Civil Associated Works
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000393.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: EngCC/2018/944/2
+  address: 1-9 Providence Dr, Gledswood Hills 2557 NSW
+  description: Amendment - minor to plan C1024
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/016.2018.00000944.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: OC/2014/1058/1
+  address: 793 Camden Valley Wy, Catherine Field 2557 NSW
+  description: Telecommunication tower
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2014.00001058.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: OC/2014/352/2
+  address: 51 The Northern Rd, Narellan 2567 NSW
+  description: Use of 3 existing buildings as a child care centre and associated site
+    works
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2014.00000352.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: OC/2015/1155/2
+  address: 4 Longarm Pl, Harrington Park 2567 NSW
+  description: Two Storey Dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2015.00001155.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: OC/2016/1490/2
+  address: 3A Rosemount Dr, Catherine Field 2557 NSW
+  description: Occupation Certificate for 3C Rosemount Drive Catherine Field
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2016.00001490.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: OC/2016/210/2
+  address: 3 Oaklands Crct, Gregory Hills 2557 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2016.00000210.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: OC/2016/225/2
+  address: Camden Valley Wy, Leppington 2179 NSW
+  description: DA Modification Removal of existing free standing illuminated estate
+    s ign adjacent to the estate entry driveway. Demolition of the existing painted
+    brick walls and post mounted lantern type lights. Construction of a new noise
+    wall along the front site boundary south of the estate entry driveway and returning
+    along part of the south boundary. Construction of 2 stone clad and backlight estate
+    identification walls adjscent to tghe estate entry driveway.
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2016.00000225.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2016/225/3
+  address: Camden Valley Wy, Leppington 2179 NSW
+  description: Extension of the Four Lanterns manufactured home estate to include
+    an additional 28 manufactured dwellings, relocation of 1 existing manufactured
+    home, landscaping, tree removal, road works and associated earthworks.
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2016.00000225.003
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2016/35/2
+  address: 3 Thorn Av, Harrington Park 2567 NSW
+  description: New Swimming Pool - Concrete
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2016.00000035.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: OC/2017/1024/2
+  address: 6 Atterall Ct, Harrington Park 2567 NSW
+  description: Two Storey Dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001024.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2017/1107/2
+  address: 4 Keefe St, Oran Park 2570 NSW
+  description: Two Storey Dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001107.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: OC/2017/1114/2
+  address: 79 Olive Hill Dr, Cobbitty 2570 NSW
+  description: Two storey dwelling, garage and retaining walls - proposed lot 1103
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001114.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2017/1114/3
+  address: 81 Olive Hill Dr, Cobbitty 2570 NSW
+  description: Two storey dwelling, garage and retaining walls - proposed Lot 1102
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001114.003
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2017/1114/4
+  address: 77 Olive Hill Dr, Cobbitty 2570 NSW
+  description: Two storey dwelling, garage and retaining walls - proposed lot 1104
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001114.004
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2017/1114/5
+  address: 75 Olive Hill Dr, Cobbitty 2570 NSW
+  description: Two storey dwelling, garage and retaining walls - proposed lot 1105
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001114.005
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2017/1114/6
+  address: 73 Olive Hill Dr, Cobbitty 2570 NSW
+  description: Two storey dwelling, garage and retaining walls - proposed lot 1106
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001114.006
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2017/1114/7
+  address: 71 Olive Hill Dr, Cobbitty 2570 NSW
+  description: Two storey dwelling, garage and retaining walls - proposed lot 1107
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001114.007
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2017/1114/8
+  address: 69 Olive Hill Dr, Cobbitty 2570 NSW
+  description: Two storey dwelling, garage and retaining walls - proposed lot 1108
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001114.008
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2017/1114/9
+  address: 67 Olive Hill Dr, Cobbitty 2570 NSW
+  description: Two storey dwelling, garage and retaining walls - proposed lot 1109
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001114.009
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2017/1228/2
+  address: 122 Gledswood Hills Dr, Gledswood Hills 2557 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001228.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2017/1238/2
+  address: 85 Richardson Rd, Narellan 2567 NSW
+  description: Alterations and additions to an existing building to for use as a a
+    childcare centre for 70 children and parking for 18 vehicles.
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001238.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: OC/2017/1246/10
+  address: 15 Revell St, Oran Park 2570 NSW
+  description: 19 Revelle Sr ORAN PARK Subdivision of 3 approved superlots to create
+    27 residential lots and the construction of 27 dwellings(attached, semi detached
+    and detached) and associated site works and landscaping
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001246.010
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2017/1246/11
+  address: 15 Revell St, Oran Park 2570 NSW
+  description: 17 revelle Street ORAN PARK Subdivision of 3 approved superlots to
+    create 27 residential lots and the construction of 27 dwellings(attached, semi
+    detached and detached) and associated site works and landscaping
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001246.011
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2017/1246/12
+  address: 15 Revell St, Oran Park 2570 NSW
+  description: Known as 15 Revelle Sr Subdivision of 3 approved superlots to create
+    27 residential lots and the construction of 27 dwellings(attached, semi detached
+    and detached) and associated site works and landscaping
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001246.012
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2017/1246/2
+  address: 15 Revell St, Oran Park 2570 NSW
+  description: 35 Revell st oran park Subdivision of 3 approved superlots to create
+    27 residential lots and the construction of 27 dwellings(attached, semi detached
+    and detached) and associated site works and landscaping
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001246.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2017/1246/3
+  address: 15 Revell St, Oran Park 2570 NSW
+  description: 33 Revelle St ORAN PARK Subdivision of 3 approved superlots to create
+    27 residential lots and the construction of 27 dwellings(attached, semi detached
+    and detached) and associated site works and landscaping
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001246.003
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2017/1246/4
+  address: 15 Revell St, Oran Park 2570 NSW
+  description: 31 Revelle St Oran park Subdivision of 3 approved superlots to create
+    27 residential lots and the construction of 27 dwellings(attached, semi detached
+    and detached) and associated site works and landscaping
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001246.004
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2017/1246/5
+  address: 15 Revell St, Oran Park 2570 NSW
+  description: 29 revelle st oran park Subdivision of 3 approved superlots to create
+    27 residential lots and the construction of 27 dwellings(attached, semi detached
+    and detached) and associated site works and landscaping
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001246.005
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2017/1246/6
+  address: 15 Revell St, Oran Park 2570 NSW
+  description: 27 Revelle St ORAN PARK Subdivision of 3 approved superlots to create
+    27 residential lots and the construction of 27 dwellings(attached, semi detached
+    and detached) and associated site works and landscaping
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001246.006
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2017/1246/7
+  address: 15 Revell St, Oran Park 2570 NSW
+  description: 25 Revelle St ORAN PARK Subdivision of 3 approved superlots to create
+    27 residential lots and the construction of 27 dwellings(attached, semi detached
+    and detached) and associated site works and landscaping
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001246.007
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2017/1246/8
+  address: 15 Revell St, Oran Park 2570 NSW
+  description: 23 Revelle Sr ORAN PARK Subdivision of 3 approved superlots to create
+    27 residential lots and the construction of 27 dwellings(attached, semi detached
+    and detached) and associated site works and landscaping
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001246.008
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2017/1246/9
+  address: 15 Revell St, Oran Park 2570 NSW
+  description: 21 Revelle st ORAN PARK Subdivision of 3 approved superlots to create
+    27 residential lots and the construction of 27 dwellings(attached, semi detached
+    and detached) and associated site works and landscaping
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001246.009
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2017/1339/2
+  address: 2 Ewing Lp, Oran Park 2570 NSW
+  description: Two Storey Dwelling and Swimming Pool
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001339.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: OC/2017/1459/2
+  address: 22A Courtney Lp, Oran Park 2570 NSW
+  description: Two storey dwelling with detached secondary dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001459.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: OC/2017/1690/2
+  address: 1 Jindalee St, Gledswood Hills 2557 NSW
+  description: Two Storey Dwelling - Proposed Lot 235
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001690.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: OC/2017/1699/2
+  address: 900B Camden Valley Wy, Gledswood Hills 2557 NSW
+  description: Two Storey Dwelling - Proposed Lot 237
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001699.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: OC/2017/1701/2
+  address: 900B Camden Valley Wy, Gledswood Hills 2557 NSW
+  description: Single Storey Dwelling - Proposed Lot 239
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001701.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: OC/2017/1703/2
+  address: 900B Camden Valley Wy, Gledswood Hills 2557 NSW
+  description: Single Storey Dwelling - Proposed Lot 238
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001703.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: OC/2017/1765/2
+  address: 32 Longhurst St, Oran Park 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00001765.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: OC/2017/470/2
+  address: 32 Wilson Cr, Narellan 2567 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00000470.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2017/835/2
+  address: 8 Spice St, Gledswood Hills 2557 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00000835.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: OC/2017/96/2
+  address: 2 Kirby Way, Oran Park 2570 NSW
+  description: Two Storey Dwelling with Attached Secondary Dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2017.00000096.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: OC/2018/1001/1
+  address: 46 Law Cres, Oran Park 2570 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001001.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2018/1041/1
+  address: 37 Kerilliau St, Gledswood Hills 2557 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001041.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: OC/2018/105/2
+  address: 900B Camden Valley Wy, Gledswood Hills 2557 NSW
+  description: Single Storey Dwelling - Proposed Lot 229
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000105.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: OC/2018/1053/1
+  address: 105 Village Cct, Gregory Hills 2557 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001053.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: OC/2018/106/2
+  address: 900B Camden Valley Wy, Gledswood Hills 2557 NSW
+  description: Single Storey Dwelling - Proposed Lot 227
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000106.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: OC/2018/1068/1
+  address: 18 Kerilliau St, Gledswood Hills 2557 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001068.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2018/107/2
+  address: 900B Camden Valley Wy, Gledswood Hills 2557 NSW
+  description: Single Storey Dwelling - Proposed Lot 230
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000107.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: OC/2018/109/2
+  address: 900B Camden Valley Wy, Gledswood Hills 2557 NSW
+  description: Single Storey Dwelling - Proposed Lot 231
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000109.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: OC/2018/1112/1
+  address: 10 Emberson St, Leppington 2179 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001112.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: OC/2018/1113/1
+  address: 61 Lillywhite Cct, Oran Park 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001113.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: OC/2018/1136/1
+  address: 6 Meale Ave, Gledswood Hills 2557 NSW
+  description: Inground Fibreglass Pool
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001136.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2018/1142/1
+  address: 94 Emerald Hills Bvd, Leppington 2179 NSW
+  description: Single Storey Dwelling with attached garage and granny flat to be constructed
+    on vacant land.
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001142.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: OC/2018/1157/1
+  address: 42 Bywaters Dr, Catherine Field 2557 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001157.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: OC/2018/1158/1
+  address: 36 Bywaters Dr, Catherine Field 2557 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001158.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: OC/2018/1159/2
+  address: 6 Munday Pl, Currans Hill 2567 NSW
+  description: New Dwelling - Single Granny Flat
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001159.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: OC/2018/116/2
+  address: 73 Lillywhite Cct, Oran Park 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000116.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: OC/2018/1163/1
+  address: 87 Emerald Hills Bvd, Leppington 2179 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001163.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: OC/2018/1173/1
+  address: 1 Percy St, Gregory Hills 2557 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001173.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: OC/2018/1175/1
+  address: 3 Mimosa St, Gregory Hills 2557 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001175.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: OC/2018/1200/1
+  address: 66 Emerald Hills Bvd, Leppington 2179 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001200.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: OC/2018/1234/1
+  address: 109 Village Cct, Gregory Hills 2557 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001234.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: OC/2018/1237/1
+  address: 6 Arcadian Hills Cr, Cobbitty 2570 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001237.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: OC/2018/1238/1
+  address: 41 Arcadian Hills Cr, Cobbitty 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001238.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: OC/2018/1255/1
+  address: 7 Rush St, Leppington 2179 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001255.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: OC/2018/126/2
+  address: 3 Jennings Cr, Spring Farm 2570 NSW
+  description: Single Storey Dwelling with Attached Secondary Dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000126.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: OC/2018/1262/1
+  address: 37 Loveday St, Oran Park 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001262.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2018/1269/1
+  address: 4 Bieger Rd, Leppington 2179 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001269.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: OC/2018/1293/1
+  address: 19 Mclaurin Av, Oran Park 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001293.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: OC/2018/1314/1
+  address: 13 Minnamurra Dr, Gregory Hills 2557 NSW
+  description: Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001314.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: OC/2018/1315/1
+  address: 46 Battam Rd, Gregory Hills 2557 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001315.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2018/1319/1
+  address: 68 Seidler Pde, Oran Park 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001319.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: OC/2018/1340/1
+  address: 16 Rodwell Rd, Oran Park 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001340.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2018/1350/2
+  address: 38 Audley Cct, Gregory Hills 2557 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001350.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: OC/2018/140/2
+  address: 32 Kingsdale Av, Catherine Field 2557 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000140.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2018/1441/1
+  address: 3 Grandstand Lp, Oran Park 2570 NSW
+  description: THIS OC ADDED IN ERROR, CAN UPDATE WHEN OC HAS BEEN RECIEVED. (was
+    meant to add CC, not OC onto certificates).
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001441.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2018/1466/1
+  address: 6 Cole St, Oran Park 2570 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001466.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: OC/2018/1467/1
+  address: 30 Power Rdg, Oran Park 2570 NSW
+  description: New single storey dwellingwith attached garage
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001467.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2018/1470/1
+  address: 18 Ryder Av, Oran Park 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001470.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: OC/2018/1476/1
+  address: 38 Neville St, Oran Park 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001476.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: OC/2018/1494/2
+  address: 61 Butler St, Gregory Hills 2557 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001494.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: OC/2018/150/2
+  address: 36 Bluestone Ave, Gledswood Hills 2557 NSW
+  description: Final OC - 36 Bluestone Avenue GLEDSWOOD HILLS
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000150.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: OC/2018/1509/1
+  address: 27 Bieger Rd, Leppington 2179 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001509.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2018/151/2
+  address: 32 Bluestone Ave, Gledswood Hills 2557 NSW
+  description: Final OC - 32 Bluestone Avenue GLEDSWOOD HILLS
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000151.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: OC/2018/1529/1
+  address: 49A Neville St, Oran Park 2570 NSW
+  description: New Principal Dwelling / Secondary Dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001529.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: OC/2018/153/1
+  address: 28 Bluestone Ave, Gledswood Hills 2557 NSW
+  description: Final OC - 28 Bluestone Avenue GLEDSWOOD HILLS
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000153.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: OC/2018/154/2
+  address: 26 Bluestone Ave, Gledswood Hills 2557 NSW
+  description: Final OC - 26 Bluestone Avenue GLEDSWOOD HILLS
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000154.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: OC/2018/1543/1
+  address: 17 Sunstone Way, Leppington 2179 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001543.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2018/155/2
+  address: 24 Bluestone Ave, Gledswood Hills 2557 NSW
+  description: Final OC - 24 Bluesone Avenue GLEDSWOOD HILLS
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000155.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: OC/2018/156/2
+  address: 900B Camden Valley Wy, Gledswood Hills 2557 NSW
+  description: New Dwelling - Single Storey on Proposed Lot 280 Proposed Rd
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000156.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: OC/2018/1581/1
+  address: 120 Audley Cct, Gregory Hills 2557 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001581.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: OC/2018/1583/1
+  address: 110 Kavanagh St, Gregory Hills 2557 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001583.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: OC/2018/159/1
+  address: 1 Ashbrook Dr, Catherine Field 2557 NSW
+  description: 2 x Two Storey Dual Occupancy with Strata Subdivision
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000159.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: OC/2018/1607/1
+  address: 31 Battam Rd, Gregory Hills 2557 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001607.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: OC/2018/1616/1
+  address: 4 Audley Cct, Gregory Hills 2557 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001616.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: OC/2018/1619/1
+  address: 37 Cain Av, Gregory Hills 2557 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001619.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2018/1644/1
+  address: 44 Neville St, Oran Park 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001644.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: OC/2018/1662/1
+  address: 15 Toovey Ave, Oran Park 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001662.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: OC/2018/1676/1
+  address: 5 Austen Bvd, Spring Farm 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001676.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: OC/2018/1710/1
+  address: 28 Astley Rd, Catherine Field 2557 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001710.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2018/1717/1
+  address: 10 Stoneham Crct, Oran Park 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001717.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: OC/2018/1718/1
+  address: 8 Stoneham Crct, Oran Park 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001718.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: OC/2018/1739/1
+  address: 20 Longview Rd, Gledswood Hills 2557 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001739.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: OC/2018/1782/1
+  address: 46 Castlemaine Cct, Harrington Park 2567 NSW
+  description: New Dwelling - Two Storey and New Swimming Pool - Concrete New Dwelling
+    - Two Storey New Swimming Pool - Concrete
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001782.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: OC/2018/1786/1
+  address: 60 Audley Cct, Gregory Hills 2557 NSW
+  description: Construction of a Single Storey Dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001786.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: OC/2018/1789/1
+  address: 118 Holden Dr, Oran Park 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001789.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: OC/2018/1819/1
+  address: 24 Stoneham Crct, Oran Park 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001819.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2018/1824/1
+  address: 96 Evergreen Dr, Oran Park 2570 NSW
+  description: Modification CDC - Updated acoustic requirements
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001824.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: OC/2018/1900/1
+  address: 9 Bull Pl, Harrington Park 2567 NSW
+  description: New Swimming Pool - Fibreglass
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001900.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: OC/2018/191/2
+  address: 34 Bluestone Ave, Gledswood Hills 2557 NSW
+  description: Final OC - 34 Bluestone Avenue
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000191.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: OC/2018/1949/1
+  address: 18 Stratton Rd, Oran Park 2570 NSW
+  description: Construction of a New Single Storey Dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001949.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: OC/2018/1989/1
+  address: 51 Bergin Cct, Leppington 2179 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00001989.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: OC/2018/220/2
+  address: 6 Arrowhead Ave, Leppington 2179 NSW
+  description: Two Storey Dwelling, Retaining Walls & Associated Landscaping Works
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000220.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2018/276/2
+  address: 28 Kerilliau St, Gledswood Hills 2557 NSW
+  description: New Dwelling - Two Storey Proposed lot 2116 Kerilliau STreet
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000276.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2018/288/3
+  address: 18 Hill St, Camden 2570 NSW
+  description: DA Modification to relocate gate and accessible ramp
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000288.003
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2018/322/2
+  address: 22 Jennings Cr, Spring Farm 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000322.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: OC/2018/407/2
+  address: 11 Ewing Lp, Oran Park 2570 NSW
+  description: Construction of a Single Storey Dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000407.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2018/485/2
+  address: 11 Kerilliau St, Gledswood Hills 2557 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000485.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: OC/2018/500/1
+  address: 16 Peckham Gr, Oran Park 2570 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000500.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2018/660/2
+  address: 37 Mimosa St, Gregory Hills 2557 NSW
+  description: Single Storey Dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000660.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: OC/2018/714/1
+  address: 24 Melanite St, Leppington 2179 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000714.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2018/718/1
+  address: 40 Bywaters Dr, Catherine Field 2557 NSW
+  description: New Dwelling - Two Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000718.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: OC/2018/76/2
+  address: 23 Keefe St, Oran Park 2570 NSW
+  description: Two Storey Dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000076.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: OC/2018/793/1
+  address: 29 Seaborn Ave, Oran Park 2570 NSW
+  description: New Construction of Dwelling 2 Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000793.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: OC/2018/841/2
+  address: 107 Donovan Bvd, Gregory Hills 2557 NSW
+  description: two storey detached dual occpancy and stata subdivision
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000841.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2018/849/1
+  address: 40 Mornington Gr, Gledswood Hills 2557 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000849.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: OC/2018/988/1
+  address: 30 Kerilliau St, Gledswood Hills 2557 NSW
+  description: Single storey dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2018.00000988.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: OC/2019/188/1
+  address: 47 Kokoda Crct, Mount Annan 2567 NSW
+  description: New Swimming Pool - Fibreglass
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2019.00000188.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: OC/2019/416/1
+  address: 33 Village Cct, Gregory Hills 2557 NSW
+  description: New Commercial - Shop Fitout to use as food premises - Taste of India
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2019.00000416.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: OC/2019/658/1
+  address: 7 Cain Av, Gregory Hills 2557 NSW
+  description: New Dwelling - Single Storey
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2019.00000658.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: S96/2015/1302/2
+  address: 242 Byron Rd, Leppington 2179 NSW
+  description: Section 4.55 modification to an approved child care centre to modify
+    the wording of Condition 2.0(20) and 2.0(25) of the consent
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2015.00001302.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: S96/2016/1523/3
+  address: 70 Castlemaine Cct, Harrington Park 2567 NSW
+  description: DA Modification to Front Facade
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2016.00001523.003
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: S96/2017/413/2
+  address: 13 Digitaria Dr, Gledswood Hills 2557 NSW
+  description: Section 4.55 modification to an approved mixed use development to amend
+    the internal layout of the building, the provision of additional floor area and
+    an additional lift
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2017.00000413.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: S96/2017/826/4
+  address: Rickard Rd, Leppington 2179 NSW
+  description: Section 4.55 modification to an approved residential subdivision to
+    revise development description, adjust subdivision layout and design, alteration
+    of studio dwelling, inclusion of building envelope plans for certain allotments
+    and revised Section 7.11 contributions to reflect revised description
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2017.00000826.004
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: S96/2018/104/2
+  address: 46 Bluestone Ave, Gledswood Hills 2557 NSW
+  description: Modifiation to description on DA to Single Storey dwelling
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2018.00000104.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: S96/2018/1411/2
+  address: 66 Burrell Rd, Spring Farm 2570 NSW
+  description: DA Modification - New Alfresco Slab for Future Landscaping Feature
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2018.00001411.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: S96/2018/798/2
+  address: 4 Giles Ln, Oran Park 2570 NSW
+  description: DA mod - amend architectural/structural plans to show drop edge beam
+    for the part of the house along the boundary
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2018.00000798.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: S96/2018/988/2
+  address: 20 Kingsman Av, Elderslie 2570 NSW
+  description: Modification to dwelling - Revised ceiling heights, garage & subfloor
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2018.00000988.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-14'
+- council_reference: SC/2008/436/2
+  address: The Northern Rd, Oran Park 2570 NSW
+  description: 60 Lot Residential Subdivision, Roads, Servicing & Landscaping Subdivion
+    Certificate Application to dedicate part of Marcus Loane Way to Council.
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/014.2008.00000436.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: SC/2017/1068/2
+  address: 54 Mornington Gr, Gledswood Hills 2557 NSW
+  description: Staged subdivision to include Torrens title subdivision to create five
+    residential lots and one residue lot and the construction of five dwellings in
+    Stage 1 and community title subdivision to create 24 residential lots, one lot
+    for an internal laneway and communal open space and construction of 22 attached
+    dwellings and two semi-detached dwellings in Stage 2, and associated site works.
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/014.2017.00001068.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: SC/2017/1783/1
+  address: 10 Karina Pl, Gledswood Hills 2557 NSW
+  description: Remediation of contaminated land, demolition of existing access road,
+    subdivision to create ten Residenital Torrens Title Lots and one Super Lot. Construction
+    of ten two storey dwellings and associated site works.
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/014.2017.00001783.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: SC/2018/1112/1
+  address: 21 Power Rdg, Oran Park 2570 NSW
+  description: 2 x Two Storey Detached Dwellings with Torrens Title Subdivision
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/014.2018.00001112.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: SC/2018/1191/1
+  address: 58 Ewing Lp, Oran Park 2570 NSW
+  description: 2 x Single Storey Dwellings with Torrens Title Subdivision
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/014.2018.00001191.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-10'
+- council_reference: TREE/2019/72/1
+  address: 163 Cobbitty Rd, Cobbitty 2570 NSW
+  description: Pruning of one tree & Removal of two trees
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/100.2019.00000072.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: TREE/2019/73/1
+  address: 129 Macarthur Rd, Elderslie 2570 NSW
+  description: Removal of four trees
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/100.2019.00000073.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: TREE/2019/74/1
+  address: 14 Furner Av, Camden South 2570 NSW
+  description: Removal of one tree
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/100.2019.00000074.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: TREE/2019/75/1
+  address: 1 Bates Cl, Elderslie 2570 NSW
+  description: Pruning of one tree
+  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/100.2019.00000075.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
