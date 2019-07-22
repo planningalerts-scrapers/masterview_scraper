@@ -1,0 +1,109 @@
+---
+- info_url: http://masterview.gladstonerc.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=398048
+  council_reference: AA-365/2019
+  date_received: '2019-07-10'
+  description: Shed on vacant land
+  address: 16 Ironmonger Street CALLIOPE QLD 4680
+  date_scraped: '2019-05-14'
+- info_url: http://masterview.gladstonerc.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=397491
+  council_reference: BRA-425/2019
+  date_received: '2019-07-02'
+  description: Patio extension within side boundary setback
+  address: 38 Cockatoo Drive NEW AUCKLAND QLD 4680
+  date_scraped: '2019-05-14'
+- info_url: http://masterview.gladstonerc.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=397717
+  council_reference: BRA-426/2019
+  date_received: '2019-07-04'
+  description: Carport within Side Boundary Setback
+  address: Lot 12 RP 801367, Walden Court RODDS BAY QLD 4678
+  date_scraped: '2019-05-14'
+- info_url: http://masterview.gladstonerc.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=397769
+  council_reference: BRA-427/2019
+  date_received: '2019-07-04'
+  description: Carport within front and side setbacks
+  address: 29 Winnecke Road TANNUM SANDS QLD 4680
+  date_scraped: '2019-05-14'
+- info_url: http://masterview.gladstonerc.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=397974
+  council_reference: BRA-428/2019
+  date_received: '2019-07-08'
+  description: Carport within front boundary setback
+  address: 12 Holland Street WEST GLADSTONE QLD 4680
+  date_scraped: '2019-05-14'
+- info_url: http://masterview.gladstonerc.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=398103
+  council_reference: BRA-429/2019
+  date_received: '2019-07-11'
+  description: Carport within the front boundary setback
+  address: 15 Marshall Avenue SUN VALLEY QLD 4680
+  date_scraped: '2019-05-14'
+- info_url: http://masterview.gladstonerc.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=398177
+  council_reference: BRA-430/2019
+  date_received: '2019-07-11'
+  description: Patio within road frontage setback
+  address: 7 Finchley Street TELINA QLD 4680
+  date_scraped: '2019-05-14'
+- info_url: http://masterview.gladstonerc.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=398191
+  council_reference: BRA-431/2019
+  date_received: '2019-07-12'
+  description: Shed within the Side Boundary and greater than 9m in length
+  address: 117 Malpas Street BOYNE ISLAND QLD 4680
+  date_scraped: '2019-05-14'
+- info_url: http://masterview.gladstonerc.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=398270
+  council_reference: BRA-432/2019
+  date_received: '2019-07-15'
+  description: Carport within road frontage setback
+  address: 17 Central Avenue CALLIOPE QLD 4680
+  date_scraped: '2019-05-14'
+- info_url: http://masterview.gladstonerc.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=398436
+  council_reference: BRA-433/2019
+  date_received: '2019-07-18'
+  description: Carport within 1.5m side boundary
+  address: 14 Callide Crescent BARNEY POINT QLD 4680
+  date_scraped: '2019-05-14'
+- info_url: http://masterview.gladstonerc.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=398493
+  council_reference: BRA-434/2019
+  date_received: '2019-07-19'
+  description: Dwelling within the side boundary setback
+  address: 27 Centaurus Close TELINA QLD 4680
+  date_scraped: '2019-05-14'
+- info_url: http://masterview.gladstonerc.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=397960
+  council_reference: DA07-31/2019
+  date_received: '2019-07-08'
+  description: Existing Dwelling into Secondary Dwelling
+  address: 16 Surveyor Place BEECHER QLD 4680
+  date_scraped: '2019-05-14'
+- info_url: http://masterview.gladstonerc.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=398068
+  council_reference: DA07-32/2019
+  date_received: '2019-07-10'
+  description: Residential Care Facility (84 Units) & Retirement Facility (100 Units)
+  address: 105 Tannum Sands Road TANNUM SANDS QLD 4680
+  date_scraped: '2019-05-14'
+- info_url: http://masterview.gladstonerc.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=398079
+  council_reference: DA07-33/2019
+  date_received: '2019-07-10'
+  description: Dwelling House including Secondary Dwelling
+  address: Lot 19 RP 861421, Thomson Street AGNES WATER QLD 4677
+  date_scraped: '2019-05-14'
+- info_url: http://masterview.gladstonerc.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=398307
+  council_reference: DA07-34/2019
+  date_received: '2019-07-16'
+  description: Animal Keeping (Dog Kennels)
+  address: 420 Murphy Road CAPTAIN CREEK QLD 4677
+  date_scraped: '2019-05-14'
+- info_url: http://masterview.gladstonerc.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=398483
+  council_reference: DA07-36/2019
+  date_received: '2019-07-19'
+  description: Intensive Animal Industry
+  address: 67 Mineral Road ROSEDALE QLD 4674
+  date_scraped: '2019-05-14'
+- info_url: http://masterview.gladstonerc.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=398329
+  council_reference: DA09-35/2019
+  date_received: '2019-07-16'
+  description: Boundary Realignment - 2 into 2
+  address: 22 Handley Drive BOYNE ISLAND QLD 4680
+  date_scraped: '2019-05-14'
+- info_url: http://masterview.gladstonerc.qld.gov.au/Modules/ApplicationMaster/default.aspx?page=wrapper&key=398069
+  council_reference: EC-23/2019
+  date_received: '2019-07-10'
+  description: Dwelling within Flood Hazard Investigation Area
+  address: 1706 Cedarvale Road BOYNE VALLEY QLD 4680
+  date_scraped: '2019-05-14'

@@ -2,6 +2,14 @@
 
 module MasterviewScraper
   AUTHORITIES = {
+    gladstone: {
+      url: "http://masterview.gladstonerc.qld.gov.au/Modules/ApplicationMaster",
+      period: :thismonth,
+      params: {
+        "4" => "DevelopApp",
+        "6" => "F"
+      }
+    },
     bellingen: {
       url: "http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster",
       period: :last30days,

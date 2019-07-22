@@ -38,7 +38,7 @@ RSpec.describe MasterviewScraper do
     end
 
     AUTHORITIES = %i[
-      camden byron singleton port_stephens port_macquarie_hastings lismore
+      gladstone camden byron singleton port_stephens port_macquarie_hastings lismore
       griffith cessnock albury bogan wingecarribee hurstville bundaberg bellingen wyong toowoomba
       shoalhaven moreton_bay marion mackay logan lake_macquarie ipswich hawkesbury
       fraser_coast fairfield brisbane

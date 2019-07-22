@@ -35,7 +35,7 @@ module MasterviewScraper
       end
 
       def self.button(form)
-        form.button_with(value: /Agree/) ||
+        form.button_with(value: /Agree/i) ||
           form.button_with(id: "agree")
       end
     end
