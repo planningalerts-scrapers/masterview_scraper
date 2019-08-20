@@ -2,6 +2,11 @@
 
 module MasterviewScraper
   AUTHORITIES = {
+    maranoa: {
+      url: "http://pdonline.maranoa.qld.gov.au",
+      use_api: true,
+      period: :last30days
+    },
     moree_plains: {
       url: "http://masterview.mpsc.nsw.gov.au",
       use_api: true,
