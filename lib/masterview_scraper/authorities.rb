@@ -2,6 +2,11 @@
 
 module MasterviewScraper
   AUTHORITIES = {
+    gunnedah: {
+      url: "http://datracking.gunnedah.nsw.gov.au",
+      use_api: true,
+      period: :last30days
+    },
     maranoa: {
       url: "http://pdonline.maranoa.qld.gov.au",
       use_api: true,
