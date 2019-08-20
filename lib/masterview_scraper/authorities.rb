@@ -2,6 +2,11 @@
 
 module MasterviewScraper
   AUTHORITIES = {
+    broken_hill: {
+      url: "http://datracker.brokenhill.nsw.gov.au",
+      use_api: true,
+      period: :last30days
+    },
     gympie: {
       url: "https://daonline.gympie.qld.gov.au",
       use_api: true,

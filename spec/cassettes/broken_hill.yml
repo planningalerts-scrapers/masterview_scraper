@@ -1,0 +1,675 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://datracker.brokenhill.nsw.gov.au/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - datracker.brokenhill.nsw.gov.au
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 302
+      message: Found
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Location:
+      - "/Home/Disclaimer"
+      Server:
+      - Microsoft-IIS/8.5
+      Set-Cookie:
+      - ASP.NET_SessionId=zjjclkaexyx044uzjd21snm0; path=/; HttpOnly
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Tue, 20 Aug 2019 02:52:04 GMT
+      Content-Length:
+      - '133'
+    body:
+      encoding: UTF-8
+      string: "<html><head><title>Object moved</title></head><body>\r\n<h2>Object
+        moved to <a href=\"/Home/Disclaimer\">here</a>.</h2>\r\n</body></html>\r\n"
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: http://datracker.brokenhill.nsw.gov.au/Home/Disclaimer
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=zjjclkaexyx044uzjd21snm0
+      Host:
+      - datracker.brokenhill.nsw.gov.au
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/8.5
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Tue, 20 Aug 2019 02:52:04 GMT
+      Content-Length:
+      - '19480'
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        PCFET0NUWVBFIGh0bWw+DQo8aHRtbCBsYW5nPSJlbiI+DQo8aGVhZD4NCiAgICA8bWV0YSBjaGFyc2V0PSJ1dGYtOCI+DQogICAgPG1ldGEgaHR0cC1lcXVpdj0iWC1VQS1Db21wYXRpYmxlIiBjb250ZW50PSJJRT1lZGdlIj4NCiAgICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEiPg0KICAgIDxtZXRhIG5hbWU9ImF1dGhvciIgY29udGVudD0iIj4NCiAgICA8bWV0YSBuYW1lPSJrZXl3b3JkcyIgY29udGVudD0iQnJva2VuIEhpbGwgQ2l0eSBDb3VuY2lsLCBEQSBUcmFja2VyLEFwcGxpY2F0aW9uIFRyYWNrZXIsRGV2ZWxvcG1lbnQgQXBwbGljYXRpb24sRGV2ZWxvcG1lbnQgQXBwbGljYXRpb24gVHJhY2tpbmcsIERBIEVucXVpcnksIERldmVsb3BtZW50IEFwcGxpY2F0aW9uIEVucXVpcnksIEFwcGxpY2F0aW9uIFRyYWNrZXIiPg0KICAgIDxtZXRhIG5hbWU9ImRlc2NyaXB0aW9uIiBjb250ZW50PSJUaGUgb2ZmaWNpYWwgQnJva2VuIEhpbGwgQ2l0eSBDb3VuY2lsIEFwcGxpY2F0aW9uIFRyYWNrZXIiPg0KDQogICAgPHRpdGxlPkJyb2tlbiBIaWxsIENpdHkgQ291bmNpbCAtIERBIE9ubGluZTwvdGl0bGU+DQoNCiAgICA8IS0tZmF2aWNvbi0tPg0KICAgIDxsaW5rIGhyZWY9Ii9mYXZpY29uLmljbyIgcmVsPSJzaG9ydGN1dCBpY29uIiB0eXBlPSJpbWFnZS94LWljb24iPg0KDQogICAgPCEtLSBqUXVlcnkgLS0+DQogICAgPHNjcmlwdCBzcmM9Ii9TY3JpcHRzL2pxdWVyeS0xLjExLjEuanMiPjwvc2NyaXB0Pg0KDQogICAgPHNjcmlwdCBzcmM9Ii9TY3JpcHRzL2pxdWVyeS11aS0xLjExLjIuanMiPjwvc2NyaXB0Pg0KDQogICAgPGxpbmsgaHJlZj0iL0NvbnRlbnQvdGhlbWVzL2Jhc2UvY29yZS5jc3MiIHJlbD0ic3R5bGVzaGVldCIvPg0KPGxpbmsgaHJlZj0iL0NvbnRlbnQvdGhlbWVzL2Jhc2UvYWNjb3JkaW9uLmNzcyIgcmVsPSJzdHlsZXNoZWV0Ii8+DQo8bGluayBocmVmPSIvQ29udGVudC90aGVtZXMvYmFzZS90aGVtZS5jc3MiIHJlbD0ic3R5bGVzaGVldCIvPg0KDQoNCiAgICA8IS0tIEJvb3RzdHJhcCAtLT4NCiAgICA8c2NyaXB0IHNyYz0iL1NjcmlwdHMvYm9vdHN0cmFwLmpzIj48L3NjcmlwdD4NCg0KICAgIDxsaW5rIGhyZWY9Ii9Db250ZW50L2Jvb3RzdHJhcC10aGVtZS5jc3MiIHJlbD0ic3R5bGVzaGVldCIvPg0KPGxpbmsgaHJlZj0iL0NvbnRlbnQvYm9vdHN0cmFwLmNzcyIgcmVsPSJzdHlsZXNoZWV0Ii8+DQoNCiAgICA8bGluayBocmVmPSIvQ29udGVudC9mb250LWF3ZXNvbWUuY3NzIiByZWw9InN0eWxlc2hlZXQiLz4NCg0KDQogICAgPCEtLSBEYXRhVGFibGVzIC0tPg0KICAgIDxzY3JpcHQgc3JjPSIvU2NyaXB0cy9EYXRhVGFibGVzL2pxdWVyeS5kYXRhVGFibGVzLmpzIj48L3NjcmlwdD4NCjxzY3JpcHQgc3JjPSIvU2NyaXB0cy9EYXRhVGFibGVzL2RhdGFUYWJsZXMuYm9vdHN0cmFwLmpzIj48L3NjcmlwdD4NCjxzY3JpcHQgc3JjPSIvU2NyaXB0cy9EYXRhVGFibGVzL2RhdGFUYWJsZXMucmVzcG9uc2l2ZS5qcyI+PC9zY3JpcHQ+DQoNCiAgICA8bGluayBocmVmPSIvQ29udGVudC9EYXRhVGFibGVzL2Nzcy9kYXRhVGFibGVzLmJvb3RzdHJhcC5jc3MiIHJlbD0ic3R5bGVzaGVldCIvPg0KPGxpbmsgaHJlZj0iL0NvbnRlbnQvRGF0YVRhYmxlcy9jc3MvZGF0YVRhYmxlcy5yZXNwb25zaXZlLmNzcyIgcmVsPSJzdHlsZXNoZWV0Ii8+DQo8bGluayBocmVmPSIvQ29udGVudC9EYXRhVGFibGVzL2Nzcy9kYXRhVGFibGVzLnJlc3BvbnNpdmUuc2NzcyIgcmVsPSJzdHlsZXNoZWV0Ii8+DQoNCg0KICAgIDwhLS0gQm9vdHN0cmFwIFNCLUFkbWluLTIgUGx1Z2luIGFuZCBvdGhlciBjc3MgYW5kIGpzIGZpbGVzLS0+DQogICAgPHNjcmlwdCBzcmM9Ii9qcy9ib290c3RyYXAtY29tYm9ib3guanMiPjwvc2NyaXB0Pg0KPHNjcmlwdCBzcmM9Ii9qcy9ib290c3RyYXAtZGF0ZXBpY2tlci5qcyI+PC9zY3JpcHQ+DQo8c2NyaXB0IHNyYz0iL2pzL2pxdWVyeS5mb3JtLmpzIj48L3NjcmlwdD4NCjxzY3JpcHQgc3JjPSIvanMvanF1ZXJ5LnRhYmxlc29ydGVyLmpzIj48L3NjcmlwdD4NCjxzY3JpcHQgc3JjPSIvanMvbWFzdGVydmlldy5qcyI+PC9zY3JpcHQ+DQo8c2NyaXB0IHNyYz0iL2pzL21ldGlzTWVudS5qcyI+PC9zY3JpcHQ+DQo8c2NyaXB0IHNyYz0iL2pzL3NiLWFkbWluLTIuanMiPjwvc2NyaXB0Pg0KDQogICAgPGxpbmsgaHJlZj0iL2Nzcy9ib290c3RyYXAtY29tYm9ib3guY3NzIiByZWw9InN0eWxlc2hlZXQiLz4NCjxsaW5rIGhyZWY9Ii9jc3MvZGF0ZXBpY2tlcjMuY3NzIiByZWw9InN0eWxlc2hlZXQiLz4NCjxsaW5rIGhyZWY9Ii9jc3MvbWFzdGVydmlldy1jdXN0b21pc2F0aW9ucy5jc3MiIHJlbD0ic3R5bGVzaGVldCIvPg0KPGxpbmsgaHJlZj0iL2Nzcy9zYi1hZG1pbi0yLmNzcyIgcmVsPSJzdHlsZXNoZWV0Ii8+DQoNCg0KICAgIDxsaW5rIGhyZWY9Ii9Db3VuY2lsX1RoZW1lL0Jyb2tlbl9IaWxsL2Jyb2tlbl9oaWxsLmNzcyIgcmVsPSJzdHlsZXNoZWV0Ii8+DQoNCiAgICANCg0KICAgIDwhLS0gSFRNTDUgU2hpbSBhbmQgUmVzcG9uZC5qcyBJRTggc3VwcG9ydCBvZiBIVE1MNSBlbGVtZW50cyBhbmQgbWVkaWEgcXVlcmllcyAtLT4NCiAgICA8IS0tIFdBUk5JTkc6IFJlc3BvbmQuanMgZG9lc24ndCB3b3JrIGlmIHlvdSB2aWV3IHRoZSBwYWdlIHZpYSBmaWxlOi8vIC0tPg0KICAgIDwhLS1baWYgbHQgSUUgOV0+DQogICAgICAgIDxzY3JpcHQgc3JjPSJodHRwczovL29zcy5tYXhjZG4uY29tL2xpYnMvaHRtbDVzaGl2LzMuNy4wL2h0bWw1c2hpdi5qcyI+PC9zY3JpcHQ+DQogICAgICAgIDxzY3JpcHQgc3JjPSJodHRwczovL29zcy5tYXhjZG4uY29tL2xpYnMvcmVzcG9uZC5qcy8xLjQuMi9yZXNwb25kLm1pbi5qcyI+PC9zY3JpcHQ+DQogICAgPCFbZW5kaWZdLS0+DQo8L2hlYWQ+DQoNCg0KPGJvZHkgY2xhc3M9Imh0bWwgZnJvbnQgbm90LWxvZ2dlZC1pbiBvbmUtc2lkZWJhciBzaWRlYmFyLXNlY29uZCBwYWdlLW5vZGUgbmF2YmFyLWlzLXN0YXRpYy10b3AiPg0KICAgIDwhLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tU2l0ZSBOYW1lICYgTG9nbyBTZWN0aW9uLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0+DQogICAgPGRpdiBjbGFzcz0iYmgtY29udGFpbmVyIiBpZD0idG9wLWxpbmsiPg0KICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMTIiPg0KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTgiPg0KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Im5hdmJhci1oZWFkZXIiPg0KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJyZWdpb24gcmVnaW9uLXRvcC1tZW51Ij4NCiAgICAgICAgICAgICAgICAgICAgICAgIDxzZWN0aW9uIGlkPSJibG9jay1zdXBlcmZpc2gtMiIgY2xhc3M9ImJsb2NrIGJsb2NrLXN1cGVyZmlzaCBjbGVhcmZpeCI+DQoNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1bCBpZD0ic3VwZXJmaXNoLTIiIGNsYXNzPSJtZW51IHNmLW1lbnUgc2YtbWVudS10b3AtbGV2ZWwtbWVudSBzZi1ob3Jpem9udGFsIHNmLXN0eWxlLW5vbmUgc2YtdG90YWwtaXRlbXMtNiBzZi1wYXJlbnQtaXRlbXMtMCBzZi1zaW5nbGUtaXRlbXMtNiBzdXBlcmZpc2gtcHJvY2Vzc2VkIHNmLWpzLWVuYWJsZWQiIHN0eWxlPSJkaXNwbGF5OiBibG9jazsiPjxsaSBpZD0ibWVudS03Nzg2LTIiIGNsYXNzPSJmaXJzdCBvZGQgc2YtaXRlbS0xIHNmLWRlcHRoLTEgc2Ytbm8tY2hpbGRyZW4iPjxhIGhyZWY9Ii8vYnJva2VuaGlsbC5uc3cuZ292LmF1L2J1c2luZXNzL3JhdGVzLWZlZXMtYW5kLWNoYXJnZXMtaW5mb3JtYXRpb24vb25saW5lLXBheW1lbnQiIHRpdGxlPSIiIGNsYXNzPSJzZi1kZXB0aC0xIj5PbmxpbmUgcGF5bWVudHM8L2E+PC9saT48bGkgaWQ9Im1lbnUtNzc5MS0yIiBjbGFzcz0ibWlkZGxlIGV2ZW4gc2YtaXRlbS0yIHNmLWRlcHRoLTEgc2Ytbm8tY2hpbGRyZW4iPjxhIGhyZWY9Ii8vYnJva2VuaGlsbC5uc3cuZ292LmF1L2NvdW5jaWwiIHRpdGxlPSIiIGNsYXNzPSJzZi1kZXB0aC0xIj5BYm91dCB1czwvYT48L2xpPjxsaSBpZD0ibWVudS03Nzk2LTIiIGNsYXNzPSJtaWRkbGUgb2RkIHNmLWl0ZW0tMyBzZi1kZXB0aC0xIHNmLW5vLWNoaWxkcmVuIj48YSBocmVmPSIvL2Jyb2tlbmhpbGwubnN3Lmdvdi5hdS9jb3VuY2lsL2NvbnRhY3QtY291bmNpbCIgdGl0bGU9IiIgY2xhc3M9InNmLWRlcHRoLTEiPkNvbnRhY3QgdXM8L2E+PC9saT48bGkgaWQ9Im1lbnUtNzgwNi0yIiBjbGFzcz0ibWlkZGxlIGV2ZW4gc2YtaXRlbS00IHNmLWRlcHRoLTEgc2Ytbm8tY2hpbGRyZW4iPjxhIGhyZWY9Ii8vYnJva2VuaGlsbC5uc3cuZ292LmF1L2NvdW5jaWwvbWFuYWdlbWVudC9lbXBsb3ltZW50LW9wcG9ydHVuaXRpZXMiIHRpdGxlPSIiIGNsYXNzPSJzZi1kZXB0aC0xIj5DYXJlZXJzPC9hPjwvbGk+PGxpIGlkPSJtZW51LTc4MTEtMiIgY2xhc3M9Im1pZGRsZSBvZGQgc2YtaXRlbS01IHNmLWRlcHRoLTEgc2Ytbm8tY2hpbGRyZW4iPjxhIGhyZWY9Ii8vYnJva2VuaGlsbC5uc3cuZ292LmF1L21lZGlhLWNlbnRyZSIgdGl0bGU9IiIgY2xhc3M9InNmLWRlcHRoLTEiPk1lZGlhIGNlbnRyZTwvYT48L2xpPjxsaSBpZD0ibWVudS04NTQ2LTIiIGNsYXNzPSJsYXN0IGV2ZW4gc2YtaXRlbS02IHNmLWRlcHRoLTEgc2Ytbm8tY2hpbGRyZW4iPjxhIGhyZWY9Imh0dHA6Ly93d3cuYnJva2VuaGlsbC5uc3cuZ292LmF1L2V2ZW50cyIgdGl0bGU9IiIgY2xhc3M9InNmLWRlcHRoLTEiPkV2ZW50IGNhbGVuZGFyPC9hPjwvbGk+PC91bD4NCiAgICAgICAgICAgICAgICAgICAgICAgIDwvc2VjdGlvbj4NCiAgICAgICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgPC9kaXY+DQoNCg0KICAgIDwvZGl2Pg0KDQogICAgPGRpdiBjbGFzcz0ic2l0ZV9uYW1lIj4NCiAgICAgICAgPGRpdiBjbGFzcz0iYmgtY29udGFpbmVyIj4NCiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC0xMiI+DQogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTgiPg0KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJsb2dvX3NlY3Rpb24iPg0KICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9Im5hbWUgbmF2YmFyLWJyYW5kIiBocmVmPSJodHRwOi8vd3d3LmJyb2tlbmhpbGwubnN3Lmdvdi5hdSIgdGl0bGU9IkhvbWUiPkJyb2tlbiBIaWxsIENpdHkgQ291bmNpbDwvYT4NCiAgICAgICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTQiPg0KICAgICAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICAgICAgPC9kaXY+DQogICAgICAgIDwvZGl2Pg0KICAgIDwvZGl2Pg0KICAgIDwhLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tU2l0ZSBOYW1lICYgTG9nbyBTZWN0aW9uIEVuZC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPg0KICAgIDwhLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tTWFpbiBNZW51IFNlY3Rpb24tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLT4NCiAgICA8ZGl2IGNsYXNzPSJtYWluX21lbnUiPg0KICAgICAgICA8ZGl2IGNsYXNzPSJiaC1jb250YWluZXIiPg0KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTEyIj4NCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJtYWluX21lbnVfc2VjdGlvbiBoaWRkZW4teHMiPg0KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJyZWdpb24gcmVnaW9uLW5hdmlnYXRpb24iPg0KICAgICAgICAgICAgICAgICAgICAgICAgPHNlY3Rpb24gaWQ9ImJsb2NrLXN1cGVyZmlzaC0xIiBjbGFzcz0iYmxvY2sgYmxvY2stc3VwZXJmaXNoIGNsZWFyZml4Ij4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dWwgaWQ9InN1cGVyZmlzaC0xIiBjbGFzcz0ibWVudSBzZi1tZW51IHNmLW1haW4tbWVudSBzZi1ob3Jpem9udGFsIHNmLXN0eWxlLW5vbmUgc2YtdG90YWwtaXRlbXMtNyBzZi1wYXJlbnQtaXRlbXMtNyBzZi1zaW5nbGUtaXRlbXMtMCBzdXBlcmZpc2gtcHJvY2Vzc2VkIHNmLWpzLWVuYWJsZWQiPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGkgaWQ9Im1lbnUtNjQ4MS0xIiBjbGFzcz0iZmlyc3Qgb2RkIHNmLWl0ZW0tMSBzZi1kZXB0aC0xIHNmLXRvdGFsLWNoaWxkcmVuLTQgc2YtcGFyZW50LWNoaWxkcmVuLTQgc2Ytc2luZ2xlLWNoaWxkcmVuLTAgbWVudXBhcmVudCI+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJodHRwOi8vd3d3LmJyb2tlbmhpbGwubnN3Lmdvdi5hdS9jb3VuY2lsIiB0aXRsZT0iV2hhdCB3ZSBkbyIgY2xhc3M9InNmLWRlcHRoLTEgbWVudXBhcmVudCBzZi13aXRoLXVsIj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb3VuY2lsDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9Im1lZ2EtY2FwdGlvbiI+V2hhdCB3ZSBkbzwvc3Bhbj4gDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC91bD4NCiAgICAgICAgICAgICAgICAgICAgICAgIDwvc2VjdGlvbj4NCiAgICAgICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgPC9kaXY+DQogICAgPC9kaXY+DQogICAgPCEtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1NYWluIE1lbnUgU2VjdGlvbiBFbmQtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPg0KDQogICAgPGRpdiBjbGFzcz0ibWFpbl9jb250bnQiPg0KICAgICAgICA8ZGl2IGNsYXNzPSJtYWluLWNvbnRhaW5lciBiaC1jb250YWluZXIiPg0KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTEyIGNvbnRudF9wYWRkaW5nIj4NCiAgICAgICAgICAgICAgICA8ZGl2IGlkPSJwYWdlLWNvbnRlbnQiPg0KICAgICAgICAgICAgICAgICAgICA8IS0tIE5hdmlnYXRpb24gLS0+DQogICAgICAgICAgICAgICAgICAgIDxuYXYgY2xhc3M9Im5hdmJhciBuYXZiYXItZGVmYXVsdCBuYXZiYXItc3RhdGljLXRvcCIgcm9sZT0ibmF2aWdhdGlvbiIgc3R5bGU9Im1hcmdpbi1ib3R0b206IDAiPg0KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ibmF2YmFyLWhlYWRlciI+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJuYXZiYXItdG9nZ2xlIiBkYXRhLXRvZ2dsZT0iY29sbGFwc2UiIGRhdGEtdGFyZ2V0PSIubmF2YmFyLWNvbGxhcHNlIj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InNyLW9ubHkiPlRvZ2dsZSBuYXZpZ2F0aW9uPC9zcGFuPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iaWNvbi1iYXIiPjwvc3Bhbj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9Imljb24tYmFyIj48L3NwYW4+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJpY29uLWJhciI+PC9zcGFuPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPg0KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgICAgICAgICAgICA8IS0tIC8ubmF2YmFyLWhlYWRlciAtLT4NCiAgICAgICAgICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0ibmF2IG5hdmJhci10b3AtbGlua3MgbmF2YmFyLXJpZ2h0IGhpZGRlbi14cyBoaWRkZW4tc20gaGlkZGVuLW1kIj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiMiPjxzcGFuIGlkPSJwcmludEljb24iIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLXByaW50IiBvbmNsaWNrPSJ3aW5kb3cucHJpbnQoKTsiPjwvc3Bhbj48L2E+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4NCiAgICAgICAgICAgICAgICAgICAgICAgIDwvdWw+DQoNCiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Im5hdmJhci1kZWZhdWx0IHNpZGViYXIiIHJvbGU9Im5hdmlnYXRpb24iPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InNpZGViYXItbmF2IG5hdmJhci1jb2xsYXBzZSI+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0ibmF2IiBpZD0ic2lkZS1tZW51Ij4NCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3VsPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS0gLy5zaWRlYmFyLWNvbGxhcHNlIC0tPg0KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgICAgICAgICAgICA8IS0tIC8ubmF2YmFyLXN0YXRpYy1zaWRlIC0tPg0KICAgICAgICAgICAgICAgICAgICA8L25hdj4NCg0KICAgICAgICAgICAgICAgICAgICA8ZGl2IGlkPSJwYWdlLXdyYXBwZXIiPg0KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29udGFpbmVyLWZsdWlkIj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICANCg0KDQoNCjxkaXYgY2xhc3M9InBhZ2UtaGVhZGVyIj4NCiAgICA8aDI+RGlzY2xhaW1lcjwvaDI+DQo8L2Rpdj4NCg0KPGRpdiBpZD0ic2Nyb2xsYWJsZUNvbnRlbnQiPg0KPGgzPlRlcm1zIGFuZCBDb25kaXRpb25zPC9oMz4NCg0KPHAgY2xhc3M9InNlY3Rpb24gdGV4dC1qdXN0aWZ5Ij4NCkJ5IGFjY2Vzc2luZyB0aGlzIGluZm9ybWF0aW9uIHlvdSByZXF1ZXN0IHRvIGRvIHNvIHVuZGVyIHRoZSA8aT5FbnZpcm9ubWVudGFsIFBsYW5uaW5nIGFuZCBBc3Nlc3NtZW50IEFjdCAxOTc5PC9pPiAoTlNXKSBhbmQgdGhlIDxpPkdvdmVybm1lbnQgSW5mb3JtYXRpb24gKFB1YmxpYyBBY2Nlc3MpIEFjdCAyMDA5PC9pPiAoTlNXKSBbR0lQQV0gYXMgYXBwbGljYWJsZSBhbmQgeW91IHVuZGVyc3RhbmQgdGhhdCBCcm9rZW4gSGlsbCBDaXR5IENvdW5jaWwgaXMgbWFraW5nIHRoaXMgaW5mb3JtYXRpb24gYXZhaWxhYmxlIHVuZGVyIHRoZSByZWxldmFudCBsZWdpc2xhdGlvbi4gWW91IHdpbGwgYmUgdGFrZW4gdG8gaGF2ZSBhZ3JlZWQgdG8gdGhlIGZvbGxvd2luZyB0ZXJtcyBhbmQgY29uZGl0aW9ucy4gDQo8L3A+DQo8L2JyPg0KDQo8aDQ+DQpDb3B5cmlnaHQgYW5kIExpY2VuY2UgDQo8L2g0Pg0KPHAgY2xhc3M9InNlY3Rpb24gdGV4dC1qdXN0aWZ5Ij4NClRoZSBjb250ZW50cyBvZiB0aGlzIHdlYnNpdGUgKHdoaWNoIGluY2x1ZGVzIGRvd25sb2FkYWJsZSBtYXRlcmlhbCkgYXJlIHN1YmplY3QgdG8gY29weXJpZ2h0IGFuZCBhcmUgcHJvdGVjdGVkIGJ5IGxhd3MgaW4gQXVzdHJhbGlhbiBhbmQgb3RoZXIgY291bnRyaWVzIHRocm91Z2ggaW50ZXJuYXRpb25hbCB0cmVhdGllcy4gQnJva2VuIEhpbGwgQ2l0eSBDb3VuY2lsIGdyYW50cyB5b3UgYSBub24tZXhjbHVzaXZlIGxpY2VuY2UgdG8gcHJvZHVjZSB0aGUgY29udGVudHMgb2YgdGhpcyB3ZWJzaXRlIGluIHlvdXIgd2ViIGJyb3dzZXIgKGFuZCBpbiBjYWNoZSBmaWxlIHByb2R1Y2VkIGJ5IHlvdXIgd2ViIGJyb3dzZXIpIGZvciB0aGUgc29sZSBwdXJwb3NlIG9mIHZpZXdpbmcgdGhlIGNvbnRlbnQuIEJyb2tlbiBIaWxsIENpdHkgQ291bmNpbCByZXNlcnZlcyBhbGwgb3RoZXIgcmlnaHRzLiBJZiB5b3UgY29weSwgcmVwcm9kdWNlLCByZXB1Ymxpc2gsIHVwbG9hZCB0byBhIHRoaXJkIHBhcnR5LCB0cmFuc21pdCBvciBkaXN0cmlidXRlIGluIGFueSB3YXkgdGhlIGNvbnRlbnQgb2YgdGhpcyB3ZWJzaXRlIGNvbnRyYXJ5IHRvIHRoZSBwcm92aXNpb25zIG9mIHRoZSA8aT5Db3B5cmlnaHQgQWN0IDE5NjggKEN0aCk8L2k+IHlvdSB3aWxsIGJlIHRha2VuIHRvIGhhdmUgaW5kZW1uaWZpZWQgQnJva2VuIEhpbGwgQ2l0eSBDb3VuY2lsIGFnYWluc3QgYW55IGNsYWltIG9yIGFjdGlvbiBpbiByZXNwZWN0IHRvIGJyZWFjaCBvZiBjb3B5cmlnaHQuIA0KPC9wPg0KPHAgY2xhc3M9InNlY3Rpb24gdGV4dC1qdXN0aWZ5Ij4NCg0KPGg0Pg0KTGlhYmlsaXR5IA0KPC9oND4NCjxwIGNsYXNzPSJzZWN0aW9uIHRleHQtanVzdGlmeSI+DQpUbyB0aGUgbWF4aW11bSBleHRlbnQgcGVybWl0dGVkIGJ5IGxhdywgQnJva2VuIEhpbGwgQ2l0eSBDb3VuY2lsIGV4Y2x1ZGVzIGFsbCBsaWFiaWxpdHkgdG8geW91IGZvciBsb3NzIG9yIGRhbWFnZSBvZiBhbnkga2luZCAoaG93ZXZlciwgY2F1c2VkLCBpbmNsdWRpbmcgYnkgbmVnbGlnZW5jZSkgYXJpc2luZyBmcm9tIG9yIHJlbGF0aW5nIGluIGFueSB3YXkgdG8gdGhlIGNvbnRlbnRzIG9mIHRoaXMgd2Vic2l0ZSBhbmQvb3IgeW91ciB1c2Ugb2YgaXQuIFlvdSBhcmUgcmVzcG9uc2libGUgZm9yIGFzc2Vzc2luZyB0aGUgYWNjdXJhY3ksIHJlbGlhYmlsaXR5LCBzdWl0YWJpbGl0eSBhbmQgY29tcGxldGVuZXNzIG9mIHRoZSBtYXRlcmlhbCBvbiBvciBhY2Nlc3NpYmxlIHRocm91Z2ggdGhpcyB3ZWJzaXRlLiBZb3UgYWNjZXB0IGFsbCByaXNrcyBhbmQgcmVzcG9uc2liaWxpdHkgZm9yIGFsbCBsb3NzLCBkYW1hZ2UsIGNvc3RzIGFuZCBvdGhlciBjb25zZXF1ZW5jZXMgcmVzdWx0aW5nIGZyb20gdXNpbmcgdGhpcyB3ZWJzaXRlIG9yIHRoZSBtYXRlcmlhbCBvbiBvciBhY2Nlc3NpYmxlIHRocm91Z2ggdGhpcyB3ZWJzaXRlLg0KIDwvcD4NCiA8aDQ+DQpOYXR1cmUgb2YgSW5mb3JtYXRpb24gDQo8L2g0Pg0KPHAgY2xhc3M9InNlY3Rpb24gdGV4dC1qdXN0aWZ5Ij4NCllvdSBhY2tub3dsZWRnZSB0aGF0OiANCjwvcD4NCg0KPHVsPg0KICAgIDxsaT5wZXJzb25hbCBpbmZvcm1hdGlvbiBpcyBjb2xsZWN0ZWQgYnkgQnJva2VuIEhpbGwgQ2l0eSBDb3VuY2lsLCB1bmRlciB0aGUgPGk+UHJpdmFjeSAmIFBlcnNvbmFsIEluZm9ybWF0aW9uIFByb3RlY3Rpb24gQWN0IDE5OTg8L2k+IChOU1cpLCBmb3IgdGhlIHB1cnBvc2VzIGFzc29jaWF0ZWQgd2l0aCBhIGRldmVsb3BtZW50IGFwcGxpY2F0aW9uIOKAkyBpbmNsdWRpbmcgd2hlbiB2aWV3aW5nIHRoZSBpbmZvcm1hdGlvbiBmcm9tIHRoaXMgc2l0ZS48L2xpPg0KICAgIDxsaT5wcmlvciB0byBkZXRlcm1pbmF0aW9uIG9mIGFuIGFwcGxpY2F0aW9uLCB0aGUgaW5mb3JtYXRpb24gb24gdGhpcyBzaXRlIGlzIG1hZGUgYXZhaWxhYmxlIHVuZGVyIHRoZSA8aT5FbnZpcm9ubWVudCBQbGFubmluZyBhbmQgQXNzZXNzbWVudCBBY3QgMTk3OS48L2k+PC9saT4NCiAgICA8bGk+YWxsIGluZm9ybWF0aW9uIHJlbGF0aW5nIHRvIGEgZGV2ZWxvcG1lbnQgYXBwbGljYXRpb24gYW5kIHN1YmplY3QgdG8gY29weXJpZ2h0IGxhd3Mgd2lsbCBiZSByZW1vdmVkIGZyb20gdGhlIHdlYnNpdGUgcG9zdCBhIGRldGVybWluYXRpb24sIGFuZCByZXF1ZXN0cyBmb3IgaW5mb3JtYXRpb24gcG9zdCB0aGlzIHNob3VsZCBiZSBsb2RnZWQgd2l0aCBCcm9rZW4gSGlsbCBDaXR5IENvdW5jaWwgdW5kZXIgR0lQQS48L2xpPiAgICANCjwvdWw+DQoNCjwvYnI+DQogPGg0Pg0KTGF3cyANCjwvaDQ+DQo8cCBjbGFzcz0ic2VjdGlvbiB0ZXh0LWp1c3RpZnkiPg0KIEFsbCBtYXR0ZXJzIHJlbGF0aW5nIHRvIHRoaXMgd2Vic2l0ZSBhcmUgZ292ZXJuZWQgYnkgdGhlIGxhd3Mgb2YgdGhlIFN0YXRlIG9mIE5ldyBTb3V0aCBXYWxlcyBhbmQsIGlmIGFwcHJvcHJpYXRlLCBDb21tb253ZWFsdGggbGVnaXNsYXRpb24uIA0KPC9wPg0KDQo8L2Rpdj4NCg0KPHAgY2xhc3M9InNlY3Rpb24iPg0KPC9icj4NCjxiPkkgaGF2ZSByZWFkIGFuZCB1bmRlcnN0b29kIHRoZSBwcm92aXNpb25zIHNldCBvdXQgYWJvdmUuPC9iPg0KPC9wPg0KPC9icj4NCg0KDQoNCg0KPGZvcm0gYWN0aW9uPSIvSG9tZS9EaXNjbGFpbWVyUHJvY2Vzc2luZyIgaWQ9ImRpc2NsYWltZXItZm9ybSIgbWV0aG9kPSJwb3N0Ij48aW5wdXQgaWQ9ImFncmVlZCIgbmFtZT0iYWdyZWVkIiB0eXBlPSJoaWRkZW4iIHZhbHVlPSJGYWxzZSIgLz4gICAgPGRpdiBpZD0iYnRucyI+DQogICAgICAgIDxidXR0b24gaWQ9ImFncmVlIiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiIGZvcm09ImRpc2NsYWltZXItZm9ybSI+QWdyZWU8L2J1dHRvbj4NCiAgICAgICAgPGJ1dHRvbiBpZD0iZGlzYWdyZWUiIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4td2FybmluZyIgZm9ybT0iZGlzY2xhaW1lci1mb3JtIj5EaXNhZ3JlZTwvYnV0dG9uPg0KICAgIDwvZGl2Pg0KPC9mb3JtPg0KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KDQogICAgdmFyIGxhc3RTY3JvbGxUb3A7DQogICAgdmFyIG1heFNjcm9sbGFibGVDb250ZW50SGVpZ2h0Ow0KDQogICAgJChkb2N1bWVudCkucmVhZHkoZnVuY3Rpb24gKCkgew0KDQogICAgICAgIHVwZGF0ZUxlZnRNYXJnaW4oKTsNCiAgICAgICAgYXR0YWNoQ2xpY2tIYW5kbGVycygpOw0KDQogICAgICAgIGlmIChpc1RleHRCbG9ja092ZXJmbG93aW5nKCkpIHsNCiAgICAgICAgICAgIGxhc3RTY3JvbGxUb3AgPSAwOzsNCiAgICAgICAgICAgIHZhciB3aW5kb3dIZWlnaHQgPSAkKHdpbmRvdykuaGVpZ2h0KCk7DQoNCiAgICAgICAgICAgIHZhciBoZWFkZXJIZWlnaHQgPSAkKCcjc2Nyb2xsYWJsZUNvbnRlbnQnKS5vZmZzZXQoKS50b3A7DQogICAgICAgICAgICB2YXIgbmV3SGVpZ2h0ID0gZ2V0TmV3SGVpZ2h0KCk7DQoNCiAgICAgICAgICAgIGFkanVzdERpc2NsYWltZXJDb250ZW50Rm9yRG93blNjcm9sbChuZXdIZWlnaHQpOw0KDQogICAgICAgICAgICAkKHdpbmRvdykuc2Nyb2xsKGZ1bmN0aW9uICgpIHsNCiAgICAgICAgICAgICAgICB2YXIgbkhlaWdodCA9ICQod2luZG93KS5oZWlnaHQoKSAtIChoZWFkZXJIZWlnaHQgLSAkKHdpbmRvdykuc2Nyb2xsVG9wKCkgKyAkKCdmb3JtJykuaGVpZ2h0KCkgKyAxMDApOw0KDQogICAgICAgICAgICAgICAgdmFyIGJJc0Rvd25TY3JvbGwgPSBpc1Njcm9sbERvd24oKTsNCg0KICAgICAgICAgICAgICAgIGlmIChiSXNEb3duU2Nyb2xsKQ0KICAgICAgICAgICAgICAgICAgICBhZGp1c3REaXNjbGFpbWVyQ29udGVudEZvckRvd25TY3JvbGwobkhlaWdodCk7DQogICAgICAgICAgICAgICAgZWxzZQ0KICAgICAgICAgICAgICAgICAgICBhZGp1c3REaXNjbGFpbWVyQ29udGVudEZvclVwU2Nyb2xsKG5IZWlnaHQpOw0KICAgICAgICAgICAgfSk7DQoNCiAgICAgICAgICAgIGZ1bmN0aW9uIGdldE5ld0hlaWdodCgpIHsNCiAgICAgICAgICAgICAgICByZXR1cm4gJCh3aW5kb3cpLmhlaWdodCgpIC0gKGhlYWRlckhlaWdodCArICQod2luZG93KS5zY3JvbGxUb3AoKSArICQoJ2Zvcm0nKS5oZWlnaHQoKSArIDEwMCk7DQogICAgICAgICAgICB9DQoNCiAgICAgICAgICAgIGZ1bmN0aW9uIGlzU2Nyb2xsRG93bigpIHsNCiAgICAgICAgICAgICAgICB2YXIgc3QgPSAkKHdpbmRvdykuc2Nyb2xsVG9wKCk7DQogICAgICAgICAgICAgICAgdmFyIHJlc3VsdCA9IHN0ID49IGxhc3RTY3JvbGxUb3A7CQkgIC8vIGRvd25zY3JvbGwNCg0KICAgICAgICAgICAgICAgIGxhc3RTY3JvbGxUb3AgPSBzdDsNCiAgICAgICAgICAgICAgICByZXR1cm4gcmVzdWx0Ow0KICAgICAgICAgICAgfQ0KDQogICAgICAgICAgICBmdW5jdGlvbiBoYXNTY3JvbGxCYXIoaXRlbSkgew0KICAgICAgICAgICAgICAgIHJldHVybiBpdGVtLmdldCgwKS5zY3JvbGxIZWlnaHQgPiBpdGVtLmdldCgwKS5jbGllbnRIZWlnaHQ7DQogICAgICAgICAgICB9DQoNCiAgICAgICAgICAgIGZ1bmN0aW9uIGFkanVzdERpc2NsYWltZXJDb250ZW50Rm9yRG93blNjcm9sbChuSGVpZ2h0KSB7DQogICAgICAgICAgICAgICAgdmFyIGlzU2Nyb2xsYWJsZSA9IGhhc1Njcm9sbEJhcigkKCcjc2Nyb2xsYWJsZUNvbnRlbnQnKSk7DQogICAgICAgICAgICAgICAgaWYgKGlzU2Nyb2xsYWJsZSkgew0KICAgICAgICAgICAgICAgICAgICAkKCcjc2Nyb2xsYWJsZUNvbnRlbnQnKS5oZWlnaHQobkhlaWdodCk7DQogICAgICAgICAgICAgICAgICAgIG1heFNjcm9sbGFibGVDb250ZW50SGVpZ2h0ID0gbkhlaWdodDsNCiAgICAgICAgICAgICAgICB9DQogICAgICAgICAgICB9DQoNCiAgICAgICAgICAgIGZ1bmN0aW9uIGFkanVzdERpc2NsYWltZXJDb250ZW50Rm9yVXBTY3JvbGwobkhlaWdodCkgew0KICAgICAgICAgICAgICAgIHZhciBpc1Njcm9sbGFibGUgPSBoYXNTY3JvbGxCYXIoJCgnI3Njcm9sbGFibGVDb250ZW50JykpOw0KDQogICAgICAgICAgICAgICAgaWYgKG1heFNjcm9sbGFibGVDb250ZW50SGVpZ2h0ID4gbkhlaWdodCkNCiAgICAgICAgICAgICAgICB7DQogICAgICAgICAgICAgICAgICAgICQoJyNzY3JvbGxhYmxlQ29udGVudCcpLmhlaWdodChuSGVpZ2h0KTsNCiAgICAgICAgICAgICAgICB9DQogICAgICAgICAgICB9DQogICAgICAgIH0NCiAgICB9KTsNCg0KDQogICAgZnVuY3Rpb24gdXBkYXRlTGVmdE1hcmdpbigpIHsNCiAgICAgICAgaWYgKCQoJyNzaWRlLW1lbnUnKS5odG1sKCkpIHsNCiAgICAgICAgICAgICQoJyNwYWdlLXdyYXBwZXInKS5jc3MoeyAnbWFyZ2luLWxlZnQnOiAnMCcgfSk7DQogICAgICAgICAgICAkKCcuc2lkZWJhcicpLmhpZGUoKTsNCiAgICAgICAgfQ0KICAgIH0NCg0KDQogICAgZnVuY3Rpb24gYXR0YWNoQ2xpY2tIYW5kbGVycygpIHsNCiAgICAgICAgJCgnI2FncmVlJykuY2xpY2soZnVuY3Rpb24gKCkgew0KICAgICAgICAgICAgJCgnI2FncmVlZCcpLnZhbCgidHJ1ZSIpOw0KICAgICAgICAgICAgJCgnI2Rpc2NsYWltZXItZm9ybScpLnN1Ym1pdCgpOw0KICAgICAgICB9KTsNCg0KICAgICAgICAkKCcjZGlzYWdyZWUnKS5jbGljayhmdW5jdGlvbiAoKSB7DQogICAgICAgICAgICAkKCcjYWdyZWVkJykudmFsKCJmYWxzZSIpOw0KICAgICAgICAgICAgJCgnI2Rpc2NsYWltZXItZm9ybScpLnN1Ym1pdCgpOw0KICAgICAgICB9KTsNCiAgICB9DQoNCiAgICBmdW5jdGlvbiBpc1RleHRCbG9ja092ZXJmbG93aW5nKCkgew0KICAgICAgICByZXR1cm4gJCgiI3Njcm9sbGFibGVDb250ZW50IikucHJvcCgnc2Nyb2xsSGVpZ2h0JykgPiAkKCIjc2Nyb2xsYWJsZUNvbnRlbnQiKS5oZWlnaHQoKTsNCiAgICB9DQo8L3NjcmlwdD4NCiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSAvLmNvbnRhaW5lci1mbHVpZCAtLT4NCiAgICAgICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgICAgICAgIDwhLS0gLyNwYWdlLXdyYXBwZXIgLS0+DQogICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgPC9kaXY+DQogICAgPC9kaXY+DQoNCiAgICA8ZGl2IGNsYXNzPSJmb290ZXJfbWFpbiI+DQogICAgICAgIDxmb290ZXIgY2xhc3M9ImZvb3RlciBiaC1jb250YWluZXIiPg0KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTEyIj4NCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtNCBjb2wtc20tNiBjb2wteHMtMTIiPg0KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJyZWdpb24gcmVnaW9uLWZvb3RlciI+DQogICAgICAgICAgICAgICAgICAgICAgICA8c2VjdGlvbiBpZD0iYmxvY2stYmVhbi1jb250YWN0LXVzIiBjbGFzcz0iYmxvY2sgYmxvY2stYmVhbiBjbGVhcmZpeCI+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGgyIGNsYXNzPSJibG9jay10aXRsZSI+Q29udGFjdCB1czwvaDI+DQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJlbnRpdHkgZW50aXR5LWJlYW4gYmVhbi1zaW1wbGUtdGV4dC1ibG9jayBjbGVhcmZpeCIgYWJvdXQ9Ii9ibG9jay9jb250YWN0LXVzIiB0eXBlb2Y9IiI+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbnRlbnQiPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZmllbGQgZmllbGQtbmFtZS1maWVsZC1zaW1wbGUtYmxvY2stYm9keSBmaWVsZC10eXBlLXRleHQtbG9uZyBmaWVsZC1sYWJlbC1oaWRkZW4iPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZpZWxkLWl0ZW1zIj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZmllbGQtaXRlbSBldmVuIj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPjI0MCBCbGVuZGUgU3RyZWV0PC9wPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+QnJva2VuIEhpbGwgTlNXIDI4ODA8L3A+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cD4mbmJzcDs8L3A+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cD4wOCA4MDgwIDMzMDA8L3A+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cD4mbmJzcDs8L3A+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cD44LjMwYW0gdG8gNS4wMHBtIE1vbmRheSB0byBGcmlkYXk8L3A+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICAgICAgICAgICAgICAgICAgPC9zZWN0aW9uPg0KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgICAgICAgICA8L2Rpdj4NCg0KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC00IGNvbC1zbS02IGNvbC14cy0xMiI+DQogICAgICAgICAgICAgICAgPC9kaXY+DQoNCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtNCBjb2wtc20tMTIgY29sLXhzLTEyIGxvZ29fcmVnaW9uX2hpZ2h0Ij4NCiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icmVnaW9uIHJlZ2lvbi1mb290ZXItbGFzdCI+DQogICAgICAgICAgICAgICAgICAgICAgICA8c2VjdGlvbiBpZD0iYmxvY2stbWVudS1tZW51LWZvb3Rlci1tZW51IiBjbGFzcz0iYmxvY2sgYmxvY2stbWVudSBjbGVhcmZpeCI+DQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJuYXYtY29sbGFwc2UiPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dWwgY2xhc3M9Im1lbnUgbmF2Ij4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iZmlyc3QgbGVhZiI+PGEgaHJlZj0iaHR0cDovL3d3dy5icm9rZW5oaWxsLm5zdy5nb3YuYXUvcHJpdmFjeSIgdGl0bGU9IiI+UHJpdmFjeTwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJsZWFmIj48YSBocmVmPSJodHRwOi8vd3d3LmJyb2tlbmhpbGwubnN3Lmdvdi5hdS9idXNpbmVzcy95b3VyLXJpZ2h0LWFjY2Vzcy1pbmZvcm1hdGlvbiIgdGl0bGU9IiI+QWNjZXNzIEluZm9ybWF0aW9uPC9hPjwvbGk+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9ImxlYWYiPjxhIGhyZWY9Imh0dHA6Ly93d3cuYnJva2VuaGlsbC5uc3cuZ292LmF1L3NpdGVtYXAiIHRpdGxlPSIiPlNpdGVtYXA8L2E+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibGVhZiI+PGEgaHJlZj0iaHR0cDovL3d3dy5icm9rZW5oaWxsLm5zdy5nb3YuYXUvY29weXJpZ2h0IiB0aXRsZT0iIj5Db3B5cmlnaHQ8L2E+PC9saT4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibGVhZiI+PGEgaHJlZj0iaHR0cDovL3d3dy5icm9rZW5oaWxsLm5zdy5nb3YuYXUvZGlzY2xhaW1lciIgdGl0bGU9IiI+RGlzY2xhaW1lcjwvYT48L2xpPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJsYXN0IGxlYWYiPjxhIGhyZWY9Imh0dHA6Ly93d3cuYnJva2VuaGlsbC5uc3cuZ292LmF1L3VzZXIiIHRpdGxlPSIiPkxvZ2luPC9hPjwvbGk+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdWw+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgICAgICAgICAgICA8L3NlY3Rpb24+DQogICAgICAgICAgICAgICAgICAgICAgICA8c2VjdGlvbiBpZD0iYmxvY2stYmVhbi1mb290ZXItbG9nbyIgY2xhc3M9ImJsb2NrIGJsb2NrLWJlYW4gY2xlYXJmaXgiPg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZW50aXR5IGVudGl0eS1iZWFuIGJlYW4taW1hZ2UtYmxvY2std2l0aC1saW5rIGNsZWFyZml4IiBhYm91dD0iL2Jsb2NrL2Zvb3Rlci1sb2dvIiB0eXBlb2Y9IiI+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbnRlbnQiPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZmllbGQgZmllbGQtbmFtZS1maWVsZC1pbWFnZSBmaWVsZC10eXBlLWltYWdlIGZpZWxkLWxhYmVsLWhpZGRlbiI+PGRpdiBjbGFzcz0iZmllbGQtaXRlbXMiPjxkaXYgY2xhc3M9ImZpZWxkLWl0ZW0gZXZlbiI+PGltZyB0eXBlb2Y9ImZvYWY6SW1hZ2UiIGNsYXNzPSJpbWctcmVzcG9uc2l2ZSIgc3JjPSIvQ291bmNpbF9UaGVtZS9Ccm9rZW5fSGlsbC9kdW1teV9jb3VuY2lsX2ltYWdlXzEucG5nIiBhbHQ9IiIgaGVpZ2h0PSIxNzMiIHdpZHRoPSIyMjAiPjwvZGl2PjwvZGl2PjwvZGl2Pg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgICAgICAgICAgICAgICAgIDwvc2VjdGlvbj4NCiAgICAgICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgPC9mb290ZXI+DQogICAgPC9kaXY+DQoNCjwvYm9keT4NCjwvaHRtbD4NCg==
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: http://datracker.brokenhill.nsw.gov.au/Home/DisclaimerProcessing
+    body:
+      encoding: UTF-8
+      string: agreed=true
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=zjjclkaexyx044uzjd21snm0
+      Host:
+      - datracker.brokenhill.nsw.gov.au
+      Referer:
+      - http://datracker.brokenhill.nsw.gov.au/Home/Disclaimer
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '11'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 301
+      message: Moved Permanently
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Location:
+      - "/"
+      Server:
+      - Microsoft-IIS/8.5
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      Set-Cookie:
+      - User=accessAllowed-MasterView=True; path=/
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Tue, 20 Aug 2019 02:52:04 GMT
+      Content-Length:
+      - '118'
+    body:
+      encoding: UTF-8
+      string: "<html><head><title>Object moved</title></head><body>\r\n<h2>Object
+        moved to <a href=\"/\">here</a>.</h2>\r\n</body></html>\r\n"
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: http://datracker.brokenhill.nsw.gov.au/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=zjjclkaexyx044uzjd21snm0; User=accessAllowed-MasterView=True
+      Host:
+      - datracker.brokenhill.nsw.gov.au
+      Referer:
+      - http://datracker.brokenhill.nsw.gov.au/Home/Disclaimer
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/8.5
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Tue, 20 Aug 2019 02:52:05 GMT
+      Content-Length:
+      - '28836'
+    body:
+      encoding: UTF-8
+      string: "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"utf-8\">\r\n
+        \   <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n    <meta
+        name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n    <meta
+        name=\"author\" content=\"\">\r\n    <meta name=\"keywords\" content=\"Broken
+        Hill City Council, DA Tracker,Application Tracker,Development Application,Development
+        Application Tracking, DA Enquiry, Development Application Enquiry, Application
+        Tracker\">\r\n    <meta name=\"description\" content=\"The official Broken
+        Hill City Council Application Tracker\">\r\n\r\n    <title>Broken Hill City
+        Council - DA Online</title>\r\n\r\n    <!--favicon-->\r\n    <link href=\"/favicon.ico\"
+        rel=\"shortcut icon\" type=\"image/x-icon\">\r\n\r\n    <!-- jQuery -->\r\n
+        \   <script src=\"/Scripts/jquery-1.11.1.js\"></script>\r\n\r\n    <script
+        src=\"/Scripts/jquery-ui-1.11.2.js\"></script>\r\n\r\n    <link href=\"/Content/themes/base/core.css\"
+        rel=\"stylesheet\"/>\r\n<link href=\"/Content/themes/base/accordion.css\"
+        rel=\"stylesheet\"/>\r\n<link href=\"/Content/themes/base/theme.css\" rel=\"stylesheet\"/>\r\n\r\n\r\n
+        \   <!-- Bootstrap -->\r\n    <script src=\"/Scripts/bootstrap.js\"></script>\r\n\r\n
+        \   <link href=\"/Content/bootstrap-theme.css\" rel=\"stylesheet\"/>\r\n<link
+        href=\"/Content/bootstrap.css\" rel=\"stylesheet\"/>\r\n\r\n    <link href=\"/Content/font-awesome.css\"
+        rel=\"stylesheet\"/>\r\n\r\n\r\n    <!-- DataTables -->\r\n    <script src=\"/Scripts/DataTables/jquery.dataTables.js\"></script>\r\n<script
+        src=\"/Scripts/DataTables/dataTables.bootstrap.js\"></script>\r\n<script src=\"/Scripts/DataTables/dataTables.responsive.js\"></script>\r\n\r\n
+        \   <link href=\"/Content/DataTables/css/dataTables.bootstrap.css\" rel=\"stylesheet\"/>\r\n<link
+        href=\"/Content/DataTables/css/dataTables.responsive.css\" rel=\"stylesheet\"/>\r\n<link
+        href=\"/Content/DataTables/css/dataTables.responsive.scss\" rel=\"stylesheet\"/>\r\n\r\n\r\n
+        \   <!-- Bootstrap SB-Admin-2 Plugin and other css and js files-->\r\n    <script
+        src=\"/js/bootstrap-combobox.js\"></script>\r\n<script src=\"/js/bootstrap-datepicker.js\"></script>\r\n<script
+        src=\"/js/jquery.form.js\"></script>\r\n<script src=\"/js/jquery.tablesorter.js\"></script>\r\n<script
+        src=\"/js/masterview.js\"></script>\r\n<script src=\"/js/metisMenu.js\"></script>\r\n<script
+        src=\"/js/sb-admin-2.js\"></script>\r\n\r\n    <link href=\"/css/bootstrap-combobox.css\"
+        rel=\"stylesheet\"/>\r\n<link href=\"/css/datepicker3.css\" rel=\"stylesheet\"/>\r\n<link
+        href=\"/css/masterview-customisations.css\" rel=\"stylesheet\"/>\r\n<link
+        href=\"/css/sb-admin-2.css\" rel=\"stylesheet\"/>\r\n\r\n\r\n    <link href=\"/Council_Theme/Broken_Hill/broken_hill.css\"
+        rel=\"stylesheet\"/>\r\n\r\n    \r\n\r\n    <!-- HTML5 Shim and Respond.js
+        IE8 support of HTML5 elements and media queries -->\r\n    <!-- WARNING: Respond.js
+        doesn't work if you view the page via file:// -->\r\n    <!--[if lt IE 9]>\r\n
+        \       <script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js\"></script>\r\n
+        \       <script src=\"https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js\"></script>\r\n
+        \   <![endif]-->\r\n</head>\r\n\r\n\r\n<body class=\"html front not-logged-in
+        one-sidebar sidebar-second page-node navbar-is-static-top\">\r\n    <!------------------------------------Site
+        Name & Logo Section----------------------------------------------->\r\n    <div
+        class=\"bh-container\" id=\"top-link\">\r\n        <div class=\"col-sm-12\">\r\n
+        \           <div class=\"col-md-8\">\r\n                <div class=\"navbar-header\">\r\n
+        \                   <div class=\"region region-top-menu\">\r\n                        <section
+        id=\"block-superfish-2\" class=\"block block-superfish clearfix\">\r\n\r\n\r\n
+        \                           <ul id=\"superfish-2\" class=\"menu sf-menu sf-menu-top-level-menu
+        sf-horizontal sf-style-none sf-total-items-6 sf-parent-items-0 sf-single-items-6
+        superfish-processed sf-js-enabled\" style=\"display: block;\"><li id=\"menu-7786-2\"
+        class=\"first odd sf-item-1 sf-depth-1 sf-no-children\"><a href=\"//brokenhill.nsw.gov.au/business/rates-fees-and-charges-information/online-payment\"
+        title=\"\" class=\"sf-depth-1\">Online payments</a></li><li id=\"menu-7791-2\"
+        class=\"middle even sf-item-2 sf-depth-1 sf-no-children\"><a href=\"//brokenhill.nsw.gov.au/council\"
+        title=\"\" class=\"sf-depth-1\">About us</a></li><li id=\"menu-7796-2\" class=\"middle
+        odd sf-item-3 sf-depth-1 sf-no-children\"><a href=\"//brokenhill.nsw.gov.au/council/contact-council\"
+        title=\"\" class=\"sf-depth-1\">Contact us</a></li><li id=\"menu-7806-2\"
+        class=\"middle even sf-item-4 sf-depth-1 sf-no-children\"><a href=\"//brokenhill.nsw.gov.au/council/management/employment-opportunities\"
+        title=\"\" class=\"sf-depth-1\">Careers</a></li><li id=\"menu-7811-2\" class=\"middle
+        odd sf-item-5 sf-depth-1 sf-no-children\"><a href=\"//brokenhill.nsw.gov.au/media-centre\"
+        title=\"\" class=\"sf-depth-1\">Media centre</a></li><li id=\"menu-8546-2\"
+        class=\"last even sf-item-6 sf-depth-1 sf-no-children\"><a href=\"http://www.brokenhill.nsw.gov.au/events\"
+        title=\"\" class=\"sf-depth-1\">Event calendar</a></li></ul>\r\n                        </section>\r\n
+        \                   </div>\r\n                </div>\r\n            </div>\r\n
+        \       </div>\r\n\r\n\r\n    </div>\r\n\r\n    <div class=\"site_name\">\r\n
+        \       <div class=\"bh-container\">\r\n            <div class=\"col-md-12\">\r\n
+        \               <div class=\"col-md-8\">\r\n                    <div class=\"logo_section\">\r\n
+        \                       <a class=\"name navbar-brand\" href=\"http://www.brokenhill.nsw.gov.au\"
+        title=\"Home\">Broken Hill City Council</a>\r\n                    </div>\r\n
+        \               </div>\r\n                <div class=\"col-md-4\">\r\n                </div>\r\n
+        \           </div>\r\n        </div>\r\n    </div>\r\n    <!------------------------------------Site
+        Name & Logo Section End-------------------------------------------->\r\n    <!------------------------------------Main
+        Menu Section-------------------------------------------------------->\r\n
+        \   <div class=\"main_menu\">\r\n        <div class=\"bh-container\">\r\n
+        \           <div class=\"col-md-12\">\r\n                <div class=\"main_menu_section
+        hidden-xs\">\r\n                    <div class=\"region region-navigation\">\r\n
+        \                       <section id=\"block-superfish-1\" class=\"block block-superfish
+        clearfix\">\r\n                            <ul id=\"superfish-1\" class=\"menu
+        sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-7 sf-parent-items-7
+        sf-single-items-0 superfish-processed sf-js-enabled\">\r\n                                <li
+        id=\"menu-6481-1\" class=\"first odd sf-item-1 sf-depth-1 sf-total-children-4
+        sf-parent-children-4 sf-single-children-0 menuparent\">\r\n                                    <a
+        href=\"http://www.brokenhill.nsw.gov.au/council\" title=\"What we do\" class=\"sf-depth-1
+        menuparent sf-with-ul\">\r\n                                        Council\r\n
+        \                                       <span class=\"mega-caption\">What
+        we do</span> \r\n                                    </a>\r\n                                </li>\r\n
+        \                           </ul>\r\n                        </section>\r\n
+        \                   </div>\r\n                </div>\r\n            </div>\r\n
+        \       </div>\r\n    </div>\r\n    <!------------------------------------Main
+        Menu Section End---------------------------------------------------->\r\n\r\n
+        \   <div class=\"main_contnt\">\r\n        <div class=\"main-container bh-container\">\r\n
+        \           <div class=\"col-md-12 contnt_padding\">\r\n                <div
+        id=\"page-content\">\r\n                    <!-- Navigation -->\r\n                    <nav
+        class=\"navbar navbar-default navbar-static-top\" role=\"navigation\" style=\"margin-bottom:
+        0\">\r\n                        <div class=\"navbar-header\">\r\n                            <button
+        type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\".navbar-collapse\">\r\n
+        \                               <span class=\"sr-only\">Toggle navigation</span>\r\n
+        \                               <span class=\"icon-bar\"></span>\r\n                                <span
+        class=\"icon-bar\"></span>\r\n                                <span class=\"icon-bar\"></span>\r\n
+        \                           </button>\r\n                        </div>\r\n
+        \                       <!-- /.navbar-header -->\r\n                        <ul
+        class=\"nav navbar-top-links navbar-right hidden-xs hidden-sm hidden-md\">\r\n
+        \                           <li>\r\n                                <a href=\"#\"><span
+        id=\"printIcon\" class=\"glyphicon glyphicon-print\" onclick=\"window.print();\"></span></a>\r\n
+        \                           </li>\r\n                        </ul>\r\n\r\n
+        \                       <div class=\"navbar-default sidebar\" role=\"navigation\">\r\n
+        \                           <div class=\"sidebar-nav navbar-collapse\">\r\n
+        \                               <ul class=\"nav\" id=\"side-menu\">\r\n                                            <li
+        class=\"active\">\r\n                                                <a href=\"#\"><i
+        class=\"fa fa-list-ul fa-fw\"></i>Application Tracker<span class=\"fa arrow\"></span></a>\r\n
+        \                                               <ul class=\"nav nav-second-level
+        collapse\">\r\n                                                        <li>\r\n
+        \                                                           <a href=/Home/About
+        target=_self>What is Application Tracker?</a>\r\n                                                        </li>\r\n
+        \                                                       <li>\r\n                                                            <a
+        href=/Home/Disclaimer target=_self>Disclaimer</a>\r\n                                                        </li>\r\n
+        \                                               </ul>\r\n                                                <!--
+        /.nav-second-level -->\r\n                                            </li>\r\n
+        \                                           <li class=\"active\">\r\n                                                <a
+        href=\"#\"><i class=\"fa fa-list-ul fa-fw\"></i>Applications<span class=\"fa
+        arrow\"></span></a>\r\n                                                <ul
+        class=\"nav nav-second-level collapse\">\r\n                                                        <li>\r\n
+        \                                                           <a href=/Home/Index
+        target=>Application Tracker Home</a>\r\n                                                        </li>\r\n
+        \                                                       <li>\r\n                                                            <a
+        href=/Home/Search id=search target=_self>Search</a>\r\n                                                        </li>\r\n
+        \                                                       <li>\r\n                                                            <a
+        href=/Application/AdvancedSearchResult?RemoveUndeterminedApplications=False&ShowOutstandingApplications=True&ShowExhibitedApplications=False&IncludeDocuments=False
+        id=outstanding-apps target=_self>Undetermined Applications</a>\r\n                                                        </li>\r\n
+        \                                                       <li>\r\n                                                            <a
+        href=/Application/AdvancedSearchResult?RemoveUndeterminedApplications=False&ShowOutstandingApplications=False&ShowExhibitedApplications=True&IncludeDocuments=False
+        id=exhibited-apps target=_self>Applications On Exhibition</a>\r\n                                                        </li>\r\n
+        \                                               </ul>\r\n                                                <!--
+        /.nav-second-level -->\r\n                                            </li>\r\n
+        \                                           <li class=\"active\">\r\n                                                <a
+        href=\"#\"><i class=\"fa fa-list-ul fa-fw\"></i>Applications Submitted<span
+        class=\"fa arrow\"></span></a>\r\n                                                <ul
+        class=\"nav nav-second-level collapse\">\r\n                                                        <li>\r\n
+        \                                                           <a href=/Application/AdvancedSearchResult?DateFrom=19%2f08%2f2019&DateTo=20%2f08%2f2019&DateType=1&RemoveUndeterminedApplications=False&ApplicationType=10%2c18&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        target=_self>This Week</a>\r\n                                                        </li>\r\n
+        \                                                       <li>\r\n                                                            <a
+        href=/Application/AdvancedSearchResult?DateFrom=11%2f08%2f2019&DateTo=17%2f08%2f2019&DateType=1&RemoveUndeterminedApplications=False&ApplicationType=10%2c18&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        target=_self>Last Week</a>\r\n                                                        </li>\r\n
+        \                                                       <li>\r\n                                                            <a
+        href=/Application/AdvancedSearchResult?DateFrom=1%2f08%2f2019&DateTo=20%2f08%2f2019&DateType=1&RemoveUndeterminedApplications=False&ApplicationType=10%2c18&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        target=_self>This Month</a>\r\n                                                        </li>\r\n
+        \                                                       <li>\r\n                                                            <a
+        href=/Application/AdvancedSearchResult?DateFrom=1%2f07%2f2019&DateTo=31%2f07%2f2019&DateType=1&RemoveUndeterminedApplications=False&ApplicationType=10%2c18&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        target=_self>Last Month</a>\r\n                                                        </li>\r\n
+        \                                               </ul>\r\n                                                <!--
+        /.nav-second-level -->\r\n                                            </li>\r\n
+        \                                           <li class=\"active\">\r\n                                                <a
+        href=\"#\"><i class=\"fa fa-list-ul fa-fw\"></i>Applications Determined<span
+        class=\"fa arrow\"></span></a>\r\n                                                <ul
+        class=\"nav nav-second-level collapse\">\r\n                                                        <li>\r\n
+        \                                                           <a href=/Application/AdvancedSearchResult?DateFrom=19%2f08%2f2019&DateTo=20%2f08%2f2019&DateType=2&RemoveUndeterminedApplications=True&ApplicationType=10%2c18&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        target=_self>This Week</a>\r\n                                                        </li>\r\n
+        \                                                       <li>\r\n                                                            <a
+        href=/Application/AdvancedSearchResult?DateFrom=11%2f08%2f2019&DateTo=17%2f08%2f2019&DateType=2&RemoveUndeterminedApplications=True&ApplicationType=10%2c18&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        target=_self>Last Week</a>\r\n                                                        </li>\r\n
+        \                                                       <li>\r\n                                                            <a
+        href=/Application/AdvancedSearchResult?DateFrom=1%2f08%2f2019&DateTo=20%2f08%2f2019&DateType=2&RemoveUndeterminedApplications=True&ApplicationType=10%2c18&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        target=_self>This Month</a>\r\n                                                        </li>\r\n
+        \                                                       <li>\r\n                                                            <a
+        href=/Application/AdvancedSearchResult?DateFrom=1%2f07%2f2019&DateTo=31%2f07%2f2019&DateType=2&RemoveUndeterminedApplications=True&ApplicationType=10%2c18&ShowOutstandingApplications=False&ShowExhibitedApplications=False&IncludeDocuments=False
+        target=_self>Last Month</a>\r\n                                                        </li>\r\n
+        \                                               </ul>\r\n                                                <!--
+        /.nav-second-level -->\r\n                                            </li>\r\n\r\n
+        \                               </ul>\r\n                            </div>\r\n
+        \                           <!-- /.sidebar-collapse -->\r\n                        </div>\r\n
+        \                       <!-- /.navbar-static-side -->\r\n                    </nav>\r\n\r\n
+        \                   <div id=\"page-wrapper\">\r\n                        <div
+        class=\"container-fluid\">\r\n                            \r\n\r\n\r\n\r\n\r\n\r\n<div
+        class=\"page-header\">\r\n    <h2>Home</h2>\r\n</div>\r\n\r\n\r\n\r\n<div
+        id=\"gmapsLabel\">\r\n    <h4>Applications submitted between 6 August 2019
+        and 20 August 2019</h4>\r\n</div>\r\n\r\n\r\n\r\n\r\n\r\n<div id=\"map_container\"
+        class=\"homepage\">\r\n    <div id=\"map_canvas\" class=\"iframe-rwd\"></div>\r\n</div>\r\n\r\n\r\n<div
+        id=\"map_canvas_print_container\">\r\n    <div id=\"map_canvas_print\"></div>\r\n</div>\r\n\r\n\r\n<script
+        type=\"text/javascript\">\r\n\r\n    var map, mapPrint;\r\n    var geocoder;\r\n
+        \   var bounds;\r\n    var next = 0;\r\n    var propertyAddressesGM;\r\n    var
+        boundsEnabled = false;\r\n    var arrMarkerAndInfoWindowHolder = [];\r\n\r\n
+        \   //CLIENT SPECIFIC VALUES\r\n    //prevents markers showing from outside
+        this region when boundsEnabled=true\r\n    var latMaxLimit = -27;\r\n    var
+        lngMaxLimit = 153;\r\n\r\n    // using the web.config to get zoomlevel,base
+        address and scrollenabled values\r\n    var defaultZoomLevelGM = 10;\r\n    var
+        scrollenabled = false;\r\n    var scrollconfig = \"\";\r\n    var baseaddress
+        = \"\";\r\n    var basecountrycode = \"\";\r\n    var infowindow;\r\n\r\n
+        \   function initializeGoogleMaps() {\r\n\r\n        google.maps.event.addDomListener(window,
+        'resize', function() {\r\n            var center = map.getCenter();\r\n            google.maps.event.trigger(map,
+        'resize');\r\n            map.setCenter(center);\r\n            mapPrint.setCenter(center);\r\n
+        \       });\r\n\r\n        geocoder = new google.maps.Geocoder();\r\n        bounds
+        = new google.maps.LatLngBounds();\r\n\r\n        scrollconfig = \"yes\";\r\n
+        \       if(scrollconfig == \"yes\") {\r\n            scrollenabled = true;\r\n
+        \       }\r\n\r\n        var mapOptions = {\r\n            zoom: defaultZoomLevelGM,\r\n
+        \           mapTypeId: google.maps.MapTypeId.ROADMAP,\r\n            scrollwheel:
+        true\r\n        };\r\n\r\n        map = new google.maps.Map(document.getElementById(\"map_canvas\"),
+        mapOptions);\r\n\r\n        //Only load the maps for tablets and bigger screens\r\n
+        \       if(screen.width > 768)\r\n        {\r\n            mapPrint = new
+        google.maps.Map(document.getElementById(\"map_canvas_print\"), mapOptions);\r\n
+        \           setEventListenersToBindPrintMapToDisplayMap();\r\n        }\r\n
+        \       else {\r\n            $('#map_canvas_print_container').remove();\r\n
+        \       }\r\n\r\n        setMapCentre();\r\n\r\n        populateMarkerAndInfoWindowHolderArray();\r\n\r\n
+        \       createAndPlotMarkers() ;\r\n    }\r\n\r\n    function setMapCentre()
+        {\r\n        // Get the centre Point address and Set Centre Point\r\n        baseaddress
+        = \"240 Blende Street, Broken Hill, NSW 2880\";\r\n        basecountrycode
+        = \"AU\";\r\n\r\n        geocoder.geocode({'address' : baseaddress, 'componentRestrictions'
+        : {'country':basecountrycode}},\r\n            function(results, status) {\r\n
+        \               if(status == google.maps.GeocoderStatus.OK) {\r\n                    var
+        result = results[0].geometry.location;\r\n                    map.setCenter(result);\r\n
+        \               }\r\n            });\r\n    }\r\n\r\n    /* Sets event handlers
+        so that the changes on the display map reflect on the hidden print map */\r\n
+        \   function setEventListenersToBindPrintMapToDisplayMap() {\r\n        google.maps.event.addListener(map,
+        'zoom_changed', function() {\r\n            var zoomLevel = map.getZoom();\r\n
+        \           var center = map.getCenter();\r\n\r\n            //Set zoom and
+        center of the hidden printable map\r\n            mapPrint.setZoom(zoomLevel);\r\n
+        \           mapPrint.setCenter(center);\r\n        });\r\n\r\n        google.maps.event.addListener(map,
+        'center_changed', function() {\r\n            var center = map.getCenter();\r\n\r\n
+        \           //Set center of the hidden printable map\r\n            mapPrint.setCenter(center);\r\n
+        \       });\r\n    }\r\n\r\n    /* Parses XML geocodes and populates the data
+        into MarkerAndInfoWindowHolder object instances to later plot on the map */\r\n
+        \   function populateMarkerAndInfoWindowHolderArray() {\r\n        var properties
+        = null;\r\n        latlngbounds = new google.maps.LatLngBounds();\r\n\r\n
+        \       var item = [[\"-31.9477738,141.45394980000003\",\"170-320 Thomas St,
+        Broken Hill 2880 NSW \",\"Alterations to Ambulatory Wing at Broken Hill Hospital\",\"018.2019.00000001.001\",\"18
+        - 2019 - 1 - 1\"],[\"-31.97378519999999,141.46461850000003\",\"300 Piper St,
+        Broken Hill 2880 NSW \",\"Alterations to Change of Use - Other\",\"010.2019.00000001.001\",\"10
+        - 2019 - 1 - 1\"]];\r\n\r\n        $(item).each(function()\r\n        {\r\n
+        \           var arrProperty = $(this);\r\n            createMarkerAndInfoWindowHolderObjects(arrProperty[0],
+        arrProperty[1], arrProperty[2], arrProperty[3], arrProperty[4]);\r\n        });\r\n
+        \   }\r\n\r\n    /* Checks if a marker has already been created for newLocation
+        */\r\n    function isNewLocation(newLocation)\r\n    {\r\n        var bNewLocation
+        = true;\r\n\r\n        $(arrMarkerAndInfoWindowHolder).each(function () {\r\n\r\n
+        \           if (newLocation.equals(this.location)) {\r\n                bNewLocation
+        = false;\r\n                return false;   //This breaks the each loop\r\n
+        \           }\r\n        });\r\n\r\n        return bNewLocation;\r\n    }\r\n\r\n
+        \   /* Creates MarkerAndInfoWindowHolder objects and adds them to the array
+        and modifies them */\r\n    function createMarkerAndInfoWindowHolderObjects(coord,
+        address, content, key, appNo) {\r\n        var coordArray = new Array();\r\n
+        \       coordArray[0] = parseFloat(coord.split(\",\")[0]); //.map not supported
+        in IE 8\r\n        coordArray[1] = parseFloat(coord.split(\",\")[1]);\r\n\r\n
+        \       if (!boundsEnabled || (parseInt(coordArray[0]) >= latMaxLimit && parseInt(coordArray[1])
+        <= lngMaxLimit)) {\r\n            var newLocation = new google.maps.LatLng(coordArray[0],
+        coordArray[1]);\r\n            var link = \"<a href='/Application/ApplicationDetails/\"
+        + key + \"/'>\" + appNo + \" - \" + address + \"</a><br/>\" + content\r\n
+        \           var bNewLocation = isNewLocation(newLocation);\r\n\r\n            if(bNewLocation)
+        {\r\n                arrMarkerAndInfoWindowHolder.push(new MarkerAndInfoWindowHolder(content,
+        newLocation, link));\r\n            }\r\n            else {\r\n                $(arrMarkerAndInfoWindowHolder).each(function
+        (index, obj) {\r\n\r\n                    if (newLocation.equals(obj.location))
+        {\r\n                        obj.infoWindowContent = obj.infoWindowContent
+        + \"<br/>\" + link;\r\n\r\n                        return false;   //exit
+        each loop\r\n                    }\r\n                });\r\n            }\r\n\r\n
+        \           latlngbounds.extend(newLocation);\r\n        }\r\n    }\r\n\r\n
+        \   /* Creates and sets the markers on the map */\r\n    function createAndPlotMarkers()
+        {\r\n\r\n        $(arrMarkerAndInfoWindowHolder).each(function() {\r\n            var
+        markerTitle = this.markerTitle;\r\n            var location = this.location;\r\n
+        \           var infoWindowContent = this.infoWindowContent;\r\n\r\n            //Sets
+        the marker on the display map\r\n            var marker = new google.maps.Marker({\r\n
+        \               map: map,\r\n                position: location,\r\n                title:
+        markerTitle\r\n            });\r\n\r\n            //Sets the marker on the
+        printable map\r\n            new google.maps.Marker({\r\n                map:
+        mapPrint,\r\n                position: location,\r\n                title:
+        markerTitle\r\n            });\r\n\r\n            //Attach eventlistener to
+        the marker\r\n            google.maps.event.addListener(marker, 'click', function
+        () {\r\n                if (infowindow)\r\n                    infowindow.close();\r\n\r\n
+        \               infowindow = new google.maps.InfoWindow({\r\n                    content:
+        infoWindowContent,\r\n                    maxWidth: 400\r\n                });\r\n\r\n
+        \               infowindow.open(map, marker);\r\n            });\r\n        });\r\n\r\n
+        \   }\r\n\r\n    /* An object that holds information about the locations which
+        have been created \r\n    using data from parsed geocode XML \r\n    markerTitle:
+        title of the marker/pin on the map\r\n    location: google maps location object
+        to pass to marker constructor\r\n    infoWindowContent: content that appears
+        when the marker/pin is clicked\r\n    */\r\n    function MarkerAndInfoWindowHolder(markerTitle,
+        location, infoWindowContent) {\r\n        this.markerTitle = markerTitle;\r\n
+        \       this.location = location;\r\n        this.infoWindowContent = infoWindowContent;\r\n
+        \   }\r\n\r\n    function loadGoogleMapsScript() {\r\n        var script =
+        document.createElement(\"script\");\r\n        script.type = \"text/javascript\";\r\n
+        \       script.src = \"//maps.googleapis.com/maps/api/js?key=AIzaSyDoqlSo5_4KFX-Ym8IRS4GYguTDkmnZpyY&callback=initializeGoogleMaps\";\r\n
+        \       document.body.appendChild(script);\r\n    }\r\n\r\n    window.onload
+        = loadGoogleMapsScript;\r\n\r\n</script>\r\n\r\n\r\n                        </div>\r\n
+        \                       <!-- /.container-fluid -->\r\n                    </div>\r\n
+        \                   <!-- /#page-wrapper -->\r\n                </div>\r\n
+        \           </div>\r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"footer_main\">\r\n
+        \       <footer class=\"footer bh-container\">\r\n            <div class=\"col-md-12\">\r\n
+        \               <div class=\"col-md-4 col-sm-6 col-xs-12\">\r\n                    <div
+        class=\"region region-footer\">\r\n                        <section id=\"block-bean-contact-us\"
+        class=\"block block-bean clearfix\">\r\n                            <h2 class=\"block-title\">Contact
+        us</h2>\r\n\r\n                            <div class=\"entity entity-bean
+        bean-simple-text-block clearfix\" about=\"/block/contact-us\" typeof=\"\">\r\n
+        \                               <div class=\"content\">\r\n                                    <div
+        class=\"field field-name-field-simple-block-body field-type-text-long field-label-hidden\">\r\n
+        \                                       <div class=\"field-items\">\r\n                                            <div
+        class=\"field-item even\">\r\n                                                <p>240
+        Blende Street</p>\r\n                                                <p>Broken
+        Hill NSW 2880</p>\r\n                                                <p>&nbsp;</p>\r\n
+        \                                               <p>08 8080 3300</p>\r\n                                                <p>&nbsp;</p>\r\n
+        \                                               <p>8.30am to 5.00pm Monday
+        to Friday</p>\r\n                                            </div>\r\n                                        </div>\r\n
+        \                                   </div>\r\n                                </div>\r\n
+        \                           </div>\r\n                        </section>\r\n
+        \                   </div>\r\n                </div>\r\n\r\n                <div
+        class=\"col-md-4 col-sm-6 col-xs-12\">\r\n                </div>\r\n\r\n                <div
+        class=\"col-md-4 col-sm-12 col-xs-12 logo_region_hight\">\r\n                    <div
+        class=\"region region-footer-last\">\r\n                        <section id=\"block-menu-menu-footer-menu\"
+        class=\"block block-menu clearfix\">\r\n\r\n                            <div
+        class=\"nav-collapse\">\r\n                                <ul class=\"menu
+        nav\">\r\n                                    <li class=\"first leaf\"><a
+        href=\"http://www.brokenhill.nsw.gov.au/privacy\" title=\"\">Privacy</a></li>\r\n
+        \                                   <li class=\"leaf\"><a href=\"http://www.brokenhill.nsw.gov.au/business/your-right-access-information\"
+        title=\"\">Access Information</a></li>\r\n                                    <li
+        class=\"leaf\"><a href=\"http://www.brokenhill.nsw.gov.au/sitemap\" title=\"\">Sitemap</a></li>\r\n
+        \                                   <li class=\"leaf\"><a href=\"http://www.brokenhill.nsw.gov.au/copyright\"
+        title=\"\">Copyright</a></li>\r\n                                    <li class=\"leaf\"><a
+        href=\"http://www.brokenhill.nsw.gov.au/disclaimer\" title=\"\">Disclaimer</a></li>\r\n
+        \                                   <li class=\"last leaf\"><a href=\"http://www.brokenhill.nsw.gov.au/user\"
+        title=\"\">Login</a></li>\r\n                                </ul>\r\n                            </div>\r\n
+        \                       </section>\r\n                        <section id=\"block-bean-footer-logo\"
+        class=\"block block-bean clearfix\">\r\n\r\n                            <div
+        class=\"entity entity-bean bean-image-block-with-link clearfix\" about=\"/block/footer-logo\"
+        typeof=\"\">\r\n                                <div class=\"content\">\r\n
+        \                                   <div class=\"field field-name-field-image
+        field-type-image field-label-hidden\"><div class=\"field-items\"><div class=\"field-item
+        even\"><img typeof=\"foaf:Image\" class=\"img-responsive\" src=\"/Council_Theme/Broken_Hill/dummy_council_image_1.png\"
+        alt=\"\" height=\"173\" width=\"220\"></div></div></div>\r\n                                </div>\r\n
+        \                           </div>\r\n                        </section>\r\n
+        \                   </div>\r\n                </div>\r\n            </div>\r\n
+        \       </footer>\r\n    </div>\r\n\r\n</body>\r\n</html>\r\n"
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: http://datracker.brokenhill.nsw.gov.au/Application/GetApplications
+    body:
+      encoding: UTF-8
+      string: start=0&length=100&json=%7B%22DateFrom%22%3A%2214%2F04%2F2019%22%2C%22DateTo%22%3A%2214%2F05%2F2019%22%2C%22DateType%22%3A%221%22%2C%22RemoveUndeterminedApplications%22%3Afalse%2C%22ShowOutstandingApplications%22%3Afalse%2C%22ShowExhibitedApplications%22%3Afalse%2C%22IncludeDocuments%22%3Afalse%7D
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=zjjclkaexyx044uzjd21snm0; User=accessAllowed-MasterView=True
+      Host:
+      - datracker.brokenhill.nsw.gov.au
+      Referer:
+      - http://datracker.brokenhill.nsw.gov.au/
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '298'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - application/json; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/8.5
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Tue, 20 Aug 2019 02:52:08 GMT
+      Content-Length:
+      - '4634'
+    body:
+      encoding: UTF-8
+      string: '{"draw":null,"recordsTotal":22,"recordsFiltered":22,"data":[["010.2019.00000042.001","10
+        - 2019 - 42 - 1","Development Application","17/04/2019","570 Cummins La, Broken
+        Hill 2880 NSW \u003cbr/\u003e\u003cb\u003eFreestanding carport at rear of
+        property\u003c/b\u003e"],["010.2019.00000040.001","10 - 2019 - 40 - 1","Development
+        Application","16/04/2019","612 Williams St, Broken Hill 2880 NSW \u003cbr/\u003e\u003cb\u003eVerandah
+        attached to rear of dwelling\u003c/b\u003e"],["010.2019.00000050.001","10
+        - 2019 - 50 - 1","Development Application","07/05/2019","332 Knox St, Broken
+        Hill 2880 NSW \u003cbr/\u003e\u003cb\u003eCarport at side and verandah to
+        rear of dwelling\u003c/b\u003e"],["010.2019.00000052.001","10 - 2019 - 52
+        - 1","Development Application","10/05/2019","489 Blende St, Broken Hill 2880
+        NSW \u003cbr/\u003e\u003cb\u003eNew Dwelling\u003c/b\u003e"],["010.2019.00000049.001","10
+        - 2019 - 49 - 1","Development Application","07/05/2019","7 Tuart St, Broken
+        Hill 2880 NSW \u003cbr/\u003e\u003cb\u003eCarport at side and verandah at
+        rear of dwelling\u003c/b\u003e"],["018.2019.00000007.001","18 - 2019 - 7 -
+        1","Complying Development","08/05/2019","405 Brown St, Broken Hill 2880 NSW
+        \u003cbr/\u003e\u003cb\u003eInground Swimming Pool\u003c/b\u003e"],["010.2019.00000044.001","10
+        - 2019 - 44 - 1","Development Application","24/04/2019","63 Jamieson St, Broken
+        Hill 2880 NSW \u003cbr/\u003e\u003cb\u003eAddition to existing dwelling to
+        include a bedroom and bathroom\u003c/b\u003e"],["010.2019.00000047.001","10
+        - 2019 - 47 - 1","Development Application","30/04/2019","Mining Lease, Broken
+        Hill 2880 NSW \u003cbr/\u003e\u003cb\u003eRemoval of existing chimney shelter
+        and replacement with a new shelter\u003c/b\u003e"],["010.2019.00000051.001","10
+        - 2019 - 51 - 1","Development Application","08/05/2019","54 Wyman St, Broken
+        Hill 2880 NSW \u003cbr/\u003e\u003cb\u003eAddition being an enclosed outdoor
+        deck attached to dwelling\u003c/b\u003e"],["010.2019.00000054.001","10 - 2019
+        - 54 - 1","Development Application","13/05/2019","100 Williams St, Broken
+        Hill 2880 NSW \u003cbr/\u003e\u003cb\u003eFreestanding carport at side, freestanding
+        verandah at rear and attach\u003c/b\u003e"],["010.2019.00000053.001","10 -
+        2019 - 53 - 1","Development Application","10/05/2019","86 Wills St, Broken
+        Hill 2880 NSW \u003cbr/\u003e\u003cb\u003eInground Swimming Pool\u003c/b\u003e"],["010.2019.00000055.001","10
+        - 2019 - 55 - 1","Development Application","14/05/2019","165 Chapple St, Broken
+        Hill 2880 NSW \u003cbr/\u003e\u003cb\u003eGarage and double carport at rear
+        of property\u003c/b\u003e"],["010.2019.00000043.001","10 - 2019 - 43 - 1","Development
+        Application","23/04/2019","181 Sulphide St, Broken Hill 2880 NSW \u003cbr/\u003e\u003cb\u003eExtension
+        to existing dwelling, demolish of existing garage and constr\u003c/b\u003e"],["018.2019.00000008.001","18
+        - 2019 - 8 - 1","Complying Development","13/05/2019","10 Gypsum St, Broken
+        Hill 2880 NSW \u003cbr/\u003e\u003cb\u003eSeparate House\u003c/b\u003e"],["010.2019.00000048.001","10
+        - 2019 - 48 - 1","Development Application","03/05/2019","110 Cummins La, Broken
+        Hill 2880 NSW \u003cbr/\u003e\u003cb\u003eShed at rear of property\u003c/b\u003e"],["010.2019.00000046.001","10
+        - 2019 - 46 - 1","Development Application","29/04/2019","209 Pell St, Broken
+        Hill 2880 NSW \u003cbr/\u003e\u003cb\u003eExtension to existing shed\u003c/b\u003e"],["010.2019.00000045.001","10
+        - 2019 - 45 - 1","Development Application","26/04/2019","137 Harvy St, Broken
+        Hill 2880 NSW \u003cbr/\u003e\u003cb\u003eFreestanding garage at rear of property\u003c/b\u003e"],["010.2019.00000041.001","10
+        - 2019 - 41 - 1","Development Application","16/04/2019","628 Beryl St, Broken
+        Hill 2880 NSW \u003cbr/\u003e\u003cb\u003eFreestanding carport at rear of
+        property\u003c/b\u003e"],["010.2016.00000007.002","10 - 2016 - 7 - 2","S96","23/04/2019","18817
+        Barrier Hwy, Broken Hill 2880 NSW \u003cbr/\u003e\u003cb\u003eModification
+        to existing consent\u003c/b\u003e"],["018.2019.00000006.001","18 - 2019 -
+        6 - 1","Complying Development","26/04/2019","709 Williams St, Broken Hill
+        2880 NSW \u003cbr/\u003e\u003cb\u003eNew Aboveground Swimming Pool\u003c/b\u003e"],["010.2019.00000039.001","10
+        - 2019 - 39 - 1","Development Application","16/04/2019","146 Nicholls St,
+        Broken Hill 2880 NSW \u003cbr/\u003e\u003cb\u003eChange of Use - Home Business
+        Hairdressing Salon\u003c/b\u003e"],["010.2019.00000038.001","10 - 2019 - 38
+        - 1","Development Application","15/04/2019","89 Piper St, Broken Hill 2880
+        NSW \u003cbr/\u003e\u003cb\u003eDemolition of existing outbound buildings
+        and erection of freestanding\u003c/b\u003e"]]}'
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+recorded_with: VCR 5.0.0
