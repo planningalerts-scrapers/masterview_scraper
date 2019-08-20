@@ -2,6 +2,11 @@
 
 module MasterviewScraper
   AUTHORITIES = {
+    forbes: {
+      url: "http://planning.forbes.nsw.gov.au",
+      use_api: true,
+      period: :last30days
+    },
     gunnedah: {
       url: "http://datracking.gunnedah.nsw.gov.au",
       use_api: true,
