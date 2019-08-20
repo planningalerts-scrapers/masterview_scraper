@@ -110,6 +110,13 @@ module MasterviewScraper
         "4a" => "7",
         "6" => "F"
       }
+      # TODO: The settings below reflect the changes made to the marion
+      # website. They've upgraded masterview. However (!), it appears the
+      # listing of recently received applications doesn't actually work
+      #
+      # url: "http://development.marion.sa.gov.au/MasterViewUI",
+      # use_api: true,
+      # period: :last30days
     },
     moreton_bay: {
       url: "http://pdonline.moretonbay.qld.gov.au/Modules/applicationmaster",
