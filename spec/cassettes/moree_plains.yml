@@ -1,0 +1,332 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://masterview.mpsc.nsw.gov.au/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - masterview.mpsc.nsw.gov.au
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 302
+      message: Found
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Location:
+      - "/Home/Disclaimer"
+      Server:
+      - Microsoft-IIS/8.0
+      Set-Cookie:
+      - ASP.NET_SessionId=rqpbxxxzzb4uzi20dztlg0wj; path=/; HttpOnly
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Tue, 20 Aug 2019 02:53:25 GMT
+      Content-Length:
+      - '133'
+    body:
+      encoding: UTF-8
+      string: "<html><head><title>Object moved</title></head><body>\r\n<h2>Object
+        moved to <a href=\"/Home/Disclaimer\">here</a>.</h2>\r\n</body></html>\r\n"
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: http://masterview.mpsc.nsw.gov.au/Home/Disclaimer
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=rqpbxxxzzb4uzi20dztlg0wj
+      Host:
+      - masterview.mpsc.nsw.gov.au
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Content-Encoding:
+      - gzip
+      Expires:
+      - "-1"
+      Vary:
+      - Accept-Encoding
+      Server:
+      - Microsoft-IIS/8.0
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Tue, 20 Aug 2019 02:53:25 GMT
+      Content-Length:
+      - '5636'
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        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
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: http://masterview.mpsc.nsw.gov.au/Home/DisclaimerProcessing
+    body:
+      encoding: UTF-8
+      string: agreed=true
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=rqpbxxxzzb4uzi20dztlg0wj
+      Host:
+      - masterview.mpsc.nsw.gov.au
+      Referer:
+      - http://masterview.mpsc.nsw.gov.au/Home/Disclaimer
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '11'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 301
+      message: Moved Permanently
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - "-1"
+      Location:
+      - "/"
+      Server:
+      - Microsoft-IIS/8.0
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      Set-Cookie:
+      - User=accessAllowed-MasterView=True; path=/
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Tue, 20 Aug 2019 02:53:25 GMT
+      Content-Length:
+      - '118'
+    body:
+      encoding: UTF-8
+      string: "<html><head><title>Object moved</title></head><body>\r\n<h2>Object
+        moved to <a href=\"/\">here</a>.</h2>\r\n</body></html>\r\n"
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: get
+    uri: http://masterview.mpsc.nsw.gov.au/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=rqpbxxxzzb4uzi20dztlg0wj; User=accessAllowed-MasterView=True
+      Host:
+      - masterview.mpsc.nsw.gov.au
+      Referer:
+      - http://masterview.mpsc.nsw.gov.au/Home/Disclaimer
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - text/html; charset=utf-8
+      Content-Encoding:
+      - gzip
+      Expires:
+      - "-1"
+      Vary:
+      - Accept-Encoding
+      Server:
+      - Microsoft-IIS/8.0
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Tue, 20 Aug 2019 02:53:25 GMT
+      Content-Length:
+      - '6890'
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        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
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+- request:
+    method: post
+    uri: http://masterview.mpsc.nsw.gov.au/Application/GetApplications
+    body:
+      encoding: UTF-8
+      string: start=0&length=100&json=%7B%22DateFrom%22%3A%2214%2F04%2F2019%22%2C%22DateTo%22%3A%2214%2F05%2F2019%22%2C%22DateType%22%3A%221%22%2C%22RemoveUndeterminedApplications%22%3Afalse%2C%22ShowOutstandingApplications%22%3Afalse%2C%22ShowExhibitedApplications%22%3Afalse%2C%22IncludeDocuments%22%3Afalse%7D
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mechanize/2.7.6 Ruby/2.5.1p57 (http://github.com/sparklemotion/mechanize/)
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Cookie:
+      - ASP.NET_SessionId=rqpbxxxzzb4uzi20dztlg0wj; User=accessAllowed-MasterView=True
+      Host:
+      - masterview.mpsc.nsw.gov.au
+      Referer:
+      - http://masterview.mpsc.nsw.gov.au/
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Content-Length:
+      - '298'
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - '300'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store
+      Pragma:
+      - no-cache
+      Content-Type:
+      - application/json; charset=utf-8
+      Expires:
+      - "-1"
+      Server:
+      - Microsoft-IIS/8.0
+      X-Aspnetmvc-Version:
+      - '5.2'
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Tue, 20 Aug 2019 02:53:37 GMT
+      Content-Length:
+      - '2314'
+    body:
+      encoding: UTF-8
+      string: '{"draw":null,"recordsTotal":11,"recordsFiltered":11,"data":[["010-2019-00000032-001","DA2019/32","Development
+        Application","01/05/2019","5 Alawa Pl, Moree 2400 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of a Detached Dual Occupancy\u003c/b\u003e"],["010-2019-00000034-001","DA2019/34","Development
+        Application","09/05/2019","223 Gwydirfield Rd, Moree 2400 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and additions to an existing dwelling house (additional tw o bedrooms)\u003c/b\u003e"],["010-2019-00000007-002","S962019/7","S96","17/04/2019","21
+        Auburn St, Moree 2400 NSW \u003cbr/\u003e\u003cb\u003eCommercial - Internal
+        Fitout\u003c/b\u003e"],["010-2019-00000013-002","S962019/13","S96","18/04/2019","74
+        Heber St, Moree 2400 NSW \u003cbr/\u003e\u003cb\u003eChange of use from retail
+        to office premises including alterations and additions and fitout\u003c/b\u003e"],["010-2019-00000030-001","DA2019/30","Development
+        Application","30/04/2019","2 Chester St, Moree 2400 NSW \u003cbr/\u003e\u003cb\u003eReplace
+        existing retaining wall and upgrade playground\u003c/b\u003e"],["010-2019-00000031-001","DA2019/31","Development
+        Application","01/05/2019","346 Edward St, Moree 2400 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of a Dwelling House and Carport\u003c/b\u003e"],["010-2019-00000033-001","DA2019/33","Development
+        Application","08/05/2019","80 Balo St, Moree 2400 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        and additions to existing commercial premise\u003c/b\u003e"],["010-2018-00000095-002","S962018/95","S96","24/04/2019","123
+        Balo St, Moree 2400 NSW \u003cbr/\u003e\u003cb\u003eAlterations and additions
+        to existing commercial premise\u003c/b\u003e"],["010-2018-00000064-002","S962018/64","S96","16/04/2019","18
+        Bellata St, Gurley 2398 NSW \u003cbr/\u003e18 Bumble St, Gurley 2398 NSW \u003cbr/\u003e\u003cb\u003eErection
+        of a dwelling house (transportable)\u003c/b\u003e"],["017-2019-00000005-001","S682019/5","Section
+        68 Application","26/04/2019","155 River Rd, Pallamallawa 2399 NSW \u003cbr/\u003e\u003cb\u003eInstallation
+        of onsite sewage management system\u003c/b\u003e"],["010-2019-00000029-001","DA2019/29","Development
+        Application","18/04/2019","414 Gwydirfield Rd, Moree 2400 NSW \u003cbr/\u003e\u003cb\u003eRecreation
+        Facility (Outdoor) - Golf Driving Range \u0026 Mini-Golf Centre\u003c/b\u003e"]]}'
+    http_version: 
+  recorded_at: Mon, 13 May 2019 14:00:00 GMT
+recorded_with: VCR 5.0.0

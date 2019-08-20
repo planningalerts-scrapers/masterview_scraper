@@ -2,6 +2,11 @@
 
 module MasterviewScraper
   AUTHORITIES = {
+    moree_plains: {
+      url: "http://masterview.mpsc.nsw.gov.au",
+      use_api: true,
+      period: :last30days
+    },
     broken_hill: {
       url: "http://datracker.brokenhill.nsw.gov.au",
       use_api: true,
