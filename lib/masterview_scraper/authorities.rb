@@ -2,6 +2,11 @@
 
 module MasterviewScraper
   AUTHORITIES = {
+    gympie: {
+      url: "https://daonline.gympie.qld.gov.au",
+      use_api: true,
+      period: :last30days
+    },
     gladstone: {
       url: "http://masterview.gladstonerc.qld.gov.au/Modules/ApplicationMaster",
       period: :thismonth,
