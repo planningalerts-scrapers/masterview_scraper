@@ -37,14 +37,7 @@ RSpec.describe MasterviewScraper do
       expect(results).to eq expected
     end
 
-    AUTHORITIES = %i[
-      gladstone camden byron singleton port_stephens port_macquarie_hastings lismore
-      griffith cessnock albury bogan wingecarribee hurstville bundaberg bellingen wyong toowoomba
-      shoalhaven moreton_bay marion mackay logan lake_macquarie ipswich hawkesbury
-      fraser_coast fairfield brisbane
-    ].freeze
-
-    AUTHORITIES.each do |authority|
+    MasterviewScraper::AUTHORITIES.keys.each do |authority|
       it authority do
         test_scrape_and_save(authority)
       end
