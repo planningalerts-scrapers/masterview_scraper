@@ -14,6 +14,8 @@ desc "Take a screenshots of all the council sites to embed in the documentation"
 task :screenshots do
   browser = Watir::Browser.new :firefox
   MasterviewScraper::AUTHORITIES.each do |k, v|
+    next if File.exist?("screenshots/#{k}.png")
+
     puts "Opening #{k}..."
     browser.goto v[:url]
     browser.screenshot.save "screenshots/#{k}.png"
