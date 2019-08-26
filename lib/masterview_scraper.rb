@@ -63,58 +63,8 @@ module MasterviewScraper
     url, period, disable_ssl_certificate_check, long_council_reference, types,
     page_size = 100
   )
-    if period == :last10days
-      scrape_api(
-        url,
-        Date.today - 10,
-        Date.today,
-        disable_ssl_certificate_check,
-        long_council_reference,
-        types,
-        page_size
-      ) do |record|
-        yield record
-      end
-    elsif period == :last30days
-      scrape_api(
-        url,
-        Date.today - 30,
-        Date.today,
-        disable_ssl_certificate_check,
-        long_council_reference,
-        types,
-        page_size
-      ) do |record|
-        yield record
-      end
-    elsif period == :thismonth
-      today = Date.today
-      start_of_this_month = Date.new(today.year, today.month, 1)
-      scrape_api(
-        url,
-        start_of_this_month,
-        today,
-        disable_ssl_certificate_check,
-        long_council_reference,
-        types,
-        page_size
-      ) do |record|
-        yield record
-      end
-    else
-      raise "Unexpected period: #{period}"
-    end
-  end
+    raise "Unexpected period: #{period}" unless period == :last30days
 
-  def self.scrape_api(
-    url,
-    start_date,
-    end_date,
-    disable_ssl_certificate_check,
-    long_council_reference,
-    types,
-    page_size = 100
-  )
     agent = Mechanize.new
     agent.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
 
@@ -125,7 +75,7 @@ module MasterviewScraper
     end
 
     GetApplicationsApi.scrape(
-      url: url, start_date: start_date, end_date: end_date,
+      url: url,
       agent: agent, long_council_reference: long_council_reference, types: types,
       page_size: page_size
     ) do |record|

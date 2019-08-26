@@ -5,12 +5,14 @@ require "json"
 module MasterviewScraper
   # This API endpoint only exists on recent versions of the system
   module GetApplicationsApi
-    # Returns applications between those dates
-    def self.scrape(url:, start_date:, end_date:, agent:, long_council_reference:,
+    # Returns applications received in the last 30 days
+    def self.scrape(url:, agent:, long_council_reference:,
                     types:, page_size: 100)
       page_no = 0
       # Start with the assumption that there is at least one records to be returned
       total_records = 1
+      start_date = Date.today - 30
+      end_date = Date.today
 
       while total_records > page_no * page_size
         total_records = scrape_page(
