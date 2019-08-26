@@ -1,1454 +1,1495 @@
 ---
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00001024.002%20
-  council_reference: 100/1024/2018
-  date_received: '2019-04-24'
-  description: Two Single Storey Detached Dwellings
-  address: 28 Weroona AV PARK HOLME
+- council_reference: 7.2013.2131.4
+  address: 7 Hutt Cl, Sheidow Park 5158 SA
+  description: Retail Building
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2013.00002131.004
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2017.00001063.002%20
-  council_reference: 100/1063/2017
-  date_received: '2019-05-08'
-  description: Pair of single storey semi-detached dwellings
-  address: 45 Condada AV PARK HOLME
+  date_received: '2019-05-03'
+- council_reference: 7.2014.1916.3
+  address: 5 Sixth Av, Ascot Park 5043 SA
+  description: A two storey residential flat building, comprising two dwellings and
+    detached garage serving the existing dwelling, with associated landscaping
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2014.00001916.003
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00001103.002%20
-  council_reference: 100/1103/2018
-  date_received: '2019-05-06'
-  description: Construction of a two-storey dwelling incorporating a garage wall on
-    the north-western boundary
-  address: 54A Oliphant AV MARION
+  date_received: '2019-05-07'
+- council_reference: 7.2015.1802.4
+  address: 1/36 Trumara Rd, Marino 5049 SA
+  description: A two storey detached dwelling with associated swimming pool, earthworks
+    and retaining walls (Lot 1) and a two storey group dwelling with associated earthworks
+    and retaining walls (Lot 5) Stage 2 - Remainder of work (Lot 5)
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2015.00001802.004
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00001239.002%20
-  council_reference: 100/1239/2018
-  date_received: '2019-04-17'
-  description: Variation to Development Application 100/2016/2188 comprising both
-    internal and external changes to a two storey residential flat building containg
-    four dwellings with associated car parking and landscaping.
-  address: 19 Oak AV TONSLEY
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000126.002%20
-  council_reference: 100/126/2019
-  date_received: '2019-04-18'
-  description: 'Undertake Staged Development: Stage 1 for Residential Land Division
-    (Community Title) - 1 into 3 allotments and Stage 2 construction of 3 single storey
-    row dwellings.'
-  address: 43 Stradbroke AV PLYMPTON PARK
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00001296.002%20
-  council_reference: 100/1296/2018
-  date_received: '2019-04-30'
-  description: Variation to DA 100/D236/14 - Alterations to internal layout, dwelling
-    footprints, dwelling facades, and addition of alfrescos
-  address: 20 Melville ST SOUTH PLYMPTON
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00001326.002%20
-  council_reference: 100/1326/2018
-  date_received: '2019-04-15'
-  description: Demolition of existing buildings and the construction of two semi-detached
-    dwellings
-  address: 20A Melbourne ST STURT
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2016.00001382.004%20
-  council_reference: 100/1382/2016
-  date_received: '2019-05-09'
+  date_received: '2019-05-01'
+- council_reference: 7.2016.1382.4
+  address: 9 Andrew Av, Marion 5043 SA
   description: Two single storey detached dwellings
-  address: 9C Andrew AV MARION
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2016.00001382.004
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2017.00001481.003%20
-  council_reference: 100/1481/2017
-  date_received: '2019-04-29'
-  description: Construction of a pre-school (childcare centre), associated earthworks
-    and retaining, car parking and landscaping. STAGE 2 - FINAL STAGE
-  address: 1700 Main South RD O'HALLORAN HILL
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00001546.002%20
-  council_reference: 100/1546/2018
-  date_received: '2019-04-17'
-  description: Two storey detached dwelling
-  address: 29B Ferry AV PLYMPTON PARK
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000160.002%20
-  council_reference: 100/160/2019
-  date_received: '2019-04-15'
-  description: Construction of a detached toilet and shower block and bike storage
-    shed, stairwell modifications and alterations to existing accessible car parking.
-    STAGE 1 - TOILET/SHOWER BLOCK, STAIRWELL AND ACCESSIBLE CAR PARKING ONLY.
-  address: 7 Laffer DR BEDFORD PARK
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000166.002%20
-  council_reference: 100/166/2019
-  date_received: '2019-04-17'
-  description: Single-storey detached dwelling incorporating a garage wall on the
-    south-western side boundary
-  address: 12 Ambleside PL MORPHETTVILLE
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2017.00001761.002%20
-  council_reference: 100/1761/2017
-  date_received: '2019-05-10'
-  description: Application to vary DA 2013/1747 - amendment to FFL and external paving
-    levels throughout the site and to delete condition 13 and 14
-  address: 2C Shearing ST OAKLANDS PARK
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2016.00001783.003%20
-  council_reference: 100/1783/2016
   date_received: '2019-05-09'
+- council_reference: 7.2016.1783.3
+  address: 8 Fourth Av, Ascot Park 5043 SA
   description: To undertake a Residential Community Title Land Division - 1 into 4
     allotments and to construct a two storey residential flat building comprising
     two dwellings and a single storey residential flat building comprising two dwellings
     with associated car parking and landscaping
-  address: 8 Fourth AV ASCOT PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2016.00001783.003
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00001799.002%20
-  council_reference: 100/1799/2018
-  date_received: '2019-04-23'
-  description: To construct a single storey (split level) detached dwelling incorporating
-    a garage wall exceeding 3.0 metres in height along the northern side boundary.
-  address: 34 West ST SEACLIFF PARK
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2015.00001802.004%20
-  council_reference: 100/1802/2015
-  date_received: '2019-05-01'
-  description: A two storey detached dwelling with associated swimming pool, earthworks
-    and retaining walls (Lot 1) and a two storey group dwelling with associated earthworks
-    and retaining walls (Lot 5) Stage 2 - Remainder of work (Lot 5)
-  address: 1 / 36 Trumara RD MARINO
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00001866.002%20
-  council_reference: 100/1866/2018
   date_received: '2019-05-09'
-  description: Two storey detached dwelling
-  address: 15 Hannah RD TONSLEY
+- council_reference: 7.2016.992.3
+  address: 399 Diagonal Rd, Sturt 5047 SA
+  description: Two single storey dwellings, one of which incorporates a garage wall
+    along the western side boundary, a freestanding carport and associated landscaping
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2016.00000992.003
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00001868.002%20
-  council_reference: 100/1868/2018
-  date_received: '2019-05-09'
-  description: Two storey detached dwelling
-  address: 1284 South RD TONSLEY
+  date_received: '2019-04-29'
+- council_reference: 7.2016.993.2
+  address: 1 Letcher Rd, Oaklands Park 5046 SA
+  description: 'To demolish existing buildings and structures and to construct four
+    (4) dwellings: two (2) two-storey dwellings and a single storey residential flat
+    building comprising two (2) dwellings to the rear of the site, all with associated
+    retaining walls, fencing and landscaping'
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2016.00000993.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00001869.002%20
-  council_reference: 100/1869/2018
-  date_received: '2019-04-16'
-  description: Two storey detached dwelling
-  address: 22 Hannah RD TONSLEY
+  date_received: '2019-04-30'
+- council_reference: 7.2017.1063.2
+  address: 45 Condada Av, Park Holme 5043 SA
+  description: Pair of single storey semi-detached dwellings
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2017.00001063.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00001872.002%20
-  council_reference: 100/1872/2018
-  date_received: '2019-04-17'
-  description: The construction of a three storey dwelling
-  address: 1284 South RD TONSLEY
+  date_received: '2019-05-08'
+- council_reference: 7.2017.1481.3
+  address: 1700 Main South Rd, O'halloran Hill 5158 SA
+  description: Construction of a pre-school (childcare centre), associated earthworks
+    and retaining, car parking and landscaping. STAGE 2 - FINAL STAGE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2017.00001481.003
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00001873.002%20
-  council_reference: 100/1873/2018
-  date_received: '2019-04-15'
-  description: Three storey detached dwelling
-  address: 31 Hannah RD TONSLEY
+  date_received: '2019-04-29'
+- council_reference: 7.2017.1761.2
+  address: 2 Shearing St, Oaklands Park 5046 SA
+  description: Application to vary DA 2013/1747 - amendment to FFL and external paving
+    levels throughout the site and to delete condition 13 and 14
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2017.00001761.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00001874.002%20
-  council_reference: 100/1874/2018
-  date_received: '2019-04-16'
-  description: Two storey dwelling
-  address: 36 Amber LA TONSLEY
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00001876.002%20
-  council_reference: 100/1876/2018
-  date_received: '2019-04-16'
-  description: "Detached Dwelling Two Storey\r\n Garage"
-  address: 38 Hannah RD TONSLEY
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00001877.002%20
-  council_reference: 100/1877/2018
-  date_received: '2019-04-17'
-  description: Three Storey Detached Dwelling and Garage
-  address: 1284 South RD TONSLEY
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00001878.002%20
-  council_reference: 100/1878/2018
-  date_received: '2019-04-15'
-  description: Three Storey Detached Dwelling and Garage
-  address: 25 Hannah RD TONSLEY
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2017.00001879.002%20
-  council_reference: 100/1879/2017
-  date_received: '2019-04-15'
+  date_received: '2019-05-10'
+- council_reference: 7.2017.1879.2
+  address: 44 William St, South Plympton 5038 SA
   description: Land Division Residential Torrens Title - 1 into 3 allotments and the
     subsequent construction of three, two storey row dwellings and landscaping
-  address: 44 William ST SOUTH PLYMPTON
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2017.00001879.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00001879.002%20
-  council_reference: 100/1879/2018
-  date_received: '2019-04-17'
-  description: Three Storey Detached Dwelling and Garage
-  address: 1284 South RD TONSLEY
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00001880.002%20
-  council_reference: 100/1880/2018
   date_received: '2019-04-15'
-  description: Three storey detached dwelling
-  address: 23 Hannah RD TONSLEY
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00001881.002%20
-  council_reference: 100/1881/2018
-  date_received: '2019-05-06'
-  description: Three storey detached dwelling
-  address: 31 Amber LA TONSLEY
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2014.00001916.003%20
-  council_reference: 100/1916/2014
-  date_received: '2019-05-07'
-  description: A two storey residential flat building, comprising two dwellings and
-    detached garage serving the existing dwelling, with associated landscaping
-  address: 5 Sixth AV ASCOT PARK
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00002028.002%20
-  council_reference: 100/2028/2018
-  date_received: '2019-04-15'
-  description: Dwelling Addition - Carport
-  address: 3 / 33 Boyle ST MARION
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00002030.002%20
-  council_reference: 100/2030/2018
-  date_received: '2019-04-17'
-  description: A pair of two storey semi-detached dwellings
-  address: 97 Cliff ST GLENGOWRIE
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00002041.003%20
-  council_reference: 100/2041/2018
-  date_received: '2019-05-02'
-  description: Three single storey residential flat buildings and three single storey
-    group dwellings with associated parking - STAGE 2 FINAL
-  address: 8 Sturm CT OAKLANDS PARK
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00002045.002%20
-  council_reference: 100/2045/2018
-  date_received: '2019-04-29'
-  description: Dwelling Addition - Verandah and Laundry
-  address: 24 Nelson ST SOUTH PLYMPTON
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000208.002%20
-  council_reference: 100/208/2019
-  date_received: '2019-04-16'
-  description: Variation to DA 100/2018/1345; to alter the proposed dwelling footprints,
-    with a subsequent reduction in front and rear setbacks as well as an increase
-    to the northern boundary wall length.
-  address: 80 Bradley GR MITCHELL PARK
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00002094.002%20
-  council_reference: 100/2094/2018
-  date_received: '2019-05-01'
-  description: Granny Flat Detached
-  address: 31 Elura AV SHEIDOW PARK
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000213.002%20
-  council_reference: 100/213/2019
-  date_received: '2019-05-07'
-  description: Fence (3 metres high)
-  address: 15 Kinsale CR MARINO
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2013.00002131.004%20
-  council_reference: 100/2131/2013
-  date_received: '2019-05-03'
-  description: Retail Building
-  address: 7 Hutt CL SHEIDOW PARK
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2017.00002191.002%20
-  council_reference: 100/2191/2017
-  date_received: '2019-05-08'
+- council_reference: 7.2017.2191.2
+  address: 286 Oaklands Rd, Park Holme 5043 SA
   description: Four, single storey row dwellings
-  address: 286 Oaklands RD PARK HOLME
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2017.00002191.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00002246.002%20
-  council_reference: 100/2246/2018
-  date_received: '2019-05-13'
-  description: Land Division Residential Torrens Title - 1 into 3 allotments and the
-    construction of three, two storey row dwellings with associated landscaping
-  address: 7A The Triangle WARRADALE
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00002259.002%20
-  council_reference: 100/2259/2018
-  date_received: '2019-05-13'
-  description: Dwelling alterations and additions to incorporate additional verandah
-    under main roof
-  address: 5 Riesling AV GLENGOWRIE
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00002343.002%20
-  council_reference: 100/2343/2018
-  date_received: '2019-05-09'
-  description: To demolish existing buildings and structures and to construct five
-    (5) single storey dwellings with associated car parking and landscaping.
-  address: 36 De Laine AV EDWARDSTOWN
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00002367.002%20
-  council_reference: 100/2367/2018
-  date_received: '2019-05-13'
-  description: Land Division Residential Torrens Title - 1 into 2 Allotments and the
-    construction of two, two storey detached dwellings with associated landscaping
-  address: 11 Spruce AV WARRADALE
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2017.00002470.002%20
-  council_reference: 100/2470/2017
-  date_received: '2019-04-18'
+  date_received: '2019-05-08'
+- council_reference: 7.2017.2470.2
+  address: 23 Neath Av, Dover Gardens 5048 SA
   description: 'To undertake a staged development: Stage 1: Residential Torrens Title
     Land Division - 2 into 5 allotments and Stage 2: to construct five (3), single-storey
     row dwellings with associated car parking'
-  address: 25 Neath AV DOVER GARDENS
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2017.00002470.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000254.002%20
-  council_reference: 100/254/2019
-  date_received: '2019-05-07'
-  description: Replacement of AV Screen
-  address: 79 Morphett RD MORPHETTVILLE
+  date_received: '2019-04-18'
+- council_reference: 7.2018.1024.2
+  address: 28 Weroona Av, Park Holme 5043 SA
+  description: Two Single Storey Detached Dwellings
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00001024.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000026.002%20
-  council_reference: 100/26/2019
+  date_received: '2019-04-24'
+- council_reference: 7.2018.1103.2
+  address: 54 Oliphant Av, Marion 5043 SA
+  description: Construction of a two-storey dwelling incorporating a garage wall on
+    the north-western boundary
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00001103.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 7.2018.1239.2
+  address: 19 Oak Av, Tonsley 5042 SA
+  description: Variation to Development Application 100/2016/2188 comprising both
+    internal and external changes to a two storey residential flat building containg
+    four dwellings with associated car parking and landscaping.
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00001239.002
+  date_scraped: '2019-05-14'
   date_received: '2019-04-17'
-  description: Single storey detached dwelling
-  address: 45 Sutton AV SEACOMBE GARDENS
+- council_reference: 7.2018.1296.2
+  address: 20 Melville St, South Plympton 5038 SA
+  description: Variation to DA 100/D236/14 - Alterations to internal layout, dwelling
+    footprints, dwelling facades, and addition of alfrescos
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00001296.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000289.002%20
-  council_reference: 100/289/2019
-  date_received: '2019-04-23'
-  description: "Dwelling Addition Single Storey\r\n Balcony"
-  address: 14 Lomond AV SEACOMBE HEIGHTS
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000299.002%20
-  council_reference: 100/299/2019
   date_received: '2019-04-30'
+- council_reference: 7.2018.1326.2
+  address: 20 Melbourne St, Sturt 5047 SA
+  description: Demolition of existing buildings and the construction of two semi-detached
+    dwellings
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00001326.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+- council_reference: 7.2018.1546.2
+  address: 29B Ferry Av, Plympton Park 5038 SA
+  description: Two storey detached dwelling
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00001546.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+- council_reference: 7.2018.1799.2
+  address: 34 West St, Seacliff Park 5049 SA
+  description: To construct a single storey (split level) detached dwelling incorporating
+    a garage wall exceeding 3.0 metres in height along the northern side boundary.
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00001799.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-23'
+- council_reference: 7.2018.1866.2
+  address: 1284 South Rd, Tonsley 5042 SA
+  description: Two storey detached dwelling
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00001866.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: 7.2018.1868.2
+  address: 1284 South Rd, Tonsley 5042 SA
+  description: Two storey detached dwelling
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00001868.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: 7.2018.1869.2
+  address: 22 Hannah Rd, Tonsley 5042 SA
+  description: Two storey detached dwelling
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00001869.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+- council_reference: 7.2018.1872.2
+  address: 1284 South Rd, Tonsley 5042 SA
+  description: The construction of a three storey dwelling
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00001872.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+- council_reference: 7.2018.1873.2
+  address: 1284 South Rd, Tonsley 5042 SA
+  description: Three storey detached dwelling
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00001873.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+- council_reference: 7.2018.1874.2
+  address: 1284 South Rd, Tonsley 5042 SA
+  description: Two storey dwelling
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00001874.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+- council_reference: 7.2018.1876.2
+  address: 1284 South Rd, Tonsley 5042 SA
+  description: Detached Dwelling Two Storey Garage
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00001876.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+- council_reference: 7.2018.1877.2
+  address: 1284 South Rd, Tonsley 5042 SA
+  description: Three Storey Detached Dwelling and Garage
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00001877.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+- council_reference: 7.2018.1878.2
+  address: 1284 South Rd, Tonsley 5042 SA
+  description: Three Storey Detached Dwelling and Garage
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00001878.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+- council_reference: 7.2018.1879.2
+  address: 1284 South Rd, Tonsley 5042 SA
+  description: Three Storey Detached Dwelling and Garage
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00001879.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+- council_reference: 7.2018.1880.2
+  address: 1284 South Rd, Tonsley 5042 SA
+  description: Three storey detached dwelling
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00001880.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+- council_reference: 7.2018.1881.2
+  address: 1284 South Rd, Tonsley 5042 SA
+  description: Three storey detached dwelling
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00001881.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 7.2018.2028.2
+  address: 3/33 Boyle St, Marion 5043 SA
+  description: Dwelling Addition - Carport
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00002028.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+- council_reference: 7.2018.2030.2
+  address: 97 Cliff St, Glengowrie 5044 SA
+  description: A pair of two storey semi-detached dwellings
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00002030.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+- council_reference: 7.2018.2041.3
+  address: 10 Sturm Ct, Oaklands Park 5046 SA
+  description: Three single storey residential flat buildings and three single storey
+    group dwellings with associated parking - STAGE 2 FINAL
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00002041.003
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-02'
+- council_reference: 7.2018.2045.2
+  address: 24 Nelson St, South Plympton 5038 SA
+  description: Dwelling Addition - Verandah and Laundry
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00002045.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-29'
+- council_reference: 7.2018.2094.2
+  address: 31 Elura Av, Sheidow Park 5158 SA
+  description: Granny Flat Detached
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00002094.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-01'
+- council_reference: 7.2018.2246.2
+  address: 7 The Triangle, Warradale 5046 SA
+  description: Land Division Residential Torrens Title - 1 into 3 allotments and the
+    construction of three, two storey row dwellings with associated landscaping
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00002246.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: 7.2018.2259.2
+  address: 5 Riesling Av, Glengowrie 5044 SA
+  description: Dwelling alterations and additions to incorporate additional verandah
+    under main roof
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00002259.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: 7.2018.2343.2
+  address: 36 De Laine Av, Edwardstown 5039 SA
+  description: To demolish existing buildings and structures and to construct five
+    (5) single storey dwellings with associated car parking and landscaping.
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00002343.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
+- council_reference: 7.2018.2367.2
+  address: 11 Spruce Av, Warradale 5046 SA
+  description: Land Division Residential Torrens Title - 1 into 2 Allotments and the
+    construction of two, two storey detached dwellings with associated landscaping
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00002367.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: 7.2018.502.2
+  address: 12 Milton St, Oaklands Park 5046 SA
+  description: One single storey dwelling and one single storey residential flat building
+    comprising two dwellings
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00000502.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 7.2018.938.2
+  address: 113E Perry Barr Rd, Hallett Cove 5158 SA
+  description: Two storey detached dwelling and associated earthworks
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2018.00000938.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-29'
+- council_reference: 7.2019.126.2
+  address: 43 Stradbroke Av, Plympton Park 5038 SA
+  description: 'Undertake Staged Development: Stage 1 for Residential Land Division
+    (Community Title) - 1 into 3 allotments and Stage 2 construction of 3 single storey
+    row dwellings.'
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000126.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+- council_reference: 7.2019.160.2
+  address: 7 Laffer Dr, Bedford Park 5042 SA
+  description: Construction of a detached toilet and shower block and bike storage
+    shed, stairwell modifications and alterations to existing accessible car parking.
+    STAGE 1 - TOILET/SHOWER BLOCK, STAIRWELL AND ACCESSIBLE CAR PARKING ONLY.
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000160.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+- council_reference: 7.2019.166.2
+  address: 12 Ambleside Pl, Morphettville 5043 SA
+  description: Single-storey detached dwelling incorporating a garage wall on the
+    south-western side boundary
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000166.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+- council_reference: 7.2019.208.2
+  address: 80 Bradley Gr, Mitchell Park 5043 SA
+  description: Variation to DA 100/2018/1345; to alter the proposed dwelling footprints,
+    with a subsequent reduction in front and rear setbacks as well as an increase
+    to the northern boundary wall length.
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000208.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+- council_reference: 7.2019.213.2
+  address: 15 Kinsale Cr, Marino 5049 SA
+  description: Fence (3 metres high)
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000213.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: 7.2019.254.2
+  address: 79 Morphett Rd, Morphettville 5043 SA
+  description: Replacement of AV Screen
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000254.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
+- council_reference: 7.2019.26.2
+  address: 43 Sutton Av, Seacombe Gardens 5047 SA
+  description: Single storey detached dwelling
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000026.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+- council_reference: 7.2019.289.2
+  address: 14 Lomond Av, Seacombe Heights 5047 SA
+  description: Dwelling Addition Single Storey Balcony
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000289.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-23'
+- council_reference: 7.2019.299.2
+  address: 35 Hendrie St, Morphettville 5043 SA
   description: Application to vary DA 100/2018/1161 - Increase in floor area, alterations
     to internal layout, relocation of alfresco and addition of deck
-  address: 35 Hendrie ST MORPHETTVILLE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000299.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000312.002%20
-  council_reference: 100/312/2019
-  date_received: '2019-05-13'
+  date_received: '2019-04-30'
+- council_reference: 7.2019.312.2
+  address: 12 Newland Av, Marino 5049 SA
   description: To demolish existing structures and to make alterations and additions
     to the rear of an existing single storey detached dwelling including new rear
     deck.
-  address: 12 Newland AV MARINO
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000312.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000317.002%20
-  council_reference: 100/317/2019
-  date_received: '2019-05-07'
+  date_received: '2019-05-13'
+- council_reference: 7.2019.317.2
+  address: 4/33 Third Av, Ascot Park 5043 SA
   description: Dwelling Addition - Carport
-  address: 4 / 33 Third AV ASCOT PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000317.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000345.002%20
-  council_reference: 100/345/2019
-  date_received: '2019-05-08'
+  date_received: '2019-05-07'
+- council_reference: 7.2019.345.2
+  address: 85 Seaway Rd, Hallett Cove 5158 SA
   description: To vary Development Application 100/2010/2018 to construct a detached
     dwelling, involving an increase in floor area and alterations and additions to
     the dwelling including an attached alfresco area to the rear.
-  address: 85 Seaway RD HALLETT COVE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000345.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000355.002%20
-  council_reference: 100/355/2019
-  date_received: '2019-04-15'
+  date_received: '2019-05-08'
+- council_reference: 7.2019.355.2
+  address: 36 Tindall Cr, Sheidow Park 5158 SA
   description: Dwelling Addition - Verandah
-  address: 36 Tindall CR SHEIDOW PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000355.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000394.002%20
-  council_reference: 100/394/2019
   date_received: '2019-04-15'
+- council_reference: 7.2019.394.2
+  address: 20 Hill St, Seacliff Park 5049 SA
   description: Deck & Attached Verandah
-  address: 20 Hill ST SEACLIFF PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000394.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000004.002%20
-  council_reference: 100/4/2019
-  date_received: '2019-04-17'
+  date_received: '2019-04-15'
+- council_reference: 7.2019.4.2
+  address: 44 William St, South Plympton 5038 SA
   description: Application to vary Development Application 100/2017/1879 to enclose
     carport to garage - Stage 1 FOOTINGS AND EARTHWORKS ONLY
-  address: 44 William ST SOUTH PLYMPTON
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000004.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000400.002%20
-  council_reference: 100/400/2019
-  date_received: '2019-04-16'
+  date_received: '2019-04-17'
+- council_reference: 7.2019.400.2
+  address: 61 Shakespeare Av, Plympton Park 5038 SA
   description: Variation to application 2017/2298 - enclosure of carport on boundary
     to garage exceeding 3 metres in height from natural ground level
-  address: 61 Shakespeare AV PLYMPTON PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000400.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000416.002%20
-  council_reference: 100/416/2019
-  date_received: '2019-05-06'
+  date_received: '2019-04-16'
+- council_reference: 7.2019.416.2
+  address: 5034L Hannah Rd, Tonsley 5042 SA
   description: Three storey detached dwelling
-  address: 5034L Hannah RD TONSLEY
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000416.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000425.002%20
-  council_reference: 100/425/2019
-  date_received: '2019-04-18'
+  date_received: '2019-05-06'
+- council_reference: 7.2019.425.2
+  address: 9 Jackson St, Plympton Park 5038 SA
   description: Dwelling Addition - Verandah
-  address: 9 Jackson ST PLYMPTON PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000425.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000440.002%20
-  council_reference: 100/440/2019
-  date_received: '2019-05-07'
+  date_received: '2019-04-18'
+- council_reference: 7.2019.440.2
+  address: 9 Lifford Pde, Marino 5049 SA
   description: Single storey dwelling addition, carport, shed, and two verandahs
-  address: 9 Lifford PDE MARINO
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000440.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000455.002%20
-  council_reference: 100/455/2019
-  date_received: '2019-04-18'
+  date_received: '2019-05-07'
+- council_reference: 7.2019.455.2
+  address: 13 Cungena Av, Park Holme 5043 SA
   description: Detached Dwelling Single Storey and Garage
-  address: 13 Cungena AV PARK HOLME
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000455.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000457.002%20
-  council_reference: 100/457/2019
   date_received: '2019-04-18'
+- council_reference: 7.2019.457.2
+  address: 13 Cungena Av, Park Holme 5043 SA
   description: Detached Dwelling Single Storey and Garage
-  address: 13 Cungena AV PARK HOLME
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000457.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000468.002%20
-  council_reference: 100/468/2019
   date_received: '2019-04-18'
+- council_reference: 7.2019.468.2
+  address: 7/900 South Rd, Edwardstown 5039 SA
   description: Application to vary DA 100/2018/1773 - Change in building structure,
     materials and increase in overall height
-  address: 7 / 900 South RD EDWARDSTOWN
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000468.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00000502.002%20
-  council_reference: 100/502/2018
-  date_received: '2019-05-06'
-  description: One single storey dwelling and one single storey residential flat building
-    comprising two dwellings
-  address: 12 Milton ST OAKLANDS PARK
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000518.002%20
-  council_reference: 100/518/2019
-  date_received: '2019-05-06'
+  date_received: '2019-04-18'
+- council_reference: 7.2019.518.2
+  address: 48/170 Oaklands Rd, Glengowrie 5044 SA
   description: Dwelling Addition - Verandah
-  address: 48 / 170 Oaklands RD GLENGOWRIE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000518.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000054.002%20
-  council_reference: 100/54/2019
-  date_received: '2019-04-15'
+  date_received: '2019-05-06'
+- council_reference: 7.2019.54.2
+  address: 9 Minchinbury Tce, Marion 5043 SA
   description: To demolish an existing dwelling and to construct a single storey detached
     dwelling and garage with associated landscaping.
-  address: 9 Minchinbury TCE MARION
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000054.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000056.002%20
-  council_reference: 100/56/2019
-  date_received: '2019-04-30'
+  date_received: '2019-04-15'
+- council_reference: 7.2019.56.2
+  address: 25 George St, Marion 5043 SA
   description: Detached Dwelling Single Storey
-  address: 25 George ST MARION
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000056.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000593.002%20
-  council_reference: 100/593/2019
-  date_received: '2019-05-09'
+  date_received: '2019-04-30'
+- council_reference: 7.2019.593.2
+  address: 111/293-297 Diagonal Rd, Oaklands Park 5046 SA
   description: External alterations to faÃ§ade of shop (post office), including illuminated
     signage (Shop 1068)
-  address: 111 / 293 - 297 Diagonal RD OAKLANDS PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000593.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000597.002%20
-  council_reference: 100/597/2019
-  date_received: '2019-04-18'
+  date_received: '2019-05-09'
+- council_reference: 7.2019.597.2
+  address: 3 Midera Av, Edwardstown 5039 SA
   description: Carport
-  address: 3 Midera AV EDWARDSTOWN
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000597.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000603.002%20
-  council_reference: 100/603/2019
-  date_received: '2019-04-15'
+  date_received: '2019-04-18'
+- council_reference: 7.2019.603.2
+  address: 3/146 Raglan Av, South Plympton 5038 SA
   description: Dwelling Addition - Verandah
-  address: 3 / 146 Raglan AV SOUTH PLYMPTON
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000603.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000607.002%20
-  council_reference: 100/607/2019
-  date_received: '2019-05-08'
+  date_received: '2019-04-15'
+- council_reference: 7.2019.607.2
+  address: 11 Ridgecrest Av, Darlington 5047 SA
   description: Variation to Development Application 100/2016/2150 to increase first
     floor ceiling level by 300mm, lower roof pitch from 5 degrees to 3 degrees, remove
     porch/front verandah, enclose garage with masonry wall, reduce height of privacy
     screen to 1.5m on front balcony, remove windows on western side, relocate lower
     storey door and window on rear elevation and retrospective removal of a regulated
     tree. STAGE 1 DWELLING ONLY
-  address: 11 Ridgecrest AV DARLINGTON
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000607.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000608.002%20
-  council_reference: 100/608/2019
+  date_received: '2019-05-08'
+- council_reference: 7.2019.608.2
+  address: 30B Harris St, Edwardstown 5039 SA
+  description: Dwelling Addition - Verandah
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000608.002
+  date_scraped: '2019-05-14'
   date_received: '2019-04-29'
-  description: Dwelling Addition - Verandah
-  address: 30B Harris ST EDWARDSTOWN
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000064.002%20
-  council_reference: 100/64/2019
-  date_received: '2019-04-16'
+- council_reference: 7.2019.64.2
+  address: 18 Francis Av, Glengowrie 5044 SA
   description: Single storey dwelling additions and alterations
-  address: 18 Francis AV GLENGOWRIE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000064.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000659.001%20
-  council_reference: 100/659/2019
-  date_received: '2019-04-15'
+  date_received: '2019-04-16'
+- council_reference: 7.2019.659.1
+  address: 1 Kildonan Rd, Warradale 5046 SA
   description: Two, two storey detached dwellings
-  address: 1 Kildonan RD WARRADALE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000659.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000660.001%20
-  council_reference: 100/660/2019
   date_received: '2019-04-15'
+- council_reference: 7.2019.660.1
+  address: 8 Dalkeith Av, Dover Gardens 5048 SA
   description: Dwelling Addition - Verandah
-  address: 8 Dalkeith AV DOVER GARDENS
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000660.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000661.001%20
-  council_reference: 100/661/2019
   date_received: '2019-04-15'
+- council_reference: 7.2019.661.1
+  address: 22 Ralph St, Sturt 5047 SA
   description: Variation to DA 2018_1553
-  address: 22 Ralph ST STURT
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000661.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000662.001%20
-  council_reference: 100/662/2019
   date_received: '2019-04-15'
+- council_reference: 7.2019.662.1
+  address: 14 Fourth Av, Ascot Park 5043 SA
   description: Attached verandah
-  address: 14 Fourth AV ASCOT PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000662.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000663.001%20
-  council_reference: 100/663/2019
   date_received: '2019-04-15'
+- council_reference: 7.2019.663.1
+  address: 26 Cobham Av, Morphettville 5043 SA
   description: "STAGE 1 - Torrens Title Land Division - 1 into 3 allotments \nSTAGE
     2 - Subsequent construction of three (3) two storey row dwellings with landscaping"
-  address: 26 Cobham AV MORPHETTVILLE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000663.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000664.001%20
-  council_reference: 100/664/2019
   date_received: '2019-04-15'
+- council_reference: 7.2019.664.1
+  address: 12 Milton St, Oaklands Park 5046 SA
   description: Land Division Residential Torrens - 1 into 2 allotments
-  address: 12 Milton ST OAKLANDS PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000664.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000665.001%20
-  council_reference: 100/665/2019
   date_received: '2019-04-15'
+- council_reference: 7.2019.665.1
+  address: 12 Milton St, Oaklands Park 5046 SA
   description: Land Division Residential Community - 1 into 2 allotments
-  address: 12 Milton ST OAKLANDS PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000665.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000666.001%20
-  council_reference: 100/666/2019
   date_received: '2019-04-15'
+- council_reference: 7.2019.666.1
+  address: 61 Nunyah Av, Park Holme 5043 SA
   description: Land Division Residential Torrens 1 INTO 2 Allotments
-  address: 61 Nunyah AV PARK HOLME
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000666.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000667.001%20
-  council_reference: 100/667/2019
   date_received: '2019-04-15'
+- council_reference: 7.2019.667.1
+  address: 53 Kingston Av, Seacombe Gardens 5047 SA
   description: To construct three (3) single storey row dwellings with associated
     car parking and landscaping.
-  address: 53 Kingston AV SEACOMBE GARDENS
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000667.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000668.001%20
-  council_reference: 100/668/2019
   date_received: '2019-04-15'
+- council_reference: 7.2019.668.1
+  address: 2 Wallage Av, Morphettville 5043 SA
   description: Land Division Residential Torrens 1 Into 2 Allotments
-  address: 2 Wallage AV MORPHETTVILLE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000668.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000669.001%20
-  council_reference: 100/669/2019
   date_received: '2019-04-15'
+- council_reference: 7.2019.669.1
+  address: 45 Conmurra Av, Edwardstown 5039 SA
   description: Land Division Residential Torrens (1 into 2) allotments
-  address: 45 Conmurra AV EDWARDSTOWN
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000669.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000670.001%20
-  council_reference: 100/670/2019
   date_received: '2019-04-15'
+- council_reference: 7.2019.670.1
+  address: 21 Denham Av, Morphettville 5043 SA
   description: Land Division Residential Torrens - Boundary Alignment
-  address: 21 Denham AV MORPHETTVILLE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000670.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000671.001%20
-  council_reference: 100/671/2019
-  date_received: '2019-04-16'
+  date_received: '2019-04-15'
+- council_reference: 7.2019.671.1
+  address: 29A Towers Tce, South Plympton 5038 SA
   description: Detached Dwelling Single Storey and Garage
-  address: 29A Towers TCE SOUTH PLYMPTON
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000671.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000672.002%20
-  council_reference: 100/672/2019
-  date_received: '2019-05-06'
-  description: Single storey detached dwelling
-  address: 15 Hamilton AV WARRADALE
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000673.001%20
-  council_reference: 100/673/2019
   date_received: '2019-04-16'
+- council_reference: 7.2019.672.1
+  address: 15 Hamilton Av, Warradale 5046 SA
+  description: Single storey detached dwelling
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000672.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+- council_reference: 7.2019.672.2
+  address: 15 Hamilton Av, Warradale 5046 SA
+  description: Single storey detached dwelling
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000672.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-06'
+- council_reference: 7.2019.673.1
+  address: 10 Hammersmith Av, Edwardstown 5039 SA
   description: To re-roof dwelling from tile to colorbond & remove internal load bearing
     wall
-  address: 10 Hammersmith AV EDWARDSTOWN
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000673.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000674.001%20
-  council_reference: 100/674/2019
   date_received: '2019-04-16'
+- council_reference: 7.2019.674.1
+  address: 10 Cobham Av, Morphettville 5043 SA
   description: Change of use
-  address: 10 Cobham AV MORPHETTVILLE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000674.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000675.001%20
-  council_reference: 100/675/2019
   date_received: '2019-04-16'
+- council_reference: 7.2019.675.1
+  address: 7 Laffer Dr, Bedford Park 5042 SA
   description: Internal Refurbishments of existing call centre (Westpac)
-  address: 7 Laffer DR BEDFORD PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000675.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000676.001%20
-  council_reference: 100/676/2019
   date_received: '2019-04-16'
+- council_reference: 7.2019.676.1
+  address: 18 Hope St, Dover Gardens 5048 SA
   description: Dwelling Addition - Carport
-  address: 18 Hope ST DOVER GARDENS
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000676.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000677.001%20
-  council_reference: 100/677/2019
   date_received: '2019-04-16'
+- council_reference: 7.2019.677.1
+  address: 990-1016 South Rd, Edwardstown 5039 SA
   description: Tavern Refurbishment Fitout
-  address: 990 - 1016 South RD EDWARDSTOWN
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000677.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000678.001%20
-  council_reference: 100/678/2019
   date_received: '2019-04-16'
+- council_reference: 7.2019.678.1
+  address: 15A Finchley St, Clovelly Park 5042 SA
   description: Single storey detached dwelling, single garage, alfresco and porch
-  address: 15A Finchley ST CLOVELLY PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000678.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000679.001%20
-  council_reference: 100/679/2019
   date_received: '2019-04-16'
+- council_reference: 7.2019.679.1
+  address: 40 Ramsay Av, Seacombe Gardens 5047 SA
   description: Demolition
-  address: 40 Ramsay AV SEACOMBE GARDENS
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000679.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000680.002%20
-  council_reference: 100/680/2019
-  date_received: '2019-05-08'
+  date_received: '2019-04-16'
+- council_reference: 7.2019.680.1
+  address: Wilcox Av, Morphettville 5043 SA
   description: Pedestrian Bridge over the Sturt River in Morphettville between Hunt
     Avenue & Stephens Place
-  address: Wilcox AV MORPHETTVILLE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000680.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000681.001%20
-  council_reference: 100/681/2019
   date_received: '2019-04-16'
-  description: Two storey detached dwelling
-  address: 1284 South RD TONSLEY
+- council_reference: 7.2019.680.2
+  address: Wilcox Av, Morphettville 5043 SA
+  description: Pedestrian Bridge over the Sturt River in Morphettville between Hunt
+    Avenue & Stephens Place
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000680.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000682.002%20
-  council_reference: 100/682/2019
   date_received: '2019-05-08'
+- council_reference: 7.2019.681.1
+  address: 1284 South Rd, Tonsley 5042 SA
+  description: Two storey detached dwelling
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000681.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+- council_reference: 7.2019.682.1
+  address: Clifton Av, Morphettville 5043 SA
   description: Pedestrian Bridge over the Sturt River in Morphettville between Claines
     Avenue & Appleby Road
-  address: Clifton AV MORPHETTVILLE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000682.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000683.001%20
-  council_reference: 100/683/2019
-  date_received: '2019-04-17'
+  date_received: '2019-04-16'
+- council_reference: 7.2019.682.2
+  address: Clifton Av, Morphettville 5043 SA
+  description: Pedestrian Bridge over the Sturt River in Morphettville between Claines
+    Avenue & Appleby Road
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000682.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-08'
+- council_reference: 7.2019.683.1
+  address: 73 Daws Rd, Clovelly Park 5042 SA
   description: Garage
-  address: 73 Daws RD CLOVELLY PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000683.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000684.001%20
-  council_reference: 100/684/2019
   date_received: '2019-04-17'
+- council_reference: 7.2019.684.1
+  address: 20 Ormonde Av, Warradale 5046 SA
   description: Semi Detached Dwelling Two Storey
-  address: 20 Ormonde AV WARRADALE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000684.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000686.001%20
-  council_reference: 100/686/2019
   date_received: '2019-04-17'
+- council_reference: 7.2019.686.1
+  address: 26 Cormorant Dr, Hallett Cove 5158 SA
   description: Convert existing garage to habitable room
-  address: 26 Cormorant DR HALLETT COVE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000686.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000687.001%20
-  council_reference: 100/687/2019
   date_received: '2019-04-17'
+- council_reference: 7.2019.687.1
+  address: 35 Frederick St, Glengowrie 5044 SA
   description: To construct a two storey detached dwelling with associated car parking
     and landscaping (Dwelling B).
-  address: 35 Frederick ST GLENGOWRIE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000687.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000688.001%20
-  council_reference: 100/688/2019
   date_received: '2019-04-17'
+- council_reference: 7.2019.688.1
+  address: 282 Oaklands Rd, Park Holme 5043 SA
   description: Demolition
-  address: 282 Oaklands RD PARK HOLME
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000688.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000689.001%20
-  council_reference: 100/689/2019
-  date_received: '2019-04-18'
+  date_received: '2019-04-17'
+- council_reference: 7.2019.689.1
+  address: 6 Carina St, Hallett Cove 5158 SA
   description: Demolition of existing under main roof carport and construction of
     a dwelling addition (garage) with associated retaining wall and fence atop.
-  address: 6 Carina ST HALLETT COVE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000689.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000690.001%20
-  council_reference: 100/690/2019
   date_received: '2019-04-18'
+- council_reference: 7.2019.690.1
+  address: 42 Livingstone St, Glengowrie 5044 SA
   description: Outbuilding comprising cubby house and storage area
-  address: 42 Livingstone ST GLENGOWRIE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000690.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000691.001%20
-  council_reference: 100/691/2019
   date_received: '2019-04-18'
+- council_reference: 7.2019.691.1
+  address: 6 Ramrod Av, Hallett Cove 5158 SA
   description: Internal reconfiguration of retail space via alteration of the existing
     food court area and surrounding 19 tenancies into 8 tenancies as well as removal
     of the north-western access point and ramp to be replaced with glazing.
-  address: 6 Ramrod AV HALLETT COVE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000691.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000692.001%20
-  council_reference: 100/692/2019
   date_received: '2019-04-18'
+- council_reference: 7.2019.692.1
+  address: 8 Dawber Dr, Plympton Park 5038 SA
   description: Dwelling Addition - Deck
-  address: 8 Dawber DR PLYMPTON PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000692.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000693.001%20
-  council_reference: 100/693/2019
-  date_received: '2019-04-23'
+  date_received: '2019-04-18'
+- council_reference: 7.2019.693.1
+  address: 13 William St, South Plympton 5038 SA
   description: Dwelling Addition Single Storey
-  address: 13 William ST SOUTH PLYMPTON
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000693.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000694.001%20
-  council_reference: 100/694/2019
   date_received: '2019-04-23'
+- council_reference: 7.2019.694.1
+  address: 14 Ambleside Pl, Morphettville 5043 SA
   description: Detached Dwelling Single Storey and Garage
-  address: 14 Ambleside PL MORPHETTVILLE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000694.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000695.001%20
-  council_reference: 100/695/2019
   date_received: '2019-04-23'
+- council_reference: 7.2019.695.1
+  address: 14 Lynton Av, South Plympton 5038 SA
   description: Dwelling Addition Single Storey
-  address: 14 Lynton AV SOUTH PLYMPTON
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000695.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000696.001%20
-  council_reference: 100/696/2019
   date_received: '2019-04-23'
+- council_reference: 7.2019.696.1
+  address: 207/293-297 Diagonal Rd, Oaklands Park 5046 SA
   description: Retail Building Additions - Shop 2011 - BUPA
-  address: 207 / 293 - 297 Diagonal RD OAKLANDS PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000696.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000697.001%20
-  council_reference: 100/697/2019
   date_received: '2019-04-23'
+- council_reference: 7.2019.697.1
+  address: 1 Meredith Av, Glengowrie 5044 SA
   description: Swimming pool & safety fencing
-  address: 1 Meredith AV GLENGOWRIE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000697.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000698.001%20
-  council_reference: 100/698/2019
   date_received: '2019-04-23'
+- council_reference: 7.2019.698.1
+  address: 7A Ranelagh St, Glengowrie 5044 SA
   description: Swimming pool & safety fencing and decking
-  address: 7A Ranelagh ST GLENGOWRIE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000698.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000699.001%20
-  council_reference: 100/699/2019
   date_received: '2019-04-23'
+- council_reference: 7.2019.699.1
+  address: 22 Aldridge Av, Plympton Park 5038 SA
   description: Demolition
-  address: 22 Aldridge AV PLYMPTON PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000699.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000700.001%20
-  council_reference: 100/700/2019
   date_received: '2019-04-23'
+- council_reference: 7.2019.700.1
+  address: 38 Brooklyn Dr, Hallett Cove 5158 SA
   description: Verandah and non-habitable outbuilding
-  address: 38 Brooklyn DR HALLETT COVE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000700.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000701.001%20
-  council_reference: 100/701/2019
   date_received: '2019-04-23'
+- council_reference: 7.2019.701.1
+  address: 1-23 Alison Av, Marion 5043 SA
   description: Freestanding Shade Sail over Play Equipment at E.L.C.
-  address: 1 - 23 Alison AV MARION
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000701.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000702.001%20
-  council_reference: 100/702/2019
   date_received: '2019-04-23'
+- council_reference: 7.2019.702.1
+  address: 2 Pleasant Av, Glandore 5037 SA
   description: Change in use from dwelling into an office, and construction of an
     ancillary carport to the rear
-  address: 2 Pleasant AV GLANDORE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000702.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000703.001%20
-  council_reference: 100/703/2019
   date_received: '2019-04-23'
+- council_reference: 7.2019.703.1
+  address: 37 Elura Av, Sheidow Park 5158 SA
   description: Dwelling Addition - Verandah
-  address: 37 Elura AV SHEIDOW PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000703.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000704.001%20
-  council_reference: 100/704/2019
   date_received: '2019-04-23'
+- council_reference: 7.2019.704.1
+  address: 2 Ella St, Dover Gardens 5048 SA
   description: Dwelling Addition - Verandah
-  address: 2 Ella ST DOVER GARDENS
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000704.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000705.001%20
-  council_reference: 100/705/2019
   date_received: '2019-04-23'
+- council_reference: 7.2019.705.1
+  address: 5A Miller St, Sturt 5047 SA
   description: Dwelling Addition - Verandah
-  address: 5A Miller ST STURT
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000705.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000706.001%20
-  council_reference: 100/706/2019
   date_received: '2019-04-23'
+- council_reference: 7.2019.706.1
+  address: 5 Penn Cnr, Glengowrie 5044 SA
   description: Dwelling Addition - Carport and Verandah
-  address: 5 Penn CNR GLENGOWRIE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000706.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000707.001%20
-  council_reference: 100/707/2019
   date_received: '2019-04-23'
+- council_reference: 7.2019.707.1
+  address: 14 Acacia St, Plympton Park 5038 SA
   description: Dwelling Addition Single Storey and Dwelling Addition - Verandah
-  address: 14 Acacia ST PLYMPTON PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000707.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000708.001%20
-  council_reference: 100/708/2019
   date_received: '2019-04-23'
+- council_reference: 7.2019.708.1
+  address: 18 Mcgilp Av, Glengowrie 5044 SA
   description: Detached Dwelling Single Storey and Garage
-  address: 18A McGilp AV GLENGOWRIE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000708.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000709.001%20
-  council_reference: 100/709/2019
-  date_received: '2019-04-24'
+  date_received: '2019-04-23'
+- council_reference: 7.2019.709.1
+  address: 2 Camelot Cr, Seacombe Heights 5047 SA
   description: Retaining Wall
-  address: 2 Camelot CR SEACOMBE HEIGHTS
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000709.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000710.001%20
-  council_reference: 100/710/2019
   date_received: '2019-04-24'
+- council_reference: 7.2019.710.1
+  address: 32 Lindfield Av, Edwardstown 5039 SA
   description: To construct three single storey row dwellings with associated car
     parking and landscaping.
-  address: 32 Lindfield AV EDWARDSTOWN
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000710.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000711.001%20
-  council_reference: 100/711/2019
   date_received: '2019-04-24'
+- council_reference: 7.2019.711.1
+  address: 27A Charles St, Ascot Park 5043 SA
   description: Community Building Additions (verandah)
-  address: 27A Charles ST ASCOT PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000711.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000712.001%20
-  council_reference: 100/712/2019
   date_received: '2019-04-24'
+- council_reference: 7.2019.712.1
+  address: 2/11 Central Av, Hallett Cove 5158 SA
   description: Dwelling Addition - Verandah
-  address: 2 / 11 Central AV HALLETT COVE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000712.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000713.001%20
-  council_reference: 100/713/2019
   date_received: '2019-04-24'
+- council_reference: 7.2019.713.1
+  address: 8-10 Gumbowie Av, Edwardstown 5039 SA
   description: Partial demolition and warehouse addition with associated landscaping
     and car parking
-  address: 8 - 10 Gumbowie AV EDWARDSTOWN
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000713.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000714.001%20
-  council_reference: 100/714/2019
   date_received: '2019-04-24'
+- council_reference: 7.2019.714.1
+  address: 12 Larkdale Av, Marion 5043 SA
   description: Dwelling Addition - Verandah
-  address: 12 Larkdale AV MARION
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000714.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000715.001%20
-  council_reference: 100/715/2019
-  date_received: '2019-04-26'
+  date_received: '2019-04-24'
+- council_reference: 7.2019.715.1
+  address: 2 Rugby St, Dover Gardens 5048 SA
   description: Three Row Dwellings Single Storey
-  address: 2 Rugby ST DOVER GARDENS
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000715.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000716.001%20
-  council_reference: 100/716/2019
   date_received: '2019-04-26'
+- council_reference: 7.2019.716.1
+  address: 4 Clacton Rd, Dover Gardens 5048 SA
   description: Swimming pool & safety fencing
-  address: 4 Clacton RD DOVER GARDENS
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000716.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000717.001%20
-  council_reference: 100/717/2019
   date_received: '2019-04-26'
+- council_reference: 7.2019.717.1
+  address: 29 Hendrie St, Morphettville 5043 SA
   description: Dwelling Addition - Carport
-  address: 29 Hendrie ST MORPHETTVILLE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000717.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000718.001%20
-  council_reference: 100/718/2019
   date_received: '2019-04-26'
+- council_reference: 7.2019.718.1
+  address: 33 Lomond Av, Seacombe Heights 5047 SA
   description: Freestanding Verandah
-  address: 33 Lomond AV SEACOMBE HEIGHTS
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000718.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000719.001%20
-  council_reference: 100/719/2019
   date_received: '2019-04-26'
+- council_reference: 7.2019.719.1
+  address: 60A Nilpena Av, Morphettville 5043 SA
   description: Single storey dwelling, to be used temporarily as a display home as
     per DA 100/1304/2017
-  address: 60A Nilpena AV MORPHETTVILLE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000719.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000720.001%20
-  council_reference: 100/720/2019
   date_received: '2019-04-26'
+- council_reference: 7.2019.720.1
+  address: 16 Pryor Lp, Sheidow Park 5158 SA
   description: Dwelling Addition - Carport
-  address: 16 Pryor LP SHEIDOW PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000720.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000721.001%20
-  council_reference: 100/721/2019
   date_received: '2019-04-26'
+- council_reference: 7.2019.721.1
+  address: 37 English Av, Clovelly Park 5042 SA
   description: To construct two single storey dwellings with associated garages.
-  address: 37 English AV CLOVELLY PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000721.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000722.001%20
-  council_reference: 100/722/2019
   date_received: '2019-04-26'
+- council_reference: 7.2019.722.1
+  address: 5 Vincent St, South Plympton 5038 SA
   description: Detached Dwelling Single Storey
-  address: 5 Vincent ST SOUTH PLYMPTON
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000722.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000723.001%20
-  council_reference: 100/723/2019
-  date_received: '2019-04-29'
+  date_received: '2019-04-26'
+- council_reference: 7.2019.723.1
+  address: 14B Glamis Av, Seacombe Gardens 5047 SA
   description: Dwelling Addition - Verandah
-  address: 14B Glamis AV SEACOMBE GARDENS
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000723.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000724.001%20
-  council_reference: 100/724/2019
   date_received: '2019-04-29'
+- council_reference: 7.2019.724.1
+  address: 18 Narkunda St, Glandore 5037 SA
   description: Single storey dwelling alterations and additions, and carport
-  address: 18 Narkunda ST GLANDORE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000724.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000725.001%20
-  council_reference: 100/725/2019
   date_received: '2019-04-29'
+- council_reference: 7.2019.725.1
+  address: 68 Wheaton St, South Plympton 5038 SA
   description: Dwelling Addition - Verandah
-  address: 68 Wheaton ST SOUTH PLYMPTON
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000725.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000726.001%20
-  council_reference: 100/726/2019
   date_received: '2019-04-29'
+- council_reference: 7.2019.726.1
+  address: 12 Jervois Tce, Marino 5049 SA
   description: Freestanding shed with associated earthworks
-  address: 12 Jervois TCE MARINO
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000726.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000727.001%20
-  council_reference: 100/727/2019
   date_received: '2019-04-29'
+- council_reference: 7.2019.727.1
+  address: 557A Morphett Rd, Seacombe Gardens 5047 SA
   description: The construction of a carport associated with the existing dwelling
     and the construction of a single storey dwelling
-  address: 557A Morphett RD SEACOMBE GARDENS
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000727.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000728.001%20
-  council_reference: 100/728/2019
   date_received: '2019-04-29'
+- council_reference: 7.2019.728.1
+  address: 10 Allison St, Ascot Park 5043 SA
   description: Single storey dwelling alterations and addition,and alteration to existing
     outbuilding
-  address: 10 Allison ST ASCOT PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000728.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000729.001%20
-  council_reference: 100/729/2019
   date_received: '2019-04-29'
+- council_reference: 7.2019.729.1
+  address: 34 Hannah Rd, Tonsley 5042 SA
   description: Three storey detached dwelling
-  address: 34 Hannah RD TONSLEY
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000729.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000730.001%20
-  council_reference: 100/730/2019
   date_received: '2019-04-29'
+- council_reference: 7.2019.730.1
+  address: 24 Seaway Rd, Hallett Cove 5158 SA
   description: Dwelling Addition - Verandah
-  address: 24 Seaway RD HALLETT COVE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000730.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000731.001%20
-  council_reference: 100/731/2019
   date_received: '2019-04-29'
+- council_reference: 7.2019.731.1
+  address: 20 Ballara Av, Warradale 5046 SA
   description: Dwelling Addition - Verandah
-  address: 20 Ballara AV WARRADALE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000731.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000732.001%20
-  council_reference: 100/732/2019
-  date_received: '2019-04-30'
+  date_received: '2019-04-29'
+- council_reference: 7.2019.732.1
+  address: 1 Daws Rd, Ascot Park 5043 SA
   description: Demolition
-  address: 1 Daws RD ASCOT PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000732.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000733.001%20
-  council_reference: 100/733/2019
   date_received: '2019-04-30'
+- council_reference: 7.2019.733.1
+  address: 85 Dunrobin Rd, Warradale 5046 SA
   description: Application to vary DA 100/2018/854 - addition of attached verandahs
     to the eastern elevation of each dwelling
-  address: 85 Dunrobin RD WARRADALE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000733.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000734.001%20
-  council_reference: 100/734/2019
   date_received: '2019-04-30'
+- council_reference: 7.2019.734.1
+  address: 25 Baker Av, Morphettville 5043 SA
   description: To construct a two-storey detached dwelling incorporating a wall on
     the north-western side boundary comprising a length of 9.95 metres
-  address: 25 Baker AV MORPHETTVILLE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000734.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000735.001%20
-  council_reference: 100/735/2019
   date_received: '2019-04-30'
+- council_reference: 7.2019.735.1
+  address: 30 Worthing Dr, Sheidow Park 5158 SA
   description: Retaining Wall
-  address: 30 Worthing DR SHEIDOW PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000735.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000736.001%20
-  council_reference: 100/736/2019
   date_received: '2019-04-30'
+- council_reference: 7.2019.736.1
+  address: 10 Lynne Ct, Marion 5043 SA
   description: Dwelling Addition - Carport
-  address: 10 Lynne CT MARION
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000736.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000737.001%20
-  council_reference: 100/737/2019
   date_received: '2019-04-30'
+- council_reference: 7.2019.737.1
+  address: 51 Wilkins Gr, Glengowrie 5044 SA
   description: Single storey alterations and additions to the existing dwelling
-  address: 51 Wilkins GR GLENGOWRIE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000737.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000738.001%20
-  council_reference: 100/738/2019
   date_received: '2019-04-30'
+- council_reference: 7.2019.738.1
+  address: 2 Gifford St, South Plympton 5038 SA
   description: Dwelling Addition - Verandah
-  address: 2 Gifford ST SOUTH PLYMPTON
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000738.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000739.001%20
-  council_reference: 100/739/2019
   date_received: '2019-04-30'
+- council_reference: 7.2019.739.1
+  address: 53 Kingston Av, Seacombe Gardens 5047 SA
   description: Land Division Residential Community - (1 into 3) allotments
-  address: 53 Kingston AV SEACOMBE GARDENS
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000739.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000740.001%20
-  council_reference: 100/740/2019
   date_received: '2019-04-30'
+- council_reference: 7.2019.740.1
+  address: 2 Nickels Av, Park Holme 5043 SA
   description: Land Division Residential Torrens - 1 into 3 allotments and the subsequent
     construction of three row dwellings, two of which are single storey and one, two
     storeys in height with associated car parking and landscaping
-  address: 2 Nickels AV PARK HOLME
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000740.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000741.001%20
-  council_reference: 100/741/2019
   date_received: '2019-04-30'
+- council_reference: 7.2019.741.1
+  address: 8 Gifford St, South Plympton 5038 SA
   description: Land Division Residential Torrens 1 into 2 Allotments
-  address: 8 Gifford ST SOUTH PLYMPTON
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000741.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000742.001%20
-  council_reference: 100/742/2019
   date_received: '2019-04-30'
+- council_reference: 7.2019.742.1
+  address: 28 Duncan St, Sturt 5047 SA
   description: "*RESCODE **Land Division Residential Torrens - 1 into 2 Allotments"
-  address: 28 Duncan ST STURT
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000742.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000743.001%20
-  council_reference: 100/743/2019
   date_received: '2019-04-30'
+- council_reference: 7.2019.743.1
+  address: 5 Ayre St, South Plympton 5038 SA
   description: Land Division Residential Torrens (1 into 2) allotments
-  address: 5 Ayre ST SOUTH PLYMPTON
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000743.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000744.001%20
-  council_reference: 100/744/2019
   date_received: '2019-04-30'
+- council_reference: 7.2019.744.1
+  address: 82 Pleasant Av, South Plympton 5038 SA
   description: Land Division Residential Torrens 1 into 2 Allotments
-  address: 82 Pleasant AV SOUTH PLYMPTON
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000744.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000745.001%20
-  council_reference: 100/745/2019
   date_received: '2019-04-30'
+- council_reference: 7.2019.745.1
+  address: 2 Hamilton Av, Warradale 5046 SA
   description: Dwelling Addition - Verandah (x3)
-  address: 2 Hamilton AV WARRADALE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000745.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000746.001%20
-  council_reference: 100/746/2019
   date_received: '2019-04-30'
+- council_reference: 7.2019.746.1
+  address: 30 Sixth Av, Ascot Park 5043 SA
   description: Dwelling Addition - Verandah
-  address: 30 Sixth AV ASCOT PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000746.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000747.001%20
-  council_reference: 100/747/2019
-  date_received: '2019-05-01'
+  date_received: '2019-04-30'
+- council_reference: 7.2019.747.1
+  address: 18 Bowden Gr, Oaklands Park 5046 SA
   description: Spa and Safety Fencing
-  address: 18 Bowden GR OAKLANDS PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000747.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000748.001%20
-  council_reference: 100/748/2019
-  date_received: '2019-05-02'
+  date_received: '2019-05-01'
+- council_reference: 7.2019.748.1
+  address: 13 Athol St, Clovelly Park 5042 SA
   description: Demolition
-  address: 13 Athol ST CLOVELLY PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000748.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000749.001%20
-  council_reference: 100/749/2019
   date_received: '2019-05-02'
+- council_reference: 7.2019.749.1
+  address: 11 Greenasche Gr, Seacombe Gardens 5047 SA
   description: Two Double Storey Detached Dwellings
-  address: 11 Greenasche GR SEACOMBE GARDENS
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000749.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000750.001%20
-  council_reference: 100/750/2019
   date_received: '2019-05-02'
+- council_reference: 7.2019.750.1
+  address: 15 Gurney St, Edwardstown 5039 SA
   description: Swimming pool & safety fencing
-  address: 15 Gurney ST EDWARDSTOWN
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000750.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000751.001%20
-  council_reference: 100/751/2019
   date_received: '2019-05-02'
+- council_reference: 7.2019.751.1
+  address: 32A Ormonde Av, Warradale 5046 SA
   description: Dwelling Addition - Verandah
-  address: 32A Ormonde AV WARRADALE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000751.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000752.001%20
-  council_reference: 100/752/2019
   date_received: '2019-05-02'
+- council_reference: 7.2019.752.1
+  address: 12 Milton St, Oaklands Park 5046 SA
   description: Demolition
-  address: 12 Milton ST OAKLANDS PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000752.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000753.001%20
-  council_reference: 100/753/2019
-  date_received: '2019-05-03'
+  date_received: '2019-05-02'
+- council_reference: 7.2019.753.1
+  address: 1 Berrima Rd, Sheidow Park 5158 SA
   description: The construction of two verandahs
-  address: 1 Berrima RD SHEIDOW PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000753.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000754.001%20
-  council_reference: 100/754/2019
   date_received: '2019-05-03'
+- council_reference: 7.2019.754.1
+  address: 12 Grand Central Av, Hallett Cove 5158 SA
   description: Single-storey dwelling addition
-  address: 12 Grand Central AV HALLETT COVE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000754.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000755.001%20
-  council_reference: 100/755/2019
   date_received: '2019-05-03'
+- council_reference: 7.2019.755.1
+  address: 17 Pindee St, Hallett Cove 5158 SA
   description: Dwelling Addition - Carport
-  address: 17 Pindee ST HALLETT COVE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000755.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000756.001%20
-  council_reference: 100/756/2019
   date_received: '2019-05-03'
+- council_reference: 7.2019.756.1
+  address: 475 Marion Rd, South Plympton 5038 SA
   description: Dwelling Addition - Carport
-  address: 475 Marion RD SOUTH PLYMPTON
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000756.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000757.001%20
-  council_reference: 100/757/2019
   date_received: '2019-05-03'
+- council_reference: 7.2019.757.1
+  address: 26 Thomas Wy, Hallett Cove 5158 SA
   description: Shed
-  address: 26 Thomas WY HALLETT COVE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000757.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000758.001%20
-  council_reference: 100/758/2019
   date_received: '2019-05-03'
+- council_reference: 7.2019.758.1
+  address: 34 Sunshine Av, Warradale 5046 SA
   description: Detached Dwelling Single Storey
-  address: 34 Sunshine AV WARRADALE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000758.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000759.001%20
-  council_reference: 100/759/2019
   date_received: '2019-05-03'
+- council_reference: 7.2019.759.1
+  address: 2 Lifford Pde, Marino 5049 SA
   description: Verandah
-  address: 2 Lifford PDE MARINO
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000759.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000076.002%20
-  council_reference: 100/76/2019
-  date_received: '2019-04-29'
-  description: Dwelling Addition Single Storey
-  address: 46 Celtic AV CLOVELLY PARK
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000760.001%20
-  council_reference: 100/760/2019
   date_received: '2019-05-03'
+- council_reference: 7.2019.76.2
+  address: 46 Celtic Av, Clovelly Park 5042 SA
+  description: Dwelling Addition Single Storey
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000076.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-29'
+- council_reference: 7.2019.760.1
+  address: 7 Bakewell Cr, Marino 5049 SA
   description: Freestanding Shed
-  address: 7 Bakewell CR MARINO
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000760.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000761.001%20
-  council_reference: 100/761/2019
-  date_received: '2019-05-06'
+  date_received: '2019-05-03'
+- council_reference: 7.2019.761.1
+  address: 17 Lorita Cr, Hallett Cove 5158 SA
   description: Internal Alterations to existing dwelling
-  address: 17 Lorita CR HALLETT COVE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000761.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000762.001%20
-  council_reference: 100/762/2019
   date_received: '2019-05-06'
+- council_reference: 7.2019.762.1
+  address: 134 Bray St, Morphettville 5043 SA
   description: RES CODE - Land Division Residential Torrens - 1 into 2 Allotments
-  address: 134 Bray ST MORPHETTVILLE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000762.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000763.001%20
-  council_reference: 100/763/2019
   date_received: '2019-05-06'
+- council_reference: 7.2019.763.1
+  address: 32 Gardiner Av, Warradale 5046 SA
   description: Torrens Title Land Division - 1 into 2 Allotments
-  address: 32 Gardiner AV WARRADALE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000763.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000764.001%20
-  council_reference: 100/764/2019
   date_received: '2019-05-06'
+- council_reference: 7.2019.764.1
+  address: 20 Cedar Av, Warradale 5046 SA
   description: Demolition
-  address: 20 Cedar AV WARRADALE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000764.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000765.001%20
-  council_reference: 100/765/2019
-  date_received: '2019-05-07'
+  date_received: '2019-05-06'
+- council_reference: 7.2019.765.1
+  address: 23 Maldon Av, Mitchell Park 5043 SA
   description: Dwelling Addition - Verandah
-  address: 23 Maldon AV MITCHELL PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000765.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000766.001%20
-  council_reference: 100/766/2019
   date_received: '2019-05-07'
+- council_reference: 7.2019.766.1
+  address: 21A Nixon St, Marion 5043 SA
   description: To construct a single storey detached dwelling and garage incorporating
     a wall along the eastern side boundary.
-  address: 21A Nixon ST MARION
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000766.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000767.001%20
-  council_reference: 100/767/2019
   date_received: '2019-05-07'
+- council_reference: 7.2019.767.1
+  address: 4 Henty St, Seacombe Gardens 5047 SA
   description: Single storey detached dwelling
-  address: 4 Henty ST SEACOMBE GARDENS
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000767.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000768.001%20
-  council_reference: 100/768/2019
   date_received: '2019-05-07'
+- council_reference: 7.2019.768.1
+  address: 15 Avalon Rd, Marion 5043 SA
   description: To undertake development comprising the division of land (2 into 4)
     allotments and to construct three x two storey row dwellings with associated car
     parking and landscaping.
-  address: 15 Avalon RD MARION
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000768.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000769.001%20
-  council_reference: 100/769/2019
   date_received: '2019-05-07'
+- council_reference: 7.2019.769.1
+  address: 13 Ulva Av, Warradale 5046 SA
   description: Demolition
-  address: 13 Ulva AV WARRADALE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000769.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000770.001%20
-  council_reference: 100/770/2019
-  date_received: '2019-05-08'
+  date_received: '2019-05-07'
+- council_reference: 7.2019.770.1
+  address: 10 The Triangle, Warradale 5046 SA
   description: Swimming pool & safety fencing
-  address: 10 The Triangle WARRADALE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000770.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000771.001%20
-  council_reference: 100/771/2019
   date_received: '2019-05-08'
+- council_reference: 7.2019.771.1
+  address: 636 Morphett Rd, Seaview Downs 5049 SA
   description: Shed
-  address: 636 Morphett RD SEAVIEW DOWNS
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000771.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000772.001%20
-  council_reference: 100/772/2019
   date_received: '2019-05-08'
+- council_reference: 7.2019.772.1
+  address: 111/293-297 Diagonal Rd, Oaklands Park 5046 SA
   description: Demolition - Australia Post Facade Only
-  address: 111 / 293 - 297 Diagonal RD OAKLANDS PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000772.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000773.001%20
-  council_reference: 100/773/2019
   date_received: '2019-05-08'
+- council_reference: 7.2019.773.1
+  address: 27 Winifred Av, Glandore 5037 SA
   description: 4 x Row Dwellings Two Storey
-  address: 27 Winifred AV GLANDORE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000773.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000774.001%20
-  council_reference: 100/774/2019
   date_received: '2019-05-08'
+- council_reference: 7.2019.774.1
+  address: 30 Melanto Tce, Marion 5043 SA
   description: Outbuilding (Pool House)
-  address: 30 Melanto TCE MARION
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000774.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000775.001%20
-  council_reference: 100/775/2019
   date_received: '2019-05-08'
+- council_reference: 7.2019.775.1
+  address: 514 Cross Rd, Glandore 5037 SA
   description: Change of use from shop to Indian restaurant and supermarket (shop)
-  address: 514 Cross RD GLANDORE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000775.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000776.001%20
-  council_reference: 100/776/2019
   date_received: '2019-05-08'
+- council_reference: 7.2019.776.1
+  address: 35 Frederick St, Glengowrie 5044 SA
   description: Variation to Development Application 100/2018/2183 comprising minor
     changes to roof pitch and reduction of front setback of Dwelling (A).
-  address: 35 Frederick ST GLENGOWRIE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000776.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000777.001%20
-  council_reference: 100/777/2019
   date_received: '2019-05-08'
+- council_reference: 7.2019.777.1
+  address: 211/293-297 Diagonal Rd, Oaklands Park 5046 SA
   description: Retail Building Additions - Shop 2015 - Ghanda Clothing
-  address: 211 / 293 - 297 Diagonal RD OAKLANDS PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000777.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000778.001%20
-  council_reference: 100/778/2019
   date_received: '2019-05-08'
+- council_reference: 7.2019.778.1
+  address: 6 Wonggo St, Hallett Cove 5158 SA
   description: Swimming pool & safety fencing
-  address: 6 Wonggo ST HALLETT COVE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000778.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000779.001%20
-  council_reference: 100/779/2019
   date_received: '2019-05-08'
+- council_reference: 7.2019.779.1
+  address: 4 Blairgowrie Av, Edwardstown 5039 SA
   description: Single storey dwelling alterations and addition
-  address: 4 Blairgowrie AV EDWARDSTOWN
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000779.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000780.001%20
-  council_reference: 100/780/2019
   date_received: '2019-05-08'
+- council_reference: 7.2019.780.1
+  address: 13 Boyle St, Marion 5043 SA
   description: Dwelling Addition - Verandah
-  address: 13 Boyle ST MARION
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000780.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000781.001%20
-  council_reference: 100/781/2019
-  date_received: '2019-05-09'
+  date_received: '2019-05-08'
+- council_reference: 7.2019.781.1
+  address: 11 Weerab Dr, Hallett Cove 5158 SA
   description: Single storey dwelling addition incorporating a 3.3m high wall on the
     north-western boundary
-  address: 11 Weerab DR HALLETT COVE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000781.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000782.001%20
-  council_reference: 100/782/2019
   date_received: '2019-05-09'
+- council_reference: 7.2019.782.1
+  address: 8 Planters Dr, Hallett Cove 5158 SA
   description: Dwelling Addition - Verandah
-  address: 8 Planters DR HALLETT COVE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000782.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000783.001%20
-  council_reference: 100/783/2019
   date_received: '2019-05-09'
-  description: ''
-  address: 60 Nilpena AV MORPHETTVILLE
+- council_reference: 7.2019.783.1
+  address: 60 Nilpena Av, Morphettville 5043 SA
+  description: Combined BA/DA Applications
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000783.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000784.001%20
-  council_reference: 100/784/2019
   date_received: '2019-05-09'
+- council_reference: 7.2019.784.1
+  address: 60B Nilpena Av, Morphettville 5043 SA
   description: Singe Storey Detached Dwelling to be used temporarily as a Display
     Home as per DA 100/2017/1304
-  address: 60B Nilpena AV MORPHETTVILLE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000784.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000785.001%20
-  council_reference: 100/785/2019
   date_received: '2019-05-09'
+- council_reference: 7.2019.785.1
+  address: 13/145-163 Perry Barr Rd, Hallett Cove 5158 SA
   description: Dwelling Addition - Verandah
-  address: 13 / 145 - 163 Perry Barr RD HALLETT COVE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000785.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000786.001%20
-  council_reference: 100/786/2019
   date_received: '2019-05-09'
+- council_reference: 7.2019.786.1
+  address: 5036L Hannah Rd, Tonsley 5042 SA
   description: Three storey detached dwelling
-  address: 5036L Hannah RD TONSLEY
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000786.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000787.001%20
-  council_reference: 100/787/2019
   date_received: '2019-05-09'
+- council_reference: 7.2019.787.1
+  address: 1 Kangaroo Thorn Rd, Trott Park 5158 SA
   description: Dwelling Addition - Verandah
-  address: 1 Kangaroo Thorn RD TROTT PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000787.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000788.001%20
-  council_reference: 100/788/2019
-  date_received: '2019-05-10'
+  date_received: '2019-05-09'
+- council_reference: 7.2019.788.1
+  address: 40 Johnstone Rd, Oaklands Park 5046 SA
   description: Replace Existing Verandah
-  address: 40 Johnstone RD OAKLANDS PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000788.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000789.001%20
-  council_reference: 100/789/2019
   date_received: '2019-05-10'
+- council_reference: 7.2019.789.1
+  address: 7 Limbert Av, Seacombe Gardens 5047 SA
   description: Detached Dwelling Single Storey and Associated Garage
-  address: 7A Limbert AV SEACOMBE GARDENS
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000789.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000790.001%20
-  council_reference: 100/790/2019
   date_received: '2019-05-10'
+- council_reference: 7.2019.790.1
+  address: 23A Albany Cl, Oaklands Park 5046 SA
   description: Dwelling Addition - Verandah
-  address: 23A Albany CL OAKLANDS PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000790.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000791.001%20
-  council_reference: 100/791/2019
   date_received: '2019-05-10'
+- council_reference: 7.2019.791.1
+  address: 7 Ninnid Av, Morphettville 5043 SA
   description: Variation to DA 100/2019/406 Carport Enclosure (Garage)
-  address: 7 Ninnid AV MORPHETTVILLE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000791.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000792.001%20
-  council_reference: 100/792/2019
   date_received: '2019-05-10'
+- council_reference: 7.2019.792.1
+  address: 40 Ramsay Av, Seacombe Gardens 5047 SA
   description: Detached Dwelling Single Storey
-  address: 40 Ramsay AV SEACOMBE GARDENS
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000792.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000793.001%20
-  council_reference: 100/793/2019
   date_received: '2019-05-10'
+- council_reference: 7.2019.793.1
+  address: 15 Dickerson Cr, Trott Park 5158 SA
   description: Dwelling Addition - Verandah
-  address: 15 Dickerson CR TROTT PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000793.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000794.001%20
-  council_reference: 100/794/2019
   date_received: '2019-05-10'
+- council_reference: 7.2019.794.1
+  address: 2A Elgin Av, Warradale 5046 SA
   description: Partial Demolition of existing dwelling
-  address: 2A Elgin AV WARRADALE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000794.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000795.001%20
-  council_reference: 100/795/2019
   date_received: '2019-05-10'
+- council_reference: 7.2019.795.1
+  address: 11 Orkney Av, Marion 5043 SA
   description: Two Single Storey Dwellings
-  address: 11 Orkney AV MARION
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000795.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000796.001%20
-  council_reference: 100/796/2019
   date_received: '2019-05-10'
+- council_reference: 7.2019.796.1
+  address: 7 Penn Cnr, Glengowrie 5044 SA
   description: Freestanding domestic garage with a 10m wall located on the southern
     boundary
-  address: 7 Penn CNR GLENGOWRIE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000796.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000797.001%20
-  council_reference: 100/797/2019
   date_received: '2019-05-10'
+- council_reference: 7.2019.797.1
+  address: 13 Ulva Av, Warradale 5046 SA
   description: Three single-storey row dwellings, one of which incorporates a wall
     on the southern boundary
-  address: 13 Ulva AV WARRADALE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000797.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000798.001%20
-  council_reference: 100/798/2019
-  date_received: '2019-05-13'
+  date_received: '2019-05-10'
+- council_reference: 7.2019.798.1
+  address: 36 Elder Tce, Glengowrie 5044 SA
   description: To undertake development comprising partial demolition of the rear
     of the dwelling, to make single storey alterations and additions to the rear and
     to erect an attached carport along the southern side of the dwelling.
-  address: 36 Elder TCE GLENGOWRIE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000798.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000799.001%20
-  council_reference: 100/799/2019
   date_received: '2019-05-13'
+- council_reference: 7.2019.799.1
+  address: 80 Jervois Tce, Marino 5049 SA
   description: Freestanding verandah
-  address: 80 Jervois TCE MARINO
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000799.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000800.001%20
-  council_reference: 100/800/2019
   date_received: '2019-05-13'
+- council_reference: 7.2019.800.1
+  address: 79 Morphett Rd, Morphettville 5043 SA
   description: Freestanding shed for the purposes of storage in association with the
     racecourse
-  address: 79 Morphett RD MORPHETTVILLE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000800.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000801.001%20
-  council_reference: 100/801/2019
   date_received: '2019-05-13'
+- council_reference: 7.2019.801.1
+  address: 36 Gardiner Av, Warradale 5046 SA
   description: Application to vary DA 100/2018/691 - addition of attached verandahs
     to western elevation of each dwelling, and external door to laundry of Dwelling
     1
-  address: 36 Gardiner AV WARRADALE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000801.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000802.001%20
-  council_reference: 100/802/2019
   date_received: '2019-05-13'
+- council_reference: 7.2019.802.1
+  address: 24 Darling St, Sturt 5047 SA
   description: Two Single Storey Detached Dwellings
-  address: 24 Darling ST STURT
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000802.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000803.001%20
-  council_reference: 100/803/2019
   date_received: '2019-05-13'
+- council_reference: 7.2019.803.1
+  address: 47 Meredith Av, Glengowrie 5044 SA
   description: Single Storey Detached Dwelling and Associated Garage
-  address: 47 Meredith AV GLENGOWRIE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000803.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000804.001%20
-  council_reference: 100/804/2019
   date_received: '2019-05-13'
+- council_reference: 7.2019.804.1
+  address: 10 Parsons Gr, Park Holme 5043 SA
   description: Single Storey Detached Dwelling
-  address: 10 Parsons GR PARK HOLME
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000804.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000805.001%20
-  council_reference: 100/805/2019
   date_received: '2019-05-13'
+- council_reference: 7.2019.805.1
+  address: 2C Stanley St, Glengowrie 5044 SA
   description: Detached Dwelling and Garage
-  address: 2C Stanley ST GLENGOWRIE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000805.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000806.001%20
-  council_reference: 100/806/2019
-  date_received: '2019-05-14'
+  date_received: '2019-05-13'
+- council_reference: 7.2019.806.1
+  address: 34 Woodland Rd, Mitchell Park 5043 SA
   description: Single storey detached dwelling
-  address: 34 Woodland RD MITCHELL PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000806.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000807.001%20
-  council_reference: 100/807/2019
   date_received: '2019-05-14'
+- council_reference: 7.2019.807.1
+  address: 18 Bray St, Plympton Park 5038 SA
   description: Two double storey semi-detached dwellings
-  address: 18 Bray ST PLYMPTON PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000807.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000808.001%20
-  council_reference: 100/808/2019
   date_received: '2019-05-14'
+- council_reference: 7.2019.808.1
+  address: 15A Winton Av, Warradale 5046 SA
   description: Single Storey Detached Dwelling
-  address: 15A Winton AV WARRADALE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000808.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000809.001%20
-  council_reference: 100/809/2019
   date_received: '2019-05-14'
+- council_reference: 7.2019.809.1
+  address: 18 Tyson Av, Trott Park 5158 SA
   description: Demolition
-  address: 18 Tyson AV TROTT PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000809.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000810.001%20
-  council_reference: 100/810/2019
   date_received: '2019-05-14'
+- council_reference: 7.2019.810.1
+  address: 6B Lincoln Av, Warradale 5046 SA
   description: Detached Dwelling Single Storey and Garage
-  address: 6B Lincoln AV WARRADALE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000810.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000811.001%20
-  council_reference: 100/811/2019
   date_received: '2019-05-14'
+- council_reference: 7.2019.811.1
+  address: 5 Whitehill Ct, Sheidow Park 5158 SA
   description: Dwelling Addition - Carport and Verandah
-  address: 5 Whitehill CT SHEIDOW PARK
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000811.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000812.001%20
-  council_reference: 100/812/2019
   date_received: '2019-05-14'
+- council_reference: 7.2019.812.1
+  address: 3C Louise Av, Warradale 5046 SA
   description: To vary Development Application 100/2018/2066 - To construct a single
     storey detached dwelling and garage incorporating new wall, screen and internal
     alterations to the dwelling.
-  address: 3C Louise AV WARRADALE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000812.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000813.001%20
-  council_reference: 100/813/2019
   date_received: '2019-05-14'
+- council_reference: 7.2019.813.1
+  address: 2 Quinn St, Morphettville 5043 SA
   description: Swimming pool & safety fencing
-  address: 2 Quinn ST MORPHETTVILLE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000813.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000814.001%20
-  council_reference: 100/814/2019
   date_received: '2019-05-14'
+- council_reference: 7.2019.814.1
+  address: 182 The Cove Rd, Hallett Cove 5158 SA
   description: Swimming pool & safety fencing
-  address: 182 The Cove RD HALLETT COVE
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000814.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000815.001%20
-  council_reference: 100/815/2019
   date_received: '2019-05-14'
+- council_reference: 7.2019.815.1
+  address: 1018-1020 South Rd, Edwardstown 5039 SA
   description: Interior Alterations to existing office
-  address: 1018 - 1020 South RD EDWARDSTOWN
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000815.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000816.001%20
-  council_reference: 100/816/2019
   date_received: '2019-05-14'
+- council_reference: 7.2019.816.1
+  address: 24 Tweed Av, Marion 5043 SA
   description: 'To undertake a staged development: Stage 1 - alterations and additions
     to an existing educational establishment including demolition of existing playing
     courts, outbuilding, fencing and single storey dwelling, relocation of outbuilding
@@ -1457,33 +1498,12 @@
     of a Significant Tree (Eucalyptus camaldulensis) and associated siteworks and
     landscaping; Stage 2 - The construction of a two storey educational building (Part
     1); Stage 3 - The construction of a two storey educational building (Part 2).'
-  address: 292 - 296 Sturt RD MARION
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000816.001
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2018.00000938.002%20
-  council_reference: 100/938/2018
-  date_received: '2019-04-29'
-  description: Two storey detached dwelling and associated earthworks
-  address: 113E Perry Barr RD HALLETT COVE
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2019.00000094.002%20
-  council_reference: 100/94/2019
-  date_received: '2019-04-16'
+  date_received: '2019-05-14'
+- council_reference: 7.2019.94.2
+  address: 32 Hannah Rd, Tonsley 5042 SA
   description: Detached Dwelling Two Storey
-  address: 32 Hannah RD TONSLEY
+  info_url: http://development.marion.sa.gov.au/MasterViewUI/Application/ApplicationDetails/007.2019.00000094.002
   date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2016.00000992.003%20
-  council_reference: 100/992/2016
-  date_received: '2019-04-29'
-  description: Two single storey dwellings, one of which incorporates a garage wall
-    along the western side boundary, a freestanding carport and associated landscaping
-  address: 399 Diagonal RD STURT
-  date_scraped: '2019-05-14'
-- info_url: http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster/default.aspx?page=wrapper&key=007.2016.00000993.002%20
-  council_reference: 100/993/2016
-  date_received: '2019-04-30'
-  description: 'To demolish existing buildings and structures and to construct four
-    (4) dwellings: two (2) two-storey dwellings and a single storey residential flat
-    building comprising two (2) dwellings to the rear of the site, all with associated
-    retaining walls, fencing and landscaping'
-  address: 1 Letcher RD OAKLANDS PARK
-  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
