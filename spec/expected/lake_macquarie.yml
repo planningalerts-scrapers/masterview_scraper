@@ -1,106 +1,1105 @@
 ---
-- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1272625
-  council_reference: DA-1488/2016/C
-  date_received: '2019-06-11'
-  description: Dwelling Alterations and Additions - Modification Increase to Second
-    Storey Deck
-  address: 8 Ebsworth Street REDHEAD NSW 2290
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1253468
+  council_reference: DA-1043/2015/C
+  date_received: '2019-04-24'
+  description: Residential Care Facility
+  address: 158 Macquarie Road CARDIFF NSW 2285
   date_scraped: '2019-05-14'
-- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1272655
-  council_reference: DA-244/2016/A
-  date_received: '2019-06-11'
-  description: Dwelling Alterations & Additions - Modifications for Alterations &
-    Additions to Single Dwelling
-  address: 20 Ross Street BELMONT NSW 2280
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1255054
+  council_reference: DA-1061/2018/A
+  date_received: '2019-05-01'
+  description: Alterations and Additions to Dwelling - Removal of Condition 5 of Consent
+  address: 8 May Street BELMONT NSW 2280
   date_scraped: '2019-05-14'
-- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1271866
-  council_reference: DA-831/2019
-  date_received: '2019-06-10'
-  description: Shed
-  address: 63 Maddie Street BONNELLS BAY NSW 2264
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1258015
+  council_reference: DA-113/2011/C
+  date_received: '2019-05-08'
+  description: 4 into 400 Lot Residential Subdivision in Nine Stages - Amendment
+  address: 103 Withers Street WEST WALLSEND NSW 2286
   date_scraped: '2019-05-14'
-- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1272001
-  council_reference: DA-832/2019
-  date_received: '2019-06-11'
-  description: Dwelling Additions - Deck and Veranda
-  address: 18 Haslemere Crescent BUTTABA NSW 2283
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1255692
+  council_reference: DA-1178/2017/C
+  date_received: '2019-05-02'
+  description: Commercial Premises, 1 into 5 Lot Torrens Title Subdivision, Signage
+    and Road - Minor design amendments
+  address: 309 George Booth Drive CAMERON PARK NSW 2285
   date_scraped: '2019-05-14'
-- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1272205
-  council_reference: DA-833/2019
-  date_received: '2019-06-11'
-  description: Staged dual occupancy, demolition and residential subdivision
-  address: 52 Charlton Street BARNSLEY NSW 2278
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1258940
+  council_reference: DA-1196/2009/A
+  date_received: '2019-05-10'
+  description: DWELLING ADDITIONS, GARAGE AND ROOFED DECK Amended Plans Under Section
+    4.55(2)
+  address: 21 Coronation Street WARNERS BAY NSW 2282
   date_scraped: '2019-05-14'
-- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1272383
-  council_reference: DA-834/2019
-  date_received: '2019-06-11'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1256151
+  council_reference: DA-1266/2018/A
+  date_received: '2019-05-03'
+  description: Repairs to existing upper and lower decks - Increase in size to upper
+    deck - Amendment
+  address: 16 Robey Road COAL POINT NSW 2283
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1260015
+  council_reference: DA-1413/2006/B
+  date_received: '2019-05-14'
+  description: 1 INTO 9 LOT SUBDIVISION- Amendment to Consent
+  address: 1 Woodbine Place TORONTO NSW 2283
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1259364
+  council_reference: DA-1430/2014/B
+  date_received: '2019-05-10'
+  description: Demolition of Existing Dwelling House, New Dwelling House, Retaining
+    Walls, Spa and Foreshore Development (Boat Shed) - Amendment
+  address: 134 Sealand Road FISHING POINT NSW 2283
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1251452
+  council_reference: DA-1447/2014/A
+  date_received: '2019-04-17'
+  description: Dwelling House - Amendment
+  address: 499 Martinsville Road MARTINSVILLE NSW 2265
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1253824
+  council_reference: DA-1494/2018/B
+  date_received: '2019-04-26'
+  description: Restaurant/Cafe and Exhibition/Sales Office (Temporary) including Signage
+  address: 81 Trinity Point Drive MORISSET PARK NSW 2264
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1258323
+  council_reference: DA-1665/2015/B
+  date_received: '2019-05-09'
+  description: Dwelling House and Removal of Secondary Dwelling Applciation Swimming
+    Pool and Associated Safety Barriers and Retaining Walls - Change to Pool Location
+  address: 22 Goonda Promenade WANGI WANGI NSW 2267
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1254977
+  council_reference: DA-167/2019/A
+  date_received: '2019-05-01'
+  description: Alterations & Additions to Existing Residence - Modification
+  address: 22 Hamilton Street KAHIBAH NSW 2290
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1255336
+  council_reference: DA-1673/2018/A
+  date_received: '2019-05-02'
+  description: Proposed new dwelling and ancillary stable - Amended Plans
+  address: 94 Warners Bay Road WARNERS BAY NSW 2282
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1256488
+  council_reference: DA-1743/2018/A
+  date_received: '2019-05-03'
+  description: Roofed Deck - Amended Plans under Section 4.55 (1A)
+  address: 28 Arcadia Street ARCADIA VALE NSW 2283
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1252085
+  council_reference: DA-1751/2014/D
+  date_received: '2019-04-18'
+  description: Demolition of Structures; Commercial Premises and Child Care Centre
+  address: 363 Hillsborough Road WARNERS BAY NSW 2282
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1251214
+  council_reference: DA-1784/2016/A
+  date_received: '2019-04-17'
+  description: Covered Deck Modify Consent change of Deck
+  address: 36 Kalora Crescent CHARLESTOWN NSW 2290
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1258467
+  council_reference: DA-1877/2010/B
+  date_received: '2019-05-09'
+  description: Alterations & Additions, Carport & Retaining Wall - Modification to
+    Carport
+  address: 34 Park Avenue CAVES BEACH NSW 2281
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1255894
+  council_reference: DA-1943/2018/A
+  date_received: '2019-05-03'
+  description: Demolition of existing garage and store, Dwelling Alterations & Additions,
+    Deck, Carport, Storeroom, Renovation of Pool and Pool Fencing - Amended Plans
+    under section 4.55 (1A)
+  address: 6 Banksia Avenue DUDLEY NSW 2290
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1251718
+  council_reference: DA-2042/2017/A
+  date_received: '2019-04-17'
+  description: Secondary Dwelling Modify Consent
+  address: 31 Hampton Street TORONTO NSW 2283
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1252792
+  council_reference: DA-2307/2017/A
+  date_received: '2019-04-23'
+  description: Additions and alterations to existing dwelling- Amendment of Consent
+  address: 3 Captains Cove VALENTINE NSW 2280
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1258722
+  council_reference: DA-251/2019/A
+  date_received: '2019-05-10'
+  description: Detached garage.
+  address: 11 Fairfax Road WARNERS BAY NSW 2282
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1258784
+  council_reference: DA-259/2019/A
+  date_received: '2019-05-10'
+  description: Detached garage.
+  address: 11 Fairfax Road WARNERS BAY NSW 2282
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1252147
+  council_reference: DA-292/2017/A
+  date_received: '2019-04-18'
+  description: Dwelling House, Detached Garage & Retaining walls and Demolition of
+    Existing - Amendment to Consent
+  address: 5 Rosemary Row RATHMINES NSW 2283
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1253186
+  council_reference: DA-306/2017/A
+  date_received: '2019-04-24'
+  description: Dual Occupancy (Detached), Subdivision and Demolition
+  address: 23 Goundry Street GATESHEAD NSW 2290
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1254077
+  council_reference: DA-420/2018/A
+  date_received: '2019-04-29'
+  description: Community Title - 25 Dwellings - Subdivision
+  address: 76 Pacific Highway CHARLESTOWN NSW 2290
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1258303
+  council_reference: DA-434/2019/A
+  date_received: '2019-05-09'
+  description: Dwelling - Temporary Use
+  address: 5 Piper Avenue COORANBONG NSW 2265
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1258282
+  council_reference: DA-435/2019/A
+  date_received: '2019-05-09'
+  description: Dwelling - Temporart Use
+  address: 7 Piper Avenue COORANBONG NSW 2265
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1259232
+  council_reference: DA-437/2016/C
+  date_received: '2019-05-10'
+  description: Dwelling Alterations and Additions and Pool with Associated Safety
+    Barriers - Amendment
+  address: 106 Skye Point Road COAL POINT NSW 2283
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1251879
+  council_reference: DA-518/2014/C
+  date_received: '2019-04-18'
+  description: Alterations/Additions - Amendment To Consent - Change Type of Retaining
+    Wall
+  address: 18 Speers Street SPEERS POINT NSW 2284
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1250911
+  council_reference: DA-55/2012/C
+  date_received: '2019-04-16'
+  description: 1 into 340 Lots Residential Subdivision - Amendment under Section 4.55(1A)
+    Staging from 7 stages to 3
+  address: 95 Gradwells Road DORA CREEK NSW 2264
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1250077
+  council_reference: DA-550/2019
+  date_received: '2019-04-15'
+  description: Alterations and Additions to Dwelling
+  address: 73 Newport Road DORA CREEK NSW 2264
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1250156
+  council_reference: DA-551/2019
+  date_received: '2019-04-15'
+  description: Multi Dwelling Housing
+  address: 19 Berringar Road VALENTINE NSW 2280
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1250285
+  council_reference: DA-552/2019
+  date_received: '2019-04-15'
+  description: Carports
+  address: 82 Caves Beach Road CAVES BEACH NSW 2281
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1250287
+  council_reference: DA-553/2019
+  date_received: '2019-04-15'
+  description: Alterations & Additions
+  address: 17 Beach Street SWANSEA NSW 2281
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1250420
+  council_reference: DA-554/2019
+  date_received: '2019-04-15'
+  description: Dwelling House
+  address: 10 Fishermans Drive TERALBA NSW 2284
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1250452
+  council_reference: DA-555/2019
+  date_received: '2019-04-15'
   description: Swimming Pool and Associated Safety Barriers
-  address: 15 Surfside Drive CATHERINE HILL BAY NSW 2281
+  address: 55 Timbercrest Chase CHARLESTOWN NSW 2290
   date_scraped: '2019-05-14'
-- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1272896
-  council_reference: DA-835/2019
-  date_received: '2019-06-12'
-  description: Swimming Pool & Associated Safety Barriers and Demolition of Existing
-    Pool
-  address: 15 Margaret Street HOLMESVILLE NSW 2286
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1250576
+  council_reference: DA-556/2019
+  date_received: '2019-04-16'
+  description: Retaining wall
+  address: 13 King Street TINGIRA HEIGHTS NSW 2290
   date_scraped: '2019-05-14'
-- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1273275
-  council_reference: DA-836/2019
-  date_received: '2019-06-12'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1250588
+  council_reference: DA-557/2019
+  date_received: '2019-04-16'
+  description: Alterations and Additions To Dwelling
+  address: 27 Fifth Street CARDIFF SOUTH NSW 2285
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1250753
+  council_reference: DA-558/2019
+  date_received: '2019-04-16'
+  description: Construction of deck and roof over part of deck
+  address: 70 Smith Street CHARLESTOWN NSW 2290
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1250847
+  council_reference: DA-560/2019
+  date_received: '2019-04-16'
+  description: Deck and Patio Roof
+  address: 12 Victoria Street TERALBA NSW 2284
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1250857
+  council_reference: DA-561/2019
+  date_received: '2019-04-16'
+  description: Deck Extension
+  address: 31 Scenic Drive CAVES BEACH NSW 2281
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1250858
+  council_reference: DA-562/2019
+  date_received: '2019-04-16'
+  description: Alterations and Additions and Swimming Pool
+  address: 12 Braemar Road CAVES BEACH NSW 2281
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1250921
+  council_reference: DA-564/2019
+  date_received: '2019-04-16'
+  description: Demolition & Dwelling Alterations & Additions, Deck and Carport
+  address: 73 Burwood Street KAHIBAH NSW 2290
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1250952
+  council_reference: DA-565/2019
+  date_received: '2019-04-16'
+  description: Inground Swimming Pool & Associated Safety Barrier
+  address: 428 Freemans Drive COORANBONG NSW 2265
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1250963
+  council_reference: DA-566/2019
+  date_received: '2019-04-16'
+  description: Patio Cover
+  address: 11 Timbercrest Chase CHARLESTOWN NSW 2290
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1251090
+  council_reference: DA-567/2019
+  date_received: '2019-04-16'
+  description: Residential Flat Building - Alterations and Additions
+  address: 3 Walter Street BELMONT NSW 2280
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1251224
+  council_reference: DA-568/2019
+  date_received: '2019-04-17'
+  description: Dwelling House alterations and additions and retaining walls
+  address: 21 Morse Street SPEERS POINT NSW 2284
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1251401
+  council_reference: DA-569/2019
+  date_received: '2019-04-17'
+  description: Retaining Wall
+  address: 11A Trinity Point Drive MORISSET PARK NSW 2264
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1251472
+  council_reference: DA-570/2019
+  date_received: '2019-04-17'
+  description: Concrete swimming pool
+  address: 10 Guest Street BOOLAROO NSW 2284
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1251576
+  council_reference: DA-571/2019
+  date_received: '2019-04-17'
+  description: Dwelling house, landscaping, retaining walls and demolition of existing
+    dwelling and retaining walls
+  address: 36 Albert Street VALENTINE NSW 2280
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1251646
+  council_reference: DA-572/2019
+  date_received: '2019-04-17'
   description: Garage
-  address: 2 Leroy Close HILLSBOROUGH NSW 2290
+  address: 15 Preston Place CAMERON PARK NSW 2285
   date_scraped: '2019-05-14'
-- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1273328
-  council_reference: DA-837/2019
-  date_received: '2019-06-12'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1251748
+  council_reference: DA-573/2019
+  date_received: '2019-04-17'
+  description: Carport
+  address: 39 Alley Street SPEERS POINT NSW 2284
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1251788
+  council_reference: DA-574/2019
+  date_received: '2019-04-17'
   description: Dwelling
-  address: 2 Two Ponds Lane MURRAYS BEACH NSW 2281
+  address: 14 Fishermans Drive TERALBA NSW 2284
   date_scraped: '2019-05-14'
-- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1273331
-  council_reference: DA-838/2019
-  date_received: '2019-06-12'
-  description: Aldi Carparking (Reconfigeration)
-  address: 49 Harrison Street CARDIFF NSW 2285
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1251855
+  council_reference: DA-575/2019
+  date_received: '2019-04-18'
+  description: Construction of a steel reinforced concrete swimming pool
+  address: 30 Seaview Close ELEEBANA NSW 2282
   date_scraped: '2019-05-14'
-- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1273509
-  council_reference: DA-839/2019
-  date_received: '2019-06-12'
-  description: Hardware and Building Supplies
-  address: 20 Pacific Highway BENNETTS GREEN NSW 2290
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1251867
+  council_reference: DA-576/2019
+  date_received: '2019-04-18'
+  description: New Garage to replace existing
+  address: 6 Victoria Street FLORAVILLE NSW 2280
   date_scraped: '2019-05-14'
-- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1273599
-  council_reference: DA-840/2019
-  date_received: '2019-06-12'
-  description: Telecommunications Facility
-  address: McDonalds Quarry 106 Reservoir Road GLENDALE NSW 2285
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1252157
+  council_reference: DA-579/2019
+  date_received: '2019-04-18'
+  description: Demolition, 1 into 3 lot subdivision and 3 Dwelling Houses (small lot
+    housing)
+  address: 15 Hutchinson Street REDHEAD NSW 2290
   date_scraped: '2019-05-14'
-- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1273731
-  council_reference: DA-841/2019
-  date_received: '2019-06-12'
-  description: Aterations & Additions and Demolition of Carport and BBQ Area
-  address: 1A Kalinda Street BLACKSMITHS NSW 2281
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1252276
+  council_reference: DA-580/2019
+  date_received: '2019-04-18'
+  description: Carport
+  address: 1/41 Spinnaker Ridge Way BELMONT NSW 2280
   date_scraped: '2019-05-14'
-- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1274012
-  council_reference: DA-842/2019
-  date_received: '2019-06-12'
-  description: Proposed Dual Occupancy & Torrens Title
-  address: 33 Preston Place CAMERON PARK NSW 2285
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1252318
+  council_reference: DA-581/2019
+  date_received: '2019-04-18'
+  description: 1 into 3 Lot Torrens Title Subdivision
+  address: 16 Brighton Street FENNELL BAY NSW 2283
   date_scraped: '2019-05-14'
-- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1274119
-  council_reference: DA-843/2019
-  date_received: '2019-06-13'
-  description: Swimming Pool with Associated Barriers
-  address: 1/218 The Esplanade SPEERS POINT NSW 2284
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1252379
+  council_reference: DA-582/2019
+  date_received: '2019-04-18'
+  description: Educational Establishment - Alterations and Additions and Increasing
+    Students
+  address: 66 Felton Street GATESHEAD NSW 2290
   date_scraped: '2019-05-14'
-- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1274224
-  council_reference: DA-844/2019
-  date_received: '2019-06-13'
-  description: Demolition of existing Garage & New Garage
-  address: 27 Brighton Avenue TORONTO NSW 2283
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1252420
+  council_reference: DA-583/2019
+  date_received: '2019-04-18'
+  description: Pergola
+  address: 4 The Quarterdeck CAREY BAY NSW 2283
   date_scraped: '2019-05-14'
-- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1274293
-  council_reference: DA-845/2019
-  date_received: '2019-06-13'
-  description: Water Recreation Structure (Jetty and Slipway)
-  address: 123 Brighton Avenue TORONTO NSW 2283
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1252430
+  council_reference: DA-584/2019
+  date_received: '2019-04-18'
+  description: Lightweight Garage/Workshop
+  address: 94 Skye Point Road COAL POINT NSW 2283
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1252603
+  council_reference: DA-585/2019
+  date_received: '2019-04-21'
+  description: Lot Consolidation, Dual Occupancy (detached) and 2 Lot Torrens Title
+    Subdivision; in Two Stages
+  address: 6 Avonlea Street BELMONT NORTH NSW 2280
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1252715
+  council_reference: DA-586/2019
+  date_received: '2019-04-23'
+  description: Swimming Pool & Associated Safety Barriers
+  address: 110 Surfside Drive CATHERINE HILL BAY NSW 2281
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1252769
+  council_reference: DA-587/2019
+  date_received: '2019-04-23'
+  description: Swimming Pool
+  address: 3 Turner Street BELMONT NSW 2280
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1252980
+  council_reference: DA-589/2019
+  date_received: '2019-04-24'
+  description: Alterations and Additions, and Garage
+  address: 20 Lilian Street GLENDALE NSW 2285
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1253030
+  council_reference: DA-590/2019
+  date_received: '2019-04-24'
+  description: Multi Dwelling Housing
+  address: 14 Faucett Street BLACKALLS PARK NSW 2283
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1253144
+  council_reference: DA-591/2019
+  date_received: '2019-04-24'
+  description: Signage (dynamic digital wall sign)
+  address: 13 Pacific Highway GATESHEAD NSW 2290
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1253166
+  council_reference: DA-592/2019
+  date_received: '2019-04-24'
+  description: Service Station (Alterations and Additions - Signage)
+  address: 273 Charlestown Road CHARLESTOWN NSW 2290
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1253196
+  council_reference: DA-593/2019
+  date_received: '2019-04-24'
+  description: Swimming Pool
+  address: 20 Olsen Crescent WARNERS BAY NSW 2282
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1253198
+  council_reference: DA-594/2019
+  date_received: '2019-04-24'
+  description: Dwelling House and detached garage
+  address: 42 Kilaben Road KILABEN BAY NSW 2283
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1253302
+  council_reference: DA-595/2019
+  date_received: '2019-04-24'
+  description: Swimming Pool
+  address: 3 Hazleton Grove CHARLESTOWN NSW 2290
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1253313
+  council_reference: DA-596/2019
+  date_received: '2019-04-24'
+  description: Dwelling
+  address: 10 Rodgers Street TERALBA NSW 2284
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1253516
+  council_reference: DA-597/2019
+  date_received: '2019-04-26'
+  description: Swimming Pool
+  address: 30 John Street BELMONT NORTH NSW 2280
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1253560
+  council_reference: DA-598/2019
+  date_received: '2019-04-26'
+  description: Installation of detached steel frame/Colorbond garage. Two trees to
+    be removed for shed installation.
+  address: 116 Warners Bay Road WARNERS BAY NSW 2282
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1253605
+  council_reference: DA-599/2019
+  date_received: '2019-04-26'
+  description: Dwelling House with attached carport and detached shed
+  address: 191 Bridge Street MORISSET NSW 2264
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1253937
+  council_reference: DA-600/2019
+  date_received: '2019-04-26'
+  description: Dwelling House
+  address: 27 Illawa Street COORANBONG NSW 2265
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1253993
+  council_reference: DA-601/2019
+  date_received: '2019-04-27'
+  description: Alterations and Additions Deck Extension
+  address: 68 Bulgonia Road BRIGHTWATERS NSW 2264
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1254005
+  council_reference: DA-602/2019
+  date_received: '2019-04-28'
+  description: New Dwelling
+  address: 94 Beauty Point Road MORISSET NSW 2264
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1254252
+  council_reference: DA-603/2019
+  date_received: '2019-04-29'
+  description: Construction of a boundary fence
+  address: 12 Bombay Court CAMERON PARK NSW 2285
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1254263
+  council_reference: DA-604/2019
+  date_received: '2019-04-29'
+  description: Dwelling
+  address: 41 Illawa Street COORANBONG NSW 2265
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1254440
+  council_reference: DA-605/2019
+  date_received: '2019-04-29'
+  description: ALTERATIONS AND ADDITIONS
+  address: 40 Pannamena Crescent ELEEBANA NSW 2282
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1254491
+  council_reference: DA-606/2019
+  date_received: '2019-04-29'
+  description: Shed
+  address: 703 Freemans Drive COORANBONG NSW 2265
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1254493
+  council_reference: DA-607/2019
+  date_received: '2019-04-29'
+  description: Demolition of Existing Outbuildings, Proposed Alterations & Additions
+    to an Existing Dwelling, New Secondary Dwelling, Fences, Deck, Garage and Swimming
+    Pool with Associated Barriers
+  address: 133 Ungala Road BLACKSMITHS NSW 2281
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1254519
+  council_reference: DA-608/2019
+  date_received: '2019-04-30'
+  description: Dual Occupancy (attached)
+  address: 98 Webber Road WYEE NSW 2259
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1254539
+  council_reference: DA-609/2019
+  date_received: '2019-04-30'
+  description: Dual Occupancy - Garage & Shed
+  address: 87 Watkins Road WANGI WANGI NSW 2267
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1254674
+  council_reference: DA-610/2019
+  date_received: '2019-04-30'
+  description: Install 2 Signs
+  address: 12 The Ridgeway BOLTON POINT NSW 2283
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1254705
+  council_reference: DA-611/2019
+  date_received: '2019-04-30'
+  description: New Dwelling - Duplicate Application - DA/664/2019
+  address: 25 Waterside Avenue SUNSHINE NSW 2264
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1254716
+  council_reference: DA-612/2019
+  date_received: '2019-04-30'
+  description: Swimming Pool
+  address: 11 Coromandel Cove CAMERON PARK NSW 2285
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1254718
+  council_reference: DA-613/2019
+  date_received: '2019-04-30'
+  description: Dwelling House
+  address: 29 Fishermans Drive TERALBA NSW 2284
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1254706
+  council_reference: DA-615/2019
+  date_received: '2019-04-30'
+  description: Swimming Pool with associated Barriers & Shed
+  address: 4 Fred Avery Drive BUTTABA NSW 2283
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1254763
+  council_reference: DA-616/2019
+  date_received: '2019-04-30'
+  description: Alterations & Additions to Existing Dwelling
+  address: 24 Frith Street KAHIBAH NSW 2290
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1254933
+  council_reference: DA-617/2019
+  date_received: '2019-04-30'
+  description: Swimming Pool & Associated Safety Barriers, Retaining Walls, Deck &
+    Pergola
+  address: 16 Goola Avenue KAHIBAH NSW 2290
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1254963
+  council_reference: DA-618/2019
+  date_received: '2019-04-30'
+  description: Dwelling, retaining walls, swimming pool and associated safety barriers.
+  address: 38 Trinity Point Drive MORISSET PARK NSW 2264
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1254987
+  council_reference: DA-619/2019
+  date_received: '2019-05-01'
+  description: New Dwelling House and Demolition of Existing Dwelling House
+  address: 60 Second Street BOOLAROO NSW 2284
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1255030
+  council_reference: DA-620/2019
+  date_received: '2019-05-01'
+  description: Alterations & Additions to a Dwelling & Replacement of Existing Retaining
+    Wall & Associated Earthworks
+  address: 44 Roslyn Avenue CHARLESTOWN NSW 2290
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1255041
+  council_reference: DA-621/2019
+  date_received: '2019-05-01'
+  description: Dwelling with attached garage and a separate 2 bedroom Granny Flat
+  address: 25 Seventh Street BOOLAROO NSW 2284
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1255042
+  council_reference: DA-622/2019
+  date_received: '2019-05-01'
+  description: Swimming Pool
+  address: 5 George Street MARMONG POINT NSW 2284
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1255114
+  council_reference: DA-623/2019
+  date_received: '2019-05-01'
+  description: Dwelling house with attached garage & Retaining Wall
+  address: 29 Stollard Street CATHERINE HILL BAY NSW 2281
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1255195
+  council_reference: DA-624/2019
+  date_received: '2019-05-01'
+  description: Dwelling house with attached garage and retaining wall
+  address: 55 Surfside Drive CATHERINE HILL BAY NSW 2281
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1255259
+  council_reference: DA-625/2019
+  date_received: '2019-05-01'
+  description: Dwelling house with attached garage and pool with associated safety
+    barrier and retaining walls
+  address: 62 Surfside Drive CATHERINE HILL BAY NSW 2281
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1255294
+  council_reference: DA-626/2019
+  date_received: '2019-05-02'
+  description: New garage with rumpus, new pool with associated safety barriers. New
+    covered deck.
+  address: 8 Collier Street REDHEAD NSW 2290
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1255487
+  council_reference: DA-628/2019
+  date_received: '2019-05-02'
+  description: Swimming Pool
+  address: 9 Glenridding Grove LAKELANDS NSW 2282
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1255528
+  council_reference: DA-629/2019
+  date_received: '2019-05-02'
+  description: Retaining Walls. Roof Structure
+  address: 6 Banyan Street TERALBA NSW 2284
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1255571
+  council_reference: DA-631/2019
+  date_received: '2019-05-02'
+  description: Exhibition Home
+  address: 6 Piper Avenue COORANBONG NSW 2265
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1255642
+  council_reference: DA-632/2019
+  date_received: '2019-05-02'
+  description: Exhibition Home
+  address: 4 Piper Avenue COORANBONG NSW 2265
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1255882
+  council_reference: DA-633/2019
+  date_received: '2019-05-02'
+  description: Alterations and additions to existing dwelling house
+  address: 232 Coal Point Road COAL POINT NSW 2283
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1255967
+  council_reference: DA-634/2019
+  date_received: '2019-05-03'
+  description: Alterations and Additions to Dwelling
+  address: The Dam 110 Osland Road FREEMANS WATERHOLE NSW 2323
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1255977
+  council_reference: DA-635/2019
+  date_received: '2019-05-03'
+  description: Dual Occupancy and 1 into 2 lot Subdivision
+  address: 11 O'Brien Street GATESHEAD NSW 2290
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1256129
+  council_reference: DA-636/2019
+  date_received: '2019-05-03'
+  description: Dwelling addition - patio
+  address: 17 The Glen BELMONT NORTH NSW 2280
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1256250
+  council_reference: DA-637/2019
+  date_received: '2019-05-03'
+  description: 1 into 4 Lot Torrens Title Subdivision and Dwelling Houses x 4
+  address: 82 Wallsend Street KAHIBAH NSW 2290
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1256345
+  council_reference: DA-638/2019
+  date_received: '2019-05-03'
+  description: Carport and Patio Cover
+  address: 4 Sapphire Close CAVES BEACH NSW 2281
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1256497
+  council_reference: DA-639/2019
+  date_received: '2019-05-03'
+  description: Shed
+  address: 44 Beauty Point Road MORISSET NSW 2264
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1258753
+  council_reference: DA-641/2014/A
+  date_received: '2019-05-10'
+  description: Retaining Wall - Amendment
+  address: 3 Yuruga Street WARNERS BAY NSW 2282
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1256559
+  council_reference: DA-641/2019
+  date_received: '2019-05-03'
+  description: Dwelling Alterations and Additions, garage and installation of movable
+    dwelling
+  address: 55 Babers Road COORANBONG NSW 2265
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1256650
+  council_reference: DA-642/2019
+  date_received: '2019-05-03'
+  description: Dwelling House with attached garage
+  address: 10 Anouska Street CATHERINE HILL BAY NSW 2281
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1256711
+  council_reference: DA-643/2019
+  date_received: '2019-05-06'
+  description: Dual Occupancy, Attached Secondary Dwelling and 1 into 2 Lot Torrens
+    Title Subdivision
+  address: 71 Macquarie Road FENNELL BAY NSW 2283
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1256857
+  council_reference: DA-645/2019
+  date_received: '2019-05-06'
+  description: Dwelling
+  address: 30 Tuloa Street WANGI WANGI NSW 2267
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1256915
+  council_reference: DA-646/2019
+  date_received: '2019-05-06'
+  description: Demolition (Existing Cottage) and Dwelling House and Ancillary Structure
+  address: 53 Cherry Road ELEEBANA NSW 2282
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1257076
+  council_reference: DA-647/2019
+  date_received: '2019-05-06'
+  description: Dwelling
+  address: 5 Kalinda Street BLACKSMITHS NSW 2281
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1257241
+  council_reference: DA-648/2019
+  date_received: '2019-05-07'
+  description: Patio Cover
+  address: 28 Park Avenue CAVES BEACH NSW 2281
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1257363
+  council_reference: DA-649/2019
+  date_received: '2019-05-07'
+  description: Alteration and Additions to Dwelling and Pool Fencing
+  address: 40 The Broadway KILLINGWORTH NSW 2278
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1257483
+  council_reference: DA-650/2019
+  date_received: '2019-05-07'
+  description: Garage
+  address: 42 Munro Street WINDALE NSW 2306
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1257554
+  council_reference: DA-651/2019
+  date_received: '2019-05-07'
+  description: Dwelling house with attached garage
+  address: 8 Silkstone Circuit CATHERINE HILL BAY NSW 2281
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1257623
+  council_reference: DA-652/2019
+  date_received: '2019-05-07'
+  description: Dwelling Additions
+  address: 58 Warners Bay Road WARNERS BAY NSW 2282
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1257841
+  council_reference: DA-653/2019
+  date_received: '2019-05-08'
+  description: Farm Building (Shed)
+  address: 53 Cherry Road ELEEBANA NSW 2282
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1257892
+  council_reference: DA-655/2019
+  date_received: '2019-05-08'
+  description: Retaining Wall
+  address: 78 Mills Street WARNERS BAY NSW 2282
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1257995
+  council_reference: DA-656/2019
+  date_received: '2019-05-08'
+  description: Secondary Dwelling and Alterations and Additions to Existing Dwelling
+  address: 32 Secret Corner Road RATHMINES NSW 2283
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1258035
+  council_reference: DA-658/2019
+  date_received: '2019-05-08'
+  description: Alterations and Additions to Dwelling
+  address: 60 Buttaba Road BRIGHTWATERS NSW 2264
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1258078
+  council_reference: DA-659/2019
+  date_received: '2019-05-08'
+  description: Multi Dwelling Housing
+  address: 38 Hexham Street KAHIBAH NSW 2290
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1258140
+  council_reference: DA-660/2019
+  date_received: '2019-05-08'
+  description: Recreation Facility
+  address: Shearwater 2-4 Howard Street WARNERS BAY NSW 2282
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1258150
+  council_reference: DA-661/2019
+  date_received: '2019-05-08'
+  description: Dwelling Alterations & Additions
+  address: 13 Bayview Street WARNERS BAY NSW 2282
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1258240
+  council_reference: DA-662/2019
+  date_received: '2019-05-08'
+  description: Replacing failed timber retaining wall
+  address: 1 Excalibur Parade VALENTINE NSW 2280
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1258262
+  council_reference: DA-663/2019
+  date_received: '2019-05-09'
+  description: Alterations and Additions
+  address: 25 Mathew Avenue JEWELLS NSW 2280
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1258333
+  council_reference: DA-664/2019
+  date_received: '2019-05-09'
+  description: New Dwelling
+  address: 25 Waterside Avenue SUNSHINE NSW 2264
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1258293
+  council_reference: DA-665/2019
+  date_received: '2019-05-09'
+  description: Alterations and Additions
+  address: 38 Golding Avenue BELMONT NORTH NSW 2280
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1258466
+  council_reference: DA-666/2019
+  date_received: '2019-05-09'
+  description: Swimming Pool & Associated Barriers
+  address: 112 Marks Point Road MARKS POINT NSW 2280
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1258527
+  council_reference: DA-667/2019
+  date_received: '2019-05-09'
+  description: Colorbond Garaport attached to Existing Garage
+  address: 45 Bailey Street BRIGHTWATERS NSW 2264
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1258539
+  council_reference: DA-668/2019
+  date_received: '2019-05-09'
+  description: Alterations and Additions, Deck and Spa
+  address: 20A Lakeview Road MORISSET PARK NSW 2264
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1258989
+  council_reference: DA-669/2019
+  date_received: '2019-05-10'
+  description: Alterations and Additions to Dwelling and Demolition of Existing Garage
+  address: 3 Ethel Street CARDIFF SOUTH NSW 2285
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1259062
+  council_reference: DA-670/2019
+  date_received: '2019-05-10'
+  description: Garage
+  address: 60 Regal Way VALENTINE NSW 2280
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1259080
+  council_reference: DA-671/2019
+  date_received: '2019-05-10'
+  description: Demolition of existing single detached garage and construction of a
+    new attached double garage and new drive access
+  address: 53 Sunlight Parade FISHING POINT NSW 2283
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1259112
+  council_reference: DA-672/2019
+  date_received: '2019-05-10'
+  description: Signage
+  address: Public Reserve 1 Gateway Boulevard MORISSET NSW 2264
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1259173
+  council_reference: DA-673/2019
+  date_received: '2019-05-10'
+  description: 5 Industrial Units and 5 Lot Strata Subdivision
+  address: 9 Prosperity Close MORISSET NSW 2264
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1259272
+  council_reference: DA-674/2019
+  date_received: '2019-05-10'
+  description: Swimspa, Deck & Pergola
+  address: 10 Lindsay Avenue VALENTINE NSW 2280
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1259354
+  council_reference: DA-675/2019
+  date_received: '2019-05-10'
+  description: Demolition of Dwelling and Construction of Dwelling House and Shed
+  address: 36 Patrick Street BELMONT NORTH NSW 2280
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1259396
+  council_reference: DA-676/2019
+  date_received: '2019-05-12'
+  description: Machinery Shed
+  address: 134 Pringles Road MARTINSVILLE NSW 2265
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1259531
+  council_reference: DA-677/2019
+  date_received: '2019-05-13'
+  description: Carport and Driveway and Hard Stand Space
+  address: 98 Caves Beach Road CAVES BEACH NSW 2281
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1259544
+  council_reference: DA-678/2019
+  date_received: '2019-05-13'
+  description: Secondary Dwelling
+  address: 5 Trinity Point Drive MORISSET PARK NSW 2264
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1259739
+  council_reference: DA-679/2019
+  date_received: '2019-05-13'
+  description: Sign
+  address: 15 Stenhouse Drive CAMERON PARK NSW 2285
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1256048
+  council_reference: DA-68/2019/A
+  date_received: '2019-05-03'
+  description: Deck - Amended Plans under Section 4.55 (1)
+  address: 15 Village Bay Close MARKS POINT NSW 2280
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1259760
+  council_reference: DA-680/2019
+  date_received: '2019-05-13'
+  description: Pool Cabana & Shed
+  address: 61 Fennell Crescent BLACKALLS PARK NSW 2283
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1259875
+  council_reference: DA-681/2019
+  date_received: '2019-05-13'
+  description: Dwelling
+  address: 44 Carroll Circuit COORANBONG NSW 2265
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1260187
+  council_reference: DA-682/2019
+  date_received: '2019-05-14'
+  description: Alterations and Additions
+  address: 35 Quarry Road TERALBA NSW 2284
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1260188
+  council_reference: DA-683/2019
+  date_received: '2019-05-14'
+  description: Dwelling
+  address: 27 Lamb Street BOOLAROO NSW 2284
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1260200
+  council_reference: DA-684/2019
+  date_received: '2019-05-14'
+  description: Demolition, Dwelling House and Boat Shed
+  address: 220 Kilaben Road KILABEN BAY NSW 2283
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1260251
+  council_reference: DA-685/2019
+  date_received: '2019-05-14'
+  description: Retaining Wall
+  address: 12 Pitt Street TERALBA NSW 2284
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1260292
+  council_reference: DA-686/2019
+  date_received: '2019-05-14'
+  description: Dwelling House and Retaining Walls
+  address: 33 Fishermans Drive TERALBA NSW 2284
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1260333
+  council_reference: DA-687/2019
+  date_received: '2019-05-14'
+  description: Dwelling and retaining walls
+  address: 16 Gascoyne Street CAMERON PARK NSW 2285
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1260387
+  council_reference: DA-688/2019
+  date_received: '2019-05-14'
+  description: Additions to Existing Dwelling
+  address: 18 William Street ARGENTON NSW 2284
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1260468
+  council_reference: DA-689/2019
+  date_received: '2019-05-14'
+  description: Relocation of Existing Dwelling and Carport
+  address: 699 Main Road EDGEWORTH NSW 2285
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1260527
+  council_reference: DA-690/2019
+  date_received: '2019-05-14'
+  description: Storage Shed
+  address: 27 Wellings Street WARNERS BAY NSW 2282
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1260528
+  council_reference: DA-691/2019
+  date_received: '2019-05-14'
+  description: Alterations + Additions to existing dwelling incorporating demolition
+    of existing structures
+  address: 3 President Place NEW LAMBTON HEIGHTS NSW 2305
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1260529
+  council_reference: DA-692/2019
+  date_received: '2019-05-14'
+  description: Swimming Pool and Associated Safety Barriers
+  address: 62 Pacific Highway CHARLESTOWN NSW 2290
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1260542
+  council_reference: DA-693/2019
+  date_received: '2019-05-14'
+  description: Patio Cover
+  address: 18 Station Street BONNELLS BAY NSW 2264
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1260623
+  council_reference: DA-694/2019
+  date_received: '2019-05-14'
+  description: Swimming Pool
+  address: 4 Outrigger Drive TERALBA NSW 2284
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1260624
+  council_reference: DA-695/2019
+  date_received: '2019-05-14'
+  description: Proposed Addition & Alteration to Existing Dwelling
+  address: 91 Redhead Road REDHEAD NSW 2290
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1260626
+  council_reference: DA-696/2019
+  date_received: '2019-05-15'
+  description: Shop (Alterations and Additions)
+  address: 66 Carrington Street WEST WALLSEND NSW 2286
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1260769
+  council_reference: DA-697/2019
+  date_received: '2019-05-15'
+  description: Dwelling and detached garage & Demolition of the existing buildings
+  address: 26 Nanda Street MARMONG POINT NSW 2284
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1260903
+  council_reference: DA-699/2019
+  date_received: '2019-05-15'
+  description: Swimming Pool
+  address: 1 Billabong Drive CAMERON PARK NSW 2285
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1261006
+  council_reference: DA-700/2019
+  date_received: '2019-05-15'
+  description: Swimming Pool
+  address: 13 Bolivia Close ADAMSTOWN HEIGHTS NSW 2289
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1261039
+  council_reference: DA-701/2019
+  date_received: '2019-05-15'
+  description: Manufactured Home
+  address: 10A Rodgers Street TERALBA NSW 2284
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1261083
+  council_reference: DA-702/2019
+  date_received: '2019-05-15'
+  description: Dwelling House
+  address: 3 Current Avenue TERALBA NSW 2284
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1258929
+  council_reference: DA-729/2017/C
+  date_received: '2019-05-10'
+  description: Alterations and Additions to Existing Dwelling, Garages, Studio & Workshop
+    & Swimming Pool with Associated Safety Barriers - Amended Plans Under Section
+    4.55 (1A)
+  address: 3 Boyd Street SWANSEA NSW 2281
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1253926
+  council_reference: DA-739/2005/A
+  date_received: '2019-04-26'
+  description: Child Care Centre - Amendment
+  address: 72 Tennent Road MOUNT HUTTON NSW 2290
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1261018
+  council_reference: DA-754/2018/A
+  date_received: '2019-05-15'
+  description: Dwelling House - Modify Consent under Section 4.55 (1A)
+  address: 3 Bentwing Parade MURRAYS BEACH NSW 2281
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1250166
+  council_reference: DA-767/2018/A
+  date_received: '2019-04-15'
+  description: Additions and alterations to existing dwelling - Amendment
+  address: 1 Williams Street BELMONT SOUTH NSW 2280
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1255104
+  council_reference: DA-863/2018/A
+  date_received: '2019-05-01'
+  description: Multi Dwelling Housing and Residential Flat Building and Subdivision
+    (Torrens Title and Strata Subdivision)
+  address: 9 Stockton Street MORISSET NSW 2264
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1252704
+  council_reference: DA-888/2017/B
+  date_received: '2019-04-23'
+  description: Partial enclosure of the rear deck
+  address: 14 Pillapai Road BRIGHTWATERS NSW 2264
+  date_scraped: '2019-05-14'
+- info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1254819
+  council_reference: DA-998/2018/A
+  date_received: '2019-04-30'
+  description: Alterations and Additions Modify Consent back Alfresco Area
+  address: 7 Beresford Close REDHEAD NSW 2290
   date_scraped: '2019-05-14'

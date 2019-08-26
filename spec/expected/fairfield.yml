@@ -1,4 +1,137 @@
 ---
+- info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000149.001
+  council_reference: DA - 149.1/2019
+  date_received: '2019-04-15'
+  description: Demolition of Existing Structures and Torrens Title Subdivision
+  address: 81 Boyd ST CABRAMATTA WEST
+  date_scraped: '2019-05-14'
+- info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000150.001
+  council_reference: DA - 150.1/2019
+  date_received: '2019-04-15'
+  description: Alterations and Additions to Existing Dwelling Including a First Floor
+  address: 10 Haylen PL EDENSOR PARK
+  date_scraped: '2019-05-14'
+- info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000151.001
+  council_reference: DA - 151.1/2019
+  date_received: '2019-04-15'
+  description: Demolition of Dwelling, Carport, Shed and Pergola
+  address: 19 Bold ST CABRAMATTA WEST
+  date_scraped: '2019-05-14'
+- info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000152.001
+  council_reference: DA - 152.1/2019
+  date_received: '2019-04-15'
+  description: Torrens Title Subd to Create 2 Residential Lots & Constr of a Garage
+  address: 35 Avenel ST CANLEY VALE
+  date_scraped: '2019-05-14'
+- info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000153.001
+  council_reference: DA - 153.1/2019
+  date_received: '2019-04-16'
+  description: Demolition of Existing Dwelling & Associated Structures, Construction
+  address: 12 Riverside RD LANSVALE
+  date_scraped: '2019-05-14'
+- info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000154.001
+  council_reference: DA - 154.1/2019
+  date_received: '2019-04-16'
+  description: Construction of a Rear Metal Awning to Existing Commercial Premises
+  address: 11 Barbara ST FAIRFIELD
+  date_scraped: '2019-05-14'
+- info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000155.001
+  council_reference: DA - 155.1/2019
+  date_received: '2019-04-17'
+  description: Construction of a Detached Single Storey Secondary Dwelling with Attac
+  address: 52A Station ST FAIRFIELD HEIGHTS
+  date_scraped: '2019-05-14'
+- info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000156.001
+  council_reference: DA - 156.1/2019
+  date_received: '2019-04-17'
+  description: Dual Occupancy
+  address: 52 Beckenham ST CANLEY VALE
+  date_scraped: '2019-05-14'
+- info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000157.001
+  council_reference: DA - 157.1/2019
+  date_received: '2019-04-18'
+  description: 'Staged Subd: Stage 1 - Stratum Subd to Create2 Lots & Stage 2 Strata
+    S'
+  address: 45-47 Peel ST CANLEY HEIGHTS
+  date_scraped: '2019-05-14'
+- info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000158.001
+  council_reference: DA - 158.1/2019
+  date_received: '2019-04-18'
+  description: Construction of a Single Storey Dwelling with Attached Garage and Al
+  address: 11A Malabar ST CANLEY VALE
+  date_scraped: '2019-05-14'
+- info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000159.001
+  council_reference: DA - 159.1/2019
+  date_received: '2019-04-18'
+  description: Demolition of Inground Swimming Pool
+  address: 22 Barker ST BOSSLEY PARK
+  date_scraped: '2019-05-14'
+- info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000160.001
+  council_reference: DA - 160.1/2019
+  date_received: '2019-04-18'
+  description: Construction of a 6 Storey Residential Flat Building & Basement Parkin
+  address: 25 Ascot ST CANLEY HEIGHTS
+  date_scraped: '2019-05-14'
+- info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000161.001
+  council_reference: DA - 161.1/2019
+  date_received: '2019-04-23'
+  description: Alterations and Additions to the Existing KFC Store
+  address: 8 Alan ST FAIRFIELD
+  date_scraped: '2019-05-14'
+- info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000162.001
+  council_reference: DA - 162.1/2019
+  date_received: '2019-04-23'
+  description: Construction of a Detached Single Storey Secondary Dwelling
+  address: 23A Phelps ST CANLEY VALE
+  date_scraped: '2019-05-14'
+- info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000163.001
+  council_reference: DA - 163.1/2019
+  date_received: '2019-04-24'
+  description: Alterations to Existing Garage and Change of Use to a Detached Single
+  address: 25 Ben Lomond ST BOSSLEY PARK
+  date_scraped: '2019-05-14'
+- info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000164.001
+  council_reference: DA - 164.1/2019
+  date_received: '2019-04-24'
+  description: Proposed Commencement of Use of Vehicle Wrecking Yard & Auto Dismantle
+  address: 63 Larra ST YENNORA
+  date_scraped: '2019-05-14'
+- info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000165.001
+  council_reference: DA - 165.1/2019
+  date_received: '2019-04-24'
+  description: Construction of a Building to the Community Recycling Centre
+  address: 191 Hassall ST WETHERILL PARK
+  date_scraped: '2019-05-14'
+- info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000166.001
+  council_reference: DA - 166.1/2019
+  date_received: '2019-04-24'
+  description: 'Unit 9: Change of Use of Unit 9B to be used as a Licensed Restaurant'
+  address: 1183-1187 The Horsley DR WETHERILL PARK
+  date_scraped: '2019-05-14'
+- info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000167.001
+  council_reference: DA - 167.1/2019
+  date_received: '2019-04-26'
+  description: Alterations to Existing Dwelling & Construction of Secondary Dwelling
+  address: 6 O'Meally ST PRAIRIEWOOD
+  date_scraped: '2019-05-14'
+- info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000168.001
+  council_reference: DA - 168.1/2019
+  date_received: '2019-04-26'
+  description: 'Shops 6, 7 & 8: Fitout & Use of Premises for a 24-hour Gymnasium'
+  address: 37 Bonnyrigg AVE BONNYRIGG
+  date_scraped: '2019-05-14'
+- info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000169.001
+  council_reference: DA - 169.1/2019
+  date_received: '2019-04-29'
+  description: 'Shops 1 & 2: Fitout and Use of Premises for a Cafe with Outdoor Dining'
+  address: 27A Harris ST FAIRFIELD
+  date_scraped: '2019-05-14'
+- info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000170.001
+  council_reference: DA - 170.1/2019
+  date_received: '2019-04-29'
+  description: Alterations and Additions to an Existing Child Care Centre
+  address: 335 Cabramatta RDW CABRAMATTA
+  date_scraped: '2019-05-14'
 - info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000171.001
   council_reference: DA - 171.1/2019
   date_received: '2019-04-30'
@@ -22,13 +155,19 @@
   council_reference: DA - 174.1/2019
   date_received: '2019-04-30'
   description: Recreational Facility - Gymnasium
-  address: 1/30 Elizabeth ST WETHERILL PARK
+  address: 3/30 Elizabeth ST WETHERILL PARK
   date_scraped: '2019-05-14'
 - info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000175.001
   council_reference: DA - 175.1/2019
   date_received: '2019-05-01'
   description: Use of an Dwelling as a Boarding House
   address: 33 Bareena ST CANLEY VALE
+  date_scraped: '2019-05-14'
+- info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000176.001
+  council_reference: DA - 176.1/2019
+  date_received: '2019-05-02'
+  description: Change of Use of Existing Premises
+  address: 1/17 The Crescent FAIRFIELD
   date_scraped: '2019-05-14'
 - info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000177.001
   council_reference: DA - 177.1/2019
@@ -59,13 +198,19 @@
   council_reference: DA - 181.1/2019
   date_received: '2019-05-07'
   description: Demolition of Outbuilding and Construction of a Detached Single Storey
-  address: 8A Beale CRES FAIRFIELD WEST
+  address: 8 Beale CRES FAIRFIELD WEST
   date_scraped: '2019-05-14'
 - info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000182.001
   council_reference: DA - 182.1/2019
   date_received: '2019-05-07'
   description: Two Storey Dwelling with Attached Garage & Alfresco
   address: 10 Gruner PL MT PRITCHARD
+  date_scraped: '2019-05-14'
+- info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000183.001
+  council_reference: DA - 183.1/2019
+  date_received: '2019-05-07'
+  description: Change of Use of Existing Premises to a Hair and Beauty Premises
+  address: 109 The Crescent FAIRFIELD
   date_scraped: '2019-05-14'
 - info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000184.001
   council_reference: DA - 184.1/2019
@@ -90,7 +235,7 @@
   date_received: '2019-05-10'
   description: Dual Occupancy-Attached and Granny Flat and Subdivision Torrens and
     De
-  address: 24 Polding ST FAIRFIELD
+  address: 24A Polding ST FAIRFIELD
   date_scraped: '2019-05-14'
 - info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000188.001
   council_reference: DA - 188.1/2019

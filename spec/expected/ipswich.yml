@@ -1,4 +1,16 @@
 ---
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=839300
+  council_reference: ADP-3242/2019
+  date_received: '2019-04-18'
+  description: ADP for New Road (Development Area 6B)
+  address: 7001 Gateway Drive AUGUSTINE HEIGHTS QLD 4300
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=841467
+  council_reference: ADP-3386/2019
+  date_received: '2019-04-26'
+  description: Reconfigure One (1) Lot into Ten (10) Management Lots in Two (2) Stages
+  address: 7001 Gateway Drive AUGUSTINE HEIGHTS QLD 4300
+  date_scraped: '2019-05-14'
 - info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=844342
   council_reference: ADP-3570/2019
   date_received: '2019-05-03'
@@ -20,6 +32,21 @@
   description: Indoor Entertainment (Amusement Parlour)
   address: 1 Main Street SPRINGFIELD CENTRAL QLD 4300
   date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=838078
+  council_reference: CA-3153/2019
+  date_received: '2019-04-16'
+  description: "Material Change of Use - Business Use (Bulky Goods Sale - 4x4 Equipment
+    and Accessories) and Service/Trades Use (4x4 Accessory Fitting and Vehicle Servicing)\rOperational
+    Works - Advertising Device (Pylon Sign)"
+  address: 448 Warwick Road YAMANTO QLD 4305
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=840000
+  council_reference: CA-3286/2019
+  date_received: '2019-04-23'
+  description: "Reconfiguring a Lot - One (1) lot into Three (3) Lots\rMaterial Change
+    of Use - Single Residential affected by a Development Constraints Overlay (Mining)"
+  address: 10 Wright Street TIVOLI QLD 4305
+  date_scraped: '2019-05-14'
 - info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=847558
   council_reference: CA-3769/2019
   date_received: '2019-05-10'
@@ -31,17 +58,16 @@
 - info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=848355
   council_reference: CA-3827/2019
   date_received: '2019-05-14'
-  description: "Combined Approval for:\r\rReconfiguring a Lot - One (1) Lot into Two
-    (2) Lots, One (1) Balance Lot, new road and access easement;\r\rMaterial Change
+  description: "Combined Approval for:\rReconfiguring a Lot - One (1) Lot into Two
+    (2) Lots, One (1) Balance Lot, new road and access easement;\rMaterial Change
     of Use for Waste Activity (Biogas Facility) and associated Major Utility (Electricity/Gas
-    Generation);\r\rMaterial Change of Use for Waste Activity (Compost Manufacturing
-    - Enclosed);\r\rMaterial Change of Use for Waste Activity (Compost Manufacturing
-    - Unenclosed);\r\rMaterial Change of Use for Environmentally Relevant Activity
-    (ERA) 53 (Organic material processing consisting of operating a facility for processing
-    by way of composting or anaerobic digestion, more than 200t of organic material
-    in a year); and\r\rMaterial Change of Use for Environmentally Relevant Activity
-    (ERA) 33 (Crushing, grinding, milling or screening more than 5,000t of material
-    in a year)"
+    Generation);\rMaterial Change of Use for Waste Activity (Enclosed Compost Manufacturing
+    and Unenclosed Compost Manufacturing);\rMaterial Change of Use for Environmentally
+    Relevant Activity (ERA) 53 (Organic material processing consisting of operating
+    a facility for processing by way of composting or anaerobic digestion, more than
+    200t of organic material in a year); and\rMaterial Change of Use for Environmentally
+    Relevant Activity (ERA) 33 (Crushing, grinding, milling or screening more than
+    5,000t of material in a year)"
   address: 7006 Unnamed Road SWANBANK QLD 4306
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=846388
@@ -65,12 +91,31 @@
     Approval to Affect the Planning Scheme"
   address: Lot 1 Bognuda Street BUNDAMBA QLD 4304
   date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=839038
+  council_reference: MAEXT-6244/2012B
+  date_received: '2019-04-18'
+  description: Extension Application - Service/Trades Use - Car Wash
+  address: 56 Robertson Road EASTERN HEIGHTS QLD 4305
+  date_scraped: '2019-05-14'
 - info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=846158
   council_reference: MAEXT-7045/2014A
   date_received: '2019-05-08'
   description: Extension to Currency Period Application - Boundary Realignment - Two
     (2) lots into two (2) lots
   address: 16 Fox Street REDBANK QLD 4301
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=839179
+  council_reference: MAEXT-7236/2014A
+  date_received: '2019-04-18'
+  description: Extension Application - General Industry - Industrial Shed
+  address: 7 Monique Court RACEVIEW QLD 4305
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=838878
+  council_reference: MAEXT-8174/2004B
+  date_received: '2019-04-18'
+  description: Extension Application - Material Change of Use - Service/Trades Use
+    (Self Storage Facility)
+  address: 108-132 Kruger Parade REDBANK QLD 4301
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=847388
   council_reference: MAEXT-8952/2016A
@@ -95,6 +140,13 @@
     lots)"
   address: 7001 Collingwood Drive COLLINGWOOD PARK QLD 4301
   date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=837127
+  council_reference: MAMC-2668/2008A
+  date_received: '2019-04-15'
+  description: "Minor Change - RAL - One (1) Lot into One hundred & twenty-five (125)
+    Lots\rMCU - Single Residential Dwellings on lot less than 450m2"
+  address: 1 Dorman Lane BRASSALL QLD 4305
+  date_scraped: '2019-05-14'
 - info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=842435
   council_reference: MAMC-3321/2014B
   date_received: '2019-05-01'
@@ -107,7 +159,7 @@
 - info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=843548
   council_reference: MAMC-4016/2005A
   date_received: '2019-05-02'
-  description: Minor Change - One (1) Lot into 40 Lots
+  description: Minor Change - One (1) Lot into Thirty-Nine (39) Lots
   address: 13 Senna Close PINE MOUNTAIN QLD 4306
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=843899
@@ -121,6 +173,13 @@
   date_received: '2019-05-01'
   description: Minor Change - General Industry - Truck Depot and Storage of Goods
   address: 11 Warrell Street WEST IPSWICH QLD 4305
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=841353
+  council_reference: MAMC-6135/2014A
+  date_received: '2019-04-29'
+  description: "Minor Change - RAL - Five (5) lots into Four (4) Lots\rPreliminary
+    Approval to Affect the Planning Scheme"
+  address: Lot 1 Bognuda Street BUNDAMBA QLD 4304
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=844720
   council_reference: MAMC-6155/2015A
@@ -149,6 +208,18 @@
     Works, Earthworks and Sewerage Infrastructure - Swanbank Road Industrial Estate
     Stage 1
   address: 63-109 Swanbank Road FLINDERS VIEW QLD 4305
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=836853
+  council_reference: MAPDA-40/2015E
+  date_received: '2019-04-15'
+  description: Amendment Application - Change to PDA Development Approval
+  address: 111-167 Barrams Road SOUTH RIPLEY QLD 4306
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=840911
+  council_reference: MCU-3349/2019
+  date_received: '2019-04-26'
+  description: Material Change of Use - Single Residential with Auxiliary Unit
+  address: 15 Kerr Court BELLBIRD PARK QLD 4300
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=842515
   council_reference: MCU-3455/2019
@@ -179,7 +250,7 @@
 - info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=843838
   council_reference: MCU-3537/2019
   date_received: '2019-05-02'
-  description: Material Change of Use - Business Use - Tattoo Parlour
+  description: Material Change of Use - Business Use - Tattoo Parlour (Shop 2)
   address: 8 South Station Road BOOVAL QLD 4304
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=844249
@@ -251,6 +322,20 @@
   description: Material Change of Use - Entertainment Use (Escape Rooms)
   address: 38 Brisbane Street IPSWICH QLD 4305
   date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=841161
+  council_reference: OD-3365/2019
+  date_received: '2019-04-26'
+  description: Advertising Devices - Four (4) Billboard Signs, Twelve (12) Vertical
+    Banner Signs
+  address: 133-141 Brookwater Drive BROOKWATER QLD 4300
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=841492
+  council_reference: OD-3389/2019
+  date_received: '2019-04-29'
+  description: Carrying out building work not associated with a material change of
+    use - Storage Shed
+  address: 217 Pine Mountain Road BRASSALL QLD 4305
+  date_scraped: '2019-05-14'
 - info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=842907
   council_reference: OD-3478/2019
   date_received: '2019-05-01'
@@ -284,6 +369,43 @@
     Use - Extension to a Single Residential in a Character Zone and affected by Development
     Constraints
   address: 341 Brisbane Valley Highway PINE MOUNTAIN QLD 4306
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=837577
+  council_reference: OW-3122/2019
+  date_received: '2019-04-15'
+  description: Rate 3 Streetlighting - Providence Stage 56A
+  address: 7003 Bayliss Road SOUTH RIPLEY QLD 4306
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=839240
+  council_reference: OW-3238/2019
+  date_received: '2019-04-18'
+  description: Stormwater
+  address: 7001 Ashburn Road BUNDAMBA QLD 4304
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=839260
+  council_reference: OW-3240/2019
+  date_received: '2019-04-18'
+  description: Road Work, Stormwater, Earthworks and Signage
+  address: 83 Bognuda Street BUNDAMBA QLD 4304
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=839541
+  council_reference: OW-3260/2019
+  date_received: '2019-04-23'
+  description: Rate 3 Streetlighting - Providence Stage 18B
+  address: 7001 Centenary Highway SOUTH RIPLEY QLD 4306
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=840641
+  council_reference: OW-3334/2019
+  date_received: '2019-04-26'
+  description: Landscaping - Woodlinks Village Stage 18
+  address: 7001 Collingwood Drive COLLINGWOOD PARK QLD 4301
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=841446
+  council_reference: OW-3384/2019
+  date_received: '2019-04-26'
+  description: Streetscape Landscaping - Springfield Rise at Spring Mountain Village
+    11 Stages 7 and 12
+  address: 182 Woodline Drive SPRING MOUNTAIN QLD 4300
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=842365
   council_reference: OW-3446/2019
@@ -341,6 +463,31 @@
   description: Operational Works – Lucas Creek Trunk Sewer South
   address: 170 Barrams Road WHITE ROCK QLD 4306
   date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=837707
+  council_reference: RAL-3129/2019
+  date_received: '2019-04-16'
+  description: Reconfiguring a Lot - Boundary Realignment - Two (2) Lots into Two
+    (2) Lots
+  address: 73 Hill Street TIVOLI QLD 4305
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=839340
+  council_reference: RAL-3245/2019
+  date_received: '2019-04-22'
+  description: Reconfiguring Two (2) Lots into Two (2) Lots, plus New Road
+  address: 70 Weedman Street REDBANK QLD 4301
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=840770
+  council_reference: RAL-3339/2019
+  date_received: '2019-04-25'
+  description: Reconfiguring a Lot - One (1) Lot into Two (2) Lots
+  address: 5 Jones Street BUNDAMBA QLD 4304
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=841181
+  council_reference: RAL-3366/2019
+  date_received: '2019-04-26'
+  description: Reconfiguring a Lot - One (1) lot into Two (2) lots
+  address: 241 Warwick Road CHURCHILL QLD 4305
+  date_scraped: '2019-05-14'
 - info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=842195
   council_reference: RAL-3438/2019
   date_received: '2019-04-30'
@@ -352,6 +499,27 @@
   date_received: '2019-05-09'
   description: Reconfiguring a Lot - One (1) Lot into Two (2) Lots
   address: 22 Birdwood Street NORTH IPSWICH QLD 4305
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=837637
+  council_reference: SPSR-3126/2019
+  date_received: '2019-04-16'
+  description: Superseded Planning Scheme Request - Single Residential Dwelling with
+    Auxiliary Unit
+  address: 26 MacKellar Way WALLOON QLD 4306
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=839291
+  council_reference: SPSR-3243/2019
+  date_received: '2019-04-18'
+  description: Superseded Planning Scheme Request - Single Residential Dwelling with
+    Auxiliary Unit
+  address: 33 Baird Circuit REDBANK PLAINS QLD 4301
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=840431
+  council_reference: SPSR-3313/2019
+  date_received: '2019-04-24'
+  description: Superseded Planning Scheme Request - Single Residential Dwelling with
+    Auxiliary Unit
+  address: 31 Lorraine Street CAMIRA QLD 4300
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster/default.aspx?page=wrapper&key=842275
   council_reference: SPSR-3442/2019

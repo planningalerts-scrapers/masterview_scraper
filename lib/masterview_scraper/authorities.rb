@@ -50,17 +50,17 @@ module MasterviewScraper
     },
     brisbane: {
       url: "https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster",
-      period: :last14days,
+      period: :last30days,
       params: { "6" => "F" }
     },
     fairfield: {
       url: "https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster",
-      period: :last14days,
+      period: :last30days,
       params: { "4a" => 10, "6" => "F" }
     },
     fraser_coast: {
       url: "https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster",
-      period: :last14days,
+      period: :last30days,
       params: {
         # TODO: Do the encoding automatically
         "4a" => "BPS%27,%27MC%27,%27OP%27,%27SB%27,%27MCU%27,%27ROL%27,%27OPWKS%27,"\
@@ -72,19 +72,19 @@ module MasterviewScraper
     },
     hawkesbury: {
       url: "https://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster",
-      period: :last14days,
+      period: :last30days,
       params: { "4a" => "DA", "6" => "F" },
       state: "NSW"
     },
     ipswich: {
       url: "http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster",
-      period: :last14days,
+      period: :last30days,
       # TODO: Don't know what this parameter "5" does
       params: { "5" => "T", "6" => "F" }
     },
     lake_macquarie: {
       url: "http://apptracking.lakemac.com.au/modules/ApplicationMaster",
-      period: :thisweek,
+      period: :last30days,
       params: {
         "4a" => "437",
         "5" => "T"
@@ -92,7 +92,7 @@ module MasterviewScraper
     },
     logan: {
       url: "http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster",
-      period: :last14days,
+      period: :last30days,
       params: { "6" => "F" }
     },
     mackay: {
@@ -105,7 +105,7 @@ module MasterviewScraper
     },
     marion: {
       url: "http://ecouncil.marion.sa.gov.au/datrackingui/modules/applicationmaster",
-      period: :thisweek,
+      period: :last30days,
       params: {
         "4a" => "7",
         "6" => "F"
@@ -120,7 +120,7 @@ module MasterviewScraper
     },
     moreton_bay: {
       url: "http://pdonline.moretonbay.qld.gov.au/Modules/applicationmaster",
-      period: :thismonth,
+      period: :last30days,
       params: {
         "6" => "F"
       }
@@ -143,7 +143,7 @@ module MasterviewScraper
     },
     shoalhaven: {
       url: "http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster",
-      period: :thismonth,
+      period: :last30days,
       params: {
         "4a" => "25,13,72,60,58,56",
         "6" => "F"
@@ -178,7 +178,7 @@ module MasterviewScraper
     },
     albury: {
       url: "https://eservice.alburycity.nsw.gov.au/ApplicationTracker",
-      period: :last10days,
+      period: :last30days,
       use_api: true
     },
     bogan: {
@@ -188,12 +188,12 @@ module MasterviewScraper
     },
     cessnock: {
       url: "http://datracker.cessnock.nsw.gov.au",
-      period: :last10days,
+      period: :last30days,
       use_api: true
     },
     griffith: {
       url: "https://datracking.griffith.nsw.gov.au",
-      period: :last10days,
+      period: :last30days,
       use_api: true,
       # Has an incomplete certificate chain. See https://www.ssllabs.com/ssltest/analyze.html?d=datracking.griffith.nsw.gov.au
       disable_ssl_certificate_check: true
@@ -210,7 +210,7 @@ module MasterviewScraper
     },
     port_stephens: {
       url: "http://datracker.portstephens.nsw.gov.au",
-      period: :thismonth,
+      period: :last30days,
       use_api: true,
       long_council_reference: true,
       types: [16, 9, 25]
@@ -229,7 +229,7 @@ module MasterviewScraper
     camden: {
       url: "https://planning.camden.nsw.gov.au",
       use_api: true,
-      period: :last10days
+      period: :last30days
     }
   }.freeze
 end

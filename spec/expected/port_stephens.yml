@@ -1,82 +1,15 @@
 ---
-- council_reference: '009-2019-00000070-001'
-  address: 11 Kindlebark Dr, Medowie 2318 NSW
-  description: Detached Shed & Studio
-  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/009-2019-00000070-001
+- council_reference: 016-2009-00000257-012
+  address: 70 Latitude Dr, Anna Bay 2316 NSW
+  description: S4.55 1(A) modification to approved caravan park (270 sites), managers
+    residence, community hall and associated facilities – reconfigure northern car
+    park including removal of office and provision of community work shed, update
+    site plan, amendments to internal roads and car parking, reconfigure five sites
+    and pocket park within stages 7 and 9, additional car parking, provision of community
+    garden and removal of manager residence.
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2009-00000257-012
   date_scraped: '2019-05-14'
-  date_received: '2019-05-02'
-- council_reference: '009-2019-00000071-001'
-  address: 149 Dawson Rd, Raymond Terrace 2324 NSW
-  description: Swimming Pool & Associated Safety Barriers
-  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/009-2019-00000071-001
-  date_scraped: '2019-05-14'
-  date_received: '2019-05-01'
-- council_reference: '009-2019-00000072-001'
-  address: 1C Bellmount Cl, Anna Bay 2316 NSW
-  description: Window Addition to Bed 3
-  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/009-2019-00000072-001
-  date_scraped: '2019-05-14'
-  date_received: '2019-05-06'
-- council_reference: '009-2019-00000076-001'
-  address: 714 Medowie Rd, Medowie 2318 NSW
-  description: Demolition of Single Storey Dwelling
-  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/009-2019-00000076-001
-  date_scraped: '2019-05-14'
-  date_received: '2019-05-02'
-- council_reference: '009-2019-00000077-001'
-  address: 32 Bower Rd, Medowie 2318 NSW
-  description: Single Storey Dwelling
-  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/009-2019-00000077-001
-  date_scraped: '2019-05-14'
-  date_received: '2019-05-07'
-- council_reference: '009-2019-00000078-001'
-  address: 6 Sandcastle St, Fern Bay 2295 NSW
-  description: Swimming Pool & Associated Safety Barriers
-  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/009-2019-00000078-001
-  date_scraped: '2019-05-14'
-  date_received: '2019-05-06'
-- council_reference: '009-2019-00000079-001'
-  address: 13 Ralstons Rd, Nelsons Plains 2324 NSW
-  description: Swimming Pool
-  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/009-2019-00000079-001
-  date_scraped: '2019-05-14'
-  date_received: '2019-05-10'
-- council_reference: '009-2019-00000081-001'
-  address: 58 Duns Creek Rd, Duns Creek 2321 NSW
-  description: Alterations & Additions - Verandah
-  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/009-2019-00000081-001
-  date_scraped: '2019-05-14'
-  date_received: '2019-05-14'
-- council_reference: '009-2019-00000082-001'
-  address: 19 Bower Rd, Medowie 2318 NSW
-  description: Single Storey Dwelling
-  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/009-2019-00000082-001
-  date_scraped: '2019-05-14'
-  date_received: '2019-05-14'
-- council_reference: '009-2019-00000083-001'
-  address: 10 Harold Rd, Raymond Terrace 2324 NSW
-  description: Retaining walls
-  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/009-2019-00000083-001
-  date_scraped: '2019-05-14'
-  date_received: '2019-05-14'
-- council_reference: '009-2019-00000084-001'
-  address: 35 William St, Raymond Terrace 2324 NSW
-  description: Shop Fit-out - Tenancy 13
-  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/009-2019-00000084-001
-  date_scraped: '2019-05-14'
-  date_received: '2019-05-10'
-- council_reference: '009-2019-00000089-001'
-  address: 37 Sturgeon St, Raymond Terrace 2324 NSW
-  description: Internal Alterations to Existing DHS Office
-  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/009-2019-00000089-001
-  date_scraped: '2019-05-14'
-  date_received: '2019-05-13'
-- council_reference: '009-2019-00000095-001'
-  address: 34 Sturgeon St, Raymond Terrace 2324 NSW
-  description: Shop Fit-Out - Tenancy 13 (Hot Bargain)
-  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/009-2019-00000095-001
-  date_scraped: '2019-05-14'
-  date_received: '2019-05-10'
+  date_received: '2019-04-16'
 - council_reference: 016-2012-00000706-003
   address: 828 Paterson Rd, Woodville 2321 NSW
   description: Section 4.55(1A) Application to approved landfill – Amend the shape
@@ -93,6 +26,23 @@
   info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2013-00000273-002
   date_scraped: '2019-05-14'
   date_received: '2019-05-14'
+- council_reference: 016-2013-00000696-002
+  address: 627 Hinton Rd, Hinton 2321 NSW
+  description: S4.55 1(a) Modification to approved single storey dwelling, shed &
+    land fill - amend design and location of shed and dwelling
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2013-00000696-002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+- council_reference: 016-2013-00000790-004
+  address: 4011 Nelson Bay Rd, Bobs Farm 2316 NSW
+  description: S4.55 (1A) modification to approved caravan park (196 long term sites)
+    – amendments to conditions of consent including condition No.3B to reference updated
+    Rural Fire Service General Terms of Approval and condition No.47.1 to enable the
+    community facilities building to be completed prior to occupation of the 33rd
+    dwelling site.
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2013-00000790-004
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
 - council_reference: 016-2015-00000773-004
   address: 227 Old Main Rd, Anna Bay 2316 NSW
   description: S4.55 (1) modification - Dual Occupancy (incorporating existing dwelling)
@@ -100,6 +50,44 @@
   info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2015-00000773-004
   date_scraped: '2019-05-14'
   date_received: '2019-05-10'
+- council_reference: 016-2016-00000046-002
+  address: 37 Gould Dr, Lemon Tree Passage 2319 NSW
+  description: S4.55 1(A) modification to approved two storey dwelling - overall reduction
+    in the size of building
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2016-00000046-002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-29'
+- council_reference: 016-2016-00000462-003
+  address: 25A Tareebin Rd, Nelson Bay 2315 NSW
+  description: S4.55 (1) modification to approved two storey dwelling - remove Condition
+    17
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2016-00000462-003
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+- council_reference: 016-2017-00000088-004
+  address: 1 Technology Pl, Williamtown 2318 NSW
+  description: S4.55 1(A) modification to approved commercial premises and two store
+    – amendments to screening and landscaping and increase size of signage.
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2017-00000088-004
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+- council_reference: 016-2017-00000302-002
+  address: 27 Gould Dr, Lemon Tree Passage 2319 NSW
+  description: S4.55(1) modification to dual occupancy (detached), one into two lot
+    Torrens title subdivision, tree removal and associated landscaping - amend Condition
+    32
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2017-00000302-002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+- council_reference: 016-2017-00000306-003
+  address: 220 Soldiers Point Rd, Salamander Bay 2317 NSW
+  description: S4.551(A) modification to approved subdivision (one into 19 lot Torrens
+    Title subdivision, including one residue lot, and new road) – amendments to condition
+    Nos.1, 2, 3, 13, 25, and 44 in order to facilitate the provision of a building
+    envelope on Lot 19.
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2017-00000306-003
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
 - council_reference: 016-2017-00000562-004
   address: 30 Voyager Cl, Nelson Bay 2315 NSW
   description: S.4.55 (1) modification to dwelling
@@ -112,6 +100,13 @@
   info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2017-00000809-002
   date_scraped: '2019-05-14'
   date_received: '2019-05-03'
+- council_reference: 016-2018-00000446-002
+  address: 11 Wychewood Ave, Mallabula 2319 NSW
+  description: Section 4.55 Application - Modification - Roller Door added to read
+    of shed for ventilation and light because of the heat in the shed over the summer
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2018-00000446-002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
 - council_reference: 016-2018-00000579-003
   address: 10 Harold Rd, Raymond Terrace 2324 NSW
   description: S.4.55 1(A) modification to dwelling
@@ -127,6 +122,14 @@
   info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2018-00000696-002
   date_scraped: '2019-05-14'
   date_received: '2019-05-09'
+- council_reference: 016-2018-00000807-002
+  address: 19 Kanangra Ave, Corlette 2315 NSW
+  description: Section 4.55 (1) modification to approved strata title subdivision
+    (staged – four lots) – amendment to correct administrative error to include strata
+    development contract in approved documents.
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2018-00000807-002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
 - council_reference: 016-2018-00000841-002
   address: 18 Liberty Rd, Medowie 2318 NSW
   description: S4.55 (1) modification to approved single storey dwelling - remove
@@ -141,19 +144,170 @@
   info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000136-002
   date_scraped: '2019-05-14'
   date_received: '2019-05-02'
+- council_reference: 016-2019-00000249-001
+  address: 4187 Nelson Bay Rd, Anna Bay 2316 NSW
+  description: Home business – acupuncture studio
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000249-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+- council_reference: 016-2019-00000250-001
+  address: 21 Bower Rd, Medowie 2318 NSW
+  description: Single Storey Dwelling
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000250-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+- council_reference: 016-2019-00000251-001
+  address: 53 Holdom Rd, Karuah 2324 NSW
+  description: Pool & Decking
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000251-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-15'
+- council_reference: 016-2019-00000252-001
+  address: 66B Frederick Dr, Oyster Cove 2318 NSW
+  description: Swimming Pool
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000252-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-16'
+- council_reference: 016-2019-00000253-001
+  address: 50 Butterwick Rd, Woodville 2321 NSW
+  description: Shed
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000253-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+- council_reference: 016-2019-00000254-001
+  address: 147 Soldiers Point Rd, Soldiers Point 2317 NSW
+  description: Tourist and visitor accommodation - Alterations and Additions
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000254-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+- council_reference: 016-2019-00000255-001
+  address: 3 James Scott Cr, Lemon Tree Passage 2319 NSW
+  description: Single storey dwelling
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000255-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+- council_reference: 016-2019-00000256-001
+  address: 7 Coachwood Dr, Medowie 2318 NSW
+  description: Shed
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000256-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
+- council_reference: 016-2019-00000257-001
+  address: 18 Wallawa Rd, Nelson Bay 2315 NSW
+  description: Cabana Roof
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000257-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+- council_reference: 016-2019-00000258-001
+  address: 68 Holdom Rd, Karuah 2324 NSW
+  description: Shed and Garage
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000258-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+- council_reference: 016-2019-00000259-001
+  address: 1A Heritage Ave, Medowie 2318 NSW
+  description: Multi-dwelling housing and two lot Torrens title subdivision - Existing
+    dwelling to be retained on proposed lot 1 and multi-dwelling housing (four dwellings)
+    on proposed lot 2.
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000259-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+- council_reference: 016-2019-00000260-001
+  address: 74 Swan Bay Rd, Karuah 2324 NSW
+  description: Single Storey Dwelling
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000260-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+- council_reference: 016-2019-00000261-001
+  address: 2 Seaside Bvd, Fern Bay 2295 NSW
+  description: Community title subdivision - one into two lots
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000261-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+- council_reference: 016-2019-00000262-001
+  address: 35 Portmarnock Cl, Medowie 2318 NSW
+  description: Single storey dwelling
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000262-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+- council_reference: 016-2019-00000263-001
+  address: 38 Henning Rd, Raymond Terrace 2324 NSW
+  description: Two detached dwellings and two lot Torrens title subdivision
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000263-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+- council_reference: 016-2019-00000264-001
+  address: 12 Hanson Ave, Anna Bay 2316 NSW
+  description: Alfresco
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000264-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+- council_reference: 016-2019-00000265-001
+  address: 4 Stanley St, Lemon Tree Passage 2319 NSW
+  description: Shed and Carport
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000265-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+- council_reference: 016-2019-00000266-001
+  address: 4 Kuranga Ave, Raymond Terrace 2324 NSW
+  description: Torrens title subdivision - One into 12 lot Torrens title subdivision
+    , associated road works, vegetation removal, and site preparation works
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000266-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-23'
+- council_reference: 016-2019-00000267-001
+  address: 10 Braid Rd, Fern Bay 2295 NSW
+  description: Carport
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000267-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-23'
+- council_reference: 016-2019-00000268-001
+  address: 1475 Raymond Terrace Rd, Nelsons Plains 2324 NSW
+  description: Earthworks (stock refuge) and rural shed
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000268-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-26'
+- council_reference: 016-2019-00000269-001
+  address: 74 Warren St, Seaham 2324 NSW
+  description: Single Storey Dwelling
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000269-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-29'
+- council_reference: 016-2019-00000270-001
+  address: 862 Paterson Rd, Woodville 2321 NSW
+  description: Demolition of existing buildings and construction of and new single
+    storey dwelling
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000270-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+- council_reference: 016-2019-00000271-001
+  address: 68 Whybin Ln, Butterwick 2321 NSW
+  description: Single Storey Dwelling
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000271-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+- council_reference: 016-2019-00000272-001
+  address: 8 Masonite Rd, Tomago 2322 NSW
+  description: Boundary Fence
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000272-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+- council_reference: 016-2019-00000273-001
+  address: 13 Abundance Rd, Medowie 2318 NSW
+  description: Strata title subdivision of 4 lots
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000273-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
+- council_reference: 016-2019-00000274-001
+  address: 1/16 Shearwater Dr, Taylors Beach 2316 NSW
+  description: Indoor recreational facility (change of use to dance studio)
+  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000274-001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-30'
 - council_reference: 016-2019-00000275-001
   address: 2 Trelevan Way, Raymond Terrace 2324 NSW
   description: Garage
   info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000275-001
-  date_scraped: '2019-05-14'
-  date_received: '2019-05-01'
-- council_reference: 016-2019-00000276-001
-  address: 37 Kingsley Dr, Boat Harbour 2316 NSW
-  description: Multi dwelling housing and Torrens title subdivision – Demolition of
-    existing dwellings, construction of multi dwelling housing (six dwellings), Torrens
-    title subdivision (two into two lots), and associated site works including driveways,
-    stormwater infrastructure and landscaping.
-  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000276-001
   date_scraped: '2019-05-14'
   date_received: '2019-05-01'
 - council_reference: 016-2019-00000277-001
@@ -272,7 +426,7 @@
   date_received: '2019-05-07'
 - council_reference: 016-2019-00000295-001
   address: 28 Thurlow Ave, Nelson Bay 2315 NSW
-  description: Deck
+  description: Extension to Existing Decks
   info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000295-001
   date_scraped: '2019-05-14'
   date_received: '2019-05-08'
@@ -289,7 +443,7 @@
   date_scraped: '2019-05-14'
   date_received: '2019-05-08'
 - council_reference: 016-2019-00000298-001
-  address: 2163 Pacific Hwy, Heatherbrae 2324 NSW
+  address: 2171 Pacific Hwy, Heatherbrae 2324 NSW
   description: Dual occupancy (one dwelling existing)
   info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000298-001
   date_scraped: '2019-05-14'
@@ -317,7 +471,8 @@
   date_received: '2019-05-09'
 - council_reference: 016-2019-00000302-001
   address: 23 Vista Ave, Soldiers Point 2317 NSW
-  description: Carport and patio cover
+  description: Carport, covered deck (front), patio cover (rear) and extension of
+    existing deck
   info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000302-001
   date_scraped: '2019-05-14'
   date_received: '2019-05-09'
@@ -370,15 +525,3 @@
   info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2019-00000310-001
   date_scraped: '2019-05-14'
   date_received: '2019-05-14'
-- council_reference: 025-2019-00000002-001
-  address: Nelson Bay Rd, Salt Ash 2318 NSW
-  description: Nelson Bay Road Upgrade Extension
-  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/025-2019-00000002-001
-  date_scraped: '2019-05-14'
-  date_received: '2019-05-10'
-- council_reference: 025-2019-00000003-001
-  address: 1940 Pacific Hwy, Tomago 2322 NSW
-  description: Newcastle Gas Fired Power Station
-  info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/025-2019-00000003-001
-  date_scraped: '2019-05-14'
-  date_received: '2019-05-13'

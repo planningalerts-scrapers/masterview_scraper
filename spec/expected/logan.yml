@@ -5,6 +5,1000 @@
   description: "*!* Test Application *!*"
   address: 123 Jacaranda Avenue LOGAN CENTRAL QLD 4114
   date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537317
+  council_reference: BW-2647/2019
+  date_received: '2019-04-15'
+  description: Commercial - Medical Centre fitout
+  address: 2-12 Carl Heck Boulevard WINDAROO QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537388
+  council_reference: BW-2651/2019
+  date_received: '2019-04-15'
+  description: Domestic dwelling and garage
+  address: 46 Olive Avenue GREENBANK QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537471
+  council_reference: BW-2657/2019
+  date_received: '2019-04-15'
+  description: Domestic - Demolition of Dwelling, Swimming Pool and Ancillary Structures
+  address: 564-570 Chambers Flat Road LOGAN RESERVE QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537472
+  council_reference: BW-2658/2019
+  date_received: '2019-04-15'
+  description: Domestic - Demolition of Dwelling and Ancillary Structures
+  address: 572-578 Chambers Flat Road LOGAN RESERVE QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537494
+  council_reference: BW-2659/2019
+  date_received: '2019-04-15'
+  description: Commercial - Service Station, Bin Store, Canopy & Carpark
+  address: 49-59 Green Road PARK RIDGE QLD 4125
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537505
+  council_reference: BW-2660/2019
+  date_received: '2019-04-15'
+  description: Domestic dwelling and garage
+  address: 3 Mortimer Drive FLAGSTONE QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537548
+  council_reference: BW-2661/2019
+  date_received: '2019-04-15'
+  description: Domestic - Roof Replacement Works
+  address: 3 Bellthorpe Crescent WATERFORD QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537549
+  council_reference: BW-2662/2019
+  date_received: '2019-04-15'
+  description: Domestic - Dwelling
+  address: 128 McKinnon Drive YARRABILBA QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537805
+  council_reference: BW-2668/2019
+  date_received: '2019-04-15'
+  description: Domestic - Dwelling
+  address: 32 Mason Street YARRABILBA QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537837
+  council_reference: BW-2669/2019
+  date_received: '2019-04-15'
+  description: Domestic - Shed
+  address: 11-15 Kay Court BUCCAN QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537870
+  council_reference: BW-2671/2019
+  date_received: '2019-04-15'
+  description: Domestic - Alterations and Additions
+  address: 70-72 Gavin Way CORNUBIA QLD 4130
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537891
+  council_reference: BW-2672/2019
+  date_received: '2019-04-15'
+  description: Domestic - Carport
+  address: 968-978 Quinzeh Creek Road CEDAR CREEK QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537893
+  council_reference: BW-2673/2019
+  date_received: '2019-04-15'
+  description: Domestic - Dwelling
+  address: 10 Carousel Street HILLCREST QLD 4118
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537894
+  council_reference: BW-2674/2019
+  date_received: '2019-04-15'
+  description: Domestic - Dwelling
+  address: 49 Everleigh Drive GREENBANK QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537931
+  council_reference: BW-2679/2019
+  date_received: '2019-04-15'
+  description: Domestic - Dwelling
+  address: 8 Mercy Circuit PARK RIDGE QLD 4125
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537933
+  council_reference: BW-2680/2019
+  date_received: '2019-04-16'
+  description: Domestic - Swimming Pool Only
+  address: 12 Olympic Court EAGLEBY QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537934
+  council_reference: BW-2681/2019
+  date_received: '2019-04-16'
+  description: Domestic - Swimming Pool Only
+  address: 68-72 Pastoral Court FLAGSTONE QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537935
+  council_reference: BW-2682/2019
+  date_received: '2019-04-16'
+  description: Domestic - New Swimming Pool
+  address: 18 Van Dieman Crescent SPRINGWOOD QLD 4127
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537936
+  council_reference: BW-2683/2019
+  date_received: '2019-04-16'
+  description: Domestic - Roofed Deck Enclosure
+  address: 12 Drake Road SPRINGWOOD QLD 4127
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537957
+  council_reference: BW-2684/2019
+  date_received: '2019-04-16'
+  description: Domestic - New Dwelling
+  address: 66-68 Rockford Close STOCKLEIGH QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537968
+  council_reference: BW-2685/2019
+  date_received: '2019-04-16'
+  description: Domestic - Patio
+  address: 10 Pavon Street REGENTS PARK QLD 4118
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537969
+  council_reference: BW-2686/2019
+  date_received: '2019-04-16'
+  description: Domestic - Patio
+  address: 58-60 Melrose Place NEW BEITH QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537970
+  council_reference: BW-2687/2019
+  date_received: '2019-04-16'
+  description: Domestic - Existing Alterations & Additions
+  address: 175 Springwood Road SPRINGWOOD QLD 4127
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537982
+  council_reference: BW-2689/2019
+  date_received: '2019-04-16'
+  description: Domestic Dwelling
+  address: 7 Falco Drive BAHRS SCRUB QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537993
+  council_reference: BW-2690/2019
+  date_received: '2019-04-16'
+  description: Domestic - Dwelling and Garage
+  address: 57 Samford Drive HOLMVIEW QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538015
+  council_reference: BW-2691/2019
+  date_received: '2019-04-16'
+  description: Domestic Dwelling & attached garage & attached alfresco
+  address: 1 Wentworth Drive FLAGSTONE QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538098
+  council_reference: BW-2693/2019
+  date_received: '2019-04-16'
+  description: Domestic - Dwelling
+  address: 31 Enclave Drive BAHRS SCRUB QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538161
+  council_reference: BW-2694/2019
+  date_received: '2019-04-16'
+  description: Commercial - Coles and Speciality Shops
+  address: 6-24 Gates Road FLAGSTONE QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538174
+  council_reference: BW-2695/2019
+  date_received: '2019-04-16'
+  description: Domestic - House, garage, alfresco area, porch
+  address: 40 Covella Boulevard GREENBANK QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538185
+  council_reference: BW-2696/2019
+  date_received: '2019-04-16'
+  description: Domestic - Dwelling
+  address: 58-60 Alluring Court JIMBOOMBA QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538186
+  council_reference: BW-2697/2019
+  date_received: '2019-04-16'
+  description: Domestic - Dwelling
+  address: 130-134 Weatherly Drive JIMBOOMBA QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538188
+  council_reference: BW-2698/2019
+  date_received: '2019-04-16'
+  description: Domestic Dwelling
+  address: 27-31 Deeke Place JIMBOOMBA QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538189
+  council_reference: BW-2699/2019
+  date_received: '2019-04-16'
+  description: Domestic - Dwelling
+  address: 6 Carousel Street HILLCREST QLD 4118
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538341
+  council_reference: BW-2701/2019
+  date_received: '2019-04-16'
+  description: Domestic - Shed
+  address: 149 Andrew Road GREENBANK QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538363
+  council_reference: BW-2703/2019
+  date_received: '2019-04-16'
+  description: Domestic - Dwelling, Attached Alfresco & Garage
+  address: 119-121 Evergreen Drive STOCKLEIGH QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538434
+  council_reference: BW-2704/2019
+  date_received: '2019-04-16'
+  description: Domestic - Change Of Classification from Secondary Dwelling To Dual
+    Occupancy
+  address: 54 Lynelle Street MARSDEN QLD 4132
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538469
+  council_reference: BW-2706/2019
+  date_received: '2019-04-16'
+  description: Domestic - Demolition
+  address: 114-124 Eagleby Road EAGLEBY QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538491
+  council_reference: BW-2708/2019
+  date_received: '2019-04-16'
+  description: Domestic - Extension to Existing Dwelling and Carport
+  address: 8 Nodosa Street SHAILER PARK QLD 4128
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538492
+  council_reference: BW-2709/2019
+  date_received: '2019-04-16'
+  description: Domestic - Shed
+  address: 171-181 Solway Crescent CARBROOK QLD 4130
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538493
+  council_reference: BW-2710/2019
+  date_received: '2019-04-16'
+  description: Domestic - Rear Extension & Patio
+  address: 24 Oxley Circuit DAISY HILL QLD 4127
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538496
+  council_reference: BW-2711/2019
+  date_received: '2019-04-16'
+  description: Domestic - Swimming Pool
+  address: 109-115 Bellbird Drive GREENBANK QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538497
+  council_reference: BW-2712/2019
+  date_received: '2019-04-16'
+  description: Domestic - Dwelling & Auxiliary Unit
+  address: 55 Pepper Tree Drive HOLMVIEW QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538508
+  council_reference: BW-2713/2019
+  date_received: '2019-04-16'
+  description: Domestic - Carport and alterations
+  address: 19 Chifley Drive BETHANIA QLD 4205
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538509
+  council_reference: BW-2714/2019
+  date_received: '2019-04-16'
+  description: Domestic - Dwelling
+  address: 36 Colorado Street BAHRS SCRUB QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538521
+  council_reference: BW-2715/2019
+  date_received: '2019-04-16'
+  description: Domestic - Shed
+  address: 28-30 Bigal Avenue STOCKLEIGH QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538555
+  council_reference: BW-2717/2019
+  date_received: '2019-04-16'
+  description: Commercial - Shed
+  address: GREENBANK GARDENS 3651 Mount Lindesay Highway PARK RIDGE QLD 4125
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538556
+  council_reference: BW-2718/2019
+  date_received: '2019-04-16'
+  description: Domestic - Shed
+  address: 34-36 Lawnton Street DAISY HILL QLD 4127
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538557
+  council_reference: BW-2719/2019
+  date_received: '2019-04-16'
+  description: Domestic - Inground pool & pool fence
+  address: 178-184 Rossmore Road LOGAN RESERVE QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538611
+  council_reference: BW-2721/2019
+  date_received: '2019-04-17'
+  description: Domestic - Swimming Pool and Associated Safety Barrier
+  address: 1-3 Carver Place JIMBOOMBA QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538682
+  council_reference: BW-2727/2019
+  date_received: '2019-04-17'
+  description: Domestic - Demolition of Dwelling
+  address: 1322-1330 Waterford Tamborine Road LOGAN VILLAGE QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538693
+  council_reference: BW-2728/2019
+  date_received: '2019-04-17'
+  description: Domestic - Secondary Dwelling
+  address: 54 Paperbark Street CRESTMEAD QLD 4132
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538715
+  council_reference: BW-2730/2019
+  date_received: '2019-04-17'
+  description: Domestic - Dwelling, alfresco & attached garage
+  address: 26-32 Bidyan Boulevard NEW BEITH QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538780
+  council_reference: BW-2733/2019
+  date_received: '2019-04-17'
+  description: Domestic - Patio
+  address: 11/10 Penina Circuit CORNUBIA QLD 4130
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538791
+  council_reference: BW-2734/2019
+  date_received: '2019-04-17'
+  description: Domestic - Dwelling
+  address: 26 Almandin Street LOGAN RESERVE QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538824
+  council_reference: BW-2735/2019
+  date_received: '2019-04-17'
+  description: Domestic - Dwelling and Garage
+  address: 51 Samford Drive HOLMVIEW QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538855
+  council_reference: BW-2736/2019
+  date_received: '2019-04-17'
+  description: Domestic - Shed
+  address: 32-34 Paperbark Court NEW BEITH QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538856
+  council_reference: BW-2737/2019
+  date_received: '2019-04-17'
+  description: Domestic - Dwelling
+  address: 21 Bignell Circuit GREENBANK QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538908
+  council_reference: BW-2739/2019
+  date_received: '2019-04-17'
+  description: Commercial - New Construction of Awning Extension to Existing Retail
+    Development
+  address: 653-657 Kingston Road LOGANLEA QLD 4131
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538909
+  council_reference: BW-2740/2019
+  date_received: '2019-04-17'
+  description: Domestic - Dwelling
+  address: 43-47 Bidyan Boulevard NEW BEITH QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538930
+  council_reference: BW-2741/2019
+  date_received: '2019-04-17'
+  description: Domestic - Dwelling with attached alfresco & garage
+  address: 32-38 Inspiration Drive LOGAN VILLAGE QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538931
+  council_reference: BW-2742/2019
+  date_received: '2019-04-17'
+  description: Commercial - Carport and Shade Sail
+  address: Q A S SPRINGWOOD 2-4 Vanessa Boulevard SPRINGWOOD QLD 4127
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538984
+  council_reference: BW-2744/2019
+  date_received: '2019-04-17'
+  description: Domestic - Above Ground Swimming Pool Installed Inground
+  address: 14 Robyn Court LOGAN VILLAGE QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538986
+  council_reference: BW-2746/2019
+  date_received: '2019-04-17'
+  description: Domestic - Duplex Villa 203 & 204
+  address: 6-42 Quinzeh Creek Road LOGAN VILLAGE QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539089
+  council_reference: BW-2748/2019
+  date_received: '2019-04-17'
+  description: Domestic - Dwelling
+  address: 68 Kessels Boulevard GREENBANK QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539187
+  council_reference: BW-2749/2019
+  date_received: '2019-04-17'
+  description: Domestic - Shed
+  address: 66-68 Rockford Close STOCKLEIGH QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539188
+  council_reference: BW-2750/2019
+  date_received: '2019-04-17'
+  description: Domestic - pool & pool fence
+  address: 54 Elderberry Drive FLAGSTONE QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539189
+  council_reference: BW-2751/2019
+  date_received: '2019-04-17'
+  description: Domestic - Dwelling with Attached Auxiliary Unit
+  address: 28B Evergreen Avenue LOGANLEA QLD 4131
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539190
+  council_reference: BW-2752/2019
+  date_received: '2019-04-17'
+  description: Domestic - Pool and Pool Fence
+  address: 18-24 Carbrook Road CORNUBIA QLD 4130
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539191
+  council_reference: BW-2753/2019
+  date_received: '2019-04-17'
+  description: Domestic- Pool & Fence
+  address: 30 Moogara Street SHAILER PARK QLD 4128
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539192
+  council_reference: BW-2754/2019
+  date_received: '2019-04-17'
+  description: Domestic - pool & pool fence
+  address: 118-124 Melrose Place NEW BEITH QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539193
+  council_reference: BW-2755/2019
+  date_received: '2019-04-17'
+  description: Domestic - Dwelling Extensions
+  address: 20 Gurley Street EAGLEBY QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539257
+  council_reference: BW-2764/2019
+  date_received: '2019-04-18'
+  description: Domestic - Patio
+  address: 172-174 Peppertree Drive JIMBOOMBA QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539272
+  council_reference: BW-2765/2019
+  date_received: '2019-04-18'
+  description: Domestic - Dwelling and Garage
+  address: 29 Falco Drive BAHRS SCRUB QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539275
+  council_reference: BW-2766/2019
+  date_received: '2019-04-18'
+  description: Domestic - Dwelling
+  address: 80-82 Carabeen Road STOCKLEIGH QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539293
+  council_reference: BW-2771/2019
+  date_received: '2019-04-18'
+  description: Domestic - Underpinning & Associated Works
+  address: 3 Penina Circuit CORNUBIA QLD 4130
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539381
+  council_reference: BW-2774/2019
+  date_received: '2019-04-18'
+  description: Domestic - Shed
+  address: 158-160 Carter Road MUNRUBEN QLD 4125
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539402
+  council_reference: BW-2775/2019
+  date_received: '2019-04-18'
+  description: Domestic - Dwelling
+  address: 39 Innsbruck Way BAHRS SCRUB QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539438
+  council_reference: BW-2776/2019
+  date_received: '2019-04-18'
+  description: Domestic - Dwelling
+  address: 27 Danbulla Street YARRABILBA QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539445
+  council_reference: BW-2777/2019
+  date_received: '2019-04-18'
+  description: Domestic - Replacement of Existing Roof Cladding
+  address: 37 Manila Street BEENLEIGH QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539446
+  council_reference: BW-2778/2019
+  date_received: '2019-04-18'
+  description: Domestic - Carport
+  address: 1 Elm Court BROWNS PLAINS QLD 4118
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539458
+  council_reference: BW-2780/2019
+  date_received: '2019-04-18'
+  description: Domestic - Dwelling with attached alfresco & garage
+  address: 75-77 Loch Ness Circuit NEW BEITH QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539469
+  council_reference: BW-2781/2019
+  date_received: '2019-04-18'
+  description: Domestic - Garage
+  address: 117-119 MacKenzie Avenue RIVERBEND QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539470
+  council_reference: BW-2782/2019
+  date_received: '2019-04-18'
+  description: Domestic - Dwelling
+  address: 50-52 Melrose Place NEW BEITH QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539483
+  council_reference: BW-2783/2019
+  date_received: '2019-04-18'
+  description: Domestic - Dwelling
+  address: 27 Kourounis Street LOGAN RESERVE QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539516
+  council_reference: BW-2784/2019
+  date_received: '2019-04-18'
+  description: Domestic - Swimming Pool
+  address: 2-46 Halo Place TAMBORINE QLD 4270
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539529
+  council_reference: BW-2786/2019
+  date_received: '2019-04-18'
+  description: Domestic - Patio
+  address: 17/25 Parkview Crescent CORNUBIA QLD 4130
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539581
+  council_reference: BW-2787/2019
+  date_received: '2019-04-18'
+  description: Domestic - Patio Roof
+  address: 42 Exilis Street ROCHEDALE SOUTH QLD 4123
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539582
+  council_reference: BW-2788/2019
+  date_received: '2019-04-18'
+  description: Domestic - Patio Roof
+  address: 91-97 Chloe Drive MUNRUBEN QLD 4125
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539583
+  council_reference: BW-2789/2019
+  date_received: '2019-04-18'
+  description: Domestic - Dwelling Extension
+  address: 13 Alrak Avenue BROWNS PLAINS QLD 4118
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539666
+  council_reference: BW-2792/2019
+  date_received: '2019-04-23'
+  description: Domestic - Additions, Deck, Swimming Pool and Pool Fence Stage 2
+  address: 116 Veivers Road WOLFFDENE QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539701
+  council_reference: BW-2794/2019
+  date_received: '2019-04-23'
+  description: Commercial - Office Alterations Tenancy 4
+  address: 36 Bryants Road SHAILER PARK QLD 4128
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539775
+  council_reference: BW-2795/2019
+  date_received: '2019-04-23'
+  description: Domestic - Shed and Awning
+  address: 28 Yvonne Drive BORONIA HEIGHTS QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539822
+  council_reference: BW-2797/2019
+  date_received: '2019-04-23'
+  description: Domestic - Dwelling and Integral Double garage
+  address: 13 Vine Way GREENBANK QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539855
+  council_reference: BW-2798/2019
+  date_received: '2019-04-23'
+  description: Domestic - Roof Replacement (garage and Carport Only)
+  address: 27 Hammel Street BEENLEIGH QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539878
+  council_reference: BW-2801/2019
+  date_received: '2019-04-23'
+  description: Domestic - Dwelling and Garage
+  address: 41 Expedition Road YARRABILBA QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539920
+  council_reference: BW-2802/2019
+  date_received: '2019-04-23'
+  description: Domestic - Patio
+  address: 9 Holmes Court MOUNT WARREN PARK QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539982
+  council_reference: BW-2804/2019
+  date_received: '2019-04-23'
+  description: Domestic - Alterations
+  address: 127 Lamberth Road REGENTS PARK QLD 4118
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539996
+  council_reference: BW-2807/2019
+  date_received: '2019-04-23'
+  description: Domestic - Retaining Wall only
+  address: 7 Charnley Court SHAILER PARK QLD 4128
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540010
+  council_reference: BW-2808/2019
+  date_received: '2019-04-23'
+  description: Domestic - Secondary Dwelling
+  address: 28 Carissa Street SHAILER PARK QLD 4128
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540092
+  council_reference: BW-2809/2019
+  date_received: '2019-04-23'
+  description: Domestic - Secondary Dwelling
+  address: 45 Portsmouth Court MUNDOOLUN QLD 4285
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540114
+  council_reference: BW-2810/2019
+  date_received: '2019-04-24'
+  description: Domestic - Demolition of Dwelling
+  address: 186 Wembley Road LOGAN CENTRAL QLD 4114
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540178
+  council_reference: BW-2812/2019
+  date_received: '2019-04-24'
+  description: Domestic - Dwelling Roof Restoration
+  address: 5 Phillip Street WOODRIDGE QLD 4114
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540200
+  council_reference: BW-2814/2019
+  date_received: '2019-04-24'
+  description: Domestic - Dwelling
+  address: 15 Cook Lane LOGAN RESERVE QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540284
+  council_reference: BW-2815/2019
+  date_received: '2019-04-24'
+  description: Commercial - Upgrade Fire Services - (New sprinklers, Hydrant Services
+    & Pump House)
+  address: 227-235 Ewing Road WOODRIDGE QLD 4114
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540285
+  council_reference: BW-2816/2019
+  date_received: '2019-04-24'
+  description: Domestic - Dwelling and Garage
+  address: 37 Dryander Street YARRABILBA QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540307
+  council_reference: BW-2818/2019
+  date_received: '2019-04-24'
+  description: Domestic - Carport
+  address: 21 Conifer Street DAISY HILL QLD 4127
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540310
+  council_reference: BW-2821/2019
+  date_received: '2019-04-24'
+  description: Domestic - Dwelling and Garage
+  address: 29 Fiennes Road LOGAN RESERVE QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540331
+  council_reference: BW-2822/2019
+  date_received: '2019-04-24'
+  description: Domestic - Dwelling and Garage
+  address: 34 Fiennes Road LOGAN RESERVE QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540374
+  council_reference: BW-2824/2019
+  date_received: '2019-04-24'
+  description: Domestic - Dwelling and Auxiliary Unit
+  address: 44 Miamax Place LOGAN RESERVE QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540395
+  council_reference: BW-2825/2019
+  date_received: '2019-04-24'
+  description: Domestic - Dwelling and Auxiliary Unit
+  address: 46 Miamax Place LOGAN RESERVE QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540397
+  council_reference: BW-2827/2019
+  date_received: '2019-04-24'
+  description: Domestic - Dwelling and Auxiliary Unit
+  address: 44 Almandin Street LOGAN RESERVE QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540408
+  council_reference: BW-2828/2019
+  date_received: '2019-04-24'
+  description: Domestic - Patio and Carport
+  address: 3 Pomeroy Close UNDERWOOD QLD 4119
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540409
+  council_reference: BW-2829/2019
+  date_received: '2019-04-24'
+  description: Domestic - Dual Occupancy, Garage, Alfresco and Porch
+  address: 46 Almandin Street LOGAN RESERVE QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540471
+  council_reference: BW-2830/2019
+  date_received: '2019-04-24'
+  description: Domestic - Swimming pool & pool fence
+  address: 5 Justora Street ROCHEDALE SOUTH QLD 4123
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540472
+  council_reference: BW-2831/2019
+  date_received: '2019-04-24'
+  description: Domestic - Garage
+  address: 37 Robius Court STOCKLEIGH QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540504
+  council_reference: BW-2833/2019
+  date_received: '2019-04-24'
+  description: Domestic - Pool
+  address: 16 Hillview Drive HILLCREST QLD 4118
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540516
+  council_reference: BW-2835/2019
+  date_received: '2019-04-24'
+  description: Domestic - Secondary Dwelling
+  address: 163 Main Street BEENLEIGH QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540529
+  council_reference: BW-2836/2019
+  date_received: '2019-04-24'
+  description: Domestic - Dwelling
+  address: 27 Falco Drive BAHRS SCRUB QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540575
+  council_reference: BW-2840/2019
+  date_received: '2019-04-24'
+  description: Domestic - Shed and Awning
+  address: 25-29 Sebring Drive RIVERBEND QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540606
+  council_reference: BW-2841/2019
+  date_received: '2019-04-24'
+  description: Domestic - Garage with Awning
+  address: 8 Golden Penda Drive FLAGSTONE QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540683
+  council_reference: BW-2843/2019
+  date_received: '2019-04-24'
+  description: Commercial - Apartment Building & Carpark
+  address: 34 Bougainville Street BEENLEIGH QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540705
+  council_reference: BW-2844/2019
+  date_received: '2019-04-24'
+  description: Domestic - Demolition of Existing Structure/s
+  address: 70 Garfield Road LOGAN CENTRAL QLD 4114
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540708
+  council_reference: BW-2845/2019
+  date_received: '2019-04-25'
+  description: Domestic - Carport
+  address: 93 Pohon Drive TANAH MERAH QLD 4128
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540821
+  council_reference: BW-2852/2019
+  date_received: '2019-04-26'
+  description: Domestic - Dwelling
+  address: 29 Polo Street LOGAN RESERVE QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540833
+  council_reference: BW-2854/2019
+  date_received: '2019-04-26'
+  description: Domestic - Garage
+  address: 19 Kay Court BUCCAN QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540845
+  council_reference: BW-2856/2019
+  date_received: '2019-04-26'
+  description: Commercial - Tenancy Fitout OPSM Shop 13
+  address: LOGAN HYPERDOME 3828-3846 Pacific Highway SHAILER PARK QLD 4128
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540879
+  council_reference: BW-2859/2019
+  date_received: '2019-04-26'
+  description: Domestic - Carport
+  address: 29 Alice Street KINGSTON QLD 4114
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540890
+  council_reference: BW-2860/2019
+  date_received: '2019-04-26'
+  description: Domestic - Carport
+  address: 1 Galvin Street LOGANHOLME QLD 4129
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540967
+  council_reference: BW-2866/2019
+  date_received: '2019-04-26'
+  description: Commercial - 10 Warehouse Unit Development (Structural Approval to
+    slab level)
+  address: 24-26 Ellerslie Road MEADOWBROOK QLD 4131
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540990
+  council_reference: BW-2868/2019
+  date_received: '2019-04-26'
+  description: Domestic - Dwelling
+  address: 57 Everleigh Drive GREENBANK QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540991
+  council_reference: BW-2869/2019
+  date_received: '2019-04-26'
+  description: Domestic - Dwelling
+  address: 47 Everleigh Drive GREENBANK QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540992
+  council_reference: BW-2870/2019
+  date_received: '2019-04-26'
+  description: Domestic - Swimming Pool & Pool Fence
+  address: 20 Lancelot Street ROCHEDALE SOUTH QLD 4123
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540994
+  council_reference: BW-2871/2019
+  date_received: '2019-04-26'
+  description: Domestic - Dwelling
+  address: 66 Kessels Boulevard GREENBANK QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541005
+  council_reference: BW-2872/2019
+  date_received: '2019-04-26'
+  description: Domestic - Dwelling
+  address: 51 Everleigh Drive GREENBANK QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541006
+  council_reference: BW-2873/2019
+  date_received: '2019-04-26'
+  description: Domestic - Dwelling & Auxiliary Unit
+  address: 23 Greenpark Drive CRESTMEAD QLD 4132
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541022
+  council_reference: BW-2878/2019
+  date_received: '2019-04-26'
+  description: Domestic - Alterations to Existing Car Port
+  address: 136-138 Forestdale Drive FORESTDALE QLD 4118
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541033
+  council_reference: BW-2879/2019
+  date_received: '2019-04-26'
+  description: Domestic - Dual Occupancy
+  address: 38A Hester Street SHAILER PARK QLD 4128
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541044
+  council_reference: BW-2880/2019
+  date_received: '2019-04-26'
+  description: Domestic - Dwelling and pool
+  address: 7 Resi Drive REGENTS PARK QLD 4118
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541055
+  council_reference: BW-2881/2019
+  date_received: '2019-04-26'
+  description: Domestic - Carport
+  address: 7 Lennox Court LOGAN CENTRAL QLD 4114
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541056
+  council_reference: BW-2882/2019
+  date_received: '2019-04-26'
+  description: Domestic - Carport
+  address: 36 Rellam Road LOGANLEA QLD 4131
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541057
+  council_reference: BW-2883/2019
+  date_received: '2019-04-26'
+  description: Domestic - Dwelling
+  address: 24 Weedbrook Street PARK RIDGE QLD 4125
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541058
+  council_reference: BW-2884/2019
+  date_received: '2019-04-26'
+  description: Domestic - Dwelling
+  address: 22-24 Lady Ardee Circuit LOGAN VILLAGE QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541059
+  council_reference: BW-2885/2019
+  date_received: '2019-04-26'
+  description: Domestic - Auxiliary Dwelling
+  address: 129-143 Solway Crescent CARBROOK QLD 4130
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541110
+  council_reference: BW-2886/2019
+  date_received: '2019-04-26'
+  description: Domestic - Dwelling and Auxiliary Unit
+  address: 23 College Street BAHRS SCRUB QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541111
+  council_reference: BW-2887/2019
+  date_received: '2019-04-26'
+  description: Domestic - Dwelling and Auxiliary Unit
+  address: 34 College Street BAHRS SCRUB QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541112
+  council_reference: BW-2888/2019
+  date_received: '2019-04-26'
+  description: Domestic - Dwelling and Auxiliary Unit
+  address: 1 College Street BAHRS SCRUB QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541113
+  council_reference: BW-2889/2019
+  date_received: '2019-04-26'
+  description: Domestic - Dwelling and Auxiliary Unit
+  address: 19 College Street BAHRS SCRUB QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541115
+  council_reference: BW-2891/2019
+  date_received: '2019-04-27'
+  description: Commercial - Proposed Workshop
+  address: 26-30 Industrial Avenue LOGAN VILLAGE QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541316
+  council_reference: BW-2897/2019
+  date_received: '2019-04-29'
+  description: Domestic - Dwelling, Garage, Alfresco and Porch
+  address: 24 Almandin Street LOGAN RESERVE QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541317
+  council_reference: BW-2898/2019
+  date_received: '2019-04-29'
+  description: Domestic - Dwelling, Auxiliary Unit, Alfresco Area, Porch and Garage
+  address: 93A First Avenue MARSDEN QLD 4132
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541399
+  council_reference: BW-2899/2019
+  date_received: '2019-04-29'
+  description: Domestic - Pool
+  address: 78-90 Bradman Street NEW BEITH QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541414
+  council_reference: BW-2901/2019
+  date_received: '2019-04-29'
+  description: Domestic - Detached Dwelling
+  address: 16 Mikaella Way LOGAN RESERVE QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541415
+  council_reference: BW-2902/2019
+  date_received: '2019-04-29'
+  description: Domestic - Roof Replacement
+  address: 11-19 Peppertree Drive JIMBOOMBA QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541428
+  council_reference: BW-2904/2019
+  date_received: '2019-04-29'
+  description: Domestic - Pool
+  address: 72-74 Coachwood Drive FLAGSTONE QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541432
+  council_reference: BW-2907/2019
+  date_received: '2019-04-29'
+  description: Domestic - Demolition of Dwelling & Ancillary Structures
+  address: 109-111 Logan Street BEENLEIGH QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541433
+  council_reference: BW-2908/2019
+  date_received: '2019-04-29'
+  description: Domestic - Dwelling
+  address: 32-34 Preston Street NEW BEITH QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541458
+  council_reference: BW-2912/2019
+  date_received: '2019-04-29'
+  description: Domestic Garage
+  address: 29-37 Pastoral Court FLAGSTONE QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541471
+  council_reference: BW-2914/2019
+  date_received: '2019-04-29'
+  description: Domestic Pool and Fence
+  address: 38 Tarandi Street LOGANHOLME QLD 4129
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541513
+  council_reference: BW-2915/2019
+  date_received: '2019-04-29'
+  description: Domestic Dwelling
+  address: 87-89 Loch Ness Circuit NEW BEITH QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541514
+  council_reference: BW-2916/2019
+  date_received: '2019-04-29'
+  description: Domestic Dwelling
+  address: 28-30 Coal Street YARRABILBA QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541515
+  council_reference: BW-2917/2019
+  date_received: '2019-04-29'
+  description: Domestic Dwelling
+  address: 15 Forest Road GREENBANK QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541547
+  council_reference: BW-2919/2019
+  date_received: '2019-04-29'
+  description: Domestic Patio
+  address: 3 Holles Street WATERFORD WEST QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541560
+  council_reference: BW-2922/2019
+  date_received: '2019-04-29'
+  description: Domestic - Garage
+  address: 2-14 Bullum Court MUNDOOLUN QLD 4285
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541601
+  council_reference: BW-2923/2019
+  date_received: '2019-04-29'
+  description: Domestic - Pool and Pool Fence
+  address: 6 Carfrae Avenue UNDERWOOD QLD 4119
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541602
+  council_reference: BW-2924/2019
+  date_received: '2019-04-29'
+  description: Commercial - Retail Tenancy Fitout
+  address: 5-15 Lapis Street UNDERWOOD QLD 4119
+  date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541605
   council_reference: BW-2925/2019
   date_received: '2019-04-30'
@@ -813,7 +1807,7 @@
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2545907
   council_reference: BW-3167/2019
   date_received: '2019-05-09'
-  description: Domestic Swimming Pool
+  description: Domestic - Roofed Patio and Carport
   address: 1 Evette Close ROCHEDALE SOUTH QLD 4123
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2545910
@@ -1072,7 +2066,7 @@
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2547205
   council_reference: BW-3236/2019
   date_received: '2019-05-13'
-  description: Commercial - Office fitout
+  description: Commercial - Office fitout (Unit 2)
   address: LOGAN CENTRAL PLAZA 38-74 Wembley Road LOGAN CENTRAL QLD 4114
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2547391
@@ -1110,7 +2104,7 @@
   council_reference: BW-3264/2019
   date_received: '2019-05-14'
   description: Domestic - Patio
-  address: 20 Pedder Street MARSDEN QLD 4132
+  address: 10 Pedder Street MARSDEN QLD 4132
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2547642
   council_reference: BW-3266/2019
@@ -1214,6 +2208,85 @@
   description: Minor Change (Shed (Increased Size; Reduced Side Boundary Clearance))
   address: 89 Plantain Road SHAILER PARK QLD 4128
   date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537752
+  council_reference: BWAP-159/2019
+  date_received: '2019-04-15'
+  description: Shed (Increased Combined Size; Reduced Side and Rear Boundary Clearance;
+    Build Over/Near Relevant Infrastructure)
+  address: 9 Oakmont Avenue CORNUBIA QLD 4130
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538190
+  council_reference: BWAP-161/2019
+  date_received: '2019-04-16'
+  description: Garage (Reduced Road Boundary Clearance; Reduced Side Boundary Clearance)
+  address: 30 Sundowner Street REGENTS PARK QLD 4118
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538173
+  council_reference: BWAP-165/2019
+  date_received: '2019-04-16'
+  description: Shed (Increased Combined Size; Reduced Side Boundary Clearance; Overlays)
+  address: 71-75 Teresa Drive MUNRUBEN QLD 4125
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538187
+  council_reference: BWAP-167/2019
+  date_received: '2019-04-16'
+  description: Carport (Reduced Road Boundary Clearance)
+  address: 29 Billabong Drive CRESTMEAD QLD 4132
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537526
+  council_reference: BWAP-169/2019
+  date_received: '2019-04-15'
+  description: House Addition (Reduced Road Boundary Clearance)
+  address: 5 Cobalt Drive BETHANIA QLD 4205
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539585
+  council_reference: BWAP-170/2019
+  date_received: '2019-04-18'
+  description: Shed (Increased Size)
+  address: 35 Sewell Road TANAH MERAH QLD 4128
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539589
+  council_reference: BWAP-171/2019
+  date_received: '2019-04-22'
+  description: Patio (Reduced Side Boundary Clearance)
+  address: 5-9 Kilkenny Street CORNUBIA QLD 4130
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539518
+  council_reference: BWAP-172/2019
+  date_received: '2019-04-18'
+  description: Carport (Reduced Side Boundary Clearance)
+  address: 51-53 Finch Street EAGLEBY QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540138
+  council_reference: BWAP-173/2019
+  date_received: '2019-04-24'
+  description: Shed (Road Boundary Clearance; Side Boundary Clearance; Overlays)
+  address: 4 Cobalt Drive BETHANIA QLD 4205
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540135
+  council_reference: BWAP-174/2019
+  date_received: '2019-04-24'
+  description: Carport (Road and Side Boundary Clearance)
+  address: 36 Trevina Crescent MOUNT WARREN PARK QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540342
+  council_reference: BWAP-175/2019
+  date_received: '2019-04-24'
+  description: Garage (Increased Combined Size)
+  address: 33 Horton Street KINGSTON QLD 4114
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540710
+  council_reference: BWAP-176/2019
+  date_received: '2019-04-26'
+  description: Shed (Reduced Side Boundary Clearance; Increased Combined Size)
+  address: 4 Hull Court MOUNT WARREN PARK QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541435
+  council_reference: BWAP-179/2019
+  date_received: '2019-04-29'
+  description: Carport (Reduced Road Boundary Clearance)
+  address: 21 Belinda Crescent SPRINGWOOD QLD 4127
+  date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541761
   council_reference: BWAP-180/2019
   date_received: '2019-04-30'
@@ -1290,7 +2363,8 @@
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2546901
   council_reference: BWAP-196/2019
   date_received: '2019-05-10'
-  description: Carport and Shed (Reduced Side and Rear Boundary Clearance)
+  description: Carport and Shed (Reduced Side and Rear Boundary Clearance; Increased
+    Combined Size)
   address: 38 Montrose Avenue BETHANIA QLD 4205
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2545448
@@ -1335,6 +2409,12 @@
   description: Carport (Reduced Road Boundary Clearance; Reduced Side Boundary Clearance)
   address: 23 Lewina Street DAISY HILL QLD 4127
   date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539481
+  council_reference: BWAP-210/2019
+  date_received: '2019-04-18'
+  description: Carport (Reduced Side and Rear Boundary Clearance)
+  address: 2 Sunridge Circuit BAHRS SCRUB QLD 4207
+  date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2545438
   council_reference: BWAP-213/2019
   date_received: '2019-05-08'
@@ -1346,6 +2426,12 @@
   date_received: '2019-05-13'
   description: House Addition (Overlays)
   address: 42-44 Atlantic Drive LOGANHOLME QLD 4129
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539484
+  council_reference: BWAP-285/2019
+  date_received: '2019-04-18'
+  description: Shed (Increased Size; Reduced Side Boundary Clearance)
+  address: 55-57 Carabeen Road LOGAN VILLAGE QLD 4207
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541840
   council_reference: BWL-2935/2019
@@ -1364,6 +2450,19 @@
   date_received: '2019-05-03'
   description: Domestic - Shelter for Dog Off Leash Area
   address: TOWNS PARK 57-59 Towns Avenue LOGAN VILLAGE QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540321
+  council_reference: COM-12/2019
+  date_received: '2019-04-24'
+  description: Service Station and Reconfiguration of a Lot (1 Lot into 17 Lots)
+  address: 202-206 Chambers Flat Road WATERFORD WEST QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539530
+  council_reference: COM-13/2019
+  date_received: '2019-04-18'
+  description: Reconfiguring a Lot (1 into 26) and Material Change of Use (Dwelling
+    House & Dual Occupancy (Auxiliary Unit) x 26)
+  address: 400 Park Ridge Road PARK RIDGE QLD 4125
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2544058
   council_reference: COM-15/2015
@@ -1386,6 +2485,33 @@
     Use (4 x Dual Occupancy (Auxiliary Unit))
   address: 6 Macaranga Street MARSDEN QLD 4132
   date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540709
+  council_reference: COM-21/2019
+  date_received: '2019-04-25'
+  description: Material Change of Use - (Service Station; Car Wash; Food & Drink Outlet)
+    and Operational Works (On Premises Sign x 4)
+  address: 1601-1621 Waterford Tamborine Road LOGAN VILLAGE QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539646
+  council_reference: COM-49/2017
+  date_received: '2019-04-23'
+  description: Minor Change (Reconfiguring a Lot (1 Lot into 37 Lots, New Road, Open
+    Space and 2 Drainage Reserves) and a Variation Request)
+  address: Lot 27 Berzins Court BAHRS SCRUB QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541157
+  council_reference: COM-66/2016
+  date_received: '2019-04-29'
+  description: Minor Change (Reconfiguring One Lot into 153 Lots - Precinct B and
+    Material Change of Use for Dwelling Houses - Development Control Plans)
+  address: 1 Coucal Court BAHRS SCRUB QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537701
+  council_reference: MCUC-102/2015
+  date_received: '2019-04-15'
+  description: Extension Application - (Attached Dwellings - 8 units)
+  address: 15-17 York Street BEENLEIGH QLD 4207
+  date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2542357
   council_reference: MCUC-122/2007
   date_received: '2019-05-01'
@@ -1404,6 +2530,36 @@
   description: Minor Change (Health Care Services)
   address: 2-12 Springvale Circuit UNDERWOOD QLD 4119
   date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537593
+  council_reference: MCUC-21/2019
+  date_received: '2019-04-15'
+  description: Food and Drink Outlet
+  address: 17/50-56 Kellar Street BERRINBA QLD 4117
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538129
+  council_reference: MCUC-22/2019
+  date_received: '2019-04-16'
+  description: Place of Worship
+  address: 50-52 Parramatta Road UNDERWOOD QLD 4119
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539998
+  council_reference: MCUC-25/2019
+  date_received: '2019-04-23'
+  description: Proposed Paint Shop, Hardware and Trade Supplies
+  address: 149 Browns Plains Road BROWNS PLAINS QLD 4118
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538694
+  council_reference: MCUC-27/2019
+  date_received: '2019-04-17'
+  description: Multiple Dwellings (60 Apartments)
+  address: 7 Athena Grove SPRINGWOOD QLD 4127
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541581
+  council_reference: MCUC-28/2019
+  date_received: '2019-04-29'
+  description: Multiple Dwellings (32 Units)
+  address: 57 City Road BEENLEIGH QLD 4207
+  date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2542367
   council_reference: MCUC-29/2019
   date_received: '2019-05-01'
@@ -1421,6 +2577,24 @@
   date_received: '2019-05-07'
   description: Minor Change (Food & Drink Outlet; Associated Advertising Devices)
   address: 26-36 Wembley Road LOGAN CENTRAL QLD 4114
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540287
+  council_reference: MCUC-364/2018
+  date_received: '2019-04-24'
+  description: Minor Change (Material Change of Use - Home Based Business)
+  address: 96 Anakie Drive CORNUBIA QLD 4130
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540704
+  council_reference: MCUC-38/2019
+  date_received: '2019-04-24'
+  description: Rooming Accommodation (x37 Units) & Multiple Dwelling (x3 Townhouses)
+  address: 35 Isabel Street LOGANLEA QLD 4131
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541146
+  council_reference: MCUC-87/2015
+  date_received: '2019-04-26'
+  description: Extension Application (Dual Occupancy)
+  address: 9 Conifer Street HILLCREST QLD 4118
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2548005
   council_reference: MCUC-91/2015
@@ -1441,6 +2615,18 @@
     Office and Cafe)
   address: 9 Bannockburn Road BANNOCKBURN QLD 4207
   date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540542
+  council_reference: MCUI-15/2019
+  date_received: '2019-04-24'
+  description: Intensive Horticulture (Hydroponic Farm)
+  address: 1078-1100 Chambers Flat Road CHAMBERS FLAT QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541561
+  council_reference: MCUI-16/2019
+  date_received: '2019-04-29'
+  description: Function Facility
+  address: 26-70 Albert River Place TAMBORINE QLD 4270
+  date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2547414
   council_reference: MCUI-17/2019
   date_received: '2019-05-13'
@@ -1458,6 +2644,30 @@
   date_received: '2019-05-02'
   description: Minor Change (Six (6) Warehouses)
   address: 14-16 Cairns Street LOGANHOLME QLD 4129
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538533
+  council_reference: MCUR-62/2019
+  date_received: '2019-04-16'
+  description: Dual Occupancy (Auxiliary Unit) (Reduced Road Boundary Clearance)
+  address: 28 Coachwood Street CRESTMEAD QLD 4132
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537838
+  council_reference: MCUR-63/2019
+  date_received: '2019-04-15'
+  description: Secondary Dwelling (>20m from Primary Dwelling)
+  address: 223-227 Rossmore Road CHAMBERS FLAT QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539531
+  council_reference: MCUR-65/2019
+  date_received: '2019-04-18'
+  description: Garage (Build Outside Building Envelope; Increased Size)
+  address: 441-451 Bellbird Drive GREENBANK QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541090
+  council_reference: MCUR-66/2019
+  date_received: '2019-04-26'
+  description: Extension Application (Dual Occupancy)
+  address: 9 Conifer Street HILLCREST QLD 4118
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2542132
   council_reference: MCUR-68/2019
@@ -1513,7 +2723,7 @@
   council_reference: MCUR-77/2019
   date_received: '2019-05-07'
   description: Dual Occupancy (Auxiliary Unit)
-  address: 48-54 Bumstead Road PARK RIDGE QLD 4125
+  address: 47 Bloomfield Avenue PARK RIDGE QLD 4125
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2546323
   council_reference: MCUR-78/2019
@@ -1534,11 +2744,65 @@
   description: Secondary Dwelling (Primary Street Setback Less than Primary Dwelling)
   address: 58-62 Latimer Road LOGAN VILLAGE QLD 4207
   date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539166
+  council_reference: MCUR-83/2019
+  date_received: '2019-04-17'
+  description: Dwelling House (Build Outside Building Envelope)
+  address: 7 Polo Street LOGAN RESERVE QLD 4133
+  date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2545065
   council_reference: OW-289/2015
   date_received: '2019-05-08'
   description: Extension Application (Operational Works Relating to RL/93/2008/A)
   address: 334 Bellbird Drive GREENBANK QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538162
+  council_reference: OW-61/2019
+  date_received: '2019-04-16'
+  description: Operational Works Relating to COM/61/2018
+  address: 520-532 Park Ridge Road PARK RIDGE QLD 4125
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539294
+  council_reference: OW-64/2019
+  date_received: '2019-04-18'
+  description: Operational Works Relating to MCUC/98/2018
+  address: 34 Bougainville Street BEENLEIGH QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539417
+  council_reference: OW-65/2019
+  date_received: '2019-04-18'
+  description: Operational Works Relating to MCUC/120/2017
+  address: 5-7 Eagle Drive EAGLEBY QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538558
+  council_reference: OW-66/2019
+  date_received: '2019-04-16'
+  description: Earthworks (Site Area up to 2,000m²) - stockpile only
+  address: 34-38 Bayes Road LOGAN RESERVE QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541023
+  council_reference: OW-67/2019
+  date_received: '2019-04-26'
+  description: Earthworks (Site Area 10,001m² or more)
+  address: 466 Wembley Road BERRINBA QLD 4117
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539843
+  council_reference: OW-69/2019
+  date_received: '2019-04-23'
+  description: Operational Works Relating to RL/6/2019
+  address: 30-32 Bahrview Drive BAHRS SCRUB QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540091
+  council_reference: OW-70/2019
+  date_received: '2019-04-23'
+  description: Operational Works Relating to COM/66/2016 (Sewer)
+  address: Lot 817 Brookhaven Boulevard BAHRS SCRUB QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540364
+  council_reference: OW-71/2019
+  date_received: '2019-04-24'
+  description: Operational Works Relating to MCUC/3/2019
+  address: 24-26 Ellerslie Road MEADOWBROOK QLD 4131
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2543418
   council_reference: OW-72/2019
@@ -1588,11 +2852,23 @@
   description: Operational Works Relating to MCUI/36/2015
   address: FLAGSTONE VILLAGE 1-21 Bushman Drive FLAGSTONE QLD 4280
   date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540564
+  council_reference: OW-82/2019
+  date_received: '2019-04-24'
+  description: Operational Works Relating to RL/7/2015
+  address: 28 Kokoda Street BEENLEIGH QLD 4207
+  date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2547351
   council_reference: OW-84/2019
   date_received: '2019-05-13'
   description: Operational Works Relating to COM/37/2016 (Stage 1)
   address: 340 Logan Reserve Road LOGAN RESERVE QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539122
+  council_reference: OWADV-13/2019
+  date_received: '2019-04-17'
+  description: On-Premises Signs
+  address: 356-360 Middle Road GREENBANK QLD 4124
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2544531
   council_reference: OWADV-14/2019
@@ -1611,6 +2887,12 @@
   date_received: '2019-05-03'
   description: On Premises Signs
   address: 49-59 Green Road PARK RIDGE QLD 4125
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539134
+  council_reference: OWADV-17/2019
+  date_received: '2019-04-17'
+  description: On Premise Sign
+  address: 2-6 Bayes Road LOGAN RESERVE QLD 4133
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2543036
   council_reference: OWADV-18/2019
@@ -1795,7 +3077,7 @@
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2548037
   council_reference: PD-1029/2019
   date_received: '2019-05-14'
-  description: ePathway
+  description: Domestic - Dwelling
   address: 28 Highgate Drive FLAGSTONE QLD 4280
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2548073
@@ -1870,6 +3152,348 @@
   description: Transportable Building - Unit 25A
   address: 2-40 Koplick Road CHAMBERS FLAT QLD 4133
   date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539018
+  council_reference: PD-362/2019
+  date_received: '2019-04-17'
+  description: Unit 2
+  address: 47 Biron Street YARRABILBA QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537668
+  council_reference: PD-780/2019
+  date_received: '2019-04-15'
+  description: Unit 3
+  address: 1 Kjay Close BAHRS SCRUB QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537470
+  council_reference: PD-852/2019
+  date_received: '2019-04-15'
+  description: Domestic - Dwelling and Attached Auxiliary Unit
+  address: 29B Atlantic Drive LOGANHOLME QLD 4129
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537527
+  council_reference: PD-853/2019
+  date_received: '2019-04-15'
+  description: Domestic - Dwelling
+  address: 46 Welford Circuit YARRABILBA QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537604
+  council_reference: PD-854/2019
+  date_received: '2019-04-15'
+  description: Domestic - Dwelling and Attached Auxiliary Unit
+  address: 11/5 Richards Street LOGANLEA QLD 4131
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537483
+  council_reference: PD-855/2019
+  date_received: '2019-04-15'
+  description: Domestic - Dwelling
+  address: 15 Enclave Drive BAHRS SCRUB QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537915
+  council_reference: PD-856/2019
+  date_received: '2019-04-15'
+  description: Domestic - Dwelling
+  address: 14 Macmillan Loop BELIVAH QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537762
+  council_reference: PD-857/2019
+  date_received: '2019-04-15'
+  description: Domestic - Dwelling HSTP
+  address: 9-11 Melrose Place NEW BEITH QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538004
+  council_reference: PD-858/2019
+  date_received: '2019-04-15'
+  description: Domestic Dwelling
+  address: 30-32 Lady Ardee Circuit LOGAN VILLAGE QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537930
+  council_reference: PD-859/2019
+  date_received: '2019-04-15'
+  description: Domestic - Dwelling - HSTP
+  address: 99-101 Loch Ness Circuit NEW BEITH QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537615
+  council_reference: PD-861/2019
+  date_received: '2019-04-15'
+  description: Domestic - Dwelling - Attached Ancillary Unit
+  address: 4/3618-3624 Mount Lindesay Highway PARK RIDGE QLD 4125
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538140
+  council_reference: PD-862/2019
+  date_received: '2019-04-16'
+  description: Domestic - Dwelling
+  address: 4 Vine Way GREENBANK QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538445
+  council_reference: PD-863/2019
+  date_received: '2019-04-16'
+  description: Domestic - Dwelling
+  address: 11 Tregole Street YARRABILBA QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538448
+  council_reference: PD-864/2019
+  date_received: '2019-04-16'
+  description: Domestic - Dwelling - HSTP
+  address: 84-86 Loch Ness Circuit NEW BEITH QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538151
+  council_reference: PD-865/2019
+  date_received: '2019-04-15'
+  description: Domestic - Dwelling
+  address: 27 Kourounis Street LOGAN RESERVE QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538494
+  council_reference: PD-866/2019
+  date_received: '2019-04-16'
+  description: Domestic - Dwelling
+  address: 1 Tregole Street YARRABILBA QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538737
+  council_reference: PD-867/2019
+  date_received: '2019-04-17'
+  description: Domestic - Detached Auxiliary Unit
+  address: 18 Crestview Street LOGANLEA QLD 4131
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538543
+  council_reference: PD-868/2019
+  date_received: '2019-04-16'
+  description: Domestic - Dwelling - Attached Auxiliary Unit
+  address: 80 Pepper Tree Drive HOLMVIEW QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538802
+  council_reference: PD-869/2019
+  date_received: '2019-04-16'
+  description: Domestic - Dwelling
+  address: 16 Paradise Street YARRABILBA QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538768
+  council_reference: PD-871/2019
+  date_received: '2019-04-17'
+  description: Domestic - Dwelling and Attached Auxiliary Unit
+  address: 28 Beck Street PARK RIDGE QLD 4125
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538769
+  council_reference: PD-872/2019
+  date_received: '2019-04-17'
+  description: Domestic - Dwelling and Attached Auxiliary Unit
+  address: 12 Anne Street PARK RIDGE QLD 4125
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538812
+  council_reference: PD-873/2019
+  date_received: '2019-04-17'
+  description: Domestic - Dwelling
+  address: 69 Kessels Boulevard GREENBANK QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539090
+  council_reference: PD-877/2019
+  date_received: '2019-04-17'
+  description: Domestic - Dwelling with Attached Auxiliary Unit
+  address: 75 Neumann Drive YARRABILBA QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538932
+  council_reference: PD-879/2019
+  date_received: '2019-04-17'
+  description: Domestic - Dwelling
+  address: 9 Kelvin Court FLAGSTONE QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537895
+  council_reference: PD-880/2019
+  date_received: '2019-04-15'
+  description: Domestic - Secondary Dwelling - HSTP
+  address: 36-40 Birdsville Street GREENBANK QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539132
+  council_reference: PD-881/2019
+  date_received: '2019-04-17'
+  description: Domestic - Dwelling - Attached Auxiliary Unit
+  address: 44 Expedition Road YARRABILBA QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539258
+  council_reference: PD-883/2019
+  date_received: '2019-04-18'
+  description: Domestic - Dwelling
+  address: 45 Welford Circuit YARRABILBA QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539416
+  council_reference: PD-884/2019
+  date_received: '2019-04-18'
+  description: Domestic - Dwelling - HSTP
+  address: 99-101 Jollytail Avenue NEW BEITH QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539439
+  council_reference: PD-885/2019
+  date_received: '2019-04-18'
+  description: Domestic - Dwelling
+  address: 31 Elizabeth Drive FLAGSTONE QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539273
+  council_reference: PD-886/2019
+  date_received: '2019-04-18'
+  description: Domestic - Dwelling
+  address: 20 Macmillan Loop BELIVAH QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539403
+  council_reference: PD-887/2019
+  date_received: '2019-04-18'
+  description: Domestic - Dwelling
+  address: 13 Tregole Street YARRABILBA QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539357
+  council_reference: PD-889/2019
+  date_received: '2019-04-18'
+  description: Domestic - Dwelling
+  address: 45 Almandin Street LOGAN RESERVE QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539444
+  council_reference: PD-890/2019
+  date_received: '2019-04-18'
+  description: Domestic - Dwelling
+  address: 89A Glenvale Street CORNUBIA QLD 4130
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539854
+  council_reference: PD-891/2019
+  date_received: '2019-04-23'
+  description: Domestic Dwelling
+  address: 2 Iceberg Avenue UNDERWOOD QLD 4119
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539591
+  council_reference: PD-892/2019
+  date_received: '2019-04-23'
+  description: Domestic - Dwelling
+  address: 2 Drewie Court ROCHEDALE SOUTH QLD 4123
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539797
+  council_reference: PD-893/2019
+  date_received: '2019-04-23'
+  description: Domestic - Dwelling
+  address: 5 Ruby Street PARK RIDGE QLD 4125
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539698
+  council_reference: PD-894/2019
+  date_received: '2019-04-23'
+  description: Domestic - Dwelling
+  address: 22-24 Lady Ardee Circuit LOGAN VILLAGE QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539919
+  council_reference: PD-895/2019
+  date_received: '2019-04-23'
+  description: Domestic - Dwelling
+  address: 14 Pandora Street ROCHEDALE SOUTH QLD 4123
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539997
+  council_reference: PD-896/2019
+  date_received: '2019-04-23'
+  description: Domestic - Dwelling
+  address: 35 Fiennes Road LOGAN RESERVE QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539594
+  council_reference: PD-897/2019
+  date_received: '2019-04-23'
+  description: Domestic - Dwelling
+  address: 18 Emerald Parade GREENBANK QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539798
+  council_reference: PD-898/2019
+  date_received: '2019-04-23'
+  description: Domestic - Dwelling
+  address: 73 Neumann Drive YARRABILBA QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539596
+  council_reference: PD-899/2019
+  date_received: '2019-04-18'
+  description: Domestic - Dwelling
+  address: 9 Village Court LOGAN VILLAGE QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539702
+  council_reference: PD-900/2019
+  date_received: '2019-04-23'
+  description: Domestic - Dwelling
+  address: 123-125 Lady Ardee Circuit STOCKLEIGH QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540517
+  council_reference: PD-907/2019
+  date_received: '2019-04-24'
+  description: Domestic Dwelling
+  address: 11 Kelvin Court FLAGSTONE QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540274
+  council_reference: PD-909/2019
+  date_received: '2019-04-23'
+  description: Domestic - Replacement of HSTP
+  address: 11-15 Argyle Road GREENBANK QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540531
+  council_reference: PD-912/2019
+  date_received: '2019-04-24'
+  description: Domestic - Dwelling
+  address: 15C Wollumbin Crescent WATERFORD QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539744
+  council_reference: PD-913/2019
+  date_received: '2019-04-18'
+  description: Domestic - Dwelling
+  address: 16 Mikaella Way LOGAN RESERVE QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540770
+  council_reference: PD-917/2019
+  date_received: '2019-04-25'
+  description: Domestic - Conversion from Septic to HSTP
+  address: 217 Veivers Road CEDAR CREEK QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540749
+  council_reference: PD-918/2019
+  date_received: '2019-04-25'
+  description: Domestic - Dwelling - HSTP
+  address: 59-61 Bidyan Boulevard NEW BEITH QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540715
+  council_reference: PD-919/2019
+  date_received: '2019-04-24'
+  description: Domestic - Detached Secondary Dwelling - HSTP
+  address: 314-318 Beenleigh Redland Bay Road CORNUBIA QLD 4130
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540232
+  council_reference: PD-923/2019
+  date_received: '2019-04-24'
+  description: Domestic - Dwelling
+  address: 102 Kallista Road ROCHEDALE SOUTH QLD 4123
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541492
+  council_reference: PD-924/2019
+  date_received: '2019-04-29'
+  description: Domestic - Dwelling
+  address: 6 Irma Circuit PARK RIDGE QLD 4125
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541401
+  council_reference: PD-925/2019
+  date_received: '2019-04-29'
+  description: Domestic - Dwelling
+  address: 35 Samford Drive HOLMVIEW QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541400
+  council_reference: PD-926/2019
+  date_received: '2019-04-29'
+  description: Domestic - Dwelling
+  address: 52 Greenstone Street YARRABILBA QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541430
+  council_reference: PD-927/2019
+  date_received: '2019-04-29'
+  description: Domestic - Dwelling
+  address: 1 Cadet Way GREENBANK QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541603
+  council_reference: PD-928/2019
+  date_received: '2019-04-29'
+  description: Domestic - Dwelling
+  address: 8 Hereford Road GREENBANK QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540760
+  council_reference: PD-929/2019
+  date_received: '2019-04-24'
+  description: Domestic - Dwelling - Attached Auxiliary Unit
+  address: 27B Loganlea Road WATERFORD WEST QLD 4133
+  date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541913
   council_reference: PD-930/2019
   date_received: '2019-04-30'
@@ -1905,6 +3529,12 @@
   date_received: '2019-04-30'
   description: Domestic - Dwelling
   address: 17 Hobson Place BORONIA HEIGHTS QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541721
+  council_reference: PD-936/2019
+  date_received: '2019-04-29'
+  description: Domestic - Dwelling
+  address: 39 Expedition Road YARRABILBA QLD 4207
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541917
   council_reference: PD-937/2019
@@ -2055,6 +3685,12 @@
   date_received: '2019-05-02'
   description: Domestic - Dwelling
   address: 4 Bradfield Street FLAGSTONE QLD 4280
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541318
+  council_reference: PD-965/2019
+  date_received: '2019-04-29'
+  description: Domestic - Dwelling - HSTP
+  address: 1217-1227 Chambers Flat Road CHAMBERS FLAT QLD 4133
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2543896
   council_reference: PD-967/2019
@@ -2212,17 +3848,59 @@
   description: Domestic - Dwelling
   address: 87 Vineyard Drive GREENBANK QLD 4124
   date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539270
+  council_reference: RL-30/2019
+  date_received: '2019-04-18'
+  description: One Lot into Five Lots and Access Easements
+  address: 24 Abang Avenue TANAH MERAH QLD 4128
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539541
+  council_reference: RL-31/2019
+  date_received: '2019-04-18'
+  description: One Lot into Three Lots
+  address: 7-9 Gladewood Drive DAISY HILL QLD 4127
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540505
+  council_reference: RL-32/2019
+  date_received: '2019-04-24'
+  description: One Lot into Two Lots
+  address: 7 Short Street LOGANLEA QLD 4131
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540968
+  council_reference: RL-33/2019
+  date_received: '2019-04-26'
+  description: One Lot into Six Lots
+  address: 6-8 Spruce Street LOGANLEA QLD 4131
+  date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2544743
   council_reference: RL-34/2019
   date_received: '2019-05-07'
   description: Reconfiguration of a Lot (1 Lot into 2 Lots)
   address: 23-25 Merton Street JIMBOOMBA QLD 4280
   date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538683
+  council_reference: RL-40/2019
+  date_received: '2019-04-17'
+  description: Boundary Realignment
+  address: 3978 Pacific Highway LOGANHOLME QLD 4129
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2544251
+  council_reference: RL-47/2019
+  date_received: '2019-05-03'
+  description: Reconfiguring a Lot (1 into 2 Lots)
+  address: 20 Jobson Place CRESTMEAD QLD 4132
+  date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2546859
   council_reference: RL-91/2015
   date_received: '2019-05-10'
   description: Extension Application (1 Lot into 30 Lots)
   address: 95-123 McTaggart Road NEW BEITH QLD 4124
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538747
+  council_reference: SBR-2/2019
+  date_received: '2019-04-17'
+  description: Dwelling House (Removal Building)
+  address: 15 Bell Street JIMBOOMBA QLD 4280
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2542697
   council_reference: SBR-3/2019
@@ -2242,11 +3920,75 @@
   description: Dwelling House (Removal House)
   address: 1217-1227 Chambers Flat Road CHAMBERS FLAT QLD 4133
   date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539921
+  council_reference: SP-115/2018
+  date_received: '2019-04-18'
+  description: SP302310 Building Format Plan (1 into 2 Lots) + Common Property & Community
+    Management Statement - RE-ENDORSEMENT ONLY
+  address: BLUEGRASS PLACE 1 Bluegrass Court HILLCREST QLD 4118
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540726
+  council_reference: SP-200/2018
+  date_received: '2019-04-18'
+  description: SP306079 Building Format Plan (1 into 2 Lots) + Common Property & Community
+    Title Scheme - RE-ENDORSEMENT ONLY
+  address: 34 NEVRON 34 Nevron Drive BAHRS SCRUB QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2530244
+  council_reference: SP-55/2019
+  date_received: '2019-04-17'
+  description: SP310376 Standard Format Plan (1 into 1 lot) + Road Dedication
+  address: Lot 903 Waller Road PARK RIDGE QLD 4125
+  date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2545626
   council_reference: SP-6/2019
   date_received: '2019-05-09'
   description: "*!* Test Application *!*"
   address: LCC ADMINISTRATION CENTRE 150 Wembley Road LOGAN CENTRAL QLD 4114
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537584
+  council_reference: SP-68/2019
+  date_received: '2019-04-15'
+  description: SP306666 Standard Format Plan (1 into 2 lots)
+  address: 64-66 Trudy Crescent CORNUBIA QLD 4130
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538424
+  council_reference: SP-69/2019
+  date_received: '2019-04-15'
+  description: SP303685 & SP311765 Standard Format Plan (2 into 2 Lots) + 1 x Private
+    Easement
+  address: 62-80 Mahoney Road WOODHILL QLD 4285
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538704
+  council_reference: SP-70/2019
+  date_received: '2019-04-15'
+  description: SP167454 Standard Format Plan (2 into 4 Lots) + 1 x Council Easement
+    + 1 x Private Easement
+  address: 4 Webb Street SLACKS CREEK QLD 4127
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538898
+  council_reference: SP-71/2019
+  date_received: '2019-04-16'
+  description: SP304779 Standard Format Plan (2 into 2 Lots) + 2 x Council Easements
+  address: 110-116 Magnesium Drive CRESTMEAD QLD 4132
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539447
+  council_reference: SP-72/2019
+  date_received: '2019-04-17'
+  description: SP310685 Standard Format Plan (1 into 13 Lots)
+  address: Lot 1000 Northerly Street LOGAN RESERVE QLD 4133
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541116
+  council_reference: SP-73/2019
+  date_received: '2019-04-29'
+  description: SP306865 Standard Format Plan (1 into 1 Lots) + New Road
+  address: Lot 27 Berzins Court BAHRS SCRUB QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2541795
+  council_reference: SP-75/2019
+  date_received: '2019-04-29'
+  description: SP303265 Standard Format Plan (1 into 2 Lots)
+  address: 24 Rholanda Crescent SPRINGWOOD QLD 4127
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2543089
   council_reference: SP-76/2019
@@ -2260,7 +4002,7 @@
   date_received: '2019-05-02'
   description: SP302379 Building Format Plan (1 into 17 Lots) + Common Property +
     Community Management Statement
-  address: 147 Old Logan Village Road WATERFORD QLD 4133
+  address: WATERFORD GARDENS TOWNHOUSES 171 Old Logan Village Road WATERFORD QLD 4133
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2543832
   council_reference: SP-78/2019
@@ -2274,7 +4016,7 @@
   date_received: '2019-05-02'
   description: SP303644 Standard Format Plan (1 into 35 Lots) + 1 x Public Open Space
     + 1 x Balance Lot & 3 x Council Easements
-  address: Lot 999 Killara Boulevard LOGAN RESERVE QLD 4133
+  address: 162 Killara Boulevard LOGAN RESERVE QLD 4133
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2544164
   council_reference: SP-80/2019
@@ -2287,19 +4029,5 @@
   date_received: '2019-05-03'
   description: SP280283 Building Format Plan (1 into 9 Lots) + 1 x Council Easement
     + 1 x CMS
-  address: 11 Oleander Street DAISY HILL QLD 4127
-  date_scraped: '2019-05-14'
-- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2546228
-  council_reference: SP-82/2019
-  date_received: '2019-05-09'
-  description: SP303134 Standard Format Plan - Execution of Legal Documents Only -
-    EDQ Approval - 2 x Council easements (1 x Sewer; 1 x Drainage)
-  address: Lot 908 Trailblazer Drive FLAGSTONE QLD 4280
-  date_scraped: '2019-05-14'
-- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2546333
-  council_reference: SP-83/2019
-  date_received: '2019-05-09'
-  description: SP307888 Standard Format Plan - Execution of Legal Documents Only -
-    EDQ Approval - 8 x Council Easement (6 x Sewer; 2 x Sewer and Drainage)
-  address: Lot 908 Trailblazer Drive FLAGSTONE QLD 4280
+  address: OLEANDER RESIDENCES 11 Oleander Street DAISY HILL QLD 4127
   date_scraped: '2019-05-14'

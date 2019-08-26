@@ -1,4 +1,101 @@
 ---
+- info_url: https://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=264238
+  council_reference: DA0154/19
+  date_received: '2019-04-15'
+  description: Subdivision - Demolition of Existing Structures, Earthworks, Construction
+    of Roads, Upgrade Works to Existing Road, Service Infrastructure, Two Lot Boundary
+    Adjustment, Subdivision to Create 39 Torrens Title Lots, One Residue Lot for Dedication
+    for Future Arterial Road and One Residue Lot for On Site Detention
+  address: 184 Commercial Road, VINEYARD, NSW
+  date_scraped: '2019-05-14'
+- info_url: https://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=264251
+  council_reference: DA0155/19
+  date_received: '2019-04-15'
+  description: Pub - Increase Trading Hours to 10:00am - 3:00am, Monday to Saturday,
+    10:00am - 12:00pm (Midnight) Sunday and Permit Live Entertainment
+  address: 244 Hawkesbury Valley Way, CLARENDON, NSW
+  date_scraped: '2019-05-14'
+- info_url: https://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=264329
+  council_reference: DA0156/19
+  date_received: '2019-04-16'
+  description: Dwelling House and Swimming Pool
+  address: 5 Barnett Street, PITT TOWN, NSW
+  date_scraped: '2019-05-14'
+- info_url: https://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=264351
+  council_reference: DA0157/19
+  date_received: '2019-04-17'
+  description: Dwelling House
+  address: 144 Royerdale Place, EAST KURRAJONG, NSW
+  date_scraped: '2019-05-14'
+- info_url: https://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=264378
+  council_reference: DA0158/19
+  date_received: '2019-04-17'
+  description: Dwelling House, Swimming Pool and Landscaping
+  address: 15 Cleary Drive, PITT TOWN, NSW
+  date_scraped: '2019-05-14'
+- info_url: https://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=264385
+  council_reference: DA0159/19
+  date_received: '2019-04-17'
+  description: Dwelling House - Construction of Dwelling House and Decommissioning
+    of Existing Dwelling for Use as Outbuilding
+  address: 28 Hanlons Road North, BILPIN, NSW
+  date_scraped: '2019-05-14'
+- info_url: https://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=264412
+  council_reference: DA0160/19
+  date_received: '2019-04-18'
+  description: Dwelling House
+  address: 144 Mountain View Close, KURRAJONG HILLS, NSW
+  date_scraped: '2019-05-14'
+- info_url: https://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=264424
+  council_reference: DA0161/19
+  date_received: '2019-04-18'
+  description: Dwelling House
+  address: 161 Mileham Street, SOUTH WINDSOR, NSW
+  date_scraped: '2019-05-14'
+- info_url: https://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=264436
+  council_reference: DA0162/19
+  date_received: '2019-04-18'
+  description: Structure Ancillary to Dwelling - Outbuilding
+  address: 87 Hall Street, PITT TOWN, NSW
+  date_scraped: '2019-05-14'
+- info_url: https://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=264442
+  council_reference: DA0163/19
+  date_received: '2019-04-18'
+  description: Structure Ancillary to Dwelling - Outbuilding
+  address: 22 Range Street, NORTH RICHMOND, NSW
+  date_scraped: '2019-05-14'
+- info_url: https://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=264534
+  council_reference: DA0164/19
+  date_received: '2019-04-24'
+  description: Structure Ancillary to Dwelling - Retaining Wall
+  address: 15 Tollgate Crescent, WINDSOR, NSW
+  date_scraped: '2019-05-14'
+- info_url: https://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=264591
+  council_reference: DA0165/19
+  date_received: '2019-04-26'
+  description: Community Facility - Dwelling to be Used for Temporary Community Housing
+  address: 884 Kurmond Road, NORTH RICHMOND, NSW
+  date_scraped: '2019-05-14'
+- info_url: https://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=264599
+  council_reference: DA0166/19
+  date_received: '2019-04-26'
+  description: Dwelling House - Demolition of Carport, Alterations and Additions to
+    Existing Dwelling
+  address: 13 Canoona Avenue, WINDSOR DOWNS, NSW
+  date_scraped: '2019-05-14'
+- info_url: https://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=264611
+  council_reference: DA0167/19
+  date_received: '2019-04-26'
+  description: Dwelling House - Demolition of Existing Dwelling and Swimming Pool,
+    Construction of Dwelling and Swimming Pool
+  address: 240 Cattai Road, PITT TOWN, NSW
+  date_scraped: '2019-05-14'
+- info_url: https://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=264621
+  council_reference: DA0168/19
+  date_received: '2019-04-26'
+  description: Structure Ancillary to Dwelling - Swimming Pool
+  address: 39 Mcgrath Road, MCGRATHS HILL, NSW
+  date_scraped: '2019-05-14'
 - info_url: https://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster/default.aspx?page=wrapper&key=264854
   council_reference: DA0169/19
   date_received: '2019-04-30'
