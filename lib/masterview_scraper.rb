@@ -87,7 +87,7 @@ module MasterviewScraper
           {
             "council_reference" => record["council_reference"],
             "address" => detail[:address],
-            "description" => record["description"],
+            "description" => detail[:description],
             "info_url" => record["info_url"],
             "date_scraped" => record["date_scraped"],
             "date_received" => record["date_received"]

@@ -34,8 +34,11 @@ module MasterviewScraper
       end
 
       def self.scrape_new_version(page)
+        properties = page.at("#properties").next_element
+        details = page.at("#details").next_element
         {
-          address: page.at("#properties").next_element.inner_text.strip.split("(")[0].strip
+          address: properties.inner_text.strip.split("(")[0].strip,
+          description: details.at("td:contains('Description:')").next_element.inner_text
         }
       end
     end
