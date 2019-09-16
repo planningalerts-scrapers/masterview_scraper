@@ -14,7 +14,8 @@ module MasterviewScraper
     },
     maranoa: {
       url: "http://pdonline.maranoa.qld.gov.au",
-      use_api: true
+      use_api: true,
+      force_detail: true
     },
     moree_plains: {
       url: "http://masterview.mpsc.nsw.gov.au",
