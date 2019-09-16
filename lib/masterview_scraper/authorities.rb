@@ -19,7 +19,8 @@ module MasterviewScraper
     },
     moree_plains: {
       url: "http://masterview.mpsc.nsw.gov.au",
-      use_api: true
+      use_api: true,
+      force_detail: true
     },
     broken_hill: {
       url: "http://datracker.brokenhill.nsw.gov.au",
