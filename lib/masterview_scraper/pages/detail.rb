@@ -5,6 +5,14 @@ module MasterviewScraper
     # A page with (hopefully) all the details for an application
     module Detail
       def self.scrape(page)
+        if page.at("#details")
+          scrape_new_version(page)
+        else
+          scrape_old_version(page)
+        end
+      end
+
+      def self.scrape_old_version(page)
         council_reference = page.at("#ctl03_lblHead") ||
                             page.at("#ctl00_cphContent_ctl00_lblApplicationHeader")
         address = page.at("#lblLand") ||
@@ -22,6 +30,12 @@ module MasterviewScraper
           description: description,
           info_url: page.uri.to_s,
           date_received: Date.strptime(date_received, "%d/%m/%Y").to_s
+        }
+      end
+
+      def self.scrape_new_version(page)
+        {
+          address: page.at("#properties").next_element.inner_text.strip.split("(")[0].strip
         }
       end
     end

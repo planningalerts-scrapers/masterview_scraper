@@ -4,7 +4,8 @@ module MasterviewScraper
   AUTHORITIES = {
     forbes: {
       url: "http://planning.forbes.nsw.gov.au",
-      use_api: true
+      use_api: true,
+      force_detail: true
     },
     gunnedah: {
       url: "http://datracking.gunnedah.nsw.gov.au",

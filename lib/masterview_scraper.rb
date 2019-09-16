@@ -34,6 +34,10 @@ module MasterviewScraper
     use_api: false,
     disable_ssl_certificate_check: false,
     long_council_reference: false,
+    # If this is true get all the information from the detail page. Use this
+    # as a stepping stone to adding "decision" and "decision date" which is only
+    # available on the detail page
+    force_detail: false,
     types: nil,
     # page_size only applies when use_api is true at the moment
     page_size: 100
@@ -44,7 +48,8 @@ module MasterviewScraper
         disable_ssl_certificate_check,
         long_council_reference,
         types,
-        page_size
+        force_detail,
+        page_size,
       ) do |record|
         yield record
       end
@@ -59,7 +64,7 @@ module MasterviewScraper
 
   def self.scrape_api_period(
     url, disable_ssl_certificate_check, long_council_reference, types,
-    page_size = 100
+    force_detail, page_size = 100
   )
     agent = Mechanize.new
     agent.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
@@ -75,7 +80,22 @@ module MasterviewScraper
       agent: agent, long_council_reference: long_council_reference, types: types,
       page_size: page_size
     ) do |record|
-      yield record
+      if force_detail
+        page = agent.get(record["info_url"])
+        detail = Pages::Detail.scrape(page)
+        yield(
+          {
+            "council_reference" => record["council_reference"],
+            "address" => detail[:address],
+            "description" => record["description"],
+            "info_url" => record["info_url"],
+            "date_scraped" => record["date_scraped"],
+            "date_received" => record["date_received"]
+          }
+        )
+      else
+        yield record
+      end
     end
   end
 
