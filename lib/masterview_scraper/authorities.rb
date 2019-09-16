@@ -34,7 +34,7 @@ module MasterviewScraper
     },
     gladstone: {
       url: "http://masterview.gladstonerc.qld.gov.au/Modules/ApplicationMaster",
-      period: :thismonth,
+      period: :last30days,
       params: {
         "4" => "DevelopApp",
         "6" => "F"
