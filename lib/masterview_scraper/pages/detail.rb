@@ -33,14 +33,20 @@ module MasterviewScraper
         }
       end
 
+      APPROVED = [
+        "Approved - Delegation",
+        "Approved - Council",
+        "Approved Under Delegation",
+        "Modification Approved",
+        "Certificate Issued"
+      ].freeze
+
       def self.scrape_new_version(page)
         decision_lines = page.at("#decision").next_element.search("td").map { |td| td.inner_text.strip.gsub("\r\n", " ") }
         date_decision = decision_lines[1].match(/^Determination Date:(.*)/)[1].strip
         date_decision = nil if date_decision == ""
         decision = decision_lines[2].match(/Determination Type:(.*)/)[1].strip
-        if decision == "Approved - Delegation"
-          decision = "approved"
-        elsif decision == "Approved - Council"
+        if APPROVED.include?(decision)
           decision = "approved"
         elsif decision == "Pending"
           decision = nil
