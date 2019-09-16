@@ -9,7 +9,8 @@ module MasterviewScraper
     },
     gunnedah: {
       url: "http://datracking.gunnedah.nsw.gov.au",
-      use_api: true
+      use_api: true,
+      force_detail: true
     },
     maranoa: {
       url: "http://pdonline.maranoa.qld.gov.au",
