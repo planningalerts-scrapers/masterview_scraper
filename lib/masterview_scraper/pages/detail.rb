@@ -34,13 +34,27 @@ module MasterviewScraper
       end
 
       def self.scrape_new_version(page)
+        decision_lines = page.at("#decision").next_element.search("td").map { |td| td.inner_text.strip.gsub("\r\n", " ") }
+        date_decision = decision_lines[1].match(/^Determination Date:(.*)/)[1].strip
+        date_decision = nil if date_decision == ""
+        decision = decision_lines[2].match(/Determination Type:(.*)/)[1].strip
+        if decision == "Approved - Delegation"
+          decision = "approved"
+        elsif decision == "Pending"
+          decision = nil
+        else
+          raise "Unknown value of decision: #{decision}"
+        end
+
         properties = page.at("#properties").next_element
         details = page.at("#details").next_element
         date_received = details.at("td:contains('Submitted Date:')").next_element.inner_text.strip
         {
           address: properties.inner_text.strip.split("(")[0].strip,
           description: details.at("td:contains('Description:')").next_element.inner_text,
-          date_received: Date.strptime(date_received, "%d/%m/%Y").to_s
+          date_received: Date.strptime(date_received, "%d/%m/%Y").to_s,
+          date_decision: (Date.strptime(date_decision, "%d/%m/%Y").to_s if date_decision),
+          decision: decision
         }
       end
     end

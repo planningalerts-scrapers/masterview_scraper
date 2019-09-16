@@ -90,7 +90,9 @@ module MasterviewScraper
             "date_scraped" => Date.today.to_s,
             "address" => detail[:address],
             "description" => detail[:description],
-            "date_received" => detail[:date_received]
+            "date_received" => detail[:date_received],
+            "date_decision": detail[:date_decision],
+            "decision": detail[:decision]
           }
         )
       else
