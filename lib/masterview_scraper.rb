@@ -29,7 +29,6 @@ module MasterviewScraper
 
   def self.scrape_period(
     url:,
-    period:,
     params: {},
     state: nil,
     use_api: false,
@@ -42,7 +41,6 @@ module MasterviewScraper
     if use_api
       scrape_api_period(
         url,
-        period,
         disable_ssl_certificate_check,
         long_council_reference,
         types,
@@ -52,7 +50,7 @@ module MasterviewScraper
       end
     else
       scrape_url(
-        url_with_period(url, period, params), state, disable_ssl_certificate_check
+        url_last_n_days(url, 30, params), state, disable_ssl_certificate_check
       ) do |record|
         yield record
       end
@@ -60,11 +58,9 @@ module MasterviewScraper
   end
 
   def self.scrape_api_period(
-    url, period, disable_ssl_certificate_check, long_council_reference, types,
+    url, disable_ssl_certificate_check, long_council_reference, types,
     page_size = 100
   )
-    raise "Unexpected period: #{period}" unless period == :last30days
-
     agent = Mechanize.new
     agent.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
 
@@ -151,26 +147,6 @@ module MasterviewScraper
       base_url,
       { "1" => from.strftime("%d/%m/%Y"), "2" => to.strftime("%d/%m/%Y") }.merge(params)
     )
-  end
-
-  def self.url_with_period(base_url, period, params)
-    if period == :thismonth
-      MasterviewScraper.url_with_default_params(
-        base_url,
-        { "1" => "thismonth" }.merge(params)
-      )
-    elsif period == :thisweek
-      MasterviewScraper.url_with_default_params(
-        base_url,
-        { "1" => "thisweek" }.merge(params)
-      )
-    elsif period == :last14days
-      url_last_n_days(base_url, 14, params)
-    elsif period == :last30days
-      url_last_n_days(base_url, 30, params)
-    else
-      raise "Unexpected period #{period}"
-    end
   end
 
   # TODO: Escape params by using activesupport .to_query
