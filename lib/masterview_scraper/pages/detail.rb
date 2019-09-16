@@ -40,6 +40,8 @@ module MasterviewScraper
         decision = decision_lines[2].match(/Determination Type:(.*)/)[1].strip
         if decision == "Approved - Delegation"
           decision = "approved"
+        elsif decision == "Approved - Council"
+          decision = "approved"
         elsif decision == "Pending"
           decision = nil
         else
