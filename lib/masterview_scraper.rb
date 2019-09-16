@@ -90,9 +90,11 @@ module MasterviewScraper
             "date_scraped" => Date.today.to_s,
             "address" => detail[:address],
             "description" => detail[:description],
-            "date_received" => detail[:date_received],
-            "date_decision": detail[:date_decision],
-            "decision": detail[:decision]
+            "date_received" => detail[:date_received]
+            # Comment the extra data out until we have moved over every authority over
+            # to using the detail page
+            # "date_decision": detail[:date_decision],
+            # "decision": detail[:decision]
           }
         )
       else
