@@ -89,8 +89,8 @@ module MasterviewScraper
             "address" => detail[:address],
             "description" => detail[:description],
             "info_url" => record["info_url"],
-            "date_scraped" => record["date_scraped"],
-            "date_received" => record["date_received"]
+            "date_scraped" => Date.today.to_s,
+            "date_received" => detail[:date_received]
           }
         )
       else

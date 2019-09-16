@@ -36,9 +36,11 @@ module MasterviewScraper
       def self.scrape_new_version(page)
         properties = page.at("#properties").next_element
         details = page.at("#details").next_element
+        date_received = details.at("td:contains('Submitted Date:')").next_element.inner_text.strip
         {
           address: properties.inner_text.strip.split("(")[0].strip,
-          description: details.at("td:contains('Description:')").next_element.inner_text
+          description: details.at("td:contains('Description:')").next_element.inner_text,
+          date_received: Date.strptime(date_received, "%d/%m/%Y").to_s
         }
       end
     end
