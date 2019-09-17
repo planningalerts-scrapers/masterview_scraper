@@ -165,11 +165,13 @@ module MasterviewScraper
       url: "https://datracking.griffith.nsw.gov.au",
       use_api: true,
       # Has an incomplete certificate chain. See https://www.ssllabs.com/ssltest/analyze.html?d=datracking.griffith.nsw.gov.au
-      disable_ssl_certificate_check: true
+      disable_ssl_certificate_check: true,
+      force_detail: true
     },
     lismore: {
       url: "http://tracker.lismore.nsw.gov.au",
-      use_api: true
+      use_api: true,
+      force_detail: true
     },
     port_macquarie_hastings: {
       url: "https://datracker.pmhc.nsw.gov.au",
