@@ -29,13 +29,13 @@ http_interactions:
       message: Found
     headers:
       Date:
-      - Mon, 26 Aug 2019 05:39:12 GMT
+      - Tue, 17 Sep 2019 05:09:28 GMT
       Server:
       - Microsoft-IIS/10.0
       Set-Cookie:
       - AOPortal_datracking.griffith.nsw.gov.au=true; path=/; secure; HttpOnly
-      - ASP.NET_SessionId=nrk2qilfa2ljud0d050wkcjm; path=/; HttpOnly; secure
-      - swap=BaOAy2vBH1wkXRSh0Qc0Dsa9HZX0b3lYgmrHxvbitG4=; path=/; secure; HttpOnly
+      - ASP.NET_SessionId=ohkg0zlrlkcf5r5uwpkjkszx; path=/; HttpOnly; secure
+      - swap=FXZdY1dowdo93Y16p0B8pSlEnF90o0HMJVCVEvMD4Lg=; path=/; secure; HttpOnly
       Cache-Control:
       - no-cache, no-store
       Pragma:
@@ -86,8 +86,8 @@ http_interactions:
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - AOPortal_datracking.griffith.nsw.gov.au=true; ASP.NET_SessionId=nrk2qilfa2ljud0d050wkcjm;
-        swap=BaOAy2vBH1wkXRSh0Qc0Dsa9HZX0b3lYgmrHxvbitG4=
+      - AOPortal_datracking.griffith.nsw.gov.au=true; ASP.NET_SessionId=ohkg0zlrlkcf5r5uwpkjkszx;
+        swap=FXZdY1dowdo93Y16p0B8pSlEnF90o0HMJVCVEvMD4Lg=
       Host:
       - datracking.griffith.nsw.gov.au
       Connection:
@@ -100,7 +100,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Mon, 26 Aug 2019 05:39:12 GMT
+      - Tue, 17 Sep 2019 05:09:28 GMT
       Server:
       - Microsoft-IIS/10.0
       Cache-Control:
@@ -151,8 +151,8 @@ http_interactions:
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - AOPortal_datracking.griffith.nsw.gov.au=true; ASP.NET_SessionId=nrk2qilfa2ljud0d050wkcjm;
-        swap=BaOAy2vBH1wkXRSh0Qc0Dsa9HZX0b3lYgmrHxvbitG4=
+      - AOPortal_datracking.griffith.nsw.gov.au=true; ASP.NET_SessionId=ohkg0zlrlkcf5r5uwpkjkszx;
+        swap=FXZdY1dowdo93Y16p0B8pSlEnF90o0HMJVCVEvMD4Lg=
       Host:
       - datracking.griffith.nsw.gov.au
       Referer:
@@ -171,7 +171,7 @@ http_interactions:
       message: Moved Permanently
     headers:
       Date:
-      - Mon, 26 Aug 2019 05:39:12 GMT
+      - Tue, 17 Sep 2019 05:09:28 GMT
       Server:
       - Microsoft-IIS/10.0
       Cache-Control:
@@ -226,8 +226,8 @@ http_interactions:
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - AOPortal_datracking.griffith.nsw.gov.au=true; ASP.NET_SessionId=nrk2qilfa2ljud0d050wkcjm;
-        User=accessAllowed-MasterView=True; swap=BaOAy2vBH1wkXRSh0Qc0Dsa9HZX0b3lYgmrHxvbitG4=
+      - AOPortal_datracking.griffith.nsw.gov.au=true; ASP.NET_SessionId=ohkg0zlrlkcf5r5uwpkjkszx;
+        User=accessAllowed-MasterView=True; swap=FXZdY1dowdo93Y16p0B8pSlEnF90o0HMJVCVEvMD4Lg=
       Host:
       - datracking.griffith.nsw.gov.au
       Referer:
@@ -242,7 +242,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Mon, 26 Aug 2019 05:39:12 GMT
+      - Tue, 17 Sep 2019 05:09:28 GMT
       Server:
       - Microsoft-IIS/10.0
       Cache-Control:
@@ -264,7 +264,7 @@ http_interactions:
       Content-Encoding:
       - gzip
       Content-Length:
-      - '4410'
+      - '4414'
       Keep-Alive:
       - timeout=20, max=25
       Connection:
@@ -272,7 +272,7 @@ http_interactions:
     body:
       encoding: ASCII-8BIT
       string: !binary |-
-        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
+        H4sIAAAAAAAAA+08bXPbNtLfn5n7D6iuF8v3iKTlOInrWO45tpt4zo59tdtcL5PJQCQkIaYIloAsq7n899sF30ASlOQ01+tL1I5DAruLfccCBLn/xfHF0fUPlydkoqbhwZ/+bx//JSGNxoMOizq6hdEA/iXw258yRYk/oYlkatCZqZGz26n0TZSKHfbjjN8OOv90vjt0jsQ0pooPQ9YhvogUiwDx9GTAgjGrokZ0ygadW87msUiUAT3ngZoMAnbLfebomx7hEVecho70acgGfRslOlMTkRh0bEA3bDEXSSANsOcJH424mpAjrhbkSMwin4e940NynVD/hiW9Y3bLQhFPAZocxnHIfRBQRG3tKR6Pxj0CRE4iUE6ygOsW6AKgQYIlNgkCJv2ExwhmCHE9YUSAGD4oiVglaqOfjaC4CtmBHdOx4e57KUpB4QvHGVGwmYgcJ+c75NENmSRsNOh4WacLfzokYeGgI8Feyp8pgu0dohYxyMendMy8O0e3VaiTd/+YsWRBSvKpJohMfKB/pW+k9+5HhHL6bh/+d9/JzsG+lwKW1JYhzniKu92Ca8p0lOrfUxM2ZdIbUsk8XyTM9aXMhVSLkMkJY6rjYXitQqc+EAhA0T+Dhr5ux68o9ZkQSqqExqv0OswB76GXAsdZwdJy7GWitI49gn8dOmdSrK2LY6roNYXcJVcpo4REZ9lydzLvcYOio66mdQkZFFpV/hG0EiZjEUl+y+z2W6LJJl1Qp53P+xl4JWGD6f8eZXnfQLl65hwGUx452+QynI15RGgUEAEunhCgpe/eSTLiOLzdj94Z8eT4YjoUQ3G33MoVFJCExRzz8EqkzDFHIpmuC6u0jiA5r0F+SiWA4TS+GpQpLs9ZNFsJKYcOTTW8RrJBy1qUuZ7DZG6RKfPhPbBKwR1/JpWYcqknSHkPGoacq52w6ud6an57jWnVy6dtb5xdrEqYFcd+cX1+9ohcTfhUe+63OjICUDw5PdklchZjfQbVRQbIQoZFTOrmUxZwStBreCVpIt1Xh9++PH35fM+kGAgmow1FoAi7IXxEFmJGUIUEgofEMPPDHdWRs+d5VXqvATxUwBP56k3W3IgrLEclYAop3Sm98wOYRcXUC/lQeljpPpITfus9dJ+4W+V93cXuTTkp5PP67o67XTSAZW3E9794zaKAj95o+fa9rOLG//aHIljkYAG/JX5IpQQrxs4cvLtjsmd053bXQHFZOFZgeQBiwFCdHMsf1eE07KSvQUMxhkJNu8+gM6UJ5Lk90n8U35Et/O+pDVfj08xJUWWgsfl87hZ+GUm4EbcunYFW+HSchXyLOyMLbhyNO4SGUOR+zyVXZXXrkJfgOFcC6n7yCpYFWtHUJpE36dcV4oFGTGXW7++r3OUqnYVapRG9XaF8DR3yHCimEax11tboCyh1UAX74JdWPczCX0oPIaPJiN9ZtQFqyOHgckgTkv7jBGxEZxDj2a1UkFB9R4kYcplAN4QOPqbp2qfimc5QKEjBe2SrVasGdxl9DIamGBWk4QzIRtnSJL3p1KgoMR7jaheLi+wG5BdhSGNZNAOTuIJ2M5yie8nYenwJHlDkgMQRUbjoHFzrQUipDMgvAHcfWnqZBpzo3PTrxN33Un232TPz1JZenIA8t2LocjppQEN8lkYlhWFjB+dcmTckfDxRZMKDgEXOncyv5DS/mgZLnckalBWIPND/DPrRasOsESc8Uqe+4XnjcBFPUJWkuHI0VIeIyIeV+g3uokSBmLu6ubv5tFC4PUWWWm1lMssea0dXHsySBwwt3gzhZXyYc19KwDFMs3b8VAzb0epEcg5UMLNVyBVCZU6mvoJVw32QNQHTtAWtEdQ6FJxMKgc4hcvRHA3FD2wbLmYcASJNEjFf06yrdYOadSQDTwqcELeqyLo6bqW/0t2XYmf68nBO8w6HMMuTLIu+lSwcHbyaUEW4tG1NfX1/ZRTDtvv/StRPKO8xl2AaPoWkVRG6bP9FRbQUDitRigRc9arWHPwJWP0fBqn8I0fnaRSwu9xRbamL5IXpbzoor6Ck9Sc4h8j0qhKaae9vWUjDcN5hcEsjnwWpVLCAh5n862/ZVNyy78DaiiWwtmWBGQGDb2go2YOriZhfzBTU7rDEjcYViOtklgKc3E34kCsrgVOoYGYBOxb+TO8zpM2odlGSdWAFIqsGMPkildD8bJMlNikh7EbRNmu3CcuRLBYx6ZCLiGQD6AXL59mrAf4/nL3I1Ww45QrM+Aedx1bG2TFV7JtETAf9x3/ZHm19BX+2t/pfPcD2azHoP2m24p5B/8FaAWo0abSfFbFL02glQK8nUEC/Yuzmd50iC9PtWi2381u03BmV6g9kuf7vLObORaR+37Vi1XS7NdM9tLT++k2ng+6XN93n+mV1/XJcuMvnAuaTFjDbqyJSrw8+1y/3x/4v1y+/asN9Ll9+yxH3uXqxVy+/asv9MYuXFY8HlzNXPwzRwmj+fDKvBJY8Z15CsPrEOjv6gKTt5PY9gLS15yd98DCVeVJj9XNbPExOwWcTZxTOeNCOhL/0uFJ2aMkgooetHqzYn2xnJ1PgAs875Q/uM0zkdjwFzZ3RIQtLrJ1qiSfzLSoyZGrOWEQekisWKzYdsoRgJOoTaf0ntVYYdqc2bG1wGPttIXzxkH0CLKM0BUMVcBrdUlnA8lFCp8xJ5gFWmulAVjlL3Lf6ybwxbvswKWgL5eyQWnpCRbE75b2jgKNbSxPe0oQAwR7+uURqT8v2MRO+AHsZTUMxiwJpNERAmAzIltEUJwJcSy0OgyBhUjL5/LxB4STCk6QBYI4wIxn9UJaf0+SGJYdRcBqNxCt9XOGFCPGgxoC8fvM0Z93zjs5OT15ek6vLk6PTb06PyPeHZ9+dXOW9cQLZAc8jTjU9cBTIlpBHyQgSOMFnBhhECieuhI3xqdR8As5TYXCgIDOXzIVUndO7Mw7+Brw4208MxsNobPT1Hz00GCUziQPjWcY5G7pg2xGHWwEqVuQnIaY6kfXwjD6hqdq0z4K1IHewTFm3NJwxWY6YHaT4F+CfIf7zcxzYNEUVv6nstD9jZ0A6HdNQwEzOi6XLBzWpZIEOUu/mYLb0lEmhgtEs8vWDv+x9Hf4Tey7EOGTnEN7dTfLeTClj3eNi5LvahC7wcQxCwlqPQUR0U+I9sgHMAaWNXkE/JWXmI2TIBxrae4CkCyo/0vfdzadV0Oa4KuHjMUDqCMlHq6MhUVkQTceywOjoWgr4YfNpRQ1Z+AHfEZtXuHuedVVESB3XAn1G1Vk0fqa7u9Ux6g6wYLJjkOSjbhUiA2loue5oGDamZOaYWcq5iNP0PajTwnjYszh3r6FSLJNOg72KsOd5s/vtxeHx+eFlz8YpRDoL90gZ3ZrLimqAmkWXQL4bZOUUutJJeuj52eI06JoTwGbPkLGqc8+7iMIFCQUNdEZAumQk8EQHaC87Pz3UjofcwoQm6xaBNle/AEcOyJPHu5tl/3u73328JNkc05CnolPAxnjJA1Rei2cQonpktIc45jIO6QKH3Ky6RX7JsC6tMf9ld+PP7fPixqab6Kq6TtLwbobDY7wlrOb4sYhnkM1Z61xzmCR0UUMCxQMKAF+GQqWYmLyy4T80kl11fFM8mBKeQ+pH8/u6m1wKNJOZ/K8A4MjoNCK9mpr75BlqHSobOiFXyu2VR6FfXr0i2493t8ygtmTvw+861tTjZhfd9xvZeBtkzxwesqIvprGIgE9YIkG+1JJrsPcb2Sgbe7UhP3yoBWWRvhO9zAKyWOfOZCPP5CGgezEd2bLile51L/5uRccfpqB0KJA+G/P11hsUd8qASTcUaXX51I5fTfkpgXpQZC5Rud2su4r3VzSzJHq6IRMwe6grFQGuQTP/gNYxkwRPG8NtkIaSTk+wZg2Zr/Ku9LAp0XGi+//qNR1y/UA1lWedkov5OJ0eMW+/TbkNVk7JP+V5vZyVMdU35uQV03cV2POusnpKB1CGJ0YN7WCiRWrtk7RmpmDyk0zna6gwJbK2Eu+pmJ+jj+VS1n36El8Ml+Sf52d5KklTWp51ZerKVFEoCKEMbq/4xfAdejiPcBfER0SBVTj0xJCDc8+3Ovu6Kd7UrLF+wfeWYNachaEhLdCDOv9jKi1dGMPqs7qGwd+XXWzfdBn1J93S4K1zerZKusyWWUDwyy6uYupOms5WrdJfaM3KrkEKUmDPJP26X7vfrt0/rN3vvFnpGkcT5t9IfMWLZgszSHvgHSFwGyxgCQ8+mXIe6KIIVHyWJeOmibl8WXZ3DdBMezXLDg3oskg1LbFs9VmzEKkvW/AHYplsuOzHGSy5tHmKOWXTOi3VeDNXauYvYWqWRFk3atTTO69D0NhNGlXIJBSXohbMH1oTU0bSZMBmN20TuTJU00CH1Ka5mWK8IlcUYy19M1AEfMRZ1t0w6Zpe6wuRBD1SlCHZBw965IYtoDmOX4pGYGscHfRZ6JY1XhEzBQjEAkDFmMi+gVJdpSO6MD1y1e30OpsAsPkU9I+RTyLIRdkLkeC3PMK3EXetZPuryPbfVM2DLvVFddfk3/8mXU3iNMoI5CxvkoNBZZfiwQNig4RByP7A3LNoemW6vWM6pT3dVTnoVYW1zef6fVWoOvNt943qvnt5fcyg1A+l1yH/j3aFvx1v4wDvtIHxnjhE32fVMLTo99yGiafhMrdo8lALt/ZE0phLofw0ka3BvCyNuPFMTnCI9lDqFt5scNLTetusK7RWYtrWUfi7Z2rjeHK7hyFtSXKmZ1qSHSCtyHX5DyF5wUr2ij5Yw96Ots3tiqpoWMb8NfMku4NwaEmOLcrUTRaFVxvMmsBld8BrUPegGn1bXtXbfbgUSOuZdMdyWXnTshh9/9ETmr3GTFm5xk+64JSJE5nRZItuY4I1pz0LqM32GqfRYa9oTWVZ1kdtwlg3Q7Cja/FV6N7TO+TNrlhIfWh5r5DZAqQ/hrNnqtGyJlxTtiW1+v0F0qX9LyrVoVIYfnrxE2YLn7w+SCmt2o+trpgQAxdN+F6jsVYiTUfGH2arcmd6syWlFQCuHwpZ3zVqgll8qQwzm/rxl6X3vWYAWFSNvym9e4XbfXtkZ2urJUct49KF+jzqZs95UG2NpNaycDUz1WGUr8b03sQEcojUYyTTNOBp+jIeWDP3HEnmEw4mn9BbVi3tU6rpYxG9DtQPZXSpEuRrRr1+TAENR9tLnS9fxqY9Xgw1V5ktU6Sci3yDON1pLfJTLoyAYaVeWGbRBuaRsDbwlcgcsmGmvdyEqSrwWSpwnj4/qjEFxbl2UBaktBp5vL0KMITulcHY5Kbi7vUMrXcHbPm6kpwBypKn7bkYyyVLfq64SyEd7nKXT3rSDxI1l9zZs8oBKTakUz/J9qS7neyxpemlaZOLzzexmKw/4WxCysRHQM/TUZq6BI1BQvxeB7Z5cOe9k19DqTk4PP2JXi2OHvlX3/8Qvb3ZoS9eOW9Pb+iLH9TD72On/2L3yc6jfx0+8GkYDql/M7A92DKZKCTDD3m46DFRcDThYdBN2WuslfPIjfSDgoFVkzpOKx/BseePNc4X1B7ytx0uaNL55F+KwGfcIyGU8ci95esZBuVRyEaq9RMPcXo+iaeTavE9vDkb6k/LQCqxfuBu34vbKdZ23RPGoF6/vCDPxB3Z2X3U3INfSg3m5K1t8virx9tkt7+1BRFUNjzpP+5DZb9XHoSdwrJIiT39iaC/Wb/40dqVfgZkCSdrflTEQ825VMZfx4PjiyPn4uWRs7vjPHniPNrq1N5Hto/X5pQVs+pPK7TadcmHB3R/yD9WnJOXPzg7W87DHaf/qJMfmOq8hQmK4YmL/AuImP6or6TxcZW2CLSeKLpvQJUnPbLvAe172Qc7/wOWX2uowlMAAA==
     http_version: 
   recorded_at: Mon, 13 May 2019 14:00:00 GMT
 - request:
@@ -293,8 +293,8 @@ http_interactions:
       Accept-Language:
       - en-us,en;q=0.5
       Cookie:
-      - AOPortal_datracking.griffith.nsw.gov.au=true; ASP.NET_SessionId=nrk2qilfa2ljud0d050wkcjm;
-        User=accessAllowed-MasterView=True; swap=BaOAy2vBH1wkXRSh0Qc0Dsa9HZX0b3lYgmrHxvbitG4=
+      - AOPortal_datracking.griffith.nsw.gov.au=true; ASP.NET_SessionId=ohkg0zlrlkcf5r5uwpkjkszx;
+        User=accessAllowed-MasterView=True; swap=FXZdY1dowdo93Y16p0B8pSlEnF90o0HMJVCVEvMD4Lg=
       Host:
       - datracking.griffith.nsw.gov.au
       Referer:
@@ -313,7 +313,7 @@ http_interactions:
       message: OK
     headers:
       Date:
-      - Mon, 26 Aug 2019 05:39:14 GMT
+      - Tue, 17 Sep 2019 05:09:29 GMT
       Server:
       - Microsoft-IIS/10.0
       Cache-Control:
@@ -338,18 +338,39 @@ http_interactions:
       - chunked
     body:
       encoding: UTF-8
-      string: '{"draw":null,"recordsTotal":81,"recordsFiltered":81,"data":[["010.2019.00000081.001","81/2019.1","Development
+      string: '{"draw":null,"recordsTotal":81,"recordsFiltered":81,"data":[["019.2017.00000130.002","130/2017.2","Building
+        \u0026 Subdivision C/C","23/04/2019","12 Lamari Dr, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        with attached garage\u003c/b\u003e"],["010.2019.00000108.001","108/2019.1","Development
+        Application","14/05/2019","67 Druitt Rd, Lake Wyangan 2680 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        with attached garage\u003c/b\u003e"],["010.2019.00000094.001","94/2019.1","Development
+        Application","07/05/2019","72 Gillmartin Dr, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eShed
+        \u0026 inground pool\u003c/b\u003e"],["010.2019.00000100.001","100/2019.1","Development
+        Application","09/05/2019","30-32 Mirrool Av, Yenda 2681 NSW \u003cbr/\u003e\u003cb\u003eProposed
+        Service Station Rebranding \u0026 Pylon Sign\u003c/b\u003e"],["010.2013.00000016.002","16/2013.2","Modification
+        of a DA","08/05/2019","21 Oakes Rd, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eUse
+        of an existing premises for the display, sale \u0026 servicing of trucks \u0026
+        agricultural machinery\u003c/b\u003e"],["010.2019.00000080.001","80/2019.1","Development
+        Application","16/04/2019","72 Gillmartin Dr, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        with attached garage\u003c/b\u003e"],["010.2019.00000103.001","103/2019.1","Development
+        Application","13/05/2019","61 Messner St, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eAlterations
+        \u0026 additions to existing dwelling\u003c/b\u003e"],["019.2018.00000254.001","254/2018.1","Building
+        \u0026 Subdivision C/C","09/05/2019","34 Wakley Rd, Yenda 2681 NSW \u003cbr/\u003e\u003cb\u003eShed
+        for use as distilling room\u003c/b\u003e"],["019.2019.00000092.001","92/2019.1","Building
+        \u0026 Subdivision C/C","08/05/2019","34 Wakley Rd, Yenda 2681 NSW \u003cbr/\u003e\u003cb\u003eExtension
+        of warehouse and container loading pad\u003c/b\u003e"],["019.2017.00000130.001","130/2017.1","Building
+        \u0026 Subdivision C/C","23/04/2019","4 Lanza Gr, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        with attached garage\u003c/b\u003e"],["018.2019.00000053.001","53/2019.1","Private
+        Certifier C/C","03/05/2019","37 Verri St, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eDwelling
+        with attached garage\u003c/b\u003e"],["010.2019.00000105.001","105/2019.1","Development
+        Application","14/05/2019","8 Hardiman Wy, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eNew
+        Dwelling - Urban\u003c/b\u003e"],["010.2019.00000081.001","81/2019.1","Development
         Application","23/04/2019","10 Mancini Dr, Lake Wyangan 2680 NSW \u003cbr/\u003e\u003cb\u003eCompletion
         of building under construction and use as a domestic storage shed\u003c/b\u003e"],["010.2019.00000101.001","101/2019.1","Development
         Application","09/05/2019","178 Yambil St, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eProposed
-        Commercial Premises\u003c/b\u003e"],["010.2019.00000108.001","108/2019.1","Development
-        Application","14/05/2019","67 Druitt Rd, Lake Wyangan 2680 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        with attached garage\u003c/b\u003e"],["010.2019.00000085.001","85/2019.1","Development
+        Commercial Premises\u003c/b\u003e"],["010.2019.00000085.001","85/2019.1","Development
         Application","26/04/2019","314 Brogden Rd, Tharbogang 2680 NSW \u003cbr/\u003e316
         Brogden Rd, Tharbogang 2680 NSW \u003cbr/\u003e\u003cb\u003eNew Residential
-        Dwelling with attached garage\u003c/b\u003e"],["010.2019.00000105.001","105/2019.1","Development
-        Application","14/05/2019","8 Hardiman Wy, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eNew
-        Dwelling - Urban\u003c/b\u003e"],["010.2019.00000083.001","83/2019.1","Development
+        Dwelling with attached garage\u003c/b\u003e"],["010.2019.00000083.001","83/2019.1","Development
         Application","24/04/2019","11 Ulong St, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eCarport\u003c/b\u003e"],["012.2016.00000143.001","143/2016.1","Subdivision
         Certificate","18/04/2019","887 Overs Rd, Griffith 2680 NSW \u003cbr/\u003e892
         Watkins Av, Griffith 2680 NSW \u003cbr/\u003eWatkins Av, Griffith 2680 NSW
@@ -361,17 +382,13 @@ http_interactions:
         of awning at front of existing workshop and carpot type awning for cover over
         a hot works (welding) area\u003c/b\u003e"],["010.2019.00000088.001","88/2019.1","Development
         Application","01/05/2019","1 Suman Cl, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        with attached garage\u003c/b\u003e"],["010.2019.00000094.001","94/2019.1","Development
-        Application","07/05/2019","72 Gillmartin Dr, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eShed
-        \u0026 inground pool\u003c/b\u003e"],["010.2019.00000107.001","107/2019.1","Development
+        with attached garage\u003c/b\u003e"],["010.2019.00000107.001","107/2019.1","Development
         Application","14/05/2019","51 Tucker St, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eDwelling
         with attached garage\u003c/b\u003e"],["010.2019.00000092.001","92/2019.1","Development
         Application","03/05/2019","34 Wakley Rd, Yenda 2681 NSW \u003cbr/\u003e\u003cb\u003eExtension
         of existing warehouse and loading pad\u003c/b\u003e"],["010.2019.00000098.001","98/2019.1","Development
         Application","07/05/2019","13 West Av, Yenda 2681 NSW \u003cbr/\u003e\u003cb\u003eProposed
-        construction of community room\u003c/b\u003e"],["019.2017.00000130.002","130/2017.2","Building
-        \u0026 Subdivision C/C","23/04/2019","12 Lamari Dr, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        with attached garage\u003c/b\u003e"],["016.2019.00000532.001","532/2019.1","Complying
+        construction of community room\u003c/b\u003e"],["016.2019.00000532.001","532/2019.1","Complying
         Development Cert","22/04/2019","45 Tucker St, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eDwelling
         with attached garage\u003c/b\u003e"],["010.2019.00000096.001","96/2019.1","Development
         Application","07/05/2019","19 Lanza Gr, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eDwelling
@@ -382,11 +399,7 @@ http_interactions:
         with attached garage\u003c/b\u003e"],["010.2019.00000106.001","106/2019.1","Development
         Application","14/05/2019","98 Merrigal St, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eShed\u003c/b\u003e"],["010.2019.00000086.001","86/2019.1","Development
         Application","26/04/2019","57 Curran Rd, Yenda 2681 NSW \u003cbr/\u003e\u003cb\u003eDemolition
-        of existing dwelling and construction of new dwelling and swimming pool\u003c/b\u003e"],["018.2019.00000053.001","53/2019.1","Private
-        Certifier C/C","03/05/2019","37 Verri St, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        with attached garage\u003c/b\u003e"],["010.2019.00000100.001","100/2019.1","Development
-        Application","09/05/2019","30-32 Mirrool Av, Yenda 2681 NSW \u003cbr/\u003e\u003cb\u003eProposed
-        Service Station Rebranding \u0026 Pylon Sign\u003c/b\u003e"],["010.2019.00000097.001","97/2019.1","Development
+        of existing dwelling and construction of new dwelling and swimming pool\u003c/b\u003e"],["010.2019.00000097.001","97/2019.1","Development
         Application","07/05/2019","76 Murrumbidgee Av, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eNew
         Shed\u003c/b\u003e"],["010.2019.00000095.001","95/2019.1","Development Application","07/05/2019","51
         Tucker St, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eNew Domestic Shed\u003c/b\u003e"],["010.2019.00000090.001","90/2019.1","Development
@@ -408,9 +421,7 @@ http_interactions:
         Development Cert","06/05/2019","38 Tucker St, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eDwelling
         with attached garage\u003c/b\u003e"],["012.2018.00000258.001","258/2018.1","Subdivision
         Certificate","18/04/2019","15 Kooba St, Griffith 2680 NSW \u003cbr/\u003e6
-        The Circle, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eBoundary adjustment\u003c/b\u003e"],["010.2019.00000080.001","80/2019.1","Development
-        Application","16/04/2019","72 Gillmartin Dr, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        with attached garage\u003c/b\u003e"],["010.2018.00000254.002","254/2018.2","Modification
+        The Circle, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eBoundary adjustment\u003c/b\u003e"],["010.2018.00000254.002","254/2018.2","Modification
         of a DA","01/05/2019","34 Wakley Rd, Yenda 2681 NSW \u003cbr/\u003e\u003cb\u003eShed
         for use as distilling room\u003c/b\u003e"],["012.2016.00000160.001","160/2016.1","Subdivision
         Certificate","01/05/2019","313 Rankins Springs Rd, Beelbangera 2680 NSW \u003cbr/\u003e\u003cb\u003eThree
@@ -427,9 +438,7 @@ http_interactions:
         Subdivision C/C","26/04/2019","57 Curran Rd, Yenda 2681 NSW \u003cbr/\u003e\u003cb\u003eDemolition
         of existing Dwelling and Construction of new dwelling and Pool\u003c/b\u003e"],["016.2019.00000541.001","541/2019.1","Complying
         Development Cert","13/05/2019","8 Mallinson St, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eProposed
-        secondary dwelling and detached carport\u003c/b\u003e"],["010.2019.00000103.001","103/2019.1","Development
-        Application","13/05/2019","61 Messner St, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eAlterations
-        \u0026 additions to existing dwelling\u003c/b\u003e"],["013.2018.00000579.001","579/2018.1","Occupation
+        secondary dwelling and detached carport\u003c/b\u003e"],["013.2018.00000579.001","579/2018.1","Occupation
         Certificate","30/04/2019","5 Lanza Gr, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eDwelling
         with attached garage\u003c/b\u003e"],["016.2019.00000538.001","538/2019.1","Complying
         Development Cert","13/05/2019","44 Bowditch Pl, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eProposed
@@ -451,26 +460,19 @@ http_interactions:
         Certifier C/C","07/05/2019","34 Tucker St, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eShed\u003c/b\u003e"],["019.2019.00000062.001","62/2019.1","Building
         \u0026 Subdivision C/C","02/05/2019","263 Mallee Point Rd, Yenda 2681 NSW
         \u003cbr/\u003e\u003cb\u003eRural Shed for chemicals, pumps and machinery
-        associated with 400ML Da\u003c/b\u003e"],["019.2018.00000254.001","254/2018.1","Building
-        \u0026 Subdivision C/C","09/05/2019","34 Wakley Rd, Yenda 2681 NSW \u003cbr/\u003e\u003cb\u003eShed
-        for use as distilling room\u003c/b\u003e"],["018.2019.00000027.001","27/2019.1","Private
+        associated with 400ML Da\u003c/b\u003e"],["018.2019.00000027.001","27/2019.1","Private
         Certifier C/C","23/04/2019","69 Mcnabb Cr, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eShed\u003c/b\u003e"],["018.2018.00000067.001","67/2018.1","Private
         Certifier C/C","01/05/2019","24-26 Couch Rd, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eMulti-unit
         development\u003c/b\u003e"],["016.2019.00000529.001","529/2019.1","Complying
         Development Cert","16/04/2019","6 Gardiner Rd, Yoogali 2680 NSW \u003cbr/\u003e\u003cb\u003eSwimming
         Pool\u003c/b\u003e"],["016.2019.00000530.001","530/2019.1","Complying Development
         Cert","01/05/2019","5373 Irrigation Wy, Yoogali 2680 NSW \u003cbr/\u003e\u003cb\u003eSwimming
-        Pool\u003c/b\u003e"],["010.2013.00000016.002","16/2013.2","Modification of
-        a DA","08/05/2019","21 Oakes Rd, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eUse
+        Pool\u003c/b\u003e"],["012.2019.00000031.001","31/2019.1","Subdivision Certificate","08/05/2019","409
+        West Rd, Nericon 2680 NSW \u003cbr/\u003eZanotto Rd, Nericon 2680 NSW \u003cbr/\u003e\u003cb\u003eBoundary
+        Adjustment\u003c/b\u003e"],["017.2013.00000016.001","16/2013.1","Civil Works
+        Approval","08/05/2019","21 Oakes Rd, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eUse
         of an existing premises for the display, sale \u0026 servicing of trucks \u0026
-        agricultural machinery\u003c/b\u003e"],["012.2019.00000031.001","31/2019.1","Subdivision
-        Certificate","08/05/2019","409 West Rd, Nericon 2680 NSW \u003cbr/\u003eZanotto
-        Rd, Nericon 2680 NSW \u003cbr/\u003e\u003cb\u003eBoundary Adjustment\u003c/b\u003e"],["017.2013.00000016.001","16/2013.1","Civil
-        Works Approval","08/05/2019","21 Oakes Rd, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eUse
-        of an existing premises for the display, sale \u0026 servicing of trucks \u0026
-        agricultural machinery \u0026 equipment\u003c/b\u003e"],["019.2019.00000092.001","92/2019.1","Building
-        \u0026 Subdivision C/C","08/05/2019","34 Wakley Rd, Yenda 2681 NSW \u003cbr/\u003e\u003cb\u003eExtension
-        of warehouse and container loading pad\u003c/b\u003e"],["019.2019.00000029.001","29/2019.1","Building
+        agricultural machinery \u0026 equipment\u003c/b\u003e"],["019.2019.00000029.001","29/2019.1","Building
         \u0026 Subdivision C/C","06/05/2019","81 Kooyoo St, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eTimber
         deck \u0026 entrance ramp\u003c/b\u003e"],["013.2018.00000557.001","557/2018.1","Occupation
         Certificate","06/05/2019","41 Walla Av, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eDwelling
@@ -491,9 +493,7 @@ http_interactions:
         Rd, Griffith 2680 NSW \u003cbr/\u003eClifton Blvd, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eSubdivision
         Stages 4 \u0026 6\u003c/b\u003e"],["013.2012.00000175.002","175/2012.2","Occupation
         Certificate","23/04/2019","189 Ceccato Rd, Yoogali 2680 NSW \u003cbr/\u003e\u003cb\u003eConstruction
-        of an additional dwelling\u003c/b\u003e"],["019.2017.00000130.001","130/2017.1","Building
-        \u0026 Subdivision C/C","23/04/2019","4 Lanza Gr, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eDwelling
-        with attached garage\u003c/b\u003e"],["013.2018.00000043.001","43/2018.1","Occupation
+        of an additional dwelling\u003c/b\u003e"],["013.2018.00000043.001","43/2018.1","Occupation
         Certificate","23/04/2019","5 Harvest Ct, Yoogali 2680 NSW \u003cbr/\u003e\u003cb\u003eDwelling
         with attached garage\u003c/b\u003e"],["013.2015.00000522.001","522/2015.1","Occupation
         Certificate","15/04/2019","7 Langley Cr, Griffith 2680 NSW \u003cbr/\u003e\u003cb\u003eAttached

@@ -1,21 +1,23 @@
 ---
 - council_reference: 016-2009-00000257-012
   address: 70 Latitude Dr, Anna Bay 2316 NSW
-  description: S4.55 1(A) modification to approved caravan park (270 sites), managers
-    residence, community hall and associated facilities – reconfigure northern car
-    park including removal of office and provision of community work shed, update
-    site plan, amendments to internal roads and car parking, reconfigure five sites
-    and pocket park within stages 7 and 9, additional car parking, provision of community
-    garden and removal of manager residence.
+  description: S4.55 1(A) modification to approved caravan park (270 sites) S4.55
+    1(A) modification to approved caravan park (270 sites), managers residence, community
+    hall and associated facilities – reconfigure northern car park including removal
+    of office and provision of community work shed, update site plan, amendments to
+    internal roads and car parking, reconfigure five sites and pocket park within
+    stages 7 and 9, additional car parking, provision of community garden and removal
+    of manager residence.
   info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2009-00000257-012
   date_scraped: '2019-05-14'
   date_received: '2019-04-16'
 - council_reference: 016-2012-00000706-003
   address: 828 Paterson Rd, Woodville 2321 NSW
-  description: Section 4.55(1A) Application to approved landfill – Amend the shape
-    and size of land fill, remove condition Nos. 1, 3, 8, 11, 12, 17, 21A, 23 relating
-    to construction certificate requirements, swale and duplicate condition and modify
-    condition No. 20A to permit use of Excavated Natural Material
+  description: Section 4.55(1A) Application to approved landfill Section 4.55(1A)
+    Application to approved landfill – Amend the shape and size of land fill, remove
+    condition Nos. 1, 3, 8, 11, 12, 17, 21A, 23 relating to construction certificate
+    requirements, swale and duplicate condition and modify condition No. 20A to permit
+    use of Excavated Natural Material
   info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2012-00000706-003
   date_scraped: '2019-05-14'
   date_received: '2019-05-09'
@@ -45,8 +47,9 @@
   date_received: '2019-04-17'
 - council_reference: 016-2015-00000773-004
   address: 227 Old Main Rd, Anna Bay 2316 NSW
-  description: S4.55 (1) modification - Dual Occupancy (incorporating existing dwelling)
-    and Two Lot Torrens – Modify conditions relating to 227 Old Main Road, Anna Bay
+  description: S4.55 (1) modification - Dual Occupancy S4.55 (1) modification - Dual
+    Occupancy (incorporating existing dwelling) and Two Lot Torrens – Modify conditions
+    relating to 227 Old Main Road, Anna Bay
   info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2015-00000773-004
   date_scraped: '2019-05-14'
   date_received: '2019-05-10'
@@ -81,10 +84,10 @@
   date_received: '2019-04-16'
 - council_reference: 016-2017-00000306-003
   address: 220 Soldiers Point Rd, Salamander Bay 2317 NSW
-  description: S4.551(A) modification to approved subdivision (one into 19 lot Torrens
-    Title subdivision, including one residue lot, and new road) – amendments to condition
-    Nos.1, 2, 3, 13, 25, and 44 in order to facilitate the provision of a building
-    envelope on Lot 19.
+  description: S4.551(A) modification to approved subdivision S4.551(A) modification
+    to approved subdivision (one into 19 lot Torrens Title subdivision and new road)
+    – amendments to condition Nos.1, 2, 3, 13, 25, and 44 in order to facilitate the
+    provision of a building envelope on Lot 19.
   info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2017-00000306-003
   date_scraped: '2019-05-14'
   date_received: '2019-04-16'
@@ -125,8 +128,9 @@
 - council_reference: 016-2018-00000807-002
   address: 19 Kanangra Ave, Corlette 2315 NSW
   description: Section 4.55 (1) modification to approved strata title subdivision
-    (staged – four lots) – amendment to correct administrative error to include strata
-    development contract in approved documents.
+    Section 4.55 (1) modification to approved strata title subdivision (staged – four
+    lots) – amendment to correct administrative error to include strata development
+    contract in approved documents.
   info_url: http://datracker.portstephens.nsw.gov.au/Application/ApplicationDetails/016-2018-00000807-002
   date_scraped: '2019-05-14'
   date_received: '2019-04-18'

@@ -101,12 +101,6 @@
   info_url: https://datracker.singleton.nsw.gov.au:444/Application/ApplicationDetails/010.2019.00000079.001
   date_scraped: '2019-05-14'
   date_received: '2019-04-29'
-- council_reference: 10.2019.80.1
-  address: 411 Scotts Flat Rd, Scotts Flat 2330 NSW
-  description: Awning
-  info_url: https://datracker.singleton.nsw.gov.au:444/Application/ApplicationDetails/010.2019.00000080.001
-  date_scraped: '2019-05-14'
-  date_received: '2019-04-29'
 - council_reference: 10.2019.82.1
   address: 8 Lloyd Jones Dr, Singleton Heights 2330 NSW
   description: Shed
@@ -235,7 +229,8 @@
   date_received: '2019-05-09'
 - council_reference: 8.2004.769.4
   address: 66 Adams Peak Rd, Broke 2330 NSW
-  description: Removal of Farm Managers Residence from DA
+  description: Removal of Farm Managers Residence and Change of Use from Dwelling
+    to Farm Managers Residence
   info_url: https://datracker.singleton.nsw.gov.au:444/Application/ApplicationDetails/008.2004.00000769.004
   date_scraped: '2019-05-14'
   date_received: '2019-05-06'
@@ -314,7 +309,7 @@
   date_received: '2019-04-24'
 - council_reference: 8.2019.78.1
   address: 835 Mitchell Line Of Rd, Mount Thorley 2330 NSW
-  description: Electricity Generating Works
+  description: Electricity Generating Works (Solar)
   info_url: https://datracker.singleton.nsw.gov.au:444/Application/ApplicationDetails/008.2019.00000078.001
   date_scraped: '2019-05-14'
   date_received: '2019-04-29'
@@ -356,7 +351,7 @@
   date_received: '2019-05-06'
 - council_reference: 8.2019.85.1
   address: 12 Brooker Cl, Hunterview 2330 NSW
-  description: Shed
+  description: Shed ancillary to dwelling house
   info_url: https://datracker.singleton.nsw.gov.au:444/Application/ApplicationDetails/008.2019.00000085.001
   date_scraped: '2019-05-14'
   date_received: '2019-05-06'

@@ -310,7 +310,7 @@
   date_scraped: '2019-05-14'
   date_received: '2019-04-24'
 - council_reference: 10.2019.296.1
-  address: Octagonal Rise, Port Macquarie 2444 NSW
+  address: 1 Northerly Tce, Port Macquarie 2444 NSW
   description: Dual Occupancy and Strata Title Subdivision
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/010.2019.00000296.001
   date_scraped: '2019-05-14'
@@ -378,7 +378,8 @@
   date_received: '2019-04-30'
 - council_reference: 10.2019.307.1
   address: 20 Merrigal Rd, Port Macquarie 2444 NSW
-  description: Change of Use - Industry to Industrial Training Facility (Unit 1)
+  description: Change of Use - Recreation Facility (Indoor) to Industrial Training
+    Facility (Unit 1)
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/010.2019.00000307.001
   date_scraped: '2019-05-14'
   date_received: '2019-05-10'
@@ -419,7 +420,7 @@
   date_scraped: '2019-05-14'
   date_received: '2019-05-02'
 - council_reference: 10.2019.314.1
-  address: Bronzewing Tce, Lakewood 2443 NSW
+  address: 17 Bronzewing Tce, Lakewood 2443 NSW
   description: Dwelling and shed (Proposed Lot 107)
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/010.2019.00000314.001
   date_scraped: '2019-05-14'
@@ -474,7 +475,7 @@
   date_scraped: '2019-05-14'
   date_received: '2019-05-07'
 - council_reference: 10.2019.323.1
-  address: 44 Summer Cct, Lake Cathie 2445 NSW
+  address: 44A Summer Cct, Lake Cathie 2445 NSW
   description: Dwelling and Secondary Dwelling
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/010.2019.00000323.001
   date_scraped: '2019-05-14'
@@ -487,7 +488,7 @@
   date_received: '2019-05-07'
 - council_reference: 10.2019.325.1
   address: 1 Bolwarra Rd, Port Macquarie 2444 NSW
-  description: Change of Use - Cafe (Unit 9)
+  description: Change of Use - Food and Drink Premises (Unit 9)
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/010.2019.00000325.001
   date_scraped: '2019-05-14'
   date_received: '2019-05-07'
@@ -505,7 +506,7 @@
   date_received: '2019-05-07'
 - council_reference: 10.2019.328.1
   address: 6 Pandamus Cl, Port Macquarie 2444 NSW
-  description: Alterations and Additions to Dwelling
+  description: Awning Over Existing Deck
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/010.2019.00000328.001
   date_scraped: '2019-05-14'
   date_received: '2019-05-08'
@@ -527,6 +528,12 @@
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/010.2019.00000332.001
   date_scraped: '2019-05-14'
   date_received: '2019-05-08'
+- council_reference: 10.2019.333.1
+  address: 820 Pembrooke Rd, Pembrooke 2446 NSW
+  description: Dual Occupancy (Attached)
+  info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/010.2019.00000333.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-09'
 - council_reference: 10.2019.335.1
   address: 15 Garden Cr, Port Macquarie 2444 NSW
   description: Alterations and Additions to Aged Care Facility
@@ -547,19 +554,19 @@
   date_received: '2019-05-13'
 - council_reference: 10.2019.339.1
   address: 1 Laguna Pl, Port Macquarie 2444 NSW
-  description: Mooring Pylons
+  description: WITHDRAWAL Mooring Pylons
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/010.2019.00000339.001
   date_scraped: '2019-05-14'
   date_received: '2019-05-13'
 - council_reference: 10.2019.340.1
   address: 128 Diamond Head Rd, Dunbogan 2443 NSW
-  description: Environmental Protection Work
+  description: Environmental Protection Work including Boardwalk and Bird Hide
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/010.2019.00000340.001
   date_scraped: '2019-05-14'
   date_received: '2019-05-14'
 - council_reference: 10.2019.341.1
   address: Homedale Rd, Kew 2439 NSW
-  description: Residential Subdivision
+  description: Four(4) Lot Residential Subdivision
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/010.2019.00000341.001
   date_scraped: '2019-05-14'
   date_received: '2019-05-14'
@@ -582,6 +589,14 @@
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/011.2014.00000943.001
   date_scraped: '2019-05-14'
   date_received: '2019-04-16'
+- council_reference: 11.2015.600.4
+  address: 18 John Oxley Dr, Port Macquarie 2444 NSW
+  description: Stage 4 - Bulky Goods Premises and Hardware and Building Supplies (Modification
+    to tenancy layout in the showroom building and excludes all elements approved
+    under previous certificates)
+  info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/011.2015.00000600.004
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-17'
 - council_reference: 11.2015.720.2
   address: 1061 Oxley Hwy, Thrumster 2444 NSW
   description: Stage 3a - BP Service Station Re-development
@@ -601,6 +616,19 @@
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/011.2016.00000524.001
   date_scraped: '2019-05-14'
   date_received: '2019-05-08'
+- council_reference: 11.2016.700.2
+  address: 743 Ocean Dr, Grants Beach 2445 NSW
+  description: Additions to Tourist Accommodation
+  info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/011.2016.00000700.002
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-18'
+- council_reference: 11.2017.714.1
+  address: 23 Quandong Pl, Kew 2439 NSW
+  description: Multi Dwelling Housing with Attached Garages and Retaining Walls (7
+    Dwellings)
+  info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/011.2017.00000714.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-05-07'
 - council_reference: 11.2017.833.1
   address: 15 Production Dr, Wauchope 2446 NSW
   description: Industrial Building, Storage Shed, Workshop & Wash Bay
@@ -843,7 +871,7 @@
   date_received: '2019-05-07'
 - council_reference: 11.2019.328.1
   address: 6 Pandamus Cl, Port Macquarie 2444 NSW
-  description: Alterations and Additions to Dwelling
+  description: Awning Over Existing Deck
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/011.2019.00000328.001
   date_scraped: '2019-05-14'
   date_received: '2019-05-08'
@@ -879,7 +907,7 @@
   date_received: '2019-05-10'
 - council_reference: 11.2019.339.1
   address: 1 Laguna Pl, Port Macquarie 2444 NSW
-  description: Mooring Pylons
+  description: WITHDRAWAL Mooring Pylons
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/011.2019.00000339.001
   date_scraped: '2019-05-14'
   date_received: '2019-05-13'
@@ -1199,12 +1227,6 @@
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/012.2018.00007236.001
   date_scraped: '2019-05-14'
   date_received: '2019-04-16'
-- council_reference: 12.2018.7274.1
-  address: 19 Gunsynd Ch, Port Macquarie 2444 NSW
-  description: New Construction of Dwelling - 1 Storey
-  info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/012.2018.00007274.001
-  date_scraped: '2019-05-14'
-  date_received: '2019-05-08'
 - council_reference: 12.2018.7280.1
   address: 15 Tarragon Dr, Yippin Creek 2446 NSW
   description: Dwelling and Attached Garage
@@ -1430,7 +1452,7 @@
   date_received: '2019-05-10'
 - council_reference: 12.2019.339.1
   address: 1 Laguna Pl, Port Macquarie 2444 NSW
-  description: Mooring Pylons
+  description: WITHDRAWN Mooring Pylons
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/012.2019.00000339.001
   date_scraped: '2019-05-14'
   date_received: '2019-05-13'
@@ -1524,6 +1546,12 @@
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/012.2019.00007127.001
   date_scraped: '2019-05-14'
   date_received: '2019-05-13'
+- council_reference: 12.2019.7136.1
+  address: 77 Solomon Dr, Lake Cathie 2445 NSW
+  description: Dwelling with Attached Garage
+  info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/012.2019.00007136.001
+  date_scraped: '2019-05-14'
+  date_received: '2019-04-24'
 - council_reference: 13.1991.494.6
   address: Ericson Pl, Port Macquarie 2444 NSW
   description: Resigning of Subdivision Plan
@@ -1798,7 +1826,7 @@
   date_received: '2019-04-17'
 - council_reference: 21.2019.44.1
   address: 23 Waugh St, Wauchope 2446 NSW
-  description: to be defined
+  description: Single Storey Dwelling, Sheds and Inground Swimming Pool
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/021.2019.00000044.001
   date_scraped: '2019-05-14'
   date_received: '2019-04-18'
@@ -1810,13 +1838,13 @@
   date_received: '2019-04-29'
 - council_reference: 21.2019.46.1
   address: 72 Clarence St, Port Macquarie 2444 NSW
-  description: Restruant Interior
+  description: Restaurant Interior
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/021.2019.00000046.001
   date_scraped: '2019-05-14'
   date_received: '2019-04-29'
 - council_reference: 21.2019.47.1
   address: 20 Amaroo Pde, Port Macquarie 2444 NSW
-  description: to be defined
+  description: Rear Deck/Awning Structure
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/021.2019.00000047.001
   date_scraped: '2019-05-14'
   date_received: '2019-04-30'
@@ -1841,7 +1869,8 @@
 - council_reference: 680.2015.5110.58
   address: 11 Resort Rd, Kew 2439 NSW
   description: Laurieton Residential Resort manufactures Homes Sites - Lots 242, 260,
-    263, 278, 262, 261, 279, 280, 281, 297, 298, 299, 296, 282, 295, 300, 283, 294
+    260, 263, 278, 262, 261, 279, 280, 281, 297, 298, 299, 296, 282, 295, 300, 283,
+    294
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/680.2015.00005110.058
   date_scraped: '2019-05-14'
   date_received: '2019-05-07'
@@ -1865,7 +1894,7 @@
   date_scraped: '2019-05-14'
   date_received: '2019-04-29'
 - council_reference: 680.2017.987.1
-  address: 21 Ocean Dr, Port Macquarie 2444 NSW
+  address: 1/35 Table St, Port Macquarie 2444 NSW
   description: Residential Flat Building
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/680.2017.00000987.001
   date_scraped: '2019-05-14'
@@ -2073,7 +2102,7 @@
   date_scraped: '2019-05-14'
   date_received: '2019-05-07'
 - council_reference: 680.2019.323.1
-  address: 44 Summer Cct, Lake Cathie 2445 NSW
+  address: 44A Summer Cct, Lake Cathie 2445 NSW
   description: Dwelling and Secondary Dwelling
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/680.2019.00000323.001
   date_scraped: '2019-05-14'
@@ -2115,7 +2144,7 @@
   date_scraped: '2019-05-14'
   date_received: '2019-05-08'
 - council_reference: 680.2019.333.1
-  address: 822 Pembrooke Rd, Pembrooke 2446 NSW
+  address: 820 Pembrooke Rd, Pembrooke 2446 NSW
   description: Dual Occupancy (Attached) Serviced by 2 x New Septic Tanks and 4 x
     Absorption Trenches
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/680.2019.00000333.001
@@ -2153,7 +2182,7 @@
   date_scraped: '2019-05-14'
   date_received: '2019-04-26'
 - council_reference: 680.2019.5058.1
-  address: Sancrox Rd, Sancrox 2446 NSW
+  address: 38 Orontes Cl, Sancrox 2446 NSW
   description: New Office, Workshop, Warehouse/Storage & Hard Standing
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/680.2019.00005058.001
   date_scraped: '2019-05-14'
@@ -2305,7 +2334,7 @@
   date_scraped: '2019-05-14'
   date_received: '2019-05-03'
 - council_reference: 710.2019.323.1
-  address: 44 Summer Cct, Lake Cathie 2445 NSW
+  address: 44A Summer Cct, Lake Cathie 2445 NSW
   description: Driveway Crossover
   info_url: https://datracker.pmhc.nsw.gov.au/Application/ApplicationDetails/710.2019.00000323.001
   date_scraped: '2019-05-14'

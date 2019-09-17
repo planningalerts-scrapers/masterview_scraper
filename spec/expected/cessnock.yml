@@ -51,7 +51,7 @@
   date_received: '2019-05-09'
 - council_reference: 10/2018/701/2
   address: 9 Dudley St, Cessnock 2325 NSW
-  description: Section 4.55(1A) Modification to Show Deck as Enclosed
+  description: Enclosed Deck
   info_url: http://datracker.cessnock.nsw.gov.au/Application/ApplicationDetails/010/2018/00000701/002
   date_scraped: '2019-05-14'
   date_received: '2019-05-02'
@@ -1439,10 +1439,7 @@
   date_received: '2019-04-30'
 - council_reference: 8/2018/701/2
   address: 9 Dudley St, Cessnock 2325 NSW
-  description: Section 4.55 (1A) Application proposing to modify Development Consent
-    No. 8/2018/701/1 which Granted Approval for Alterations and Additions to Children’s
-    Centre Comprising of a New Deck to the Rear of Building. Application seeks to
-    enclose the proposed deck.
+  description: Alterations to approved deck to enclose area
   info_url: http://datracker.cessnock.nsw.gov.au/Application/ApplicationDetails/008/2018/00000701/002
   date_scraped: '2019-05-14'
   date_received: '2019-05-02'
@@ -1580,7 +1577,7 @@
   date_received: '2019-04-18'
 - council_reference: 8/2019/259/1
   address: 52 Clare St, Cessnock 2325 NSW
-  description: Dwelling and Associated Retaining Wall
+  description: Two Storey Dwelling & Associated Retaining Wall
   info_url: http://datracker.cessnock.nsw.gov.au/Application/ApplicationDetails/008/2019/00000259/001
   date_scraped: '2019-05-14'
   date_received: '2019-04-26'
