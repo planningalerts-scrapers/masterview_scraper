@@ -159,7 +159,8 @@ module MasterviewScraper
     },
     cessnock: {
       url: "http://datracker.cessnock.nsw.gov.au",
-      use_api: true
+      use_api: true,
+      force_detail: true
     },
     griffith: {
       url: "https://datracking.griffith.nsw.gov.au",
@@ -175,13 +176,15 @@ module MasterviewScraper
     },
     port_macquarie_hastings: {
       url: "https://datracker.pmhc.nsw.gov.au",
-      use_api: true
+      use_api: true,
+      force_detail: true
     },
     port_stephens: {
       url: "http://datracker.portstephens.nsw.gov.au",
       use_api: true,
       long_council_reference: true,
-      types: [16, 9, 25]
+      types: [16, 9, 25],
+      force_detail: true
     },
     singleton: {
       url: "https://datracker.singleton.nsw.gov.au:444",
