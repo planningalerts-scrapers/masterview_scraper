@@ -28,7 +28,8 @@ module MasterviewScraper
     },
     gympie: {
       url: "https://daonline.gympie.qld.gov.au",
-      use_api: true
+      use_api: true,
+      force_detail: true
     },
     gladstone: {
       url: "http://masterview.gladstonerc.qld.gov.au/Modules/ApplicationMaster",
