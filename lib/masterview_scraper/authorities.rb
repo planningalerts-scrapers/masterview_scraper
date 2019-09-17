@@ -154,7 +154,8 @@ module MasterviewScraper
     },
     bogan: {
       url: "http://datracker.bogan.nsw.gov.au:81",
-      use_api: true
+      use_api: true,
+      force_detail: true
     },
     cessnock: {
       url: "http://datracker.cessnock.nsw.gov.au",
