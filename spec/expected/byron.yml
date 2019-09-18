@@ -219,7 +219,8 @@
   date_received: '2019-04-18'
 - council_reference: 10.2019.198.1
   address: 1 North Head Rd, New Brighton 2483 NSW
-  description: Boundary Adjustment Two (2) Lots
+  description: Subdivision of land that is a boundary adjustment between Two (2) existing
+    Lots
   info_url: https://datracker.byron.nsw.gov.au/MasterViewUI-External/Application/ApplicationDetails/010.2019.00000198.001
   date_scraped: '2019-05-14'
   date_received: '2019-04-18'
@@ -299,7 +300,7 @@
   date_received: '2019-04-26'
 - council_reference: 10.2019.212.1
   address: 122 Myocum Downs Drv, Myocum 2482 NSW
-  description: Construction of New Dwelling to Create Dual Occupancy (Detached)
+  description: New Dwelling to Create Dual Occupancy (Detached)
   info_url: https://datracker.byron.nsw.gov.au/MasterViewUI-External/Application/ApplicationDetails/010.2019.00000212.001
   date_scraped: '2019-05-14'
   date_received: '2019-04-26'
@@ -369,7 +370,8 @@
   date_received: '2019-04-30'
 - council_reference: 10.2019.225.1
   address: 567 Lismore Rd, Nashua 2479 NSW
-  description: New Dwelling to Create Dual Occupancy (Detached)
+  description: New dwelling house to create dual occupancy (detached) and swimming
+    pool
   info_url: https://datracker.byron.nsw.gov.au/MasterViewUI-External/Application/ApplicationDetails/010.2019.00000225.001
   date_scraped: '2019-05-14'
   date_received: '2019-04-30'
@@ -424,7 +426,8 @@
   date_received: '2019-05-07'
 - council_reference: 10.2019.234.1
   address: 80 Tallowood Rd, Possum Creek 2479 NSW
-  description: Dwelling House, Secondary Dwelling, Studio, Office, Carport and Shed
+  description: 'Stage 1: Dwelling house, swimming pool and shed, Stage 2 Secondary
+    dwelling and machinery shed, Stage 3: Carport and design studio'
   info_url: https://datracker.byron.nsw.gov.au/MasterViewUI-External/Application/ApplicationDetails/010.2019.00000234.001
   date_scraped: '2019-05-14'
   date_received: '2019-05-07'
@@ -487,14 +490,16 @@
   date_received: '2019-05-09'
 - council_reference: 10.2019.244.1
   address: 8 Pacific Esp, South Golden Beach 2483 NSW
-  description: Alterations and Additions to Existing Dwelling House and Garage
+  description: 'Alterations and Additions to Existing Dwelling-House including Stage
+    1: Conversion of Loft above Detached Garage to Master Bedroom and Stage 2: Alterations
+    to Main Building of Dwelling-House'
   info_url: https://datracker.byron.nsw.gov.au/MasterViewUI-External/Application/ApplicationDetails/010.2019.00000244.001
   date_scraped: '2019-05-14'
   date_received: '2019-05-10'
 - council_reference: 10.2019.245.1
   address: 1859 Hinterland Way, Ewingsdale 2481 NSW
-  description: Two (2) Lot Subdivision, Siting of Future Building Envelope and Ancillary
-    Works
+  description: Two (2) Lot Subdivision, of two (2) existing lots, Siting of Future
+    Building Envelope and Ancillary Works
   info_url: https://datracker.byron.nsw.gov.au/MasterViewUI-External/Application/ApplicationDetails/010.2019.00000245.001
   date_scraped: '2019-05-14'
   date_received: '2019-05-10'
@@ -507,7 +512,7 @@
 - council_reference: 10.2019.247.1
   address: 5 Comet Cl, Byron Bay 2481 NSW
   description: Use of Alterations and Additions to Existing Dual Occupancy Dwelling
-    and Addition of Replacement Car Parking Space
+    (Conversion of Garage to Bedroom), and New Car Parking.
   info_url: https://datracker.byron.nsw.gov.au/MasterViewUI-External/Application/ApplicationDetails/010.2019.00000247.001
   date_scraped: '2019-05-14'
   date_received: '2019-05-10'
@@ -544,7 +549,7 @@
   date_received: '2019-05-13'
 - council_reference: 10.2019.253.1
   address: 69 Brushbox Drv, Mullumbimby Creek 2482 NSW
-  description: Shed
+  description: New Shed
   info_url: https://datracker.byron.nsw.gov.au/MasterViewUI-External/Application/ApplicationDetails/010.2019.00000253.001
   date_scraped: '2019-05-14'
   date_received: '2019-05-14'
