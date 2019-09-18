@@ -151,7 +151,8 @@ module MasterviewScraper
     },
     albury: {
       url: "https://eservice.alburycity.nsw.gov.au/ApplicationTracker",
-      use_api: true
+      use_api: true,
+      force_detail: true
     },
     bogan: {
       url: "http://datracker.bogan.nsw.gov.au:81",

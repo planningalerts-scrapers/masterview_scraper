@@ -58,9 +58,13 @@ module MasterviewScraper
         properties = page.at("#properties").next_element
         details = page.at("#details").next_element
         date_received = details.at("td:contains('Submitted Date:')").next_element.inner_text.strip
+        description = details.at("td:contains('Description:')").next_element.inner_text
+        application_type = details.at("td:contains('Application Type:')").next_element.inner_text
+        # If description is empty use application type instead
+        description = application_type if description == ""
         {
           address: properties.inner_text.strip.split("(")[0].strip,
-          description: details.at("td:contains('Description:')").next_element.inner_text,
+          description: description,
           date_received: Date.strptime(date_received, "%d/%m/%Y").to_s
           # TODO: Reinstate this code when all authorities are scraping the detail page
           # date_decision: (Date.strptime(date_decision, "%d/%m/%Y").to_s if date_decision),
