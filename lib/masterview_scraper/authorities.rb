@@ -196,7 +196,8 @@ module MasterviewScraper
     byron: {
       url: "https://datracker.byron.nsw.gov.au/MasterViewUI-External",
       use_api: true,
-      page_size: 10
+      page_size: 10,
+      force_detail: true
     },
     camden: {
       url: "https://planning.camden.nsw.gov.au",

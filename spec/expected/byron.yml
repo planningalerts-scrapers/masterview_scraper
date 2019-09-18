@@ -621,7 +621,7 @@
   date_received: '2019-04-18'
 - council_reference: 11.2017.687.2
   address: 39 Julian Rocks Drv, Byron Bay 2481 NSW
-  description: 'Stage 3: Pool'
+  description: 'Stage 3:  Pool'
   info_url: https://datracker.byron.nsw.gov.au/MasterViewUI-External/Application/ApplicationDetails/011.2017.00000687.002
   date_scraped: '2019-05-14'
   date_received: '2019-05-09'
@@ -646,7 +646,7 @@
   date_received: '2019-04-15'
 - council_reference: 11.2017.79.3
   address: 2 Bower St, Brunswick Heads 2483 NSW
-  description: 'Amedndment for Minor Changes to Dwelling: Door to Garage, Roof Design
+  description: 'Amedndment for Minor Changes to Dwelling:  Door to Garage, Roof Design
     to Ensuite, Change from Steel to Timber Posts'
   info_url: https://datracker.byron.nsw.gov.au/MasterViewUI-External/Application/ApplicationDetails/011.2017.00000079.003
   date_scraped: '2019-05-14'
