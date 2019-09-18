@@ -86,10 +86,10 @@ module MasterviewScraper
         yield(
           {
             "council_reference" => record["council_reference"],
-            "info_url" => record["info_url"],
-            "date_scraped" => Date.today.to_s,
             "address" => detail[:address],
             "description" => detail[:description],
+            "info_url" => record["info_url"],
+            "date_scraped" => Date.today.to_s,
             "date_received" => detail[:date_received]
             # Comment the extra data out until we have moved over every authority over
             # to using the detail page
