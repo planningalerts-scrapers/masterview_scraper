@@ -190,7 +190,8 @@ module MasterviewScraper
     },
     singleton: {
       url: "https://datracker.singleton.nsw.gov.au:444",
-      use_api: true
+      use_api: true,
+      force_detail: true
     },
     byron: {
       url: "https://datracker.byron.nsw.gov.au/MasterViewUI-External",

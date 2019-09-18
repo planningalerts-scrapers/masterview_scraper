@@ -5,7 +5,10 @@ module MasterviewScraper
     # A page with (hopefully) all the details for an application
     module Detail
       def self.scrape(page)
-        if page.at("#details")
+        if page.at(".alert")&.inner_text&.strip ==
+           "Sorry the application is not available. Please contact council for further details."
+          nil
+        elsif page.at("#details")
           scrape_new_version(page)
         else
           scrape_old_version(page)
