@@ -20,42 +20,6 @@
   info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2016.00000284.002
   date_scraped: '2019-05-14'
   date_received: '2019-04-23'
-- council_reference: CC/2017/1305/18
-  address: Gledswood Hills Dr, Gledswood Hills 2557 NSW
-  description: Proposed Lot 6 Lambert Way
-  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2017.00001305.018
-  date_scraped: '2019-05-14'
-  date_received: '2019-04-16'
-- council_reference: CC/2017/1305/19
-  address: Gledswood Hills Dr, Gledswood Hills 2557 NSW
-  description: Proposed lot 8 Lambert Way
-  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2017.00001305.019
-  date_scraped: '2019-05-14'
-  date_received: '2019-04-16'
-- council_reference: CC/2017/1305/20
-  address: Gledswood Hills Dr, Gledswood Hills 2557 NSW
-  description: Proposed Lot 9 Lambert Way
-  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2017.00001305.020
-  date_scraped: '2019-05-14'
-  date_received: '2019-04-16'
-- council_reference: CC/2017/1305/21
-  address: Gledswood Hills Dr, Gledswood Hills 2557 NSW
-  description: Proposed Lot 11 Lambert Way
-  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2017.00001305.021
-  date_scraped: '2019-05-14'
-  date_received: '2019-04-16'
-- council_reference: CC/2017/1305/22
-  address: Gledswood Hills Dr, Gledswood Hills 2557 NSW
-  description: Proposed Lot 12 lambert Way
-  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2017.00001305.022
-  date_scraped: '2019-05-14'
-  date_received: '2019-04-16'
-- council_reference: CC/2017/1305/23
-  address: Gledswood Hills Dr, Gledswood Hills 2557 NSW
-  description: CC for Proposed Lot 10 Lambert Way Double Story Dwelling
-  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/011.2017.00001305.023
-  date_scraped: '2019-05-14'
-  date_received: '2019-05-06'
 - council_reference: CC/2017/1310/1
   address: 42A Bluett Dr, Smeaton Grange 2567 NSW
   description: Construction and use of industrial building as a data centre, including
@@ -534,7 +498,7 @@
   date_received: '2019-04-15'
 - council_reference: CDC/2019/580/1
   address: 33 Village Cct, Gregory Hills 2557 NSW
-  description: New Commercial - Shop Fitout for T105 Sushi Train
+  description: New Commercial - Shop Fitout for T105 Sushi  Train
   info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000580.001
   date_scraped: '2019-05-14'
   date_received: '2019-04-16'
@@ -805,7 +769,7 @@
   date_scraped: '2019-05-14'
   date_received: '2019-04-29'
 - council_reference: CDC/2019/623/1
-  address: 90 Evergreen Dr, Oran Park 2570 NSW
+  address: 90A Evergreen Dr, Oran Park 2570 NSW
   description: New Principal Dwelling / Secondary Dwelling
   info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/012.2019.00000623.001
   date_scraped: '2019-05-14'
@@ -1460,7 +1424,7 @@
   date_received: '2019-04-26'
 - council_reference: DA/2019/324/1
   address: 3 Elyard St, Narellan 2567 NSW
-  description: Construction of five residential flat buiildings with 2, 3 and 4 storeys
+  description: Construction of five residential flat buildings with 2, 3 and 4 storeys
     comprising a total of 100 units with strata title subdivision, basement carparking,
     private roads, earthworks, landscaping and other associated works
   info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000324.001
@@ -1651,7 +1615,7 @@
 - council_reference: DA/2019/355/1
   address: 65 Jennings Cr, Spring Farm 2570 NSW
   description: New Dwelling - Single Storey and New Retaining Wall - Proposed Lot
-    7109 - DP unknown
+    7109 -  DP unknown
   info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000355.001
   date_scraped: '2019-05-14'
   date_received: '2019-05-07'
@@ -1742,7 +1706,7 @@
   date_received: '2019-05-10'
 - council_reference: DA/2019/370/1
   address: 73 Providence Dr, Gledswood Hills 2557 NSW
-  description: New Dwelling - Single Storey - Proposed lot 304 Channon St
+  description: New Dwelling - Single Storey -  Proposed lot 304 Channon St
   info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/010.2019.00000370.001
   date_scraped: '2019-05-14'
   date_received: '2019-05-10'
@@ -1905,7 +1869,7 @@
   date_received: '2019-04-24'
 - council_reference: EngCC/2018/475/1
   address: 101C Raby Rd, Leppington 2179 NSW
-  description: Upgrade to St Andrews Road as approved under DA/2018/475/1 Torrens
+  description: Upgrade to St Andrews Road as approved  under DA/2018/475/1 Torrens
     title subdivision to create 313 residential and residue lots and upgrade of St
     Andrews Road and associated site works
   info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/016.2018.00000475.001
@@ -3593,12 +3557,6 @@
   info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2019.00000109.001
   date_scraped: '2019-05-14'
   date_received: '2019-04-18'
-- council_reference: OC/2019/123/1
-  address: 69 Richards Lp, Oran Park 2570 NSW
-  description: DATA ENTRY ERROR - DO NOT USE
-  info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2019.00000123.001
-  date_scraped: '2019-05-14'
-  date_received: '2019-04-17'
 - council_reference: OC/2019/170/1
   address: 80 Hartley Rd, Smeaton Grange 2567 NSW
   description: Internal and external additions commercial building
@@ -3633,7 +3591,7 @@
   date_received: '2019-05-03'
 - council_reference: OC/2019/415/1
   address: 33 Village Cct, Gregory Hills 2557 NSW
-  description: New Commercial - Tenancy Fitout of Shop (T113) House of Barbers
+  description: New Commercial - Tenancy Fitout of Shop (T113)  House of Barbers
   info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/013.2019.00000415.001
   date_scraped: '2019-05-14'
   date_received: '2019-04-30'
@@ -3849,8 +3807,7 @@
   date_received: '2019-05-07'
 - council_reference: SC/2015/902/5
   address: 14 Gibbs Cr, Catherine Field 2557 NSW
-  description: Subdivision certificate for stage 4C Catherine Field Creating Lot 4301
-    - Public reserve Lot 4302 & 4303 residue lots
+  description: Stage 4C - Creation of Public Reserve Lot
   info_url: https://planning.camden.nsw.gov.au/Application/ApplicationDetails/014.2015.00000902.005
   date_scraped: '2019-05-14'
   date_received: '2019-04-30'

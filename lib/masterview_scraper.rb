@@ -38,6 +38,7 @@ module MasterviewScraper
     # as a stepping stone to adding "decision" and "decision date" which is only
     # available on the detail page
     force_detail: false,
+    timeout: nil,
     types: nil,
     # page_size only applies when use_api is true at the moment
     page_size: 100
@@ -49,7 +50,8 @@ module MasterviewScraper
         long_council_reference,
         types,
         force_detail,
-        page_size,
+        timeout,
+        page_size
       ) do |record|
         yield record
       end
@@ -64,10 +66,14 @@ module MasterviewScraper
 
   def self.scrape_api_period(
     url, disable_ssl_certificate_check, long_council_reference, types,
-    force_detail, page_size = 100
+    force_detail, timeout, page_size = 100
   )
     agent = Mechanize.new
     agent.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
+    if timeout
+      agent.open_timeout = timeout
+      agent.read_timeout = timeout
+    end
 
     page = agent.get(url + "/")
 
@@ -81,7 +87,15 @@ module MasterviewScraper
       page_size: page_size
     ) do |record|
       if force_detail
-        page = agent.get(record["info_url"])
+        page = begin
+                 agent.get(record["info_url"])
+               rescue Mechanize::ResponseCodeError
+                 nil
+               end
+        if page.nil?
+          puts "PROBLEM LOADING PAGE #{record['info_url']}"
+          next
+        end
         detail = Pages::Detail.scrape(page)
         # If the detail page is missing just skip this application
         if detail
