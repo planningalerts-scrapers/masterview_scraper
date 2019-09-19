@@ -166,7 +166,13 @@ module MasterviewScraper
             puts "WARNING: Skipping application because of server problem"
             next
           end
-          record = Pages::Detail.scrape(info_page)
+          detail = Pages::Detail.scrape(info_page)
+          record[:info_url] = detail[:info_url]
+          # Use the council_reference from the index page whenever we can
+          record[:council_reference] = detail[:council_reference] if record[:council_reference].nil?
+          record[:date_received] = detail[:date_received]
+          record[:description] = detail[:description]
+          record[:address] = detail[:address]
         end
 
         record[:address] += ", " + state if state

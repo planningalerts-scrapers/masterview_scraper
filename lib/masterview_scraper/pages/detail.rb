@@ -30,7 +30,7 @@ module MasterviewScraper
 
         {
           council_reference: council_reference.inner_text.split(" ")[0],
-          address: address.inner_text.strip.split("\n")[0].strip,
+          address: address.inner_text.strip.split("\n")[0].strip.gsub("\r", " ").squeeze(" "),
           description: description,
           info_url: page.uri.to_s,
           date_received: Date.strptime(date_received, "%d/%m/%Y").to_s

@@ -36,7 +36,9 @@ module MasterviewScraper
       params: {
         "4" => "DevelopApp",
         "6" => "F"
-      }
+      },
+      force_detail: true,
+      timeout: 120
     },
     bellingen: {
       url: "http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster",
