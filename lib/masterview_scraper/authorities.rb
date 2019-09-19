@@ -45,7 +45,8 @@ module MasterviewScraper
       params: {
         "4a" => "DA,CDC,TA,MD",
         "6" => "F"
-      }
+      },
+      force_detail: true
     },
     brisbane: {
       url: "https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster",
