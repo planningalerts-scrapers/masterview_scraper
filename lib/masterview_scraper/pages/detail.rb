@@ -22,22 +22,28 @@ module MasterviewScraper
                   page.at("#lblProp") ||
                   page.at("#lblprop") ||
                   page.at("#lblProperties")
-        details = page.at("#lblDetails").inner_html.split("<br>").map do |detail|
+        details_block = page.at("#lblDetails") || page.at("#lblDetail")
+        details = details_block.inner_html.split("<br>").map do |detail|
           Pages::Index.strip_html(detail).strip
         end
 
         descriptions = []
+        date_received = nil
         details.each do |detail|
           if detail =~ /^Description: (.*)/ || detail =~ /Activity:(.*)/
             description = Regexp.last_match(1).squeeze(" ").strip
             descriptions << description if description != ""
+          elsif detail =~ /^Submitted: (.*)/
+            date_received = Regexp.last_match(1)
+          elsif detail =~ /Determination Description:/ ||
+                detail =~ /Assessment Level:/ ||
+                detail =~ /Permit:/
+            # Do nothing
+          else
+            raise "Unexpected detail line: #{detail}"
           end
         end
         description = descriptions.join(", ")
-
-        if details[1].match(/^Submitted: (.*)/)
-          date_received = Regexp.last_match(1)
-        end
 
         {
           council_reference: (council_reference.inner_text.split(" ")[0] if council_reference),
