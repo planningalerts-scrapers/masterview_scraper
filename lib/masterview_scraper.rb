@@ -57,7 +57,11 @@ module MasterviewScraper
       end
     else
       scrape_url(
-        url_last_n_days(url, 30, params), state, disable_ssl_certificate_check
+        url_last_n_days(url, 30, params),
+        state,
+        disable_ssl_certificate_check,
+        force_detail,
+        timeout
       ) do |record|
         yield record
       end
@@ -121,9 +125,14 @@ module MasterviewScraper
   end
 
   # Set state if the address does not already include the state (e.g. NSW, WA, etc..)
-  def self.scrape_url(url, state = nil, disable_ssl_certificate_check = false)
+  def self.scrape_url(url, state = nil, disable_ssl_certificate_check = false, force_detail = false,
+                      timeout = nil)
     agent = Mechanize.new
     agent.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
+    if timeout
+      agent.open_timeout = timeout
+      agent.read_timeout = timeout
+    end
 
     # Read in a page
     page = agent.get(url)
@@ -141,7 +150,8 @@ module MasterviewScraper
       Pages::Index.scrape(page) do |record|
         # If index page doesn't have enough information then we need
         # to scrape the detail page
-        if record[:info_url].nil? ||
+        if force_detail ||
+           record[:info_url].nil? ||
            record[:council_reference].nil? ||
            record[:date_received].nil? ||
            record[:description].nil? ||
