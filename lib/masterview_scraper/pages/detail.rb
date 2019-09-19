@@ -20,20 +20,31 @@ module MasterviewScraper
                             page.at("#ctl00_cphContent_ctl00_lblApplicationHeader")
         address = page.at("#lblLand") ||
                   page.at("#lblProp") ||
-                  page.at("#lblprop")
+                  page.at("#lblprop") ||
+                  page.at("#lblProperties")
         details = page.at("#lblDetails").inner_html.split("<br>").map do |detail|
           Pages::Index.strip_html(detail).strip
         end
 
-        description = details[0].match(/^Description: (.*)/)[1].squeeze(" ")
-        date_received = details[1].match(/^Submitted: (.*)/)[1]
+        descriptions = []
+        details.each do |detail|
+          if detail =~ /^Description: (.*)/ || detail =~ /Activity:(.*)/
+            description = Regexp.last_match(1).squeeze(" ").strip
+            descriptions << description if description != ""
+          end
+        end
+        description = descriptions.join(", ")
+
+        if details[1].match(/^Submitted: (.*)/)
+          date_received = Regexp.last_match(1)
+        end
 
         {
-          council_reference: council_reference.inner_text.split(" ")[0],
+          council_reference: (council_reference.inner_text.split(" ")[0] if council_reference),
           address: address.inner_text.strip.split("\n")[0].strip.gsub("\r", " ").squeeze(" "),
           description: description,
           info_url: page.uri.to_s,
-          date_received: Date.strptime(date_received, "%d/%m/%Y").to_s
+          date_received: (Date.strptime(date_received, "%d/%m/%Y").to_s if date_received)
         }
       end
 

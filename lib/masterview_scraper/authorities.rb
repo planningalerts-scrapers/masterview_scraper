@@ -50,7 +50,8 @@ module MasterviewScraper
     },
     brisbane: {
       url: "https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster",
-      params: { "6" => "F" }
+      params: { "6" => "F" },
+      force_detail: true
     },
     fairfield: {
       url: "https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster",

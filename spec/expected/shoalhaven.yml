@@ -850,7 +850,7 @@
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124145&propkey=121090
   council_reference: DS19/1150
   date_received: '2019-04-15'
-  description: "Single Storey Dwelling\r"
+  description: Single Storey Dwelling
   address: 62 Basil St, SOUTH NOWRA, NSW
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124153&propkey=83071
@@ -912,9 +912,9 @@
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124308&propkey=48707
   council_reference: DS19/1159
   date_received: '2019-04-18'
-  description: "Campdraft grandstand and associated sanitary facilities, formalise
+  description: 'Campdraft grandstand and associated sanitary facilities, formalise
     access road for cattle pickup, drop off bay, revised campdraft holding yard layout
-    & landscaping works - Sec 4.55 Amendment:\r"
+    & landscaping works - Sec 4.55 Amendment:'
   address: 123 Forster Dr, BAWLEY POINT, NSW
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124311&propkey=73500
@@ -1078,7 +1078,7 @@
   council_reference: DS19/1184
   date_received: '2019-05-03'
   description: "Alterations to the Suncoast Caravan Park comprising: •\tReduction
-    from 30 to 27 long term sites;\r"
+    from 30 to 27 long term sites;"
   address: 385 Princes Hwy, ULLADULLA, NSW
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124593&propkey=121009
@@ -1098,14 +1098,13 @@
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124603&propkey=76920
   council_reference: DS19/1187
   date_received: '2019-05-06'
-  description: "Dwelling Additions - Covered Deck.\r"
+  description: Dwelling Additions - Covered Deck.
   address: 32 Scorpio Gr, NARRAWALLEE, NSW
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124610&propkey=18981
   council_reference: DS19/1188
   date_received: '2019-05-06'
-  description: "Dwelling alterations, new deck, new garage - Front building line variation.
-    \r"
+  description: Dwelling alterations, new deck, new garage - Front building line variation.
   address: 18 Tallwood Av, NARRAWALLEE, NSW
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124616&propkey=121911
@@ -1118,7 +1117,7 @@
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124626&propkey=23320
   council_reference: DS19/1190
   date_received: '2019-05-07'
-  description: "Remove back of dwelling; extend area; remove asbestos roof and re-roof.\r"
+  description: Remove back of dwelling; extend area; remove asbestos roof and re-roof.
   address: 10 Lakeway Av, BERRARA, NSW
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124633&propkey=116590
@@ -1186,7 +1185,7 @@
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124751&propkey=29803
   council_reference: DS19/1200
   date_received: '2019-05-10'
-  description: "Single Storey Dwelling.\r"
+  description: Single Storey Dwelling.
   address: 21 Lake Dr, SWANHAVEN, NSW
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124768&propkey=35533
