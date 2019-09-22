@@ -130,12 +130,12 @@ module MasterviewScraper
         "Refused by Delegated Officer",
         # Haha. Withdrawn by staff - what a fantastic euphimism for rejected
         "Withdrawn by Staff"
-      ]
+      ].freeze
 
       UNKNOWN = [
         "NO DA - Certificate Only",
         "Change in Workflow"
-      ]
+      ].freeze
 
       # Get the data from the decision block as is but don't interpret it just yet
       def self.extract_decision_block(block)
