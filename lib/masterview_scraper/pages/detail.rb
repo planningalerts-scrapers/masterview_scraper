@@ -23,27 +23,32 @@ module MasterviewScraper
                   page.at("#lblprop") ||
                   page.at("#lblProperties")
         details_block = page.at("#lblDetails") || page.at("#lblDetail")
-        details = details_block.inner_html.split("<br>").map do |detail|
-          Pages::Index.strip_html(detail).strip
-        end
-
-        descriptions = []
-        date_received = nil
-        details.each do |detail|
-          if detail =~ /^Description: (.*)/ || detail =~ /Activity:(.*)/
-            description = Regexp.last_match(1).squeeze(" ").strip
-            descriptions << description if description != ""
-          elsif detail =~ /^Submitted: (.*)/
-            date_received = Regexp.last_match(1)
-          elsif detail =~ /Determination Description:/ ||
-                detail =~ /Assessment Level:/ ||
-                detail =~ /Permit:/
-            # Do nothing
-          else
-            raise "Unexpected detail line: #{detail}"
+        # Special handling for tables that actually have multiple columns in them.
+        if details_block.at("table") && details_block.at("table").at("tr").search("td").count > 1
+          raise "TODO: Implement special handling for table"
+        else
+          details = details_block.inner_html.split("<br>").map do |detail|
+            Pages::Index.strip_html(detail).strip
           end
+
+          descriptions = []
+          date_received = nil
+          details.each do |detail|
+            if detail =~ /^Description: (.*)/ || detail =~ /Activity:(.*)/
+              description = Regexp.last_match(1).squeeze(" ").strip
+              descriptions << description if description != ""
+            elsif detail =~ /^Submitted: (.*)/
+              date_received = Regexp.last_match(1)
+            elsif detail =~ /Determination Description:/ ||
+                  detail =~ /Assessment Level:/ ||
+                  detail =~ /Permit:/
+              # Do nothing
+            else
+              raise "Unexpected detail line: #{detail}"
+            end
+          end
+          description = descriptions.join(", ")
         end
-        description = descriptions.join(", ")
 
         {
           council_reference: (council_reference.inner_text.split(" ")[0] if council_reference),
