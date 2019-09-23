@@ -73,7 +73,8 @@ module MasterviewScraper
     hawkesbury: {
       url: "https://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster",
       params: { "4a" => "DA", "6" => "F" },
-      state: "NSW"
+      state: "NSW",
+      force_detail: true
     },
     ipswich: {
       url: "http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster",
