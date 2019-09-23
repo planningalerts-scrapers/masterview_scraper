@@ -79,7 +79,8 @@ module MasterviewScraper
     ipswich: {
       url: "http://pdonline.ipswich.qld.gov.au/pdonline/modules/applicationmaster",
       # TODO: Don't know what this parameter "5" does
-      params: { "5" => "T", "6" => "F" }
+      params: { "5" => "T", "6" => "F" },
+      force_detail: true
     },
     lake_macquarie: {
       url: "http://apptracking.lakemac.com.au/modules/ApplicationMaster",
