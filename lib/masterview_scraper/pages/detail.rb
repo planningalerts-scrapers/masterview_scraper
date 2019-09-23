@@ -22,7 +22,8 @@ module MasterviewScraper
         address = page.at("#lblLand") ||
                   page.at("#lblProp") ||
                   page.at("#lblprop") ||
-                  page.at("#lblProperties")
+                  page.at("#lblProperties") ||
+                  page.at("#lblProperties1")
         details_block = page.at("#lblDetails") || page.at("#lblDetail")
         # Special handling for tables that actually have multiple columns in them.
         if details_block.at("table") && details_block.at("table").at("tr").search("td").count > 1
