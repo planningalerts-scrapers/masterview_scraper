@@ -122,7 +122,8 @@ module MasterviewScraper
       params: {
         "4a" => "\'488\',\'487\',\'486\',\'495\',\'521\',\'540\',\'496\',\'562\'",
         "6" => "F"
-      }
+      },
+      force_detail: true
     },
     wyong: {
       url: "http://wsconline.wyong.nsw.gov.au/applicationtracking/modules/applicationmaster",
