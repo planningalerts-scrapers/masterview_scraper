@@ -231,7 +231,7 @@ module MasterviewScraper
           address: properties.inner_text.strip.split("(")[0].strip,
           description: description,
           date_received: Date.strptime(date_received, "%d/%m/%Y").to_s,
-          date_decision: date_decision.to_s,
+          date_decision: date_decision&.to_s,
           decision: decision
         }
       end
