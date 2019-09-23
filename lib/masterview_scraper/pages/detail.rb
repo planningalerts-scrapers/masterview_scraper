@@ -24,7 +24,7 @@ module MasterviewScraper
                   page.at("#lblprop") ||
                   page.at("#lblProperties") ||
                   page.at("#lblProperties1")
-        address = address.inner_text.strip.split("\n")[0].strip.gsub("\r", " ").squeeze(" ")
+        address = address.inner_text.strip.split("\n")[0].strip.gsub("\r", " ").squeeze(" ") if address
         details_block = page.at("#lblDetails") || page.at("#lblDetail")
         # Special handling for tables that actually have multiple columns in them.
         if details_block.at("table") && details_block.at("table").at("tr").search("td").count > 1

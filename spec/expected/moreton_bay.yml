@@ -101,7 +101,7 @@
   date_received: '2019-04-17'
   description: Operational Works - Development Permit for Electrical Reticulation
     (Alkina, Stage 6)
-  address: Lot 990 Morgan Road BURPENGARY QLD 4505
+  address: ''
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.moretonbay.qld.gov.au/Modules/applicationmaster/default.aspx?page=wrapper&key=1634975
   council_reference: 2014/29091/VCHG/1
@@ -129,7 +129,7 @@
   description: Request to Change (Minor) - Material Change of Use - Development Permit
     for Special Care Facility (102 Aged Care Beds) and Operational Works - Development
     Permit for Earthworks (Excavation and Filling)
-  address: 145 Bishop Road, BEACHMERE QLD 4510
+  address: ''
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.moretonbay.qld.gov.au/Modules/applicationmaster/default.aspx?page=wrapper&key=1633578
   council_reference: 2016/31349/V4EXT/2
@@ -150,7 +150,7 @@
   date_received: '2019-05-09'
   description: Request to Change (Minor) - Reconfiguring a Lot - Development Permit
     for Subdivision (7 into 467 Lots and open space in ten (10) stages)
-  address: Lot 1002 Burpengary Road NARANGBA QLD 4504
+  address: 149 Prosperity Street, NARANGBA QLD 4504
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.moretonbay.qld.gov.au/Modules/applicationmaster/default.aspx?page=wrapper&key=1633773
   council_reference: 2016/33086/V4D/1
@@ -309,28 +309,28 @@
   date_received: '2019-05-10'
   description: Operational Works - Development Permit for Roadwork, Stormwater and
     Drainage Work (Ridgeview, Stage 2)
-  address: 96 Raynbird Road, NARANGBA QLD 4504
+  address: ''
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.moretonbay.qld.gov.au/Modules/applicationmaster/default.aspx?page=wrapper&key=1637782
   council_reference: 2018/36571/V4D/4
   date_received: '2019-05-10'
   description: Operational Works - Development Permit for Stormwater (Ridgeview, Stage
     2)
-  address: 96 Raynbird Road, NARANGBA QLD 4504
+  address: ''
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.moretonbay.qld.gov.au/Modules/applicationmaster/default.aspx?page=wrapper&key=1632142
   council_reference: 2018/36571/V4EL/2
   date_received: '2019-04-16'
   description: Operational Works - Development Permit for Electrical Reticulation
     (Stage 2)
-  address: 96 Raynbird Road, NARANGBA QLD 4504
+  address: ''
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.moretonbay.qld.gov.au/Modules/applicationmaster/default.aspx?page=wrapper&key=1636879
   council_reference: 2018/36571/VCHG/1
   date_received: '2019-05-08'
   description: Request to Change (Minor) - Reconfiguring a Lot - Development Permit
     for Subdivision (1 into 161 Lots plus Balance Lot, Park & Drainage - 3 Stages)
-  address: 96 Raynbird Road, NARANGBA QLD 4504
+  address: ''
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.moretonbay.qld.gov.au/Modules/applicationmaster/default.aspx?page=wrapper&key=1636643
   council_reference: 2018/36598/V4EL/1

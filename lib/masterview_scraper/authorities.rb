@@ -114,7 +114,8 @@ module MasterviewScraper
       url: "http://pdonline.moretonbay.qld.gov.au/Modules/applicationmaster",
       params: {
         "6" => "F"
-      }
+      },
+      force_detail: true
     },
     toowoomba: {
       url: "https://pdonline.toowoombarc.qld.gov.au/Masterview/Modules/ApplicationMaster",
