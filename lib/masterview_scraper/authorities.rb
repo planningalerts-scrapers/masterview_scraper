@@ -100,7 +100,9 @@ module MasterviewScraper
       params: {
         "4a" => "443,444,445,446,487,555,556,557,558,559,560,564",
         "6" => "F"
-      }
+      },
+      force_detail: true,
+      timeout: 120
     },
     marion: {
       url: "http://development.marion.sa.gov.au/MasterViewUI",
