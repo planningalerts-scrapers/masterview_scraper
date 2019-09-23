@@ -67,7 +67,8 @@ module MasterviewScraper
               "%27QEXE%27,%27QCAR%27,%27ACA",
         "6" => "F"
       },
-      state: "QLD"
+      state: "QLD",
+      force_detail: true
     },
     hawkesbury: {
       url: "https://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster",
