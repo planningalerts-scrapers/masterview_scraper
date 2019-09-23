@@ -139,7 +139,8 @@ module MasterviewScraper
         "4a" => "25,13,72,60,58,56",
         "6" => "F"
       },
-      state: "NSW"
+      state: "NSW",
+      force_detail: true
     },
     bundaberg: {
       url: "https://da.bundaberg.qld.gov.au/modules/applicationmaster",
