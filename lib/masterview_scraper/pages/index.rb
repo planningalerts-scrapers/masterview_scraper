@@ -22,6 +22,8 @@ module MasterviewScraper
           :decision
         when "Address"
           :address
+        when "Application Type"
+          :application_type
         else
           raise "Unknown name #{name} with value #{value}"
         end

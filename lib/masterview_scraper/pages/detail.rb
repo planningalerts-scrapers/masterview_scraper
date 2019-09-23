@@ -62,7 +62,8 @@ module MasterviewScraper
               date_received = Regexp.last_match(1)
             elsif detail =~ /Determination Description:/ ||
                   detail =~ /Assessment Level:/ ||
-                  detail =~ /Permit:/
+                  detail =~ /Permit:/ ||
+                  detail =~ /Category:/
               # Do nothing
             # Only seen this in bundaberg council so far
             elsif [

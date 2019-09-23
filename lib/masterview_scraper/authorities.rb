@@ -156,7 +156,8 @@ module MasterviewScraper
       params: {
         "4a" => "WLUA,82AReview,CDC,DA,Mods",
         "6" => "F"
-      }
+      },
+      force_detail: true
     },
     albury: {
       url: "https://eservice.alburycity.nsw.gov.au/ApplicationTracker",

@@ -128,7 +128,7 @@
 - info_url: https://datracker.wsc.nsw.gov.au/Modules/applicationmaster/default.aspx?page=wrapper&key=256889
   council_reference: 18/0785.04
   date_received: '2019-04-23'
-  description: Detached Garage - Commercial Alterations and Additions
+  description: Commercial Alterations and Additions - Detached Garage
   address: 17 OLD HUME HIGHWAY, BERRIMA NSW
   date_scraped: '2019-05-14'
 - info_url: https://datracker.wsc.nsw.gov.au/Modules/applicationmaster/default.aspx?page=wrapper&key=257274
@@ -356,7 +356,7 @@
 - info_url: https://datracker.wsc.nsw.gov.au/Modules/applicationmaster/default.aspx?page=wrapper&key=257158
   council_reference: 19/1556
   date_received: '2019-05-01'
-  description: Dwelling House & Retaining Walls
+  description: Dwelling House & Retaining Wall
   address: 17 SIR JAMES FAIRFAX CIRCUIT, BOWRAL NSW
   date_scraped: '2019-05-14'
 - info_url: https://datracker.wsc.nsw.gov.au/Modules/applicationmaster/default.aspx?page=wrapper&key=257202
