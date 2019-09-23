@@ -716,8 +716,8 @@
 - info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1256711
   council_reference: DA-643/2019
   date_received: '2019-05-06'
-  description: Dual Occupancy, Attached Secondary Dwelling and 1 into 2 Lot Torrens
-    Title Subdivision
+  description: Dual Occupancy (detached), Attached Secondary Dwelling and 1 into 2
+    Lot Torrens Title Subdivision
   address: 71 Macquarie Road FENNELL BAY NSW 2283
   date_scraped: '2019-05-14'
 - info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1256857
@@ -783,7 +783,7 @@
 - info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1257995
   council_reference: DA-656/2019
   date_received: '2019-05-08'
-  description: Secondary Dwelling and Alterations and Additions to Existing Dwelling
+  description: Alterations and Additions to Existing Dwelling
   address: 32 Secret Corner Road RATHMINES NSW 2283
   date_scraped: '2019-05-14'
 - info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1258035
@@ -880,7 +880,7 @@
 - info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1259173
   council_reference: DA-673/2019
   date_received: '2019-05-10'
-  description: 5 Industrial Units and 5 Lot Strata Subdivision
+  description: Light Industry and Strata Subdivision (5 units)
   address: 9 Prosperity Close MORISSET NSW 2264
   date_scraped: '2019-05-14'
 - info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1259272
@@ -1061,9 +1061,8 @@
 - info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1258929
   council_reference: DA-729/2017/C
   date_received: '2019-05-10'
-  description: Alterations and Additions to Existing Dwelling, Garages, Studio & Workshop
-    & Swimming Pool with Associated Safety Barriers - Amended Plans Under Section
-    4.55 (1A)
+  description: Modification Under Section 4.55 (1A) - Change to Studio Door & Extension
+    of Garage & Studio
   address: 3 Boyd Street SWANSEA NSW 2281
   date_scraped: '2019-05-14'
 - info_url: http://apptracking.lakemac.com.au/modules/ApplicationMaster/default.aspx?page=appwrapper&key=1253926

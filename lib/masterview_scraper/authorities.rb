@@ -87,7 +87,8 @@ module MasterviewScraper
       params: {
         "4a" => "437",
         "5" => "T"
-      }
+      },
+      force_detail: true
     },
     logan: {
       url: "http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster",
