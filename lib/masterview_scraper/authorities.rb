@@ -130,7 +130,8 @@ module MasterviewScraper
       params: {
         "4a" => "437",
         "5" => "T"
-      }
+      },
+      force_detail: true
     },
     shoalhaven: {
       url: "http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster",

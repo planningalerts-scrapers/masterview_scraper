@@ -14,7 +14,7 @@
 - info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602496
   council_reference: DA - 1452 / 2016A
   date_received: '2019-05-06'
-  description: Recreation Facility (indoor) - Unit 9 (Amended Application)
+  description: Recreation Facility (Indoor) - Unit 9 (Amended Application)
   address: 18-20 Arizona Road CHARMHAVEN NSW 2263
   date_scraped: '2019-05-14'
 - info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602563
@@ -197,7 +197,7 @@
 - info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601744
   council_reference: DA - 388 / 2019
   date_received: '2019-04-18'
-  description: Dual Occupancy & 2 Lot Subdivision
+  description: Dual Occupancy (attached) & 2 Lot Subdivision
   address: 48 Goobarabah Avenue GOROKAN NSW 2263
   date_scraped: '2019-05-14'
 - info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601745
@@ -269,7 +269,7 @@
 - info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601925
   council_reference: DA - 401 / 2019
   date_received: '2019-04-24'
-  description: Alterations & Additions for the purposes of a Bar
+  description: Use of Existing Kitchen in Community Building as a Small Bar
   address: Heritage Village 2 Evans Road CANTON BEACH NSW 2263
   date_scraped: '2019-05-14'
 - info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=601931
@@ -353,13 +353,13 @@
 - info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602069
   council_reference: DA - 415 / 2019
   date_received: '2019-04-29'
-  description: Detached Dual Occupancy & Torrens Title Subdivision
+  description: Detached Dual Occupancy & Two Lot Subdivision
   address: 93 Rotherham Street BATEAU BAY NSW 2261
   date_scraped: '2019-05-14'
 - info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602106
   council_reference: DA - 416 / 2019
   date_received: '2019-04-29'
-  description: Alterations & Additions to Hotel
+  description: Alterations & Additions to a Pub
   address: Royal Hotel 40-44 Pacific Highway WYONG NSW 2259
   date_scraped: '2019-05-14'
 - info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602114
@@ -402,7 +402,7 @@
 - info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602301
   council_reference: DA - 424 / 2019
   date_received: '2019-05-02'
-  description: Attached Dual Occupancy & 2 Lot Torrens Title Subdivision
+  description: Dual Occupancy (Attached) and Two Lot Subdivision
   address: 7 Mitchell Terrace WARNERVALE NSW 2259
   date_scraped: '2019-05-14'
 - info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602302
@@ -452,7 +452,7 @@
 - info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602377
   council_reference: DA - 432 / 2019
   date_received: '2019-05-03'
-  description: Construction of amenities block ancillary to recreation facility (outdoor)
+  description: Amenity Block Ancillary to Recreation Facility (Outdoor)
   address: Shelly Beach Golf Club 86 Bonnieview Street SHELLY BEACH NSW 2261
   date_scraped: '2019-05-14'
 - info_url: http://wsconline.n.centralcoast.nsw.gov.au/applicationtracking/modules/applicationmaster/default.aspx?page=wrapper&key=602391
