@@ -92,7 +92,8 @@ module MasterviewScraper
     },
     logan: {
       url: "http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster",
-      params: { "6" => "F" }
+      params: { "6" => "F" },
+      force_detail: true
     },
     mackay: {
       url: "https://planning.mackay.qld.gov.au/masterview/Modules/Applicationmaster",

@@ -2,7 +2,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173273
   council_reference: A005173273
   date_received: '2019-04-15'
-  description: Dwelling House, Subdivision of Land
+  description: Dwelling House
   address: 14 ROGERS PDE W EVERTON PARK QLD 4053
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173300
@@ -14,13 +14,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173303
   council_reference: A005173303
   date_received: '2019-04-15'
-  description: Child Care Centre, Child Care Centre
+  description: Child Care Centre
   address: 12 ELECTRONICS ST EIGHT MILE PLAINS QLD 4113
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173326
   council_reference: A005173326
   date_received: '2019-04-15'
-  description: Multiple Dwelling, Multiple Dwelling
+  description: Multiple Dwelling
   address: 598 LOWER BOWEN TCE NEW FARM QLD 4005
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173366
@@ -50,22 +50,20 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173441
   council_reference: A005173441
   date_received: '2019-04-15'
-  description: Multiple Dwelling, Food and Drink Outlet
+  description: Multiple Dwelling
   address: 25 SHAFSTON AVE KANGAROO POINT  QLD  4169 (L3/SP197072)
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173459
   council_reference: A005173459
   date_received: '2019-04-15'
   description: Showroom, Low Impact Industry, Shop, Food and Drink Outlet, Function
-    Facility, Office, Health Care Services, Indoor Sport and Recreation, Hotel, Showroom,
-    Low Impact Industry, Shop, Food and Drink Outlet, Function Facility, Office, Health
-    Care Services, Indoor Sport and Recreation, Hotel
+    Facility, Office, Health Care Services, Indoor Sport and Recreation, Hotel
   address: 194 BREAKFAST CREEK RD NEWSTEAD QLD 4006
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173465
   council_reference: A005173465
   date_received: '2019-04-15'
-  description: Multi-Unit Dwelling, Multi-Unit Dwelling
+  description: Multi-Unit Dwelling
   address: 7 HOOGLEY ST WEST END QLD 4101
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173501
@@ -83,13 +81,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173516
   council_reference: A005173516
   date_received: '2019-04-15'
-  description: ''
+  description: 
   address: 526 GYMPIE RD KEDRON QLD 4031
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173517
   council_reference: A005173517
   date_received: '2019-04-15'
-  description: Dwelling House, Extension, Heritage Place - Adjoining (Op Work)
+  description: Dwelling House, Extension
   address: 21 BEESTON ST TENERIFFE QLD 4005
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173521
@@ -101,8 +99,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173522
   council_reference: A005173522
   date_received: '2019-04-15'
-  description: Hotel, Short Term Accommodation, Restaurant, Multi-Unit Dwelling, Short
-    Term Accommodation, Hotel, Multi-Unit Dwelling, Restaurant
+  description: Hotel, Short Term Accommodation, Restaurant, Multi-Unit Dwelling
   address: 21 MORGAN ST FORTITUDE VALLEY QLD 4006
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173532
@@ -114,14 +111,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173559
   council_reference: A005173559
   date_received: '2019-04-15'
-  description: Dwelling House, Extension, Dwelling House, House in TBC - Partial Demolition,
-    Amenity and aesthetics
+  description: Dwelling House, Extension
   address: 55 BARTON RD HAWTHORNE QLD 4171
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173570
   council_reference: A005173570
   date_received: '2019-04-15'
-  description: Dwelling House, Subdivision of Land, Access Easement
+  description: Dwelling House
   address: 96 BOWMAN PDE BARDON QLD 4065
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173591
@@ -151,10 +147,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173606
   council_reference: A005173606
   date_received: '2019-04-15'
-  description: Dwelling House, Demolition, Multiple Dwelling, Subdivision of Land,
-    Subdivision of Land, Dwelling House, Dwelling House, Multiple Dwelling, Dwelling
-    House, Amenity and aesthetics, Design and siting, Amenity and aesthetics, Design
-    and siting
+  description: Dwelling House, Demolition
   address: 20 ABERLEIGH RD HERSTON QLD 4006
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173612
@@ -166,29 +159,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173614
   council_reference: A005173614
   date_received: '2019-04-15'
-  description: CP620 RECONFIGURING A LOT, Multi-Unit Dwelling, CP200 FILLING OR EXCAVATION,
-    CP620 RECONFIGURING A LOT, Multi-Unit Dwelling, CP200 FILLING OR EXCAVATION, CP620
-    RECONFIGURING A LOT, Multi-Unit Dwelling, CP200 FILLING OR EXCAVATION, CP620 RECONFIGURING
-    A LOT, Multi-Unit Dwelling, CP200 FILLING OR EXCAVATION, CP620 RECONFIGURING A
-    LOT, Multi-Unit Dwelling, CP200 FILLING OR EXCAVATION, CP620 RECONFIGURING A LOT,
-    Multi-Unit Dwelling, CP200 FILLING OR EXCAVATION, CP620 RECONFIGURING A LOT, Multi-Unit
-    Dwelling, CP200 FILLING OR EXCAVATION, CP620 RECONFIGURING A LOT, Multi-Unit Dwelling,
-    CP200 FILLING OR EXCAVATION, CP620 RECONFIGURING A LOT, Multi-Unit Dwelling, CP200
-    FILLING OR EXCAVATION, CP620 RECONFIGURING A LOT, Multi-Unit Dwelling, CP200 FILLING
-    OR EXCAVATION, CP620 RECONFIGURING A LOT, Multi-Unit Dwelling, CP200 FILLING OR
-    EXCAVATION, CP620 RECONFIGURING A LOT, Multi-Unit Dwelling, CP200 FILLING OR EXCAVATION,
-    CP620 RECONFIGURING A LOT, Multi-Unit Dwelling, CP200 FILLING OR EXCAVATION, CP620
-    RECONFIGURING A LOT, Multi-Unit Dwelling, CP200 FILLING OR EXCAVATION, CP620 RECONFIGURING
-    A LOT, Multi-Unit Dwelling, CP200 FILLING OR EXCAVATION, Subdivision of Land,
-    CP415 MULTI-UNIT DWELLING, CP200 FILLING OR EXCAVATION, CP620 RECONFIGURING A
-    LOT, CP415 MULTI-UNIT DWELLING, CP200 FILLING OR EXCAVATION
+  description: CP620 RECONFIGURING A LOT, Multi-Unit Dwelling, CP200 FILLING OR EXCAVATION
   address: 54 BARRETT ST BRACKEN RIDGE QLD 4017
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173627
   council_reference: A005173627
   date_received: '2019-04-15'
-  description: Extension, Dwelling House, Council as a Referral Agency to assessable
-    development
+  description: Extension, Dwelling House
   address: 10 EXPLORER ST TOOWONG QLD 4066
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173632
@@ -248,8 +225,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173862
   council_reference: A005173862
   date_received: '2019-04-16'
-  description: Dwelling House, Dwelling House, Amenity and aesthetics, Design and
-    siting
+  description: Dwelling House
   address: 24 MARIAN ST COORPAROO QLD 4151
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173875
@@ -267,7 +243,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173921
   council_reference: A005173921
   date_received: '2019-04-16'
-  description: Dwelling House - 3 Storey House, Dwelling House - 3 Storey House
+  description: Dwelling House - 3 Storey House
   address: 121 PRING ST TARRAGINDI QLD 4121
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173957
@@ -279,8 +255,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173958
   council_reference: A005173958
   date_received: '2019-04-16'
-  description: Educational Establishment, Educational Establishment, Educational Establishment,
-    Educational Establishment
+  description: Educational Establishment
   address: 85 FORMBY ST CALAMVALE QLD 4116
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173964
@@ -304,14 +279,14 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173995
   council_reference: A005173995
   date_received: '2019-04-16'
-  description: Multiple Dwelling, Multiple Dwelling
+  description: Multiple Dwelling
   address: 111 BOUNDARY ST WEST END QLD 4101
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174021
   council_reference: A005174021
   date_received: '2019-04-16'
   description: Research and Technology Industry, Food and Drink Outlet, Service Industry,
-    Office, Research and Technology Industry, Food and Drink Outlet, Office
+    Office
   address: 48 SUMNERS RD SUMNER QLD 4074
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174055
@@ -335,13 +310,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174112
   council_reference: A005174112
   date_received: '2019-04-16'
-  description: Restaurant, Restaurant
+  description: Restaurant
   address: 360 STAFFORD RD STAFFORD QLD 4053
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174118
   council_reference: A005174118
   date_received: '2019-04-16'
-  description: Extension, Dwelling House, Demolition, Amenity and aesthetics
+  description: Extension, Dwelling House
   address: 35 GORDON ST HAWTHORNE QLD 4171
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174122
@@ -389,14 +364,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174213
   council_reference: A005174213
   date_received: '2019-04-16'
-  description: Shop, Centre Activity, Shop, Centre Activity Within Centre
+  description: Shop, Centre Activity
   address: 335 MONTAGUE RD WEST END QLD 4101
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174214
   council_reference: A005174214
   date_received: '2019-04-16'
-  description: Demolition, Dwelling House, Extension, Dwelling House, Amenity and
-    aesthetics
+  description: Demolition, Dwelling House
   address: 56 BULIMBA ST BULIMBA QLD 4171
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174224
@@ -408,7 +382,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174238
   council_reference: A005174238
   date_received: '2019-04-16'
-  description: Dwelling House, Demolition, Dwelling House, Extension
+  description: Dwelling House, Demolition
   address: 135 TARRAGINDI RD TARRAGINDI QLD 4121
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174387
@@ -426,14 +400,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174449
   council_reference: A005174449
   date_received: '2019-04-17'
-  description: Centre Activity Within Centre, Home Business, Multi-Unit Dwelling,
-    Centre Activity Outside Centre, Home Business, Multi-Unit Dwelling
+  description: Centre Activity Within Centre, Home Business, Multi-Unit Dwelling
   address: 246 ARTHUR ST TENERIFFE QLD 4005
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174450
   council_reference: A005174450
   date_received: '2019-04-17'
-  description: Dwelling House, Dwelling House, Design and siting, Amenity and aesthetics
+  description: Dwelling House
   address: 43 WILLIS ST TARRAGINDI QLD 4121
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174451
@@ -445,13 +418,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174486
   council_reference: A005174486
   date_received: '2019-04-17'
-  description: Dwelling House, Dwelling House, Subdivision of Land, Dwelling House
+  description: Dwelling House
   address: 128 VIRGINIA AVE HAWTHORNE QLD 4171
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174523
   council_reference: A005174523
   date_received: '2019-04-17'
-  description: Subdivision of Land, Subdivision of Land, Subdivision of Land
+  description: Subdivision of Land
   address: 111 BROOKBENT RD PALLARA QLD 4110
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174548
@@ -475,7 +448,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174582
   council_reference: A005174582
   date_received: '2019-04-17'
-  description: Extension, Dwelling House, Amenity and aesthetics
+  description: Extension, Dwelling House
   address: 138 RYAN ST WEST END QLD 4101
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174594
@@ -487,45 +460,43 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174596
   council_reference: A005174596
   date_received: '2019-04-17'
-  description: Dwelling House, Dwelling House, Amenity and aesthetics
+  description: Dwelling House
   address: 70 FANNY ST ANNERLEY QLD 4103
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174600
   council_reference: A005174600
   date_received: '2019-04-17'
-  description: Dwelling House, Subdivision of Land
+  description: Dwelling House
   address: 5 GOSFORD ST MOUNT GRAVATT QLD 4122
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174642
   council_reference: A005174642
   date_received: '2019-04-17'
-  description: Dwelling House, Extension, Amenity and aesthetics
+  description: Dwelling House, Extension
   address: 115 FULLER ST LUTWYCHE QLD 4030
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174646
   council_reference: A005174646
   date_received: '2019-04-17'
-  description: Dwelling House, Extension, Dwelling House - Traditional Building Character
+  description: Dwelling House, Extension
   address: 11 CRAVEN ST CLAYFIELD QLD 4011
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174655
   council_reference: A005174655
   date_received: '2019-04-17'
-  description: Demolition, Dual Occupancy, Subdivision of Land, Extension, Dwelling
-    House, Dual Occupancy
+  description: Demolition
   address: 22 PRINCESS ST TARINGA QLD 4068
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174676
   council_reference: A005174676
   date_received: '2019-04-17'
-  description: Demolition, Extension, Dwelling House
+  description: Demolition
   address: 5 COPELAND ST MILTON QLD 4064
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174704
   council_reference: A005174704
   date_received: '2019-04-17'
-  description: Multiple Dwelling, Subdivision of Land, Multiple Dwelling, Multiple
-    Dwelling, Multiple Dwelling
+  description: Multiple Dwelling
   address: 508 CREEK RD MOUNT GRAVATT EAST QLD 4122
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174727
@@ -543,51 +514,49 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174755
   council_reference: A005174755
   date_received: '2019-04-17'
-  description: Demolition, Extension, Dwelling House, Amenity and aesthetics
+  description: Demolition
   address: 9 VICTORIA ST KELVIN GROVE QLD 4059
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174788
   council_reference: A005174788
   date_received: '2019-04-17'
-  description: Dwelling House, Dwelling House
+  description: Dwelling House
   address: 46 GOULBURN ST GORDON PARK QLD 4031
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174802
   council_reference: A005174802
   date_received: '2019-04-17'
-  description: Multiple Dwelling, Access Easement, Subdivision of Land, Dwelling House,
-    Demolition, Dwelling House, Dwelling House, Multiple Dwelling
+  description: Multiple Dwelling
   address: 293 WYNNUM RD NORMAN PARK QLD 4170
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174807
   council_reference: A005174807
   date_received: '2019-04-17'
-  description: House On Small Lot, House - Extension, House On Small Lot, House -
-    Extension
+  description: House On Small Lot, House - Extension
   address: 155 DORNOCH TCE HIGHGATE HILL QLD 4101
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174813
   council_reference: A005174813
   date_received: '2019-04-17'
-  description: Dwelling House, Dwelling House, Design and siting, Amenity and aesthetics
+  description: Dwelling House
   address: 14 WINSHIP ST RED HILL QLD 4059
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174817
   council_reference: A005174817
   date_received: '2019-04-17'
-  description: Multiple Dwelling, Dwelling House, Subdivision of Land, Dwelling House
+  description: Multiple Dwelling
   address: 21 THEODORE ST STAFFORD QLD 4053
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174820
   council_reference: A005174820
   date_received: '2019-04-17'
-  description: Multiple Dwelling, Multiple Dwelling
+  description: Multiple Dwelling
   address: 69 SWANN RD TARINGA QLD 4068
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174831
   council_reference: A005174831
   date_received: '2019-04-17'
-  description: Food and Drink Outlet, Retirement Facility, Food and Drink Outlet
+  description: Food and Drink Outlet, Retirement Facility
   address: 19 UNION ST NUNDAH QLD 4012
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174837
@@ -599,7 +568,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174844
   council_reference: A005174844
   date_received: '2019-04-17'
-  description: ''
+  description: 
   address: 16 DOVER ST WILSTON QLD 4051
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174850
@@ -617,14 +586,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005175070
   council_reference: A005175070
   date_received: '2019-04-18'
-  description: Extension, Dwelling House, Amenity and aesthetics, Design and siting
+  description: Extension, Dwelling House
   address: 10 HUYBERS PL TINGALPA QLD 4173
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005175082
   council_reference: A005175082
   date_received: '2019-04-18'
-  description: House in EP/Rural Area, House over 8.5m, House over 8.5m, House in
-    EP/Rural Area
+  description: House in EP/Rural Area, House over 8.5m
   address: 271 BOSTON RD BELMONT QLD 4153
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005175092
@@ -648,15 +616,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005175115
   council_reference: A005175115
   date_received: '2019-04-18'
-  description: Dwelling House, Subdivision of Land
+  description: Dwelling House
   address: 491 MILES PLATTING RD ROCHEDALE QLD 4123
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005175160
   council_reference: A005175160
   date_received: '2019-04-18'
-  description: Multiple Dwelling, Hotel, Shop, Restaurant, Multiple Dwelling, Hotel,
-    Shop, Restaurant, Multiple Dwelling, Hotel, Shop, Restaurant, Multiple Dwelling,
-    Hotel, Shop, Restaurant
+  description: Multiple Dwelling, Hotel, Shop, Restaurant
   address: 20 FESTIVAL PL NEWSTEAD QLD 4006
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005175174
@@ -692,8 +658,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005175240
   council_reference: A005175240
   date_received: '2019-04-18'
-  description: Office, Food and Drink Outlet, Shop, Indoor Sport and Recreation, Filling
-    and/or Excavation
+  description: Office, Food and Drink Outlet, Shop, Indoor Sport and Recreation
   address: 62 ANN ST BRISBANE CITY QLD 4000
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005175241
@@ -705,7 +670,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005175246
   council_reference: A005175246
   date_received: '2019-04-18'
-  description: Extension, Dwelling House, Amenity and aesthetics
+  description: Extension, Dwelling House
   address: 31 ATTHOW AVE ASHGROVE QLD 4060
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005175254
@@ -723,13 +688,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005175296
   council_reference: A005175296
   date_received: '2019-04-18'
-  description: Dwelling House, Dwelling House
+  description: Dwelling House
   address: 20 SMEATON ST COORPAROO QLD 4151
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005175299
   council_reference: A005175299
   date_received: '2019-04-18'
-  description: Dwelling House, Dwelling House, Amenity and aesthetics
+  description: Dwelling House
   address: 21 BROOK ST KALINGA QLD 4030
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005175302
@@ -741,7 +706,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005175316
   council_reference: A005175316
   date_received: '2019-04-18'
-  description: Dwelling House, Dwelling House
+  description: Dwelling House
   address: 24 JAMIESON ST BULIMBA QLD 4171
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005175339
@@ -766,8 +731,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005175359
   council_reference: A005175359
   date_received: '2019-04-18'
-  description: Dwelling House, Dwelling House, Amenity and aesthetics, Design and
-    siting
+  description: Dwelling House
   address: 83 BURN ST CAMP HILL QLD 4152
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005175384
@@ -797,7 +761,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005175413
   council_reference: A005175413
   date_received: '2019-04-18'
-  description: Extension, Dwelling House, Amenity and aesthetics, Design and siting
+  description: Extension, Dwelling House
   address: 16 COOLANA ST LOTA QLD 4179
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005175416
@@ -827,7 +791,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005178682
   council_reference: A005178682
   date_received: '2019-04-23'
-  description: Dwelling House, Dwelling House, Design and siting, Amenity and aesthetics
+  description: Dwelling House
   address: 21 THOMAS ST CAMP HILL QLD 4152
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005178699
@@ -845,38 +809,37 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005178739
   council_reference: A005178739
   date_received: '2019-04-23'
-  description: Extension, Dwelling House, Amenity and aesthetics
+  description: Extension, Dwelling House
   address: 36 OWEN LANE AUCHENFLOWER QLD 4066
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005178743
   council_reference: A005178743
   date_received: '2019-04-23'
-  description: Multiple Dwelling, Multiple Dwelling
+  description: Multiple Dwelling
   address: 66 KIRKLAND AVE COORPAROO QLD 4151
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005178781
   council_reference: A005178781
   date_received: '2019-04-23'
-  description: Dwelling House, Design and siting, Amenity and aesthetics
+  description: Dwelling House
   address: 7 SMITH PL CANNON HILL QLD 4170
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005178804
   council_reference: A005178804
   date_received: '2019-04-23'
-  description: Dwelling House, Extension, Design and siting, Amenity and aesthetics
+  description: Dwelling House, Extension
   address: 65 BARLOW ST CLAYFIELD QLD 4011
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005178808
   council_reference: A005178808
   date_received: '2019-04-23'
-  description: Extension, Dwelling House, Demolition, Dwelling House, Amenity and
-    aesthetics
+  description: Extension, Dwelling House
   address: 18 WELWYN CRES COORPAROO QLD 4151
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005178820
   council_reference: A005178820
   date_received: '2019-04-23'
-  description: Dwelling House, Dwelling House, Amenity and aesthetics
+  description: Dwelling House
   address: 118 LOWER CAIRNS TCE PADDINGTON QLD 4064
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005178844
@@ -884,8 +847,7 @@
   date_received: '2019-04-23'
   description: Car Wash, Food and Drink Outlet, High Impact Industry, Low Impact Industry,
     Medium Impact Industry, Parking Station, Renewable Energy Facility, Research and
-    Technology Industry, Service Industry, Service Station, Shop, Warehouse, Medium
-    Impact Industry, Medium Impact Industry, Medium Impact Industry
+    Technology Industry, Service Industry, Service Station, Shop, Warehouse
   address: 498 PROGRESS RD WACOL QLD 4076
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005178850
@@ -915,20 +877,19 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005178881
   council_reference: A005178881
   date_received: '2019-04-23'
-  description: Extension, Dwelling House, Amenity and aesthetics
+  description: Extension, Dwelling House
   address: 14 RIDGE ST NORTHGATE QLD 4013
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005178906
   council_reference: A005178906
   date_received: '2019-04-23'
-  description: Dwelling House, Dwelling House, Subdivision of Land, Dwelling House,
-    Dwelling House, Amenity and aesthetics, Design and siting
+  description: Dwelling House
   address: 10 ARMENTIERES ST KEDRON QLD 4031
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005178907
   council_reference: A005178907
   date_received: '2019-04-23'
-  description: Demolition, Extension, Dwelling House, Amenity and aesthetics
+  description: Demolition
   address: 2 HAZLEWOOD ST NEW FARM QLD 4005
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005178955
@@ -964,20 +925,19 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179002
   council_reference: A005179002
   date_received: '2019-04-23'
-  description: Multiple Dwelling, Multiple Dwelling
+  description: Multiple Dwelling
   address: 53 PAYNE ST INDOOROOPILLY QLD 4068
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179057
   council_reference: A005179057
   date_received: '2019-04-23'
-  description: Extension, Dwelling House, Amenity and aesthetics, Design and siting
+  description: Extension, Dwelling House
   address: 31 KITCHENER ST WYNNUM QLD 4178
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179064
   council_reference: A005179064
   date_received: '2019-04-23'
-  description: Demolition, Dwelling House, Extension, Dwelling House, Amenity and
-    aesthetics
+  description: Demolition, Dwelling House
   address: 131 UNION ST SPRING HILL QLD 4000
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179067
@@ -995,13 +955,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179080
   council_reference: A005179080
   date_received: '2019-04-23'
-  description: Extension, Dwelling House, Demolition, Amenity and aesthetics
+  description: Extension, Dwelling House
   address: 63 BURNHAM RD BARDON QLD 4065
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179084
   council_reference: A005179084
   date_received: '2019-04-23'
-  description: Dwelling House, Amenity and aesthetics, Design and siting
+  description: Dwelling House
   address: 29 RUSHTON ST RUNCORN QLD 4113
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179092
@@ -1043,8 +1003,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179249
   council_reference: A005179249
   date_received: '2019-04-24'
-  description: Dwelling House, Extension, Amenity and aesthetics, Dwelling House -
-    Traditional Building Character, Dwelling House, Demolition
+  description: Dwelling House, Extension
   address: 35 KINNAIRD ST ASHGROVE QLD 4060
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179263
@@ -1056,7 +1015,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179264
   council_reference: A005179264
   date_received: '2019-04-24'
-  description: Multiple Dwelling, Multiple Dwelling
+  description: Multiple Dwelling
   address: 115 YORK ST NUNDAH QLD 4012
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179273
@@ -1092,7 +1051,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179351
   council_reference: A005179351
   date_received: '2019-04-24'
-  description: Multi-Unit Dwelling, Multi-Unit Dwelling
+  description: Multi-Unit Dwelling
   address: 24 BANK ST WEST END QLD 4101
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179353
@@ -1104,13 +1063,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179359
   council_reference: A005179359
   date_received: '2019-04-24'
-  description: Multiple Dwelling, Multiple Dwelling, Subdivision of Land
+  description: Multiple Dwelling
   address: 46 BURLINGTON ST EAST BRISBANE QLD 4169
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179383
   council_reference: A005179383
   date_received: '2019-04-24'
-  description: Multiple Dwelling, Multiple Dwelling
+  description: Multiple Dwelling
   address: 24 POLLOCK ST BALMORAL QLD 4171
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179403
@@ -1134,8 +1093,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179461
   council_reference: A005179461
   date_received: '2019-04-24'
-  description: Dwelling House, Dwelling House, Amenity and aesthetics, Design and
-    siting
+  description: Dwelling House
   address: 42 HENDERSON ST BULIMBA QLD 4171
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179462
@@ -1165,21 +1123,19 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179599
   council_reference: A005179599
   date_received: '2019-04-24'
-  description: House in DCP - Partial Demolition, Extension, House in DCP, House in
-    DCP, Extension
+  description: House in DCP - Partial Demolition
   address: 78 CARRANYA ST CAMP HILL QLD 4152
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179620
   council_reference: A005179620
   date_received: '2019-04-24'
-  description: Dwelling House, Amenity and aesthetics, Design and siting
+  description: Dwelling House
   address: 13 ORIOLE ST TAIGUM QLD 4018
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179965
   council_reference: A005179965
   date_received: '2019-04-26'
-  description: Demolition, Dwelling House, Extension, Dwelling House, Amenity and
-    aesthetics, Design and siting
+  description: Demolition, Dwelling House
   address: 88 HEUSSLER TCE MILTON QLD 4064
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179968
@@ -1215,9 +1171,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180020
   council_reference: A005180020
   date_received: '2019-04-26'
-  description: Demolition, Dwelling House, Heritage Place (LHP), Landscape Works on
-    Private Land, Local Heritage Place, Extension, Dwelling House, Heritage Place
-    (LHP), Local heritage place
+  description: Demolition, Dwelling House, Heritage Place (LHP)
   address: 95 BANK RD GRACEVILLE QLD 4075
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180032
@@ -1229,13 +1183,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180036
   council_reference: A005180036
   date_received: '2019-04-26'
-  description: Dwelling House, Dwelling House
+  description: Dwelling House
   address: 33 JONES ST HIGHGATE HILL QLD 4101
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180039
   council_reference: A005180039
   date_received: '2019-04-26'
-  description: Filling and Excavation, Multiple Dwelling, Multiple Dwelling
+  description: Filling and Excavation
   address: 160 MACQUARIE ST ST LUCIA QLD 4067
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180047
@@ -1247,7 +1201,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180049
   council_reference: A005180049
   date_received: '2019-04-26'
-  description: Extension, Dwelling House, Amenity and aesthetics
+  description: Extension, Dwelling House
   address: 14 ROSEWOOD ST BARDON QLD 4065
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180061
@@ -1259,8 +1213,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180071
   council_reference: A005180071
   date_received: '2019-04-26'
-  description: Dwelling House, Dwelling House, Amenity and aesthetics, Design and
-    siting
+  description: Dwelling House
   address: 31 THORN ST RED HILL QLD 4059
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180072
@@ -1273,14 +1226,13 @@
   council_reference: A005180073
   date_received: '2019-04-26'
   description: Caretakers Accommodation, Community Use, Food and Drink Outlet, Function
-    Facility, Caretakers Accommodation, Community Use, Food and Drink Outlet, Function
     Facility
   address: 1 OCONNELL ST WEST END QLD 4101
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180101
   council_reference: A005180101
   date_received: '2019-04-26'
-  description: Multiple Dwelling, Multiple Dwelling
+  description: Multiple Dwelling
   address: 107 GROSVENOR ST MORNINGSIDE QLD 4170
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180103
@@ -1292,13 +1244,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180115
   council_reference: A005180115
   date_received: '2019-04-26'
-  description: Dwelling House, Dwelling House, Amenity and aesthetics
+  description: Dwelling House
   address: 22 NORWOOD TCE PADDINGTON QLD 4064
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180123
   council_reference: A005180123
   date_received: '2019-04-26'
-  description: Demolition, Dwelling House, Extension, Dwelling House
+  description: Demolition, Dwelling House
   address: 228 FLINDERS PDE SANDGATE QLD 4017
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180156
@@ -1316,19 +1268,19 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180179
   council_reference: A005180179
   date_received: '2019-04-26'
-  description: Extension, Educational Establishment, Extension, Educational Establishment
+  description: Extension, Educational Establishment
   address: 45 HURDCOTTE ST ENOGGERA QLD 4051
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180192
   council_reference: A005180192
   date_received: '2019-04-26'
-  description: Extension, Dwelling House, Amenity and aesthetics, Design and siting
+  description: Extension, Dwelling House
   address: 53 DOVER ST HAWTHORNE QLD 4171
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180218
   council_reference: A005180218
   date_received: '2019-04-26'
-  description: Subdivision of Land, Subdivision of Land, Subdivision of Land
+  description: Subdivision of Land
   address: 111 FALKLAND ST W HEATHWOOD QLD 4110
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180224
@@ -1340,7 +1292,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180235
   council_reference: A005180235
   date_received: '2019-04-26'
-  description: Dwelling House, Dwelling House, Amenity and aesthetics
+  description: Dwelling House
   address: 29 OUTLOOK PL MOGGILL QLD 4070
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180242
@@ -1352,7 +1304,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180249
   council_reference: A005180249
   date_received: '2019-04-26'
-  description: Demolition, Extension, Dwelling House
+  description: Demolition
   address: 11 HUTTON ST CLAYFIELD QLD 4011
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180255
@@ -1370,7 +1322,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180263
   council_reference: A005180263
   date_received: '2019-04-26'
-  description: Dwelling House, Dwelling House, Dwelling House, Dwelling House
+  description: Dwelling House
   address: 31 MARTHA ST CAMP HILL QLD 4152
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180281
@@ -1400,8 +1352,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182299
   council_reference: A005182299
   date_received: '2019-04-29'
-  description: Demolition, Dwelling House, Extension, Dwelling House, Design and siting,
-    Amenity and aesthetics
+  description: Demolition, Dwelling House
   address: 71 GAUNT ST NEWMARKET QLD 4051
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182309
@@ -1419,7 +1370,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182339
   council_reference: A005182339
   date_received: '2019-04-29'
-  description: Multiple Dwelling, Subdivision of Land, Multiple Dwelling
+  description: Multiple Dwelling
   address: 18 ALLEN ST HAMILTON QLD 4007
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182341
@@ -1431,7 +1382,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182344
   council_reference: A005182344
   date_received: '2019-04-29'
-  description: Extension, Dwelling House, Demolition, Dwelling House
+  description: Extension, Dwelling House
   address: 103 MONTPELIER ST GRANGE QLD 4051
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182354
@@ -1443,7 +1394,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182390
   council_reference: A005182390
   date_received: '2019-04-29'
-  description: Extension, Dwelling House, Amenity and aesthetics
+  description: Extension, Dwelling House
   address: 17 FARRINGTON ST ALDERLEY QLD 4051
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182426
@@ -1461,8 +1412,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182472
   council_reference: A005182472
   date_received: '2019-04-29'
-  description: Extension, Dwelling House, Extension, Dwelling House, Amenity and aesthetics,
-    Design and siting
+  description: Extension, Dwelling House
   address: 60 THOMAS ST SHERWOOD QLD 4075
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182475
@@ -1498,7 +1448,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182568
   council_reference: A005182568
   date_received: '2019-04-29'
-  description: Demolition, Extension, Dwelling House, Amenity and aesthetics
+  description: Demolition
   address: 299 BOUNDARY ST WEST END QLD 4101
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182574
@@ -1516,14 +1466,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182606
   council_reference: A005182606
   date_received: '2019-04-29'
-  description: Extension, Dwelling House, Amenity and aesthetics
+  description: Extension, Dwelling House
   address: 6 ANNIE ST AUCHENFLOWER QLD 4066
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182618
   council_reference: A005182618
   date_received: '2019-04-29'
-  description: Multiple Dwelling, Place of Worship, Dwelling House, Carpark, Place
-    of Worship
+  description: Multiple Dwelling
   address: 48 LEAROYD RD ALGESTER QLD 4115
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182644
@@ -1541,7 +1490,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182786
   council_reference: A005182786
   date_received: '2019-04-30'
-  description: Demolition, Dwelling House, Extension, Dwelling House
+  description: Demolition, Dwelling House
   address: 54 WYLIE AVE COORPAROO QLD 4151
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182836
@@ -1559,7 +1508,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182863
   council_reference: A005182863
   date_received: '2019-04-30'
-  description: Extension, Dwelling House, Amenity and aesthetics
+  description: Extension, Dwelling House
   address: 62 PARK TCE SHERWOOD QLD 4075
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182896
@@ -1577,8 +1526,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182933
   council_reference: A005182933
   date_received: '2019-04-30'
-  description: Extension, Dwelling House, Dwelling House, Demolition, Amenity and
-    aesthetics
+  description: Extension, Dwelling House
   address: 10 CAMBRIDGE ST NUNDAH QLD 4012
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182986
@@ -1620,8 +1568,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183104
   council_reference: A005183104
   date_received: '2019-04-30'
-  description: Multi-Unit Dwelling, Multi-Unit Dwelling, Multi-Unit Dwelling, Multi-Unit
-    Dwelling
+  description: Multi-Unit Dwelling
   address: 31 MANNING ST MILTON QLD 4064
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183133
@@ -1633,7 +1580,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183168
   council_reference: A005183168
   date_received: '2019-04-30'
-  description: Dwelling House, Dwelling House, Amenity and aesthetics
+  description: Dwelling House
   address: 40 SOUTHERDEN AVE GRANGE QLD 4051
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183173
@@ -1669,8 +1616,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183413
   council_reference: A005183413
   date_received: '2019-05-01'
-  description: Demolition, Dwelling House, Extension, Dwelling House, Amenity and
-    aesthetics
+  description: Demolition, Dwelling House
   address: 17 BRUCE ST GRANGE QLD 4051
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183433
@@ -1694,13 +1640,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183442
   council_reference: A005183442
   date_received: '2019-05-01'
-  description: House in EP/Rural Area, House in EP/Rural Area
+  description: House in EP/Rural Area
   address: 756 GRASSDALE RD GUMDALE QLD 4154
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183447
   council_reference: A005183447
   date_received: '2019-05-01'
-  description: Dwelling House, Dwelling House, Amenity and aesthetics
+  description: Dwelling House
   address: 150 JAMES ST NEW FARM QLD 4005
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183451
@@ -1718,7 +1664,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183493
   council_reference: A005183493
   date_received: '2019-05-01'
-  description: Extension, Dwelling House, Amenity and aesthetics
+  description: Extension, Dwelling House
   address: 20 DERBY ST BALMORAL QLD 4171
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183509
@@ -1778,7 +1724,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183653
   council_reference: A005183653
   date_received: '2019-05-01'
-  description: Extension, Dwelling House, Dwelling House, Demolition
+  description: Extension, Dwelling House
   address: 110 ENOGGERA TCE PADDINGTON QLD 4064
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183668
@@ -1796,7 +1742,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183673
   council_reference: A005183673
   date_received: '2019-05-01'
-  description: Demolition, Dwelling House, Extension, Dwelling House
+  description: Demolition, Dwelling House
   address: 3 DRAKE ST WEST END QLD 4101
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183676
@@ -1808,32 +1754,31 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183683
   council_reference: A005183683
   date_received: '2019-05-01'
-  description: Demolition, Dwelling House, Extension, Dwelling House
+  description: Demolition, Dwelling House
   address: 62 RIDGE ST NORTHGATE QLD 4013
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183688
   council_reference: A005183688
   date_received: '2019-05-01'
-  description: Dwelling House, Extension, Local heritage place
+  description: Dwelling House, Extension
   address: 17 DOWNFALL RD VIRGINIA QLD 4014
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183698
   council_reference: A005183698
   date_received: '2019-05-01'
-  description: Non-Compliant With House Code, Non-Compliant With House Code
+  description: Non-Compliant With House Code
   address: 26 UPPER BROOKFIELD RD BROOKFIELD QLD 4069
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183702
   council_reference: A005183702
   date_received: '2019-05-01'
-  description: Dwelling House, Dwelling House, Design and siting, Amenity and aesthetics
+  description: Dwelling House
   address: 47 COWPER ST BULIMBA QLD 4171
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183708
   council_reference: A005183708
   date_received: '2019-05-01'
-  description: Centre Activity Within Centre, Hotel, Restaurant, Centre Activity,
-    Hotel, Restaurant
+  description: Centre Activity Within Centre, Hotel, Restaurant
   address: 826 MAIN ST KANGAROO POINT QLD 4169
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183712
@@ -1845,13 +1790,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183722
   council_reference: A005183722
   date_received: '2019-05-01'
-  description: Demolition, Extension, Dwelling House
+  description: Demolition
   address: 16 DUKE ST BULIMBA QLD 4171
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183844
   council_reference: A005183844
   date_received: '2019-05-02'
-  description: Warehouse, Warehouse
+  description: Warehouse
   address: 29 BOYLAND AVE COOPERS PLAINS QLD 4108
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183846
@@ -1863,8 +1808,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183865
   council_reference: A005183865
   date_received: '2019-05-02'
-  description: Demolition, Dwelling House, Extension, Dwelling House, Amenity and
-    aesthetics
+  description: Demolition, Dwelling House
   address: 26 WATSON ST CAMP HILL QLD 4152
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183890
@@ -1900,7 +1844,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184007
   council_reference: A005184007
   date_received: '2019-05-02'
-  description: Dwelling House - 3 Storey House, Dwelling House - 3 Storey House
+  description: Dwelling House - 3 Storey House
   address: 32 CRESCENT RD HAMILTON QLD 4007
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184022
@@ -1912,10 +1856,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184050
   council_reference: A005184050
   date_received: '2019-05-02'
-  description: Centre Activity, Short Term Accommodation, Centre Activity Within Centre,
-    Short Term Accommodation, Centre Activity, Caretakers Flat, Centre Activity Within
-    Centre, Caretakers Flat, Centre Activity, Restaurant, Centre Activity Within Centre,
-    Restaurant
+  description: Centre Activity, Short Term Accommodation
   address: 28 THOMAS ST CHERMSIDE QLD 4032
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184054
@@ -1933,8 +1874,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184117
   council_reference: A005184117
   date_received: '2019-05-02'
-  description: Single Unit Dwelling, Single Unit Dwelling, Subdivision of Land, Access
-    Easement, Single Unit Dwelling, Single Unit Dwelling, Subdivision of Land
+  description: Single Unit Dwelling
   address: 198 MUSGRAVE RD RED HILL QLD 4059
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184143
@@ -1958,7 +1898,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184189
   council_reference: A005184189
   date_received: '2019-05-02'
-  description: Office, Extension, Educational Establishment, Office, Educational Establishment
+  description: Office, Extension, Educational Establishment
   address: 161 BRUNSWICK ST FORTITUDE VALLEY QLD 4006
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184202
@@ -1994,8 +1934,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184416
   council_reference: A005184416
   date_received: '2019-05-03'
-  description: Demolition, Dwelling House, Extension, Dwelling House, Amenity and
-    aesthetics
+  description: Demolition, Dwelling House
   address: 44 FREE ST NEWMARKET QLD 4051
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184447
@@ -2007,8 +1946,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184448
   council_reference: A005184448
   date_received: '2019-05-03'
-  description: Demolition, Dwelling House, Extension, Dwelling House, Amenity and
-    aesthetics
+  description: Demolition, Dwelling House
   address: 16 THURLOW ST NEWMARKET QLD 4051
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184458
@@ -2026,7 +1964,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184480
   council_reference: A005184480
   date_received: '2019-05-03'
-  description: Multiple Dwelling, Multiple Dwelling
+  description: Multiple Dwelling
   address: 582 SHERWOOD RD SHERWOOD QLD 4075
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184481
@@ -2038,7 +1976,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184499
   council_reference: A005184499
   date_received: '2019-05-03'
-  description: Multi-Unit Dwelling, Multi-Unit Dwelling, Subdivision of Land
+  description: Multi-Unit Dwelling
   address: 228 PADSTOW RD EIGHT MILE PLAINS QLD 4113
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184501
@@ -2050,14 +1988,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184547
   council_reference: A005184547
   date_received: '2019-05-03'
-  description: Subdivision of Land, Subdivision of Land, House On Small Lot, House
-    On Small Lot, House On Small Lot, House On Small Lot, Amenity and aesthetics
+  description: Subdivision of Land
   address: 44 TWIGG ST INDOOROOPILLY QLD 4068
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184611
   council_reference: A005184611
   date_received: '2019-05-03'
-  description: Dwelling House, Extension, Amenity and aesthetics, Design and siting
+  description: Dwelling House, Extension
   address: 18 GORDON ST HENDRA QLD 4011
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184636
@@ -2075,15 +2012,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184663
   council_reference: A005184663
   date_received: '2019-05-03'
-  description: Residential Care Facility, Extension, Residential Care Facility, Extension,
-    Residential Care Facility, Extension
+  description: Residential Care Facility, Extension
   address: 38 COLVILLE ST HIGHGATE HILL QLD 4101
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184664
   council_reference: A005184664
   date_received: '2019-05-03'
-  description: Centre Activity Within Centre, Centre Activity, Centre Activity, Centre
-    Activity Within Centre
+  description: Centre Activity Within Centre
   address: 160 RACECOURSE RD ASCOT QLD 4007
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184678
@@ -2095,8 +2030,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184680
   council_reference: A005184680
   date_received: '2019-05-03'
-  description: Single Unit Dwelling, Single Unit Dwelling, Multi-Unit Dwelling, Subdivision
-    of Land, Multi-Unit Dwelling
+  description: Single Unit Dwelling
   address: 144 YORK ST NUNDAH QLD 4012
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184705
@@ -2132,14 +2066,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184744
   council_reference: A005184744
   date_received: '2019-05-03'
-  description: Dwelling House, Demolition, Dwelling House, Extension, Amenity and
-    aesthetics, Dwelling House - Extension
+  description: Dwelling House, Demolition
   address: 40 LUTWYCHE ST PETRIE TERRACE QLD 4000
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005186871
   council_reference: A005186871
   date_received: '2019-05-07'
-  description: Dwelling House, Amenity and aesthetics
+  description: Dwelling House
   address: 2A BROOK ST NUNDAH QLD 4012
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005186906
@@ -2151,7 +2084,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005186908
   council_reference: A005186908
   date_received: '2019-05-07'
-  description: Multiple Dwelling, Multiple Dwelling
+  description: Multiple Dwelling
   address: 42 LITTLE JENNER ST NUNDAH QLD 4012
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005186910
@@ -2163,7 +2096,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005186942
   council_reference: A005186942
   date_received: '2019-05-07'
-  description: Extension, Dwelling House, Amenity and aesthetics
+  description: Extension, Dwelling House
   address: 47 ROYAL PDE ALDERLEY QLD 4051
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005186950
@@ -2187,7 +2120,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005186981
   council_reference: A005186981
   date_received: '2019-05-07'
-  description: Educational Establishment, Extension, Educational Establishment, Extension
+  description: Educational Establishment, Extension
   address: 45 HURDCOTTE ST ENOGGERA QLD 4051
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005186988
@@ -2217,46 +2150,43 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187062
   council_reference: A005187062
   date_received: '2019-05-07'
-  description: CP565 SHORT TERM ACCOMMODATION, CP565 SHORT TERM ACCOMMODATION
+  description: CP565 SHORT TERM ACCOMMODATION
   address: 156 ROMA ST BRISBANE CITY QLD 4000
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187082
   council_reference: A005187082
   date_received: '2019-05-07'
-  description: Dwelling House, Dwelling House, Subdivision of Land, Amenity and aesthetics,
-    Amenity and aesthetics
+  description: Dwelling House
   address: 82 PROSPECT TCE ST LUCIA QLD 4067
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187113
   council_reference: A005187113
   date_received: '2019-05-07'
-  description: Dwelling House, Extension, Dwelling House, Demolition
+  description: Dwelling House, Extension
   address: 92 BARLOW ST CLAYFIELD QLD 4011
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187114
   council_reference: A005187114
   date_received: '2019-05-07'
-  description: Short Term Accommodation, Short Term Accommodation
+  description: Short Term Accommodation
   address: 558 KINGSFORD SMITH DR HAMILTON QLD 4007
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187115
   council_reference: A005187115
   date_received: '2019-05-07'
-  description: Road Works and/or Stormwater Drainage, Road Works and/or Stormwater
-    Drainage
+  description: Road Works and/or Stormwater Drainage
   address: 20 HASHIM PL KARAWATHA QLD 4117
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187152
   council_reference: A005187152
   date_received: '2019-05-07'
-  description: Signs and Line Marking for Major Roads, Signs and Line Marking for
-    Major Roads
+  description: Signs and Line Marking for Major Roads
   address: 20 HASHIM PL KARAWATHA QLD 4117
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187159
   council_reference: A005187159
   date_received: '2019-05-07'
-  description: Multi-Unit Dwelling, Multi-Unit Dwelling
+  description: Multi-Unit Dwelling
   address: 8 BESHAM PDE WYNNUM QLD 4178
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187160
@@ -2274,7 +2204,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187207
   council_reference: A005187207
   date_received: '2019-05-07'
-  description: Demolition, Dwelling House, Extension, Dwelling House
+  description: Demolition, Dwelling House
   address: 38 VICTORIA ST KELVIN GROVE QLD 4059
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187304
@@ -2305,7 +2235,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187499
   council_reference: A005187499
   date_received: '2019-05-08'
-  description: Extension, Dwelling House, Amenity and aesthetics, Design and siting
+  description: Extension, Dwelling House
   address: 16 BEESTON ST TENERIFFE QLD 4005
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187514
@@ -2317,19 +2247,19 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187516
   council_reference: A005187516
   date_received: '2019-05-08'
-  description: Multiple Dwelling, Multiple Dwelling
+  description: Multiple Dwelling
   address: 472 MAIN ST KANGAROO POINT QLD 4169
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187543
   council_reference: A005187543
   date_received: '2019-05-08'
-  description: Child Care Centre, Child Care Centre
+  description: Child Care Centre
   address: 11 MOORDALE ST CHAPEL HILL QLD 4069
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187566
   council_reference: A005187566
   date_received: '2019-05-08'
-  description: Demolition, Dwelling House, Extension, Dwelling House, Extension
+  description: Demolition, Dwelling House
   address: 36 HARRISON ST BULIMBA QLD 4171
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187567
@@ -2365,7 +2295,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187681
   council_reference: A005187681
   date_received: '2019-05-08'
-  description: ''
+  description: 
   address: 274 RIDING RD BALMORAL QLD 4171
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187687
@@ -2383,7 +2313,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187707
   council_reference: A005187707
   date_received: '2019-05-08'
-  description: Service Station, Service Station
+  description: Service Station
   address: 17 PETAL ST HEMMANT QLD 4174
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187714
@@ -2407,7 +2337,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187829
   council_reference: A005187829
   date_received: '2019-05-08'
-  description: Standard Format Plan, Standard Format Plan
+  description: Standard Format Plan
   address: 60 MAUGHAN ST CARINA HEIGHTS QLD 4152
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187865
@@ -2449,14 +2379,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188096
   council_reference: A005188096
   date_received: '2019-05-09'
-  description: Multi-Unit Dwelling, Subdivision of Land, Access Easement, Multi-Unit
-    Dwelling, Multi-Unit Dwelling, Multi-Unit Dwelling
+  description: Multi-Unit Dwelling
   address: 42 SIZER ST EVERTON PARK QLD 4053
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188129
   council_reference: A005188129
   date_received: '2019-05-09'
-  description: Dwelling House, Extension, Amenity and aesthetics
+  description: Dwelling House, Extension
   address: 32 GLENROSA RD RED HILL QLD 4059
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188145
@@ -2468,7 +2397,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188149
   council_reference: A005188149
   date_received: '2019-05-09'
-  description: Dwelling House, Dwelling House, Filling and/or Excavation
+  description: Dwelling House
   address: 125 KING AVE WILLAWONG QLD 4110
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188168
@@ -2486,9 +2415,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188184
   council_reference: A005188184
   date_received: '2019-05-09'
-  description: Demolition, Heritage Place (LHP), Shop, Food and Drink Outlet, Function
-    Facility, Health Care Service, Hotel, Indoor Sport and Recreation, Office, Research
-    and Technology Industry, Service Industry, Multiple Dwelling
+  description: Demolition, Heritage Place (LHP)
   address: 14 MAUD ST NEWSTEAD QLD 4006
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188216
@@ -2530,14 +2457,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188389
   council_reference: A005188389
   date_received: '2019-05-09'
-  description: Subdivision of Land, Dwelling House, Amenity and aesthetics, Design
-    and siting, Flood hazard area
+  description: Subdivision of Land
   address: 30 HALDANE ST GRACEVILLE QLD 4075
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188392
   council_reference: A005188392
   date_received: '2019-05-09'
-  description: Multiple Dwelling, Multiple Dwelling
+  description: Multiple Dwelling
   address: 24 GRAYS RD HAMILTON QLD 4007
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188405
@@ -2573,7 +2499,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188608
   council_reference: A005188608
   date_received: '2019-05-10'
-  description: Dwelling House, Dwelling House
+  description: Dwelling House
   address: 80 KAMALA DR PULLENVALE QLD 4069
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188616
@@ -2585,13 +2511,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188644
   council_reference: A005188644
   date_received: '2019-05-10'
-  description: Extension, Dwelling House, Amenity and aesthetics
+  description: Extension, Dwelling House
   address: 41A CHARLOTTE ST PADDINGTON QLD 4064
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188652
   council_reference: A005188652
   date_received: '2019-05-10'
-  description: Extension, Dwelling House, Amenity and aesthetics, Design and siting
+  description: Extension, Dwelling House
   address: 43 PATTERSON ST WYNNUM WEST QLD 4178
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188675
@@ -2615,7 +2541,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188706
   council_reference: A005188706
   date_received: '2019-05-10'
-  description: Dwelling House, Dwelling House, Subdivision of Land, Amenity and aesthetics
+  description: Dwelling House
   address: 50 SHETLAND ST MORNINGSIDE QLD 4170
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188714
@@ -2639,14 +2565,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188735
   council_reference: A005188735
   date_received: '2019-05-10'
-  description: Extension, Low Impact Industry, Flood hazard area
+  description: Extension, Low Impact Industry
   address: 496 BILSEN RD GEEBUNG QLD 4034
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188748
   council_reference: A005188748
   date_received: '2019-05-10'
-  description: Dwelling House, Dwelling House, Amenity and aesthetics, Design and
-    siting
+  description: Dwelling House
   address: 167 MELVILLE TCE MANLY QLD 4179
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188767
@@ -2664,8 +2589,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188780
   council_reference: A005188780
   date_received: '2019-05-10'
-  description: Dwelling House, Extension, Subdivision of Land, Dwelling House, Demolition,
-    Dwelling House
+  description: Dwelling House, Extension
   address: 26 MERTON RD WOOLLOONGABBA QLD 4102
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188801
@@ -2695,7 +2619,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188812
   council_reference: A005188812
   date_received: '2019-05-10'
-  description: Dwelling House - over 9.5m, Dwelling House
+  description: Dwelling House - over 9.5m
   address: 880 GRANDVIEW RD UPPER BROOKFIELD QLD 4069
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188825
@@ -2707,7 +2631,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191025
   council_reference: A005191025
   date_received: '2019-05-13'
-  description: Extension, Dwelling House, Amenity and aesthetics
+  description: Extension, Dwelling House
   address: 55 FERGUSON RD CAMP HILL QLD 4152
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191053
@@ -2719,7 +2643,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191076
   council_reference: A005191076
   date_received: '2019-05-13'
-  description: Dwelling House, Design and siting, Amenity and aesthetics
+  description: Dwelling House
   address: 28 KILBURN ST CHERMSIDE QLD 4032
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191091
@@ -2731,20 +2655,19 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191100
   council_reference: A005191100
   date_received: '2019-05-13'
-  description: House in DCP - Demolition, Single Unit Dwelling, Multi-Unit Dwelling,
-    Single Unit Dwelling, Multi-Unit Dwelling, Subdivision of Land
+  description: House in DCP - Demolition
   address: 26 LEVER ST ALBION QLD 4010
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191105
   council_reference: A005191105
   date_received: '2019-05-13'
-  description: Extension, Dwelling House, Amenity and aesthetics, Design and siting
+  description: Extension, Dwelling House
   address: 90 CUNNINGHAM ST TARINGA QLD 4068
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191127
   council_reference: A005191127
   date_received: '2019-05-13'
-  description: Child Care Facility, Child Care Facility
+  description: Child Care Facility
   address: 82 BROOKFIELD RD KENMORE HILLS QLD 4069
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191128
@@ -2756,15 +2679,13 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191154
   council_reference: A005191154
   date_received: '2019-05-13'
-  description: Dwelling House, Heritage Place (LHP), Heritage Place (LHP), Dwelling
-    House, Dwelling House, Heritage Place - Extension, Local heritage place, Heritage
-    Place (LHP)
+  description: Dwelling House, Heritage Place (LHP)
   address: 55 ROSE ST WOOLOOWIN QLD 4030
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191251
   council_reference: A005191251
   date_received: '2019-05-13'
-  description: Dwelling House, Dwelling House
+  description: Dwelling House
   address: 400 GOLD CREEK RD BROOKFIELD QLD 4069
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191272
@@ -2776,8 +2697,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191309
   council_reference: A005191309
   date_received: '2019-05-13'
-  description: Medium Impact Industry, Medium Impact Industry, Medium Impact Industry,
-    Medium Impact Industry
+  description: Medium Impact Industry
   address: 33 GOODMAN PL MURARRIE QLD 4172
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191339
@@ -2789,7 +2709,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191384
   council_reference: A005191384
   date_received: '2019-05-13'
-  description: Extension, Dwelling House, Amenity and aesthetics
+  description: Extension, Dwelling House
   address: 16 GRAHAM ST ALDERLEY QLD 4051
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191388
@@ -2807,8 +2727,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191398
   council_reference: A005191398
   date_received: '2019-05-13'
-  description: Dwelling House, Demolition, Dwelling House, Subdivision of Land, Dwelling
-    House, Dwelling House, Amenity and aesthetics, Flood hazard area
+  description: Dwelling House, Demolition
   address: 92 NORMAN AVE NORMAN PARK QLD 4170
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191413
@@ -2826,8 +2745,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191443
   council_reference: A005191443
   date_received: '2019-05-13'
-  description: Dwelling House, Dwelling House, Subdivision of Land, Amenity and aesthetics,
-    Design and siting
+  description: Dwelling House
   address: 43 BOOLIGAL ST CARINA QLD 4152
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191448
@@ -2851,22 +2769,19 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191463
   council_reference: A005191463
   date_received: '2019-05-13'
-  description: Dwelling House, Dual Occupancy, Dwelling House, Dual Occupancy, Subdivision
-    of Land
+  description: Dwelling House
   address: 144 YORK ST NUNDAH QLD 4012
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191490
   council_reference: A005191490
   date_received: '2019-05-13'
-  description: Dwelling House, Extension, Dwelling House, Demolition, Amenity and
-    aesthetics
+  description: Dwelling House, Extension
   address: 75 WARBURTON ST BARDON QLD 4065
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191702
   council_reference: A005191702
   date_received: '2019-05-14'
-  description: Multi-Unit Dwelling, Office, Multi-Unit Dwelling, Office, Multi-Unit
-    Dwelling
+  description: Multi-Unit Dwelling, Office
   address: 28 ROBERTSON ST FORTITUDE VALLEY QLD 4006
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191722
@@ -2878,8 +2793,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191741
   council_reference: A005191741
   date_received: '2019-05-14'
-  description: Extension, Dwelling House, Demolition, Amenity and aesthetics, Design
-    and siting
+  description: Extension, Dwelling House
   address: 5 MOREE ST KEDRON QLD 4031
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191792
@@ -2891,7 +2805,7 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191829
   council_reference: A005191829
   date_received: '2019-05-14'
-  description: Dwelling House, Demolition
+  description: Dwelling House
   address: 88 COOPERS CAMP RD BARDON QLD 4065
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191839
@@ -2910,43 +2824,43 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191959
   council_reference: A005191959
   date_received: '2019-05-14'
-  description: Dwelling House, Extension, Amenity and aesthetics, Design and siting
+  description: Dwelling House, Extension
   address: 310 HARCOURT ST TENERIFFE QLD 4005
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191980
   council_reference: A005191980
   date_received: '2019-05-14'
-  description: Dwelling House, Dwelling House
+  description: Dwelling House
   address: 12 QUANDONG ST ASHGROVE QLD 4060
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191997
   council_reference: A005191997
   date_received: '2019-05-14'
-  description: Extension, Centre Activity, Extension, Centre Activity Within Centre
+  description: Extension, Centre Activity
   address: 37 BIRKIN RD BELLBOWRIE QLD 4070
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005192014
   council_reference: A005192014
   date_received: '2019-05-14'
-  description: Subdivision of Land, Dwelling House, Extension
+  description: Subdivision of Land
   address: 20 BAILEY ST NEW FARM QLD 4005
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005192015
   council_reference: A005192015
   date_received: '2019-05-14'
-  description: Dwelling House, Extension, Dwelling House, Subdivision of Land
+  description: Dwelling House, Extension
   address: 19 FLORENCE ST ANNERLEY QLD 4103
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005192046
   council_reference: A005192046
   date_received: '2019-05-14'
-  description: ''
+  description: 
   address: 74 DUNHILL CRES MORNINGSIDE QLD 4170
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005192063
   council_reference: A005192063
   date_received: '2019-05-14'
-  description: Dwelling House, Dwelling House
+  description: Dwelling House
   address: 469 HAVEN RD UPPER BROOKFIELD QLD 4069
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005192077
@@ -2958,7 +2872,6 @@
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005192089
   council_reference: A005192089
   date_received: '2019-05-14'
-  description: Dwelling House, Extension, Dwelling House, Demolition, Amenity and
-    aesthetics
+  description: Dwelling House, Extension
   address: 30 MAGDALA ST ASCOT QLD 4007
   date_scraped: '2019-05-14'

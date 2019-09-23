@@ -622,7 +622,7 @@
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540200
   council_reference: BW-2814/2019
   date_received: '2019-04-24'
-  description: Domestic - Dwelling
+  description: Domestic - Dwelling Garage and Alfresco
   address: 15 Cook Lane LOGAN RESERVE QLD 4133
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2540284
@@ -1170,7 +1170,7 @@
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2543046
   council_reference: BW-2998/2019
   date_received: '2019-05-01'
-  description: Domestic - dwelling and garage
+  description: Domestic - Dwelling and Garage
   address: 34 Kuprin Street LOGAN RESERVE QLD 4133
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2543109
@@ -2491,6 +2491,13 @@
   description: Material Change of Use - (Service Station; Car Wash; Food & Drink Outlet)
     and Operational Works (On Premises Sign x 4)
   address: 1601-1621 Waterford Tamborine Road LOGAN VILLAGE QLD 4207
+  date_scraped: '2019-05-14'
+- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2545015
+  council_reference: COM-31/2019
+  date_received: '2019-05-08'
+  description: Combined Application - Reconfiguring a Lot (1 into 44 Lots) and Material
+    Change of Use (Dwelling Houses x34)
+  address: 392 Wuraga Road HOLMVIEW QLD 4207
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2539646
   council_reference: COM-49/2017
@@ -3945,12 +3952,6 @@
   date_received: '2019-05-09'
   description: "*!* Test Application *!*"
   address: LCC ADMINISTRATION CENTRE 150 Wembley Road LOGAN CENTRAL QLD 4114
-  date_scraped: '2019-05-14'
-- info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2537584
-  council_reference: SP-68/2019
-  date_received: '2019-04-15'
-  description: SP306666 Standard Format Plan (1 into 2 lots)
-  address: 64-66 Trudy Crescent CORNUBIA QLD 4130
   date_scraped: '2019-05-14'
 - info_url: http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=2538424
   council_reference: SP-69/2019

@@ -24,6 +24,7 @@ module MasterviewScraper
                   page.at("#lblprop") ||
                   page.at("#lblProperties") ||
                   page.at("#lblProperties1")
+        address = address.inner_text.strip.split("\n")[0].strip.gsub("\r", " ").squeeze(" ")
         details_block = page.at("#lblDetails") || page.at("#lblDetail")
         # Special handling for tables that actually have multiple columns in them.
         if details_block.at("table") && details_block.at("table").at("tr").search("td").count > 1
@@ -40,6 +41,7 @@ module MasterviewScraper
               raise "Unexpected value: #{values[0]}"
             end
           end
+          description = descriptions.join(", ")
         else
           details = details_block.inner_html.split("<br>").map do |detail|
             Pages::Index.strip_html(detail).strip
@@ -48,10 +50,15 @@ module MasterviewScraper
           descriptions = []
           date_received = nil
           details.each do |detail|
-            if detail =~ /^Description: (.*)/ || detail =~ /Activity:(.*)/
+            if detail =~ /^Address : (.*)/
+              address = Regexp.last_match(1)
+            elsif detail =~ /^Description: (.*)/ ||
+                  detail =~ /^Description : (.*)/ ||
+                  detail =~ /Activity:(.*)/
               description = Regexp.last_match(1).squeeze(" ").strip
               descriptions << description if description != ""
-            elsif detail =~ /^Submitted: (.*)/
+            elsif detail =~ /^Submitted: (.*)/ ||
+                  detail =~ /^Date Lodged: (.*)/
               date_received = Regexp.last_match(1)
             elsif detail =~ /Determination Description:/ ||
                   detail =~ /Assessment Level:/ ||
@@ -61,12 +68,12 @@ module MasterviewScraper
               raise "Unexpected detail line: #{detail}"
             end
           end
+          description = descriptions.first
         end
-        description = descriptions.join(", ")
 
         {
           council_reference: council_reference,
-          address: address.inner_text.strip.split("\n")[0].strip.gsub("\r", " ").squeeze(" "),
+          address: address,
           description: description,
           info_url: page.uri.to_s,
           date_received: (Date.strptime(date_received, "%d/%m/%Y").to_s if date_received)
