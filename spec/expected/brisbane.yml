@@ -9,7 +9,7 @@
   council_reference: A005173300
   date_received: '2019-04-15'
   description: Construction Management Plans
-  address: 82 BERRIMA ST WYNNUM QLD 4178
+  address: 75 BRIDE ST WYNNUM QLD 4178
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173303
   council_reference: A005173303
@@ -45,13 +45,13 @@
   council_reference: A005173429
   date_received: '2019-04-15'
   description: Bulk Earthworks
-  address: 107 JANE ST WEST END QLD 4101 (L51/RP10762)
+  address: 113 JANE ST WEST END QLD 4101
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173441
   council_reference: A005173441
   date_received: '2019-04-15'
   description: Multiple Dwelling, Food and Drink Outlet
-  address: 25 SHAFSTON AVE KANGAROO POINT QLD 4169 (L3/SP197072)
+  address: 25 SHAFSTON AVE KANGAROO POINT  QLD  4169 (L3/SP197072)
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173459
   council_reference: A005173459
@@ -96,14 +96,14 @@
   council_reference: A005173521
   date_received: '2019-04-15'
   description: Building Format Plan
-  address: 55 FRANCIS AVE ROCHEDALE QLD 4123
+  address: 281 GARDNER RD ROCHEDALE QLD 4123
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173522
   council_reference: A005173522
   date_received: '2019-04-15'
   description: Hotel, Short Term Accommodation, Restaurant, Multi-Unit Dwelling, Short
     Term Accommodation, Hotel, Multi-Unit Dwelling, Restaurant
-  address: 72 MCLACHLAN ST FORTITUDE VALLEY QLD 4006
+  address: 21 MORGAN ST FORTITUDE VALLEY QLD 4006
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173532
   council_reference: A005173532
@@ -161,7 +161,7 @@
   council_reference: A005173612
   date_received: '2019-04-15'
   description: Stormwater Drainage
-  address: 107 JANE ST WEST END QLD 4101 (L51/RP10762)
+  address: 113 JANE ST WEST END QLD 4101
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173614
   council_reference: A005173614
@@ -195,13 +195,13 @@
   council_reference: A005173632
   date_received: '2019-04-15'
   description: Construction Management Plans
-  address: 4 PROSPECT TCE ST LUCIA QLD 4067
+  address: 8 PROSPECT TCE ST LUCIA QLD 4067
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173639
   council_reference: A005173639
   date_received: '2019-04-15'
   description: Construction Management Plans
-  address: 32 COLMSLIE RD MORNINGSIDE QLD 4170
+  address: 506 LYTTON RD MORNINGSIDE QLD 4170
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173654
   council_reference: A005173654
@@ -225,7 +225,7 @@
   council_reference: A005173688
   date_received: '2019-04-15'
   description: Construction Management Plans
-  address: U 21601 VALLEY HOUSE 167 ALFRED ST FORTITUDE VALLEY QLD 4006
+  address: 211 BRUNSWICK ST FORTITUDE VALLEY QLD 4006
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173690
   council_reference: A005173690
@@ -287,7 +287,7 @@
   council_reference: A005173964
   date_received: '2019-04-16'
   description: Multiple Dwelling
-  address: U 159 ORIANA MARINER'S REACH 45 NEWSTEAD TCE NEWSTEAD QLD 4006
+  address: U 67 ORONSAY MARINER'S REACH 53 NEWSTEAD TCE NEWSTEAD QLD 4006
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173966
   council_reference: A005173966
@@ -299,7 +299,7 @@
   council_reference: A005173987
   date_received: '2019-04-16'
   description: Stormwater Drainage
-  address: 54 PEMBROKE ST CARINA QLD 4152
+  address: 56 PEMBROKE ST CARINA QLD 4152
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005173995
   council_reference: A005173995
@@ -348,7 +348,7 @@
   council_reference: A005174122
   date_received: '2019-04-16'
   description: Subdivision of Land
-  address: 209 RODE RD WAVELL HEIGHTS QLD 4012
+  address: 27 SPENCE RD WAVELL HEIGHTS QLD 4012
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174166
   council_reference: A005174166
@@ -403,7 +403,7 @@
   council_reference: A005174224
   date_received: '2019-04-16'
   description: Landscape Works in Streetscape
-  address: 107 JANE ST WEST END QLD 4101 (L51/RP10762)
+  address: 113 JANE ST WEST END QLD 4101
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174238
   council_reference: A005174238
@@ -464,7 +464,7 @@
   council_reference: A005174556
   date_received: '2019-04-17'
   description: Vegetation Management Plan
-  address: U 9 MAXWELL PLACE 42 MAXWELL ST NEW FARM QLD 4005
+  address: 44 MAXWELL ST NEW FARM QLD 4005
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174572
   council_reference: A005174572
@@ -482,7 +482,7 @@
   council_reference: A005174594
   date_received: '2019-04-17'
   description: Construction Management Plans
-  address: 2203 GYMPIE RD BALD HILLS QLD 4036
+  address: 7 HELLEN ST BALD HILLS QLD 4036
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174596
   council_reference: A005174596
@@ -538,7 +538,7 @@
   council_reference: A005174753
   date_received: '2019-04-17'
   description: Stormwater Drainage
-  address: PART OF L63/64 RP.33284 (Easement A & B on RP178841)
+  address: 62A RODNEY ST WYNNUM WEST QLD 4178
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174755
   council_reference: A005174755
@@ -564,7 +564,7 @@
   date_received: '2019-04-17'
   description: House On Small Lot, House - Extension, House On Small Lot, House -
     Extension
-  address: 10 BRYDON ST HIGHGATE HILL QLD 4101 (L1/SP157449)
+  address: 155 DORNOCH TCE HIGHGATE HILL QLD 4101
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174813
   council_reference: A005174813
@@ -606,7 +606,7 @@
   council_reference: A005174850
   date_received: '2019-04-17'
   description: Stormwater Drainage
-  address: 85 LAXTON RD PALLARA QLD 4110
+  address: 64 VAN DIEREN RD PALLARA QLD 4110
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005174967
   council_reference: A005174967
@@ -681,7 +681,7 @@
   council_reference: A005175225
   date_received: '2019-04-18'
   description: Construction Management Plans
-  address: 134 MERIVALE ST SOUTH BRISBANE QLD 4101
+  address: 74 TRIBUNE ST SOUTH BRISBANE QLD 4101
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005175232
   council_reference: A005175232
@@ -755,7 +755,7 @@
   council_reference: A005175341
   date_received: '2019-04-18'
   description: Retirement Facility
-  address: 14 BUNA ST CHERMSIDE QLD 4032
+  address: 53 KURAN ST CHERMSIDE QLD 4032
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005175358
   council_reference: A005175358
@@ -804,7 +804,7 @@
   council_reference: A005175416
   date_received: '2019-04-18'
   description: Multiple Dwelling
-  address: 75 SUSSEX RD ACACIA RIDGE QLD 4110
+  address: 79 SUSSEX RD ACACIA RIDGE QLD 4110
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005175430
   council_reference: A005175430
@@ -886,7 +886,7 @@
     Medium Impact Industry, Parking Station, Renewable Energy Facility, Research and
     Technology Industry, Service Industry, Service Station, Shop, Warehouse, Medium
     Impact Industry, Medium Impact Industry, Medium Impact Industry
-  address: 80 MCROYLE ST WACOL QLD 4076
+  address: 498 PROGRESS RD WACOL QLD 4076
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005178850
   council_reference: A005178850
@@ -910,7 +910,7 @@
   council_reference: A005178880
   date_received: '2019-04-23'
   description: Building Format Plan
-  address: 10 STUART ST BULIMBA QLD 4171
+  address: 8 STUART ST BULIMBA QLD 4171
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005178881
   council_reference: A005178881
@@ -965,7 +965,7 @@
   council_reference: A005179002
   date_received: '2019-04-23'
   description: Multiple Dwelling, Multiple Dwelling
-  address: 49 PAYNE ST INDOOROOPILLY QLD 4068
+  address: 53 PAYNE ST INDOOROOPILLY QLD 4068
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179057
   council_reference: A005179057
@@ -1008,7 +1008,7 @@
   council_reference: A005179092
   date_received: '2019-04-23'
   description: Subdivision of Land
-  address: 1A BOOLONG ST TINGALPA QLD 4173
+  address: 549 WONDALL RD TINGALPA QLD 4173
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179093
   council_reference: A005179093
@@ -1026,7 +1026,7 @@
   council_reference: A005179130
   date_received: '2019-04-23'
   description: Subdivision of Land
-  address: 104 GYMPIE ST NORTHGATE QLD 4013
+  address: 108 GYMPIE ST NORTHGATE QLD 4013
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179246
   council_reference: A005179246
@@ -1057,7 +1057,7 @@
   council_reference: A005179264
   date_received: '2019-04-24'
   description: Multiple Dwelling, Multiple Dwelling
-  address: 113 YORK ST NUNDAH QLD 4012
+  address: 115 YORK ST NUNDAH QLD 4012
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005179273
   council_reference: A005179273
@@ -1311,7 +1311,7 @@
   council_reference: A005180172
   date_received: '2019-04-26'
   description: Vegetation Management Plan
-  address: 181 RITCHIE RD PALLARA QLD 4110
+  address: 24 VAN DIEREN RD PALLARA QLD 4110
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180179
   council_reference: A005180179
@@ -1329,13 +1329,13 @@
   council_reference: A005180218
   date_received: '2019-04-26'
   description: Subdivision of Land, Subdivision of Land, Subdivision of Land
-  address: 101 FALKLAND ST W HEATHWOOD QLD 4110
+  address: 111 FALKLAND ST W HEATHWOOD QLD 4110
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180224
   council_reference: A005180224
   date_received: '2019-04-26'
   description: Filling and/or Excavation
-  address: 181 RITCHIE RD PALLARA QLD 4110
+  address: 24 VAN DIEREN RD PALLARA QLD 4110
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180235
   council_reference: A005180235
@@ -1347,7 +1347,7 @@
   council_reference: A005180242
   date_received: '2019-04-26'
   description: Traffic Functional Layout for Major Roads
-  address: 181 RITCHIE RD PALLARA QLD 4110
+  address: 24 VAN DIEREN RD PALLARA QLD 4110
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180249
   council_reference: A005180249
@@ -1359,7 +1359,7 @@
   council_reference: A005180255
   date_received: '2019-04-26'
   description: Road Works and/or Stormwater Drainage
-  address: 181 RITCHIE RD PALLARA QLD 4110
+  address: 24 VAN DIEREN RD PALLARA QLD 4110
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180260
   council_reference: A005180260
@@ -1377,13 +1377,13 @@
   council_reference: A005180281
   date_received: '2019-04-26'
   description: Signs and Line Marking for Signalised Intersections
-  address: 181 RITCHIE RD PALLARA QLD 4110
+  address: 24 VAN DIEREN RD PALLARA QLD 4110
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005180291
   council_reference: A005180291
   date_received: '2019-04-26'
   description: Site Based Stormwater Quality Management Plan
-  address: 181 RITCHIE RD PALLARA QLD 4110
+  address: 24 VAN DIEREN RD PALLARA QLD 4110
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182259
   council_reference: A005182259
@@ -1420,7 +1420,7 @@
   council_reference: A005182339
   date_received: '2019-04-29'
   description: Multiple Dwelling, Subdivision of Land, Multiple Dwelling
-  address: 14 ALLEN ST HAMILTON QLD 4007
+  address: 18 ALLEN ST HAMILTON QLD 4007
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182341
   council_reference: A005182341
@@ -1487,7 +1487,7 @@
   council_reference: A005182532
   date_received: '2019-04-29'
   description: Building Format Plan
-  address: U 21601 VALLEY HOUSE 167 ALFRED ST FORTITUDE VALLEY QLD 4006
+  address: 211 BRUNSWICK ST FORTITUDE VALLEY QLD 4006
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182563
   council_reference: A005182563
@@ -1530,7 +1530,7 @@
   council_reference: A005182644
   date_received: '2019-04-29'
   description: Building Format Plan
-  address: U 21601 VALLEY HOUSE 167 ALFRED ST FORTITUDE VALLEY QLD 4006
+  address: 191 BRUNSWICK ST FORTITUDE VALLEY QLD 4006
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182663
   council_reference: A005182663
@@ -1554,7 +1554,7 @@
   council_reference: A005182862
   date_received: '2019-04-30'
   description: Construction Management Plans
-  address: 13 MANNING ST SOUTH BRISBANE QLD 4101
+  address: 17 MANNING ST SOUTH BRISBANE QLD 4101
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182863
   council_reference: A005182863
@@ -1572,7 +1572,7 @@
   council_reference: A005182921
   date_received: '2019-04-30'
   description: Building Format Plan
-  address: 11 PRIORY ST INDOOROOPILLY QLD 4068
+  address: 13 PRIORY ST INDOOROOPILLY QLD 4068
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182933
   council_reference: A005182933
@@ -1585,7 +1585,7 @@
   council_reference: A005182986
   date_received: '2019-04-30'
   description: Multiple Dwelling
-  address: 186 CLARENCE RD INDOOROOPILLY QLD 4068
+  address: 23 LAMBERT RD INDOOROOPILLY QLD 4068
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183002
   council_reference: A005183002
@@ -1622,7 +1622,7 @@
   date_received: '2019-04-30'
   description: Multi-Unit Dwelling, Multi-Unit Dwelling, Multi-Unit Dwelling, Multi-Unit
     Dwelling
-  address: U 3 MANNING MANOR 21 MANNING ST MILTON QLD 4064
+  address: 31 MANNING ST MILTON QLD 4064
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183133
   council_reference: A005183133
@@ -1658,7 +1658,7 @@
   council_reference: A005183362
   date_received: '2019-05-01'
   description: Traffic Functional Layout for Major Roads
-  address: 2203 GYMPIE RD BALD HILLS QLD 4036
+  address: 7 HELLEN ST BALD HILLS QLD 4036
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183409
   council_reference: A005183409
@@ -1871,7 +1871,7 @@
   council_reference: A005183890
   date_received: '2019-05-02'
   description: Construction Management Plans
-  address: 255 FIG TREE POCKET RD FIG TREE POCKET QLD 4069
+  address: 261 FIG TREE POCKET RD FIG TREE POCKET QLD 4069
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183905
   council_reference: A005183905
@@ -1889,7 +1889,7 @@
   council_reference: A005183958
   date_received: '2019-05-02'
   description: Child Care Centre
-  address: 51 ARBOR ST FERNY GROVE QLD 4055
+  address: 53 ARBOR ST FERNY GROVE QLD 4055
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183987
   council_reference: A005183987
@@ -1922,7 +1922,7 @@
   council_reference: A005184054
   date_received: '2019-05-02'
   description: Stormwater Drainage
-  address: 102 RITCHIE RD PALLARA QLD 4110
+  address: 72 RITCHIE RD PALLARA QLD 4110
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184097
   council_reference: A005184097
@@ -1935,7 +1935,7 @@
   date_received: '2019-05-02'
   description: Single Unit Dwelling, Single Unit Dwelling, Subdivision of Land, Access
     Easement, Single Unit Dwelling, Single Unit Dwelling, Subdivision of Land
-  address: 196 MUSGRAVE RD RED HILL QLD 4059
+  address: 198 MUSGRAVE RD RED HILL QLD 4059
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184143
   council_reference: A005184143
@@ -2027,7 +2027,7 @@
   council_reference: A005184480
   date_received: '2019-05-03'
   description: Multiple Dwelling, Multiple Dwelling
-  address: 578 SHERWOOD RD SHERWOOD QLD 4075
+  address: 582 SHERWOOD RD SHERWOOD QLD 4075
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184481
   council_reference: A005184481
@@ -2045,14 +2045,14 @@
   council_reference: A005184501
   date_received: '2019-05-03'
   description: Construction Management Plans
-  address: 4 LEIGH ST COORPAROO QLD 4151
+  address: 8 LEIGH ST COORPAROO QLD 4151
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184547
   council_reference: A005184547
   date_received: '2019-05-03'
   description: Subdivision of Land, Subdivision of Land, House On Small Lot, House
     On Small Lot, House On Small Lot, House On Small Lot, Amenity and aesthetics
-  address: 42 TWIGG ST INDOOROOPILLY QLD 4068
+  address: 44 TWIGG ST INDOOROOPILLY QLD 4068
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184611
   council_reference: A005184611
@@ -2121,7 +2121,7 @@
   council_reference: A005184723
   date_received: '2019-05-03'
   description: Stormwater Drainage
-  address: 55 MOLONGA TCE GRACEVILLE QLD 4075
+  address: 59 MOLONGA TCE GRACEVILLE QLD 4075
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184732
   council_reference: A005184732
@@ -2194,7 +2194,7 @@
   council_reference: A005186988
   date_received: '2019-05-07'
   description: Multiple Dwelling, Food and Drink Outlet, Office, Shop
-  address: 66 BAY TCE WYNNUM QLD 4178
+  address: 48 BRIDE ST WYNNUM QLD 4178
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005186997
   council_reference: A005186997
@@ -2212,7 +2212,7 @@
   council_reference: A005187053
   date_received: '2019-05-07'
   description: Construction Management Plans
-  address: U 21601 VALLEY HOUSE 167 ALFRED ST FORTITUDE VALLEY QLD 4006
+  address: 211 BRUNSWICK ST FORTITUDE VALLEY QLD 4006
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187062
   council_reference: A005187062
@@ -2225,7 +2225,7 @@
   date_received: '2019-05-07'
   description: Dwelling House, Dwelling House, Subdivision of Land, Amenity and aesthetics,
     Amenity and aesthetics
-  address: 80 PROSPECT TCE ST LUCIA QLD 4067
+  address: 82 PROSPECT TCE ST LUCIA QLD 4067
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187113
   council_reference: A005187113
@@ -2237,21 +2237,21 @@
   council_reference: A005187114
   date_received: '2019-05-07'
   description: Short Term Accommodation, Short Term Accommodation
-  address: 554 KINGSFORD SMITH DR HAMILTON QLD 4007
+  address: 558 KINGSFORD SMITH DR HAMILTON QLD 4007
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187115
   council_reference: A005187115
   date_received: '2019-05-07'
   description: Road Works and/or Stormwater Drainage, Road Works and/or Stormwater
     Drainage
-  address: 19 HASHIM PL KARAWATHA QLD 4117
+  address: 20 HASHIM PL KARAWATHA QLD 4117
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187152
   council_reference: A005187152
   date_received: '2019-05-07'
   description: Signs and Line Marking for Major Roads, Signs and Line Marking for
     Major Roads
-  address: 19 HASHIM PL KARAWATHA QLD 4117
+  address: 20 HASHIM PL KARAWATHA QLD 4117
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187159
   council_reference: A005187159
@@ -2269,7 +2269,7 @@
   council_reference: A005187169
   date_received: '2019-05-07'
   description: Erosion and Sediment Control
-  address: 19 HASHIM PL KARAWATHA QLD 4117
+  address: 20 HASHIM PL KARAWATHA QLD 4117
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187207
   council_reference: A005187207
@@ -2318,7 +2318,7 @@
   council_reference: A005187516
   date_received: '2019-05-08'
   description: Multiple Dwelling, Multiple Dwelling
-  address: 470 MAIN ST KANGAROO POINT QLD 4169
+  address: 472 MAIN ST KANGAROO POINT QLD 4169
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187543
   council_reference: A005187543
@@ -2342,7 +2342,7 @@
   council_reference: A005187568
   date_received: '2019-05-08'
   description: Construction Management Plans
-  address: U 21601 VALLEY HOUSE 167 ALFRED ST FORTITUDE VALLEY QLD 4006
+  address: 211 BRUNSWICK ST FORTITUDE VALLEY QLD 4006
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187583
   council_reference: A005187583
@@ -2438,7 +2438,7 @@
   council_reference: A005188048
   date_received: '2019-05-09'
   description: Traffic Functional Layout for Major Roads
-  address: 171 ANNERLEY RD DUTTON PARK QLD 4102
+  address: 270 GLADSTONE RD DUTTON PARK QLD 4102
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188071
   council_reference: A005188071
@@ -2532,7 +2532,7 @@
   date_received: '2019-05-09'
   description: Subdivision of Land, Dwelling House, Amenity and aesthetics, Design
     and siting, Flood hazard area
-  address: 28 HALDANE ST GRACEVILLE QLD 4075
+  address: 30 HALDANE ST GRACEVILLE QLD 4075
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188392
   council_reference: A005188392
@@ -2634,7 +2634,7 @@
   council_reference: A005188721
   date_received: '2019-05-10'
   description: Construction Management Plans
-  address: 222A MARGARET ST BRISBANE CITY QLD 4000
+  address: 131 MARY ST BRISBANE CITY QLD 4000
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188735
   council_reference: A005188735
@@ -2653,7 +2653,7 @@
   council_reference: A005188767
   date_received: '2019-05-10'
   description: Construction Management Plans
-  address: 111 BOUNDARY ST WEST END QLD 4101
+  address: 37 MOLLISON ST WEST END QLD 4101
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188776
   council_reference: A005188776
@@ -2690,7 +2690,7 @@
   council_reference: A005188811
   date_received: '2019-05-10'
   description: Construction Management Plans
-  address: 111 BOUNDARY ST WEST END QLD 4101
+  address: 37 MOLLISON ST WEST END QLD 4101
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188812
   council_reference: A005188812
@@ -2802,7 +2802,7 @@
   council_reference: A005191396
   date_received: '2019-05-13'
   description: Filling and/or Excavation
-  address: 41 LUMLEY ST UPPER MOUNT GRAVATT QLD 4122
+  address: 45 LUMLEY ST UPPER MOUNT GRAVATT QLD 4122
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191398
   council_reference: A005191398
@@ -2815,7 +2815,7 @@
   council_reference: A005191413
   date_received: '2019-05-13'
   description: Stormwater Drainage
-  address: 41 LUMLEY ST UPPER MOUNT GRAVATT QLD 4122
+  address: 45 LUMLEY ST UPPER MOUNT GRAVATT QLD 4122
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191426
   council_reference: A005191426
@@ -2886,7 +2886,7 @@
   council_reference: A005191792
   date_received: '2019-05-14'
   description: Standard Format Plan
-  address: 112 BROOKBENT RD PALLARA QLD 4110
+  address: 89 BROOKBENT RD PALLARA QLD 4110
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191829
   council_reference: A005191829
@@ -2941,7 +2941,7 @@
   council_reference: A005192046
   date_received: '2019-05-14'
   description: ''
-  address: 70 COLMSLIE RD MORNINGSIDE QLD 4170
+  address: 74 DUNHILL CRES MORNINGSIDE QLD 4170
   date_scraped: '2019-05-14'
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005192063
   council_reference: A005192063

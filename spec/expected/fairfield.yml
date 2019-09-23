@@ -70,13 +70,13 @@
   council_reference: DA - 160.1/2019
   date_received: '2019-04-18'
   description: Construction of a 6 Storey Residential Flat Building & Basement Parkin
-  address: 25 Ascot ST CANLEY HEIGHTS
+  address: 19 Ascot ST CANLEY HEIGHTS
   date_scraped: '2019-05-14'
 - info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000161.001
   council_reference: DA - 161.1/2019
   date_received: '2019-04-23'
   description: Alterations and Additions to the Existing KFC Store
-  address: 8 Alan ST FAIRFIELD
+  address: The Horsley DR FAIRFIELD
   date_scraped: '2019-05-14'
 - info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000162.001
   council_reference: DA - 162.1/2019
@@ -100,12 +100,12 @@
   council_reference: DA - 165.1/2019
   date_received: '2019-04-24'
   description: Construction of a Building to the Community Recycling Centre
-  address: 191 Hassall ST WETHERILL PARK
+  address: 2 Widemere RD WETHERILL PARK
   date_scraped: '2019-05-14'
 - info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000166.001
   council_reference: DA - 166.1/2019
   date_received: '2019-04-24'
-  description: 'Unit 9: Change of Use of Unit 9B to be used as a Licensed Restaurant'
+  description: 'Unit 9:  Change of Use of Unit 9B to be used as a Licensed Restaurant'
   address: 1183-1187 The Horsley DR WETHERILL PARK
   date_scraped: '2019-05-14'
 - info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000167.001
@@ -117,14 +117,14 @@
 - info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000168.001
   council_reference: DA - 168.1/2019
   date_received: '2019-04-26'
-  description: 'Shops 6, 7 & 8: Fitout & Use of Premises for a 24-hour Gymnasium'
+  description: 'Shops 6, 7 & 8:  Fitout & Use of Premises for a 24-hour Gymnasium'
   address: 37 Bonnyrigg AVE BONNYRIGG
   date_scraped: '2019-05-14'
 - info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000169.001
   council_reference: DA - 169.1/2019
   date_received: '2019-04-29'
   description: 'Shops 1 & 2: Fitout and Use of Premises for a Cafe with Outdoor Dining'
-  address: 27A Harris ST FAIRFIELD
+  address: 27 Harris ST FAIRFIELD
   date_scraped: '2019-05-14'
 - info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000170.001
   council_reference: DA - 170.1/2019
@@ -155,13 +155,13 @@
   council_reference: DA - 174.1/2019
   date_received: '2019-04-30'
   description: Recreational Facility - Gymnasium
-  address: 3/30 Elizabeth ST WETHERILL PARK
+  address: 4/40 Elizabeth ST WETHERILL PARK
   date_scraped: '2019-05-14'
 - info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000175.001
   council_reference: DA - 175.1/2019
   date_received: '2019-05-01'
   description: Use of an Dwelling as a Boarding House
-  address: 33 Bareena ST CANLEY VALE
+  address: 33B Bareena ST CANLEY VALE
   date_scraped: '2019-05-14'
 - info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000176.001
   council_reference: DA - 176.1/2019
@@ -222,7 +222,7 @@
   council_reference: DA - 185.1/2019
   date_received: '2019-05-10'
   description: Detached Single Storey Secondary Dwelling
-  address: 9 Farningham ST MT PRITCHARD
+  address: 9A Farningham ST MOUNT PRITCHARD
   date_scraped: '2019-05-14'
 - info_url: https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster/default.aspx?page=wrapper&key=010.2019.00000186.001
   council_reference: DA - 186.1/2019

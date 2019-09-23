@@ -491,7 +491,7 @@
   date_received: '2019-04-26'
   description: Alterations and Additions to Unit 11 and 12 for Use as Recreation Facility
     (Indoor) – Gymnasium
-  address: 35 Cumberland Av, SOUTH NOWRA35 Cumberland Av, SOUTH NOWRA, NSW
+  address: 35 Cumberland Av, SOUTH NOWRA<br>35 Cumberland Av, SOUTH NOWRA, NSW
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124419&propkey=24974
   council_reference: DA19/1399
@@ -761,7 +761,7 @@
   date_received: '2019-05-10'
   description: Construction of Business Premises (Car Wash Facility) and Installation
     of Business Identification Signage
-  address: 271 Princes Hwy, BOMADERRYPrinces Hwy, BOMADERRY, NSW
+  address: 271 Princes Hwy, BOMADERRY<br>Princes Hwy, BOMADERRY, NSW
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124740&propkey=3156
   council_reference: DA19/1447
@@ -990,7 +990,7 @@
   date_received: '2019-04-29'
   description: Application to Modify DA Consent to Extend Period of Approval for Two
     Years - In-Principle Rural Dwelling Envelope
-  address: Pointer Rd, POINTER MOUNTAINPointer Rd, POINTER MOUNTAIN, NSW
+  address: Pointer Rd, POINTER MOUNTAIN<br>Pointer Rd, POINTER MOUNTAIN, NSW
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124432&propkey=76096
   council_reference: DS19/1171
@@ -1231,14 +1231,14 @@
   council_reference: SF10737
   date_received: '2019-04-24'
   description: Boundary adjustment
-  address: 90 Mullers Lane, BERRY90B Mullers Lane, BERRY, NSW
+  address: 90 Mullers Lane, BERRY<br>90B Mullers Lane, BERRY, NSW
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124390&propkey=119595
   council_reference: SF10738
   date_received: '2019-04-24'
   description: Proposed subdivision over 4 lots to create 7 lots
-  address: 11 Discovery Pl, SHOALHAVEN HEADS13 Discovery Pl, SHOALHAVEN HEADS15 Discovery
-    Pl, SHOALHAVEN HEADS9 Discovery Pl, SHOALHAVEN HEADS, NSW
+  address: 11 Discovery Pl, SHOALHAVEN HEADS<br>13 Discovery Pl, SHOALHAVEN HEADS<br>15
+    Discovery Pl, SHOALHAVEN HEADS<br>9 Discovery Pl, SHOALHAVEN HEADS, NSW
   date_scraped: '2019-05-14'
 - info_url: http://www3.shoalhaven.nsw.gov.au/masterviewUI/modules/ApplicationMaster/default.aspx?page=wrapper&key=124408&propkey=119276
   council_reference: SF10739

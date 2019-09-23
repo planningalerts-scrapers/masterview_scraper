@@ -18,6 +18,7 @@ module MasterviewScraper
       def self.scrape_old_version(page)
         council_reference = page.at("#ctl03_lblHead") ||
                             page.at("#ctl00_cphContent_ctl00_lblApplicationHeader")
+        council_reference = council_reference.inner_text.split(" ")[0] if council_reference
         address = page.at("#lblLand") ||
                   page.at("#lblProp") ||
                   page.at("#lblprop") ||
@@ -25,7 +26,19 @@ module MasterviewScraper
         details_block = page.at("#lblDetails") || page.at("#lblDetail")
         # Special handling for tables that actually have multiple columns in them.
         if details_block.at("table") && details_block.at("table").at("tr").search("td").count > 1
-          raise "TODO: Implement special handling for table"
+          descriptions = []
+          details_block.search("table tr").each do |tr|
+            values = tr.search("td").map(&:inner_text)
+            if values[0] == "Application No."
+              council_reference = values[1]
+            elsif values[0] == "Description"
+              descriptions << values[1]
+            elsif values[0] == "Submitted Date"
+              date_received = values[1]
+            else
+              raise "Unexpected value: #{values[0]}"
+            end
+          end
         else
           details = details_block.inner_html.split("<br>").map do |detail|
             Pages::Index.strip_html(detail).strip
@@ -47,11 +60,11 @@ module MasterviewScraper
               raise "Unexpected detail line: #{detail}"
             end
           end
-          description = descriptions.join(", ")
         end
+        description = descriptions.join(", ")
 
         {
-          council_reference: (council_reference.inner_text.split(" ")[0] if council_reference),
+          council_reference: council_reference,
           address: address.inner_text.strip.split("\n")[0].strip.gsub("\r", " ").squeeze(" "),
           description: description,
           info_url: page.uri.to_s,

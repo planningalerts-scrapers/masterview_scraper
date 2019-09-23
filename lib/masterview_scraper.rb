@@ -168,11 +168,11 @@ module MasterviewScraper
           end
           detail = Pages::Detail.scrape(info_page)
           record[:info_url] = detail[:info_url]
-          # Use the council_reference and date_received from the index page whenever we can
+          # Use the council_reference, date_received and address from the index page whenever we can
           record[:council_reference] = detail[:council_reference] if record[:council_reference].nil?
           record[:date_received] = detail[:date_received] if record[:date_received].nil?
           record[:description] = detail[:description]
-          record[:address] = detail[:address]
+          record[:address] = detail[:address] if record[:address].nil?
         end
 
         record[:address] += ", " + state if state

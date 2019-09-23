@@ -55,7 +55,8 @@ module MasterviewScraper
     },
     fairfield: {
       url: "https://openaccess.fairfieldcity.nsw.gov.au/OpenAccess/Modules/Applicationmaster",
-      params: { "4a" => 10, "6" => "F" }
+      params: { "4a" => 10, "6" => "F" },
+      force_detail: true
     },
     fraser_coast: {
       url: "https://pdonline.frasercoast.qld.gov.au/Modules/ApplicationMaster",
