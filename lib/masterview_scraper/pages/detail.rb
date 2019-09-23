@@ -64,6 +64,16 @@ module MasterviewScraper
                   detail =~ /Assessment Level:/ ||
                   detail =~ /Permit:/
               # Do nothing
+            # Only seen this in bundaberg council so far
+            elsif [
+              "Reconfiguring a Lot",
+              "Material Change of Use",
+              "Operational Works",
+              "Combined (MCU, RL, OW)",
+              "Change Application",
+              "Concurrence Agency Assessment"
+            ].include?(detail)
+              # Do nothing
             else
               raise "Unexpected detail line: #{detail}"
             end

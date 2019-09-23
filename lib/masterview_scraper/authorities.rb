@@ -148,7 +148,8 @@ module MasterviewScraper
         "4a" => "333,322,321,324,323,325,521,522,523,524,525,526,527,528,532",
         "6" => "F"
       },
-      state: "QLD"
+      state: "QLD",
+      force_detail: true
     },
     hurstville: {
       url: "http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster",
