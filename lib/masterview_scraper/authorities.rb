@@ -151,14 +151,6 @@ module MasterviewScraper
       state: "QLD",
       force_detail: true
     },
-    hurstville: {
-      url: "http://daenquiry.hurstville.nsw.gov.au/masterviewui/Modules/applicationmaster",
-      params: {
-        "4a" => "DA%27,%27S96Mods%27,%27Mods%27,%27Reviews",
-        "6" => "F"
-      },
-      state: "NSW"
-    },
     wingecarribee: {
       url: "https://datracker.wsc.nsw.gov.au/Modules/applicationmaster",
       params: {
