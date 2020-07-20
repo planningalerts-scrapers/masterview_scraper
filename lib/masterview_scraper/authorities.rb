@@ -82,14 +82,6 @@ module MasterviewScraper
       params: { "5" => "T", "6" => "F" },
       force_detail: true
     },
-    lake_macquarie: {
-      url: "http://apptracking.lakemac.com.au/modules/ApplicationMaster",
-      params: {
-        "4a" => "437",
-        "5" => "T"
-      },
-      force_detail: true
-    },
     logan: {
       url: "http://pdonline.logan.qld.gov.au/MasterViewUI/Modules/ApplicationMaster",
       params: { "6" => "F" },
