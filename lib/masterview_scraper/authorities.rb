@@ -40,14 +40,6 @@ module MasterviewScraper
       force_detail: true,
       timeout: 120
     },
-    bellingen: {
-      url: "http://infomaster.bellingen.nsw.gov.au/MasterViewLive/modules/applicationmaster",
-      params: {
-        "4a" => "DA,CDC,TA,MD",
-        "6" => "F"
-      },
-      force_detail: true
-    },
     brisbane: {
       url: "https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster",
       params: { "6" => "F" },
