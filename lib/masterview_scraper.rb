@@ -41,7 +41,8 @@ module MasterviewScraper
     timeout: nil,
     types: nil,
     # page_size only applies when use_api is true at the moment
-    page_size: 100
+    page_size: 100,
+    australian_proxy: false
   )
     if use_api
       scrape_api_period(
@@ -51,7 +52,8 @@ module MasterviewScraper
         types,
         force_detail,
         timeout,
-        page_size
+        page_size,
+        australian_proxy
       ) do |record|
         yield record
       end
@@ -61,7 +63,8 @@ module MasterviewScraper
         state,
         disable_ssl_certificate_check,
         force_detail,
-        timeout
+        timeout,
+        australian_proxy
       ) do |record|
         yield record
       end
@@ -70,10 +73,16 @@ module MasterviewScraper
 
   def self.scrape_api_period(
     url, disable_ssl_certificate_check, long_council_reference, types,
-    force_detail, timeout, page_size = 100
+    force_detail, timeout, page_size = 100, australian_proxy = false
   )
     agent = Mechanize.new
     agent.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
+    if australian_proxy
+      # On morph.io set the environment variable MORPH_AUSTRALIAN_PROXY to
+      # http://morph:password@au.proxy.oaf.org.au:8888 replacing password with
+      # the real password.
+      agent.agent.set_proxy(ENV["MORPH_AUSTRALIAN_PROXY"])
+    end
     if timeout
       agent.open_timeout = timeout
       agent.read_timeout = timeout
@@ -126,9 +135,15 @@ module MasterviewScraper
 
   # Set state if the address does not already include the state (e.g. NSW, WA, etc..)
   def self.scrape_url(url, state = nil, disable_ssl_certificate_check = false, force_detail = false,
-                      timeout = nil)
+                      timeout = nil, australian_proxy = false)
     agent = Mechanize.new
     agent.verify_mode = OpenSSL::SSL::VERIFY_NONE if disable_ssl_certificate_check
+    if australian_proxy
+      # On morph.io set the environment variable MORPH_AUSTRALIAN_PROXY to
+      # http://morph:password@au.proxy.oaf.org.au:8888 replacing password with
+      # the real password.
+      agent.agent.set_proxy(ENV["MORPH_AUSTRALIAN_PROXY"])
+    end
     if timeout
       agent.open_timeout = timeout
       agent.read_timeout = timeout
