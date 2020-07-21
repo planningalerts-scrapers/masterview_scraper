@@ -123,6 +123,8 @@ module MasterviewScraper
         "4a" => "WLUA,82AReview,CDC,DA,Mods",
         "6" => "F"
       },
+      # Has an incomplete certificate chain. See https://www.ssllabs.com/ssltest/analyze.html?d=datracker.wsc.nsw.gov.au
+      disable_ssl_certificate_check: true,
       force_detail: true
     },
     albury: {
