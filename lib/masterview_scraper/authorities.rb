@@ -126,7 +126,7 @@ module MasterviewScraper
       state: "NSW",
       force_detail: true
     },
-     bundaberg: {
+    bundaberg: {
       url: "https://da.bundaberg.qld.gov.au",
       use_api: true,
       force_detail: true
