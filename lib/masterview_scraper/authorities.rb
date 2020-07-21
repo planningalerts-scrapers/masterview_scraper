@@ -31,15 +31,6 @@ module MasterviewScraper
       use_api: true,
       force_detail: true
     },
-    gladstone: {
-      url: "http://masterview.gladstonerc.qld.gov.au/Modules/ApplicationMaster",
-      params: {
-        "4" => "DevelopApp",
-        "6" => "F"
-      },
-      force_detail: true,
-      timeout: 120
-    },
     brisbane: {
       url: "https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster",
       params: { "6" => "F" },
