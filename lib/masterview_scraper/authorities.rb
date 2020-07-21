@@ -126,13 +126,9 @@ module MasterviewScraper
       state: "NSW",
       force_detail: true
     },
-    bundaberg: {
-      url: "https://da.bundaberg.qld.gov.au/modules/applicationmaster",
-      params: {
-        "4a" => "333,322,321,324,323,325,521,522,523,524,525,526,527,528,532",
-        "6" => "F"
-      },
-      state: "QLD",
+     bundaberg: {
+      url: "https://da.bundaberg.qld.gov.au",
+      use_api: true,
       force_detail: true
     },
     wingecarribee: {
