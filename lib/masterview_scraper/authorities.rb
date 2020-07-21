@@ -54,7 +54,7 @@ module MasterviewScraper
       force_detail: true
     },
     hawkesbury: {
-      url: "https://council.hawkesbury.nsw.gov.au/MasterviewUI/Modules/applicationmaster",
+      url: "https://datrack.hawkesbury.nsw.gov.au/MasterViewUI/Modules/applicationmaster",
       params: { "4a" => "DA", "6" => "F" },
       state: "NSW",
       force_detail: true
